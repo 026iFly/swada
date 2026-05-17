@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "givenName": "iFly",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://raw.githubusercontent.com/026iFly/swada/main/assets/iFly.png"
+    },
+    "motivations": "My motivation to become a DRep comes from my belief in a decentralized future where governance is transparent, data-driven, and inclusive. As a pilot, I am trained to assess risks objectively, make decisions under pressure, and consider both immediate and long-term consequences. Flying has also given me a unique global perspective — I see the world not as isolated regions, but as a connected whole where collaboration is essential.",
+    "objectives": "As a DRep, my goal is to ensure that governance decisions within the Cardano ecosystem are well-informed, transparent, and aligned with long-term sustainability. I believe in a decentralized, community-driven future where every ADA holder has a voice. My focus is on:\n\n* Advocating for initiatives that enhance Cardano's real-world adoption.\n* Supporting projects that promote financial inclusion and blockchain innovation.\n* Ensuring governance decisions are based on factual analysis and community input.\n\nI also operate the SWADA stake pool from Sweden as part of my commitment to a healthy, decentralized validator set.",
+    "qualifications": "These experiences translate well into governance. Risk assessment is crucial in evaluating proposals, ensuring that potential challenges are identified before decisions are made. My ability to remain objective, analyze data, and make sound judgments under uncertainty will allow me to represent the interests of delegators responsibly. I am committed to using this skill set to contribute to a governance system that is both forward-thinking and grounded in real-world considerations.",
+    "paymentAddress": "addr1q856gtlurau0wnrz8nzap22cww32wa77p5mu3vdpywgcshl64zph7c4yajs044l004zhdmutkdgnutqkj3q79my7y9vs948aw5",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "SWADA stake pool",
+        "uri": "https://swada.se"
+      },
+      {
+        "@type": "Link",
+        "label": "SWADA on Cexplorer",
+        "uri": "https://cexplorer.io/pool/pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc"
+      },
+      {
+        "@type": "Link",
+        "label": "Intellishares (blockchain project)",
+        "uri": "https://intellishares.io"
+      },
+      {
+        "@type": "Identity",
+        "label": "LinkedIn — Pelle Stensson",
+        "uri": "https://www.linkedin.com/in/pelle-stensson-ab31b65b/"
+      },
+      {
+        "@type": "Identity",
+        "label": "Facebook — Pelle Stensson",
+        "uri": "https://www.facebook.com/pelle.stenson/"
+      }
+    ]
+  }
+}
