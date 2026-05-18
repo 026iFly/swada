@@ -1,0 +1,42 @@
+name: Update content (news + governance proposals)
+
+on:
+  schedule:
+    # Every hour at minute 7
+    - cron: "7 * * * *"
+  workflow_dispatch: {}      # allow manual trigger from Actions tab
+
+permissions:
+  contents: write             # to commit refreshed data back to main
+
+concurrency:
+  group: update-content
+  cancel-in-progress: false   # let runs queue, don't overlap commits
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run fetch + translate
+        env:
+          AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
+        run: node scripts/fetch-content.mjs
+
+      - name: Commit if data changed
+        run: |
+          git config user.name  "swada-bot"
+          git config user.email "swada-bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No content changes."
+          else
+            git commit -m "data: refresh news + proposals ($(date -u +%FT%TZ))"
+            git push
+          fi

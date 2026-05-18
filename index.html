@@ -26,6 +26,8 @@
       <a href="#stakepool">Stakingpool</a>
       <a href="#midnight">Midnight</a>
       <a href="#drep">DRep</a>
+      <a href="#proposals">Förslag</a>
+      <a href="#news">Nyheter</a>
       <a href="#delegera">Delegera</a>
       <a href="#kontakt">Kontakt</a>
     </nav>
@@ -214,6 +216,28 @@
   </div>
 </section>
 
+<section id="proposals" class="section section-alt">
+  <div class="container">
+    <h2>Aktuella styrningsförslag</h2>
+    <p>Pågående <em>governance actions</em> som DRep:s just nu röstar på. Hämtas direkt från Cardanos huvudkedja via <a href="https://api.koios.rest" target="_blank" rel="noopener">Koios</a> och översätts till svenska automatiskt.</p>
+    <div id="proposals-list" class="feed">
+      <p class="muted feed-loading">Laddar förslag…</p>
+    </div>
+    <p class="feed-meta">Senast uppdaterat <span id="proposals-updated">—</span>. Förslagen visas i ordning efter när de löper ut (närmst först). Vill du se alla aktiva förslag och rösta direkt? Använd <a href="https://gov.tools" target="_blank" rel="noopener">gov.tools</a>.</p>
+  </div>
+</section>
+
+<section id="news" class="section">
+  <div class="container">
+    <h2>Senaste från Cardano-communityn</h2>
+    <p>Ett urval inlägg från Cardano-relaterade forum (Reddit), maskinöversatta till svenska. Klicka för att läsa originalet med diskussion.</p>
+    <div id="news-list" class="feed">
+      <p class="muted feed-loading">Laddar nyheter…</p>
+    </div>
+    <p class="feed-meta">Senast uppdaterat <span id="news-updated">—</span>. Innehåll uppdateras automatiskt varje timme via GitHub Actions.</p>
+  </div>
+</section>
+
 <section id="om" class="section section-alt">
   <div class="container">
     <h2>Bakom SWADA</h2>
@@ -276,6 +300,104 @@
     </div>
   </div>
 </footer>
+
+<script>
+  // Render news + proposals feeds from build-time JSON.
+  const fmtDate = (iso) => {
+    if (!iso) return "";
+    const d = new Date(iso);
+    return d.toLocaleString("sv-SE", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
+  };
+
+  const fmtRelDate = (iso) => {
+    if (!iso) return "";
+    const d = new Date(iso);
+    const sec = Math.floor((Date.now() - d) / 1000);
+    if (sec < 3600) return `${Math.floor(sec / 60)} min sedan`;
+    if (sec < 86400) return `${Math.floor(sec / 3600)} h sedan`;
+    if (sec < 7 * 86400) return `${Math.floor(sec / 86400)} d sedan`;
+    return d.toLocaleDateString("sv-SE", { day: "numeric", month: "short" });
+  };
+
+  const escape = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+  const trimTo = (s, n) => {
+    if (!s) return "";
+    if (s.length <= n) return s;
+    return s.slice(0, n).replace(/\s+\S*$/, "") + "…";
+  };
+
+  function renderNews(items) {
+    if (!items?.length) return '<p class="muted">Inga nyheter att visa just nu.</p>';
+    return items.map((n) => {
+      const title = n.title_sv || n.title_en;
+      const lang = n.title_sv ? "sv" : "en";
+      const summary = trimTo(n.summary_sv || n.summary_en || "", 220);
+      return `
+        <a class="feed-card" href="${escape(n.url)}" target="_blank" rel="noopener">
+          <div class="feed-card-meta">
+            <span class="feed-source">${escape(n.source || "")}</span>
+            <span class="feed-date">${escape(fmtRelDate(n.date))}</span>
+            ${lang === "en" ? '<span class="feed-lang">EN</span>' : ""}
+          </div>
+          <h3 class="feed-title">${escape(title)}</h3>
+          ${summary ? `<p class="feed-summary">${escape(summary)}</p>` : ""}
+          <div class="feed-stats">
+            ${n.score != null ? `<span>↑ ${n.score}</span>` : ""}
+            ${n.comments != null ? `<span>💬 ${n.comments}</span>` : ""}
+          </div>
+        </a>`;
+    }).join("");
+  }
+
+  function renderProposals(items) {
+    if (!items?.length) return '<p class="muted">Inga aktiva förslag.</p>';
+    const typeLabels = {
+      "TreasuryWithdrawals": "Treasury-uttag",
+      "ParameterChange": "Parameterändring",
+      "HardForkInitiation": "Hard fork",
+      "InfoAction": "Informationsåtgärd",
+      "NewConstitution": "Ny konstitution",
+      "NoConfidence": "Misstroende",
+      "NewCommittee": "Ny kommitté",
+    };
+    return items.map((p) => {
+      const title = p.title_sv || p.title_en;
+      const lang = p.title_sv ? "sv" : "en";
+      const summary = trimTo(p.summary_sv || p.summary_en || "", 260);
+      const typeLabel = typeLabels[p.type] || p.type;
+      return `
+        <a class="feed-card proposal-card" href="${escape(p.url)}" target="_blank" rel="noopener">
+          <div class="feed-card-meta">
+            <span class="feed-source proposal-type">${escape(typeLabel)}</span>
+            <span class="feed-date">Löper ut e${escape(p.expiration_epoch)}</span>
+            ${lang === "en" ? '<span class="feed-lang">EN</span>' : ""}
+          </div>
+          <h3 class="feed-title">${escape(title)}</h3>
+          ${summary ? `<p class="feed-summary">${escape(summary)}</p>` : ""}
+          ${p.deposit_ada ? `<div class="feed-stats"><span>Deposit: ${p.deposit_ada.toLocaleString("sv-SE")} ₳</span></div>` : ""}
+        </a>`;
+    }).join("");
+  }
+
+  async function loadFeed(file, target, updatedTarget, renderer) {
+    try {
+      const r = await fetch(file, { cache: "no-cache" });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const j = await r.json();
+      document.getElementById(target).innerHTML = renderer(j.items || []);
+      if (j.fetched_at) {
+        document.getElementById(updatedTarget).textContent = fmtDate(j.fetched_at);
+      }
+    } catch (e) {
+      document.getElementById(target).innerHTML =
+        `<p class="muted">Kunde inte ladda innehållet (${escape(e.message)}).</p>`;
+    }
+  }
+
+  loadFeed("/data/proposals.json", "proposals-list", "proposals-updated", renderProposals);
+  loadFeed("/data/news.json", "news-list", "news-updated", renderNews);
+</script>
 
 </body>
 </html>

@@ -421,9 +421,110 @@ footer {
   color: rgba(255,255,255,0.55);
 }
 
+/* ===== FEEDS (news + proposals) ===== */
+.feed {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 18px;
+  margin: 28px 0 16px;
+}
+.feed-loading {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 32px;
+  color: var(--muted);
+}
+.feed-card {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--text);
+  transition: transform 0.12s, box-shadow 0.15s, border-color 0.15s;
+}
+.feed-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 32px rgba(0, 51, 173, 0.1);
+  border-color: var(--turquoise);
+}
+.feed-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+}
+.feed-source {
+  background: rgba(0, 51, 173, 0.08);
+  color: var(--cardano-blue);
+  padding: 3px 9px;
+  border-radius: 6px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.proposal-card .proposal-type {
+  background: rgba(45, 216, 183, 0.15);
+  color: var(--turquoise-deep);
+}
+.feed-date {
+  color: var(--muted);
+}
+.feed-lang {
+  margin-left: auto;
+  background: var(--swedish-yellow);
+  color: var(--cardano-deep);
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+.feed-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--cardano-deep);
+  margin: 4px 0 0;
+}
+.feed-card:hover .feed-title { color: var(--cardano-blue); }
+.feed-summary {
+  font-size: 0.92rem;
+  color: #404757;
+  margin: 0;
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.feed-stats {
+  display: flex;
+  gap: 14px;
+  font-size: 0.84rem;
+  color: var(--muted);
+  margin-top: auto;
+  padding-top: 4px;
+}
+.feed-meta {
+  font-size: 0.86rem;
+  color: var(--muted);
+  margin-top: 18px !important;
+}
+.proposal-card {
+  border-left: 3px solid var(--turquoise);
+}
+.section-alt .feed-card {
+  background: var(--bg);
+}
+
 @media (max-width: 640px) {
   .nav nav { display: none; }
   .hero { padding: 80px 24px 70px; }
   .section { padding: 64px 0; }
   .step { padding-left: 80px; }
+  .feed { grid-template-columns: 1fr; }
 }
