@@ -160,6 +160,41 @@ async function fetchAdaPulse(limit = 5) {
   return items;
 }
 
+// --- pool live stats (Koios pool_info + pool_history) ---------------------
+const POOL_ID_BECH32 = "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc";
+
+async function fetchPoolStats() {
+  const infoResp = await fetch("https://api.koios.rest/api/v1/pool_info", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "User-Agent": UA },
+    body: JSON.stringify({ _pool_bech32_ids: [POOL_ID_BECH32] }),
+  });
+  if (!infoResp.ok) throw new Error(`pool_info: ${infoResp.status}`);
+  const infoList = await infoResp.json();
+  const i = infoList[0] || {};
+  const summary = {
+    pool_id_bech32: i.pool_id_bech32 || POOL_ID_BECH32,
+    active_stake: i.active_stake,
+    live_stake: i.live_stake,
+    live_pledge: i.live_pledge,
+    live_delegators: i.live_delegators,
+    live_saturation: i.live_saturation,
+    block_count: i.block_count,
+    op_cert_counter: i.op_cert_counter,
+    sigma: i.sigma,
+    pool_status: i.pool_status,
+  };
+
+  const histResp = await fetch(
+    `https://api.koios.rest/api/v1/pool_history?_pool_bech32=${POOL_ID_BECH32}&order=epoch_no.desc&limit=10`,
+    { headers: { "User-Agent": UA } },
+  );
+  if (!histResp.ok) throw new Error(`pool_history: ${histResp.status}`);
+  const epochs = await histResp.json();
+
+  return { summary, epochs };
+}
+
 // --- governance proposals from Koios ---------------------------------------
 async function fetchProposals(limit = 8) {
   const url = `https://api.koios.rest/api/v1/proposal_list?dropped_epoch=is.null&expired_epoch=is.null&enacted_epoch=is.null&order=expiration.desc&limit=${limit}`;
@@ -259,6 +294,16 @@ async function main() {
   props = mergeItems(existingProps, props);
   await translateItems(props, "proposals");
   saveJSON(propsFile, { fetched_at: new Date().toISOString(), items: props });
+
+  console.log("\n=== Pool stats ===");
+  const statsFile = path.join(DATA_DIR, "pool-stats.json");
+  try {
+    const stats = await fetchPoolStats();
+    saveJSON(statsFile, { fetched_at: new Date().toISOString(), ...stats });
+    console.log(`  saved pool stats: ${stats.epochs.length} epochs, lifetime blocks=${stats.summary.block_count}`);
+  } catch (e) {
+    console.error(`  pool stats failed: ${e.message}`);
+  }
 
   console.log("\nDone.");
 }

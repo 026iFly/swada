@@ -37,6 +37,11 @@ jobs:
           if git diff --staged --quiet; then
             echo "No content changes."
           else
-            git commit -m "data: refresh news + proposals ($(date -u +%FT%TZ))"
+            git commit -m "data: refresh feeds ($(date -u +%FT%TZ))"
+            # Pull-rebase first to absorb any commits that landed during our run
+            # (e.g. a concurrent manual run, or human commits to main).
+            for i in 1 2 3; do
+              git pull --rebase origin main && break || sleep 5
+            done
             git push
           fi

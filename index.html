@@ -26,10 +26,10 @@
       <a href="#stakepool">Stakingpool</a>
       <a href="#midnight">Midnight</a>
       <a href="#drep">DRep</a>
+      <a href="#performance">Statistik</a>
       <a href="#proposals">Förslag</a>
       <a href="#news">Nyheter</a>
       <a href="#delegera">Delegera</a>
-      <a href="#kontakt">Kontakt</a>
     </nav>
   </div>
 </header>
@@ -45,7 +45,7 @@
     <p class="lead">Säker staking från norr. Driven från Sverige av en kommersiell pilot och entreprenör inom förnybar energi. SWADA bidrar till en mer decentraliserad och hållbar blockchain — och hjälper dig delta i Cardanos styrning genom DRep <strong>iFly</strong>.</p>
     <div class="hero-cta">
       <a href="#delegera" class="btn btn-primary">Delegera till SWADA</a>
-      <a href="#drep" class="btn btn-secondary">Möt iFly DRep</a>
+      <a href="#drep" class="btn btn-secondary">Välj DRep</a>
     </div>
   </div>
 </section>
@@ -162,7 +162,7 @@
         <p>En <strong>DRep</strong> (delegated representative) är en folkvald företrädare i Cardanos on-chain-styrning. Som ADA-innehavare delegerar du dina röster till en DRep du litar på. DRep:n läser förslagen, granskar konsekvenserna och röstar — och du behåller alltid rätten att när som helst byta DRep eller rösta själv.</p>
 
         <h3>Varför iFly?</h3>
-        <p>Bakom iFly står Pelle Stensson — kommersiell pilot, medgrundare av Intellishares SA (tokenisering av gröna energitillgångar på Cardano) samt styrelseledamot i AOPA Sweden, Gävle Sjöscouter och en lokal flygklubb. Erfarenhet av riskbedömning, datadrivna beslut och långsiktigt tänkande används till att utvärdera varje styrningsförslag noggrant.</p>
+        <p>Bakom iFly står Pelle Stensson — kommersiell pilot, medgrundare av Intellishares SA (tokenisering av gröna energitillgångar, idag på Solana men möjligen Cardano i framtiden) samt styrelseledamot i AOPA Sweden, Gävle Sjöscouter och en lokal flygklubb. Erfarenhet av riskbedömning, datadrivna beslut och långsiktigt tänkande används till att utvärdera varje styrningsförslag noggrant.</p>
       </div>
       <div class="drep-card">
         <img src="/assets/iFly.png" alt="iFly DRep-logotyp" class="drep-logo" width="120" height="120">
@@ -216,6 +216,21 @@
   </div>
 </section>
 
+<section id="performance" class="section">
+  <div class="container">
+    <h2>Pool-statistik</h2>
+    <p>Live-data direkt från Cardanos huvudkedja via <a href="https://api.koios.rest" target="_blank" rel="noopener">Koios</a>. Uppdateras varje timme.</p>
+    <div id="perf-summary" class="stat-grid perf-grid">
+      <p class="muted feed-loading" style="grid-column: 1 / -1;">Laddar pool-data…</p>
+    </div>
+    <h3 class="subhdr">Senaste epokerna</h3>
+    <div id="perf-epochs" class="perf-table-wrap">
+      <p class="muted feed-loading">Laddar epokhistorik…</p>
+    </div>
+    <p class="feed-meta">Senast uppdaterat <span id="perf-updated">—</span>.</p>
+  </div>
+</section>
+
 <section id="proposals" class="section section-alt">
   <div class="container">
     <h2>Aktuella styrningsförslag</h2>
@@ -243,7 +258,7 @@
     <h2>Bakom SWADA</h2>
     <div class="two-col">
       <div>
-        <p>SWADA drivs av Pelle Stensson, kommersiell pilot på Norwegian (även flyglärare) och medgrundare av <a href="https://intellishares.io" target="_blank" rel="noopener"><strong>Intellishares</strong></a> — ett blockchain-projekt som tokeniserar förnybara energi­tillgångar på Cardano.</p>
+        <p>SWADA drivs av Pelle Stensson, kommersiell pilot och flyglärare, och medgrundare av <a href="https://intellishares.io" target="_blank" rel="noopener"><strong>Intellishares</strong></a> — ett blockchain-projekt som tokeniserar förnybara energi­tillgångar (idag på Solana, kanske Cardano i framtiden).</p>
         <p>Att flyga lär dig precision, säkerhetskultur och att fatta beslut under osäkerhet. Att bygga energisystem lär dig att teknik bara är värdefull när den fungerar i verkligheten. Båda perspektiven präglar hur SWADA drivs — och hur iFly DRep röstar.</p>
         <p>Pelle sitter också i styrelsen för <strong>AOPA Sweden</strong> (Aircraft Owners and Pilots Association), är vice ordförande i <strong>Gävle Sjöscouter</strong>, samt styrelseledamot i en lokal flygklubb. Erfarenhet av föreningsstyrning under många år.</p>
       </div>
@@ -251,7 +266,7 @@
         <h3>Vårt andra projekt</h3>
         <div class="project-card">
           <h4>Intellishares</h4>
-          <p>Tokeniserade solenergi­anläggningar — gör det möjligt för vem som helst att investera i verkliga gröna energitillgångar globalt, oavsett geografi. Smart, hållbar energi möter decentraliserad teknik.</p>
+          <p>Tokeniserade solenergi­anläggningar — gör det möjligt för vem som helst att investera i verkliga gröna energitillgångar globalt, oavsett geografi. Byggt idag på Solana, eventuellt en framtida flytt till Cardano.</p>
           <a href="https://intellishares.io" target="_blank" rel="noopener" class="btn btn-secondary">Besök intellishares.io →</a>
         </div>
       </div>
@@ -395,6 +410,93 @@
     }
   }
 
+  const ada = (lov) => {
+    if (lov == null) return "—";
+    const n = Number(lov) / 1_000_000;
+    return n.toLocaleString("sv-SE", { maximumFractionDigits: 0 }) + " ₳";
+  };
+
+  // Koios returns saturation/ROS already in percent units, e.g. 0.16 means 0.16 %.
+  const pct = (v) => {
+    if (v == null) return "—";
+    return Number(v).toFixed(2) + " %";
+  };
+
+  function renderPerf(stats) {
+    if (!stats || !stats.summary) {
+      document.getElementById("perf-summary").innerHTML =
+        '<p class="muted" style="grid-column: 1/-1;">Pool-data inte tillgänglig just nu.</p>';
+      document.getElementById("perf-epochs").innerHTML = "";
+      return;
+    }
+    const s = stats.summary;
+    const cards = [
+      { label: "Live stake", value: ada(s.live_stake) },
+      { label: "Live pledge", value: ada(s.live_pledge) },
+      { label: "Aktiv stake", value: ada(s.active_stake) },
+      { label: "Delegatorer", value: s.live_delegators ?? "—" },
+      { label: "Mättnad", value: pct(s.live_saturation) },
+      { label: "Block (totalt)", value: s.block_count ?? "—" },
+    ];
+    document.getElementById("perf-summary").innerHTML = cards.map((c) => `
+      <div class="stat perf-stat">
+        <span class="stat-label">${escape(c.label)}</span>
+        <span class="stat-value">${escape(c.value)}</span>
+      </div>
+    `).join("");
+
+    const epochs = stats.epochs || [];
+    if (!epochs.length) {
+      document.getElementById("perf-epochs").innerHTML =
+        '<p class="muted">Ingen epokhistorik att visa.</p>';
+      return;
+    }
+    document.getElementById("perf-epochs").innerHTML = `
+      <table class="perf-table">
+        <thead>
+          <tr>
+            <th>Epok</th>
+            <th>Aktiv stake</th>
+            <th>Mättnad</th>
+            <th>Block</th>
+            <th>Delegatorer</th>
+            <th>Belöningar</th>
+            <th>ROS</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${epochs.map((e) => `
+            <tr>
+              <td>${escape(e.epoch_no)}</td>
+              <td>${escape(ada(e.active_stake))}</td>
+              <td>${escape(pct(e.saturation_pct))}</td>
+              <td>${escape(e.block_cnt)}</td>
+              <td>${escape(e.delegator_cnt)}</td>
+              <td>${escape(ada(e.deleg_rewards))}</td>
+              <td>${escape(Number(e.epoch_ros||0).toFixed(2))} %</td>
+            </tr>
+          `).join("")}
+        </tbody>
+      </table>`;
+  }
+
+  async function loadPerf() {
+    try {
+      const r = await fetch("/data/pool-stats.json", { cache: "no-cache" });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const j = await r.json();
+      renderPerf(j);
+      if (j.fetched_at) {
+        document.getElementById("perf-updated").textContent = fmtDate(j.fetched_at);
+      }
+    } catch (e) {
+      document.getElementById("perf-summary").innerHTML =
+        `<p class="muted" style="grid-column: 1/-1;">Kunde inte ladda pool-data (${escape(e.message)}).</p>`;
+      document.getElementById("perf-epochs").innerHTML = "";
+    }
+  }
+
+  loadPerf();
   loadFeed("/data/proposals.json", "proposals-list", "proposals-updated", renderProposals);
   loadFeed("/data/news.json", "news-list", "news-updated", renderNews);
 </script>

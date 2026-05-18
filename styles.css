@@ -1,11 +1,12 @@
-/* SWADA — Cardano blue + turquoise, Swedish yellow accents */
+/* SWADA — Cardano blue + slate accent, Swedish yellow highlights */
 
 :root {
   --cardano-blue: #0033AD;
   --cardano-deep: #001D6E;
   --cardano-light: #4F6BED;
-  --turquoise: #2DD8B7;
-  --turquoise-deep: #129A85;
+  /* Slate accent replaces the turquoise — more serious, financial feel */
+  --accent: #4A6B8A;
+  --accent-deep: #2F4A66;
   --swedish-yellow: #FECC02;
   --swedish-blue: #006AA7;
   --bg: #FAFAFC;
@@ -29,7 +30,7 @@ body {
 }
 
 a { color: var(--cardano-blue); text-decoration: none; transition: color 0.15s; }
-a:hover { color: var(--turquoise-deep); }
+a:hover { color: var(--accent-deep); }
 
 .container { max-width: var(--max); margin: 0 auto; padding: 0 24px; }
 
@@ -81,7 +82,7 @@ a:hover { color: var(--turquoise-deep); }
 .hero-grid {
   position: absolute; inset: -10% -10%;
   background-image:
-    radial-gradient(circle at 20% 30%, var(--turquoise) 0, transparent 30%),
+    radial-gradient(circle at 20% 30%, var(--accent) 0, transparent 30%),
     radial-gradient(circle at 80% 70%, var(--swedish-yellow) 0, transparent 35%);
   filter: blur(60px);
 }
@@ -100,7 +101,7 @@ a:hover { color: var(--turquoise-deep); }
   font-weight: 800;
   letter-spacing: -0.02em;
   margin-bottom: 12px;
-  background: linear-gradient(90deg, white 0%, var(--turquoise) 50%, var(--swedish-yellow) 100%);
+  background: linear-gradient(90deg, white 0%, var(--accent) 50%, var(--swedish-yellow) 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -108,7 +109,7 @@ a:hover { color: var(--turquoise-deep); }
 .tagline {
   font-size: 1.4rem;
   font-weight: 500;
-  color: var(--turquoise);
+  color: var(--accent);
   margin-bottom: 24px;
 }
 .lead {
@@ -199,7 +200,7 @@ a:hover { color: var(--turquoise-deep); }
   content: '';
   display: block;
   width: 56px; height: 4px;
-  background: linear-gradient(90deg, var(--cardano-blue), var(--turquoise), var(--swedish-yellow));
+  background: linear-gradient(90deg, var(--cardano-blue), var(--accent), var(--swedish-yellow));
   border-radius: 2px;
   margin-top: 14px;
 }
@@ -214,7 +215,7 @@ a:hover { color: var(--turquoise-deep); }
 }
 .note {
   background: white;
-  border-left: 4px solid var(--turquoise);
+  border-left: 4px solid var(--accent);
   padding: 18px 22px;
   border-radius: 8px;
   margin-top: 28px;
@@ -251,7 +252,7 @@ a:hover { color: var(--turquoise-deep); }
 .card:hover {
   transform: translateY(-4px);
   box-shadow: 0 18px 40px rgba(0, 51, 173, 0.08);
-  border-color: var(--turquoise);
+  border-color: var(--accent);
 }
 .card-icon {
   font-size: 2rem;
@@ -305,7 +306,7 @@ a:hover { color: var(--turquoise-deep); }
   content: '✓';
   position: absolute;
   left: 0;
-  color: var(--turquoise);
+  color: var(--swedish-yellow);
   font-weight: bold;
 }
 .drep-principles li:last-child { border-bottom: none; }
@@ -327,7 +328,7 @@ a:hover { color: var(--turquoise-deep); }
   position: absolute;
   left: 24px; top: 24px;
   width: 44px; height: 44px;
-  background: linear-gradient(135deg, var(--cardano-blue), var(--turquoise));
+  background: linear-gradient(135deg, var(--cardano-blue), var(--accent));
   color: white;
   border-radius: 50%;
   display: flex; align-items: center; justify-content: center;
@@ -338,7 +339,7 @@ a:hover { color: var(--turquoise-deep); }
 .step p { margin: 0; }
 .step pre {
   background: #0F1626;
-  color: var(--turquoise);
+  color: var(--accent);
   padding: 12px 16px;
   border-radius: 8px;
   font-size: 0.84rem;
@@ -411,7 +412,7 @@ footer {
   font-size: 0.92rem;
 }
 .footer-col a {
-  color: var(--turquoise);
+  color: var(--accent);
 }
 .footer-col a:hover {
   color: var(--swedish-yellow);
@@ -449,7 +450,7 @@ footer {
 .feed-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 14px 32px rgba(0, 51, 173, 0.1);
-  border-color: var(--turquoise);
+  border-color: var(--accent);
 }
 .feed-card-meta {
   display: flex;
@@ -468,7 +469,7 @@ footer {
 }
 .proposal-card .proposal-type {
   background: rgba(45, 216, 183, 0.15);
-  color: var(--turquoise-deep);
+  color: var(--accent-deep);
 }
 .feed-date {
   color: var(--muted);
@@ -515,10 +516,65 @@ footer {
   margin-top: 18px !important;
 }
 .proposal-card {
-  border-left: 3px solid var(--turquoise);
+  border-left: 3px solid var(--accent);
 }
 .section-alt .feed-card {
   background: var(--bg);
+}
+
+/* ===== POOL PERFORMANCE (stats + epoch table) ===== */
+.perf-grid {
+  margin-top: 28px;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 16px;
+}
+.perf-stat {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px 18px;
+}
+.subhdr {
+  font-size: 1.15rem;
+  margin: 36px 0 12px;
+  color: var(--cardano-deep);
+  font-weight: 700;
+}
+.perf-table-wrap {
+  overflow-x: auto;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-top: 8px;
+}
+.perf-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.93rem;
+  min-width: 640px;
+}
+.perf-table th {
+  text-align: left;
+  padding: 14px 16px;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
+  font-weight: 600;
+}
+.perf-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+.perf-table tbody tr:last-child td {
+  border-bottom: none;
+}
+.perf-table tbody tr:hover {
+  background: var(--bg-alt);
 }
 
 @media (max-width: 640px) {
