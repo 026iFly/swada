@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-18T02:30:15.768Z",
+  "fetched_at": "2026-05-18T08:02:49.842Z",
   "items": [
     {
       "id": "gov:gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
@@ -12,7 +12,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
       "block_time": "2026-05-15T12:52:13.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
+      "title_sv": "Eternl: Vägen till hållbarhet (2026–2027)",
       "summary_sv": "",
       "_title_sha": "0d8b435ee126",
       "_summary_sha": "cd6af20fc2df"
@@ -44,7 +44,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
       "block_time": "2026-05-11T17:34:46.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
+      "title_sv": "Cardano dOSPO och OMF-program",
       "summary_sv": "",
       "_title_sha": "7df1e753a7a9",
       "_summary_sha": "6d1f1a3f9a1c"
@@ -76,7 +76,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1ggr2uz7prwn5l84cdn2krwngfez0p7wluy4u3u3ez9pz5ls2whesqnsjly8",
       "block_time": "2026-05-04T22:37:49.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
+      "title_sv": "Pebble och ekosystemunderhåll: Cardanos TypeScript-kärna",
       "summary_sv": "",
       "_title_sha": "5baa1380ef17",
       "_summary_sha": "b8b0529482e5"
@@ -92,7 +92,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1guz68e8zkwphcdc8wnp40cclkv92qgnel7xnffmsmp2ljp09qtwqq596k4c",
       "block_time": "2026-05-04T22:23:43.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
+      "title_sv": "Den första noden i webbläsaren; en Cardano USP.",
       "summary_sv": "",
       "_title_sha": "2b7caf320192",
       "_summary_sha": "46cba2edbc26"
