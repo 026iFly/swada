@@ -24,7 +24,7 @@ const DATA_DIR = path.join(ROOT, "data");
 fs.mkdirSync(DATA_DIR, { recursive: true });
 
 const AI_KEY = process.env.AI_GATEWAY_API_KEY || "";
-const TRANSLATE_MODEL = "anthropic/claude-haiku-4-5";
+const TRANSLATE_MODEL = process.env.TRANSLATE_MODEL || "openai/gpt-5-nano";
 const TRANSLATE_ENDPOINT = "https://ai-gateway.vercel.sh/v1/chat/completions";
 
 const UA = "swada-bot/1.0 (+https://swada.se)";
