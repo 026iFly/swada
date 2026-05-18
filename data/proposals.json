@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-18T08:30:36.083Z",
+  "fetched_at": "2026-05-18T11:53:30.277Z",
   "items": [
     {
       "id": "gov:gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
@@ -13,7 +13,7 @@
       "block_time": "2026-05-15T12:52:13.000Z",
       "deposit_ada": 100000,
       "title_sv": "Eternl: Vägen till hållbarhet (2026–2027)",
-      "summary_sv": "",
+      "summary_sv": "Eternl är en icke-förvaltad Cardano-lätt plånbok för webben, webbläsartillägg, Android och iOS.\n\nAnvändare förlitar sig på Eternl för betalningar, stake, governance och DApp-interaktion.\n\nDetta förslag möjliggör 12 månaders drift, underhåll och förbättringar. Det inkluderar frontend- och backend-underhåll och utveckling, backend-infrastruktur, användarsupport och dagliga driftaktiviteter.[^1]\n\nMålet är att hålla Eternl säker, kompatibel, stabil och tillgänglig samtidigt som Cardano fortsätter att utvecklas. Detta kostar cirka 420 000 USD per år.",
       "_title_sha": "0d8b435ee126",
       "_summary_sha": "cd6af20fc2df"
     },
@@ -28,8 +28,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
       "block_time": "2026-05-14T15:09:43.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Scalus: Cardanos applikationsplattform för byggande, lansering och skalning",
+      "summary_sv": "Cardano rör sig framåt. Protokolet uppgraderingar, kritiska integrationer, DeFi-likviditet och riskkapital sammanfaller. Men nästa flaskhals är inte längre kärninfrastruktur, utan applikationsleverans.\n\nTeamen kämpar fortfarande med att leverera icke-triviala applikationer eftersom de själva måste bemästra och sammanfoga så många rörliga delar: smart contracts, formell verifiering, block kedjeåtkomst, drift och skalning. Ekosystemet saknar inte verktyg. Det saknar en integrerad applikationsplattform som har allt och bara fungerar.\n\n[Scalus](https://scalus.org/) byggdes för att hantera just denna flaskhals. Det är en etablerad...",
       "_title_sha": "c7b574f15b45",
       "_summary_sha": "cd32135937ed"
     },
@@ -45,7 +45,7 @@
       "block_time": "2026-05-11T17:34:46.000Z",
       "deposit_ada": 100000,
       "title_sv": "Cardano dOSPO och OMF-program",
-      "summary_sv": "",
+      "summary_sv": "Cardano-infrastrukturen bygger på öppen källkod som underhålls av ett fåtal personer utan formell support, successionsplanering eller kontinuitetsfinansiering. Forskning visar att 96 % av kommersiella kodbaser innehåller OSS med färre än 10 bidragsgivare. Kritiska protokollbibliotek, plånboks-SDK:er, utvecklarverktyg och indexeringsinfrastruktur har enskilda underhållare, inga successorsplaner och ingen stabil finansiering utöver episodiska bidrag.\n\nDetta program etablerar en samhällsstyrd, data-driven öppen källkodsunderhållsarkitektur. Finansieras genom direkt uttag ur treasury, drift av en oberoende",
       "_title_sha": "7df1e753a7a9",
       "_summary_sha": "6d1f1a3f9a1c"
     },
@@ -60,8 +60,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
       "block_time": "2026-05-07T08:54:58.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research",
+      "summary_sv": "Proposal som pdf: [här](https://ipnso-com.ipns.dweb.link/?cid=QmbrCWbfcJYUeBVzTkqRFUNej86YAcEwiDkQNgY2gWrq1X)\n\nCardano Vision 2026 (CV26) levererar en strukturerad, end-to-end-innovationspipeline som översätter grundforskning till driftsatta systemfunktioner och mätbar påverkan. Med utgångspunkt i CV25, där leveransen överträffade målen med 20%, genomförs programmet genom en integrerad IO Research-leveransmodell som kombinerar forskning (IOR), tillämpad ingenjörsvetenskap (ARC) och produktjustering (Cardano Business Unit).\n\nCV26 är förankrad i 3 prioriteringar.\n\n* Användarcentrerad design förbättra",
       "_title_sha": "ecea33ce1c50",
       "_summary_sha": "772aca6525b7"
     },
@@ -77,7 +77,7 @@
       "block_time": "2026-05-04T22:37:49.000Z",
       "deposit_ada": 100000,
       "title_sv": "Pebble och ekosystemunderhåll: Cardanos TypeScript-kärna",
-      "summary_sv": "",
+      "summary_sv": "Harmonic Laboratories (HLabs förkortat) är ett FoU-företag som fötts upp och fokuserat helt på Cardano-ekosystemet.\n\nHarmonic Laboratories stöder och underhåller en betydande del av TypeScript-verktygen för Cardano-ekosystemet, vilka majoriteten av Cardano-utvecklare använder, antingen direkt eller indirekt via andra bibliotek som beror på kod som skrivits och underhålls av HLabs.\n\nHLabs uppdrag är att verklig decentralisering ska bli baslinjen för applikationsutveckling, inte bara en trevlig extrafunktion.\n\nDetta förslag finansierar två kompletterande ingenjörsgrenar:\n\n- [Pebble](https://github.",
       "_title_sha": "5baa1380ef17",
       "_summary_sha": "b8b0529482e5"
     },
@@ -108,8 +108,8 @@
       "url": "https://gov.tools/governance_actions/gov_action14u26vcn3wmcnhc5pqrt6494ypugr7c7f3e2ns60r32cntl6zjtxsqqgeu8p",
       "block_time": "2026-04-30T13:50:52.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Tweag Core Cardano-infrastruktur: Treasury-uttag 2026–2028",
+      "summary_sv": "Denna treasury-uttaget begärs på **₳39,787,316** (USD $9,946,829) för att finansiera Tweag av Modus Create:s leverans av 17 arbetspaket över 9 kärninfrastrukturområden för Cardano-ekosystemet under 2026–2028.\n\nHuvudfokus är **mainnet-utvecklingen av Peras** (snabbare finalisering: ~2 min jämfört med ~12 min idag), tillsammans med förbättringar av motståndskraft, skalbarhet, utvecklarverktyg och nätverksobservation. Arbetspaketen inkluderar:\n\n- **Peras v1** – produktionsteknik, KillSwitch, mainnet-readiness\n- **Peras v2** – föravtal-algoritm, cooldown-återhämtning, prestandaoptimeringar\n- History",
       "_title_sha": "410374d9d030",
       "_summary_sha": "ac5d654d6b48"
     },
@@ -124,8 +124,8 @@
       "url": "https://gov.tools/governance_actions/gov_action19avrmrhm0gqa4qwlgvh4vxj6nwe02ay42h828cva2zt6n0asddfqqtgph5d",
       "block_time": "2026-05-04T06:15:29.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "[OriLife × TonFarm] Identifiera 180 miljoner durianfrukter utan fysiska etiketter",
+      "summary_sv": "OriLife Alliance föreslår 2 400 000 ADA från Cardano Treasury för att genomföra tamper-evident spårbarhet över 12 000 hektar durian i Đắk Lắk, Vietnam — före deadline 1 december 2026 (Artikel 15, Circular 11/2026/TT-BCT).\n\nDet här är inte ett forskningsbidrag. PoC fungerar idag: AI-fruktidentifiering är live på orilife.io/demo, VeData-batching är verifierad på Cardano Preprod, och långt senare",
       "_title_sha": "61803890a859",
       "_summary_sha": "24bffaebc6b9"
     }
