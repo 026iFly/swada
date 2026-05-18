@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-18T11:52:20.539Z",
+  "fetched_at": "2026-05-18T15:53:57.575Z",
   "items": [
+    {
+      "id": "forum:154635",
+      "source": "Cardano Forum",
+      "title_en": "FAQs on Cardano Bounties",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/faqs-on-cardano-bounties/154635",
+      "date": "2026-05-18T12:41:25.771Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "FAQ:er om Cardano-bounties",
+      "summary_sv": "",
+      "_title_sha": "435e81d4b490",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154631",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "CIP-förslag: inloggning via djuplänk för inhemska dapps (CIP-30-tillägg)",
       "summary_sv": "",
       "_title_sha": "374381282e91",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154558",
-      "source": "Cardano Forum",
-      "title_en": "Governance Hour #5 - IO: Consensus Initiative Proposal",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-hour-5-io-consensus-initiative-proposal/154558",
-      "date": "2026-05-13T13:44:38.939Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Styrehvarvet #5 - IO: Konsensusinitiativförslag",
-      "summary_sv": "",
-      "_title_sha": "1e533b21db2c",
       "_summary_sha": ""
     },
     {

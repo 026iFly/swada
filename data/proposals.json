@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-18T11:53:30.277Z",
+  "fetched_at": "2026-05-18T15:54:00.542Z",
   "items": [
     {
       "id": "gov:gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
@@ -93,7 +93,7 @@
       "block_time": "2026-05-04T22:23:43.000Z",
       "deposit_ada": 100000,
       "title_sv": "Den första noden i webbläsaren; en Cardano USP.",
-      "summary_sv": "",
+      "summary_sv": "Harmonic Laboratories (HLabs för kort) är ett FoU-företag fött och koncentrerat främst på Cardano-ekosystemet.\n\nHarmonic Laboratories stödjer och upprätthåller en betydande del av TypeScript-verktygen för Cardano-ekosystemet, vilka majoriteten av Cardano-utvecklare använder, antingen direkt eller indirekt via andra bibliotek som beror på kod skriven och underhållen av HLabs.\n\nHLabs uppdrag är att riktig decentralisering ska bli baslinjen för applikationsutveckling, inte bara en funktion man kan ha om man vill.\n\nDetta förslag finansierar [Gerolamo](https://github.com/HarmonicLabs/gerolamo), den första pro",
       "_title_sha": "2b7caf320192",
       "_summary_sha": "46cba2edbc26"
     },
