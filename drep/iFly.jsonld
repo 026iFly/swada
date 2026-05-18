@@ -28,7 +28,14 @@
         },
         "paymentAddress": "CIP119:paymentAddress",
         "givenName": "CIP119:givenName",
-        "image": "CIP119:image",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject",
+            "contentUrl": "CIP119:contentUrl",
+            "sha256": "CIP119:sha256"
+          }
+        },
         "objectives": "CIP119:objectives",
         "motivations": "CIP119:motivations",
         "qualifications": "CIP119:qualifications",
@@ -51,31 +58,28 @@
       }
     }
   },
+  "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "iFly",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://raw.githubusercontent.com/026iFly/swada/main/assets/iFly.png"
+      "contentUrl": "https://raw.githubusercontent.com/026iFly/swada/main/assets/iFly.png",
+      "sha256": "bb9ade5d049213bb6a4bd3455a318ba51397baca407f4f1f2a6c7108f72d5067"
     },
-    "motivations": "I run as a DRep because Cardano's on-chain governance is one of the more serious attempts I've seen to translate decentralization from a slogan into a working institution — and institutions like that only succeed when enough people with real-world skin in the game show up to maintain them.\n\nMy own perspective is built from three disciplines that all happen to share one rule: complex systems work only if you trust the data, the procedures, and the people who maintain them. I've been a commercial pilot for ten years (currently flying for Norwegian, also a flight instructor), so I think a lot about safety culture, redundancy, and how small unchecked drift becomes a big problem later. I'm a co-founder of Intellishares SA, where we use Cardano to tokenize green-energy assets — solar systems, batteries, inverters — so I deploy blockchain in the regulated, physical world every week, not just argue about it on social media. And I serve on several volunteer boards (AOPA Sweden, the Gävle Sjöscouter scout organization, our local flight club), which has taught me what consensus-building actually feels like when there's no fork to take.\n\nCardano governance affects how the broader world adopts decentralized technology. I want to help that process succeed — pragmatically, transparently, and with a long-time-horizon mindset.",
-    "objectives": "My priorities as a DRep:\n\n* **Real-world utility first.** I vote for proposals that move Cardano toward concrete adoption — tokenized real-world assets, programmable settlement, identity that ordinary people can use without a cryptography PhD, and infrastructure for green-energy investment. Less abstraction, more shipped.\n* **Validator decentralization.** A healthy long tail of small, independent stake pools (SWADA among them) is what makes the network resilient. I oppose proposals that incidentally concentrate stake, and I support those that protect minority operators.\n* **Sustainability — environmental and economic.** Cardano's energy footprint is already an advantage; I want governance decisions that compound it through verifiable, blockchain-anchored climate work.\n* **Transparent reasoning.** Where time and confidentiality allow, I'll publish a short written rationale alongside every meaningful vote — so delegators can see *why*, not just *how*, and disagree with me intelligently if they want to.\n* **Cross-disciplinary evaluation.** I evaluate each proposal through more than one frame — aviation safety thinking (what's the failure mode?), energy-engineering pragmatism (does this actually work at scale?), and product/business sense (does anyone use this?). One-axis reasoning is how bad decisions get made.",
-    "qualifications": "Ten years as a commercial pilot, currently a line and instructor pilot with Norwegian Air Sweden. Aviation has trained me in continuous risk assessment, procedural discipline, and operating in environments where casual decisions have permanent consequences — directly applicable to governance work where small parameter changes ripple through every protocol layer.\n\nCo-founder and active operator at Intellishares SA, a Cardano-based green-energy tokenization project. I've personally designed and installed solar systems, tested inverters and batteries, prototyped electronic circuit boards and custom enclosures, and integrated all of it with on-chain settlement. I evaluate proposals from the perspective of someone who actually deploys this technology in regulated, physical-world contexts.\n\nBoard-level service in three Swedish organizations: AOPA Sweden (aircraft owner & pilot advocacy), Gävle Sjöscouter (Sea Scouts — Vice President), and our local flight club (Chair). Each has taught me to balance competing member interests, build consensus across disagreement, and be accountable to a membership over multi-year horizons — habits that translate directly to DRep work.\n\nLanguages: Swedish, English (both fluent), Italian (learning). I read governance proposals carefully and engage substantively before voting. And I run the SWADA Cardano stake pool — my own ADA is pledged into the network whose governance I help shape.",
+    "motivations": "Cardano's on-chain governance is one of the more serious attempts I've seen to translate decentralization from a slogan into a working institution. Institutions like that only succeed when people with real-world skin in the game show up to maintain them.\n\nMy perspective comes from three disciplines that share one rule: complex systems only work when you trust the data, the procedures, and the people maintaining them. I'm a commercial pilot for ten years (line + instructor) — so I think about safety culture, redundancy, and how unchecked drift becomes a big problem later. I'm co-founder of Intellishares SA, where we tokenize green-energy assets and deploy blockchain in regulated, real-world contexts. And I serve on volunteer boards (AOPA Sweden, Gävle Sjöscouter, Gävlebygdens Flygklubb), where I've learned what consensus-building feels like when there's no fork option.\n\nI want to help Cardano governance succeed — pragmatically, transparently, and with a long horizon.",
+    "objectives": "My priorities as a DRep:\n\n- Real-world utility first. I vote for proposals that move Cardano toward concrete adoption — tokenized real-world assets, programmable settlement, identity that ordinary people can use, infrastructure for green-energy investment.\n- Validator decentralization. A healthy long tail of small, independent stake pools (SWADA among them) makes the network resilient. I oppose proposals that incidentally concentrate stake.\n- Sustainability. Cardano's energy footprint is already an advantage; I want governance that compounds that through verifiable climate work.\n- Transparent reasoning. I'll publish a written rationale alongside every meaningful vote.\n- Cross-disciplinary evaluation. I evaluate proposals through aviation safety thinking, energy-engineering pragmatism, and product sense. One-axis reasoning is how bad decisions get made.",
     "paymentAddress": "addr1q856gtlurau0wnrz8nzap22cww32wa77p5mu3vdpywgcshl64zph7c4yajs044l004zhdmutkdgnutqkj3q79my7y9vs948aw5",
+    "qualifications": "Ten years as a commercial pilot (line + flight instructor). Aviation trained me in continuous risk assessment, procedural discipline, and operating where casual decisions have permanent consequences — directly applicable to governance work.\n\nCo-founder of Intellishares SA, a blockchain-based green-energy tokenization project. I've personally designed and installed solar systems, tested inverters and batteries, prototyped circuit boards, and integrated all of it with on-chain settlement.\n\nBoard service in three Swedish organizations: AOPA Sweden, Gävle Sjöscouter (Vice President), Gävlebygdens Flygklubb (President). Each has taught me to balance competing interests, build consensus, and be accountable over multi-year horizons.\n\nLanguages: Swedish, English (fluent), Italian (learning). I operate the SWADA Cardano stake pool — my own ADA is pledged into the network whose governance I help shape.",
     "references": [
       {
         "@type": "Link",
-        "label": "SWADA stake pool",
+        "label": "SWADA Cardano stake pool",
         "uri": "https://swada.se"
       },
       {
         "@type": "Link",
-        "label": "SWADA on Cexplorer",
-        "uri": "https://cexplorer.io/pool/pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc"
-      },
-      {
-        "@type": "Link",
-        "label": "Intellishares (blockchain project)",
+        "label": "Intellishares — green-energy blockchain project",
         "uri": "https://intellishares.io"
       },
       {
