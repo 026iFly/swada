@@ -60,19 +60,29 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
     if (TRANSLATE_MODEL.includes("gpt-5") || TRANSLATE_MODEL.startsWith("openai/o")) {
       body.reasoning_effort = "minimal";
     }
-    const resp = await fetch(TRANSLATE_ENDPOINT, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Authorization": `Bearer ${AI_KEY}`,
-      },
-      body: JSON.stringify(body),
-    });
+    // Retry with backoff on 429 (rate limit) and 5xx (transient)
+    let resp;
+    for (let attempt = 0; attempt < 4; attempt++) {
+      resp = await fetch(TRANSLATE_ENDPOINT, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${AI_KEY}`,
+        },
+        body: JSON.stringify(body),
+      });
+      if (resp.ok) break;
+      if (resp.status !== 429 && resp.status < 500) break;
+      const wait = 1500 * (2 ** attempt) + Math.floor(Math.random() * 500);
+      await new Promise((r) => setTimeout(r, wait));
+    }
     if (!resp.ok) {
       const err = await resp.text().catch(() => "");
       console.error(`  translate failed (${resp.status}): ${err.slice(0,200)}`);
       return { sv: "", hash: inputHash, untranslated: true };
     }
+    // Small inter-call pacing to be a good citizen on shared free tier.
+    await new Promise((r) => setTimeout(r, 300));
     const data = await resp.json();
     const sv = (data.choices?.[0]?.message?.content || "").trim();
     if (!sv) {
