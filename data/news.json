@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-19T05:10:08.892Z",
+  "fetched_at": "2026-05-19T10:02:56.074Z",
   "items": [
+    {
+      "id": "forum:154645",
+      "source": "Cardano Forum",
+      "title_en": "Developer Office Hours #62 - ODATANO: Bringing Cardano to SAP Environments",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developer-office-hours-62-odatano-bringing-cardano-to-sap-environments/154645",
+      "date": "2026-05-19T08:38:30.379Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Utvecklarkontorstid #62 - ODATANO: Att ta Cardano till SAP-miljöer",
+      "summary_sv": "",
+      "_title_sha": "4a11e195fb56",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154640",
       "source": "Cardano Forum",
@@ -13,20 +27,6 @@
       "title_sv": "”Just Convert to Stablecoins” är inte en treasury-plan",
       "summary_sv": "",
       "_title_sha": "1c7f108f1368",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154639",
-      "source": "Cardano Forum",
-      "title_en": "Cardano and Cuban Founders Fund: A Proposal",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-and-cuban-founders-fund-a-proposal/154639",
-      "date": "2026-05-18T19:44:28.849Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano och Cuban Founders Fund: Ett förslag",
-      "summary_sv": "",
-      "_title_sha": "93653cb6e00b",
       "_summary_sha": ""
     },
     {
