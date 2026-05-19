@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-19T10:02:56.074Z",
+  "fetched_at": "2026-05-19T12:50:33.732Z",
   "items": [
+    {
+      "id": "forum:154652",
+      "source": "Cardano Forum",
+      "title_en": "Ensuring Mithril continuity for Cardano — Intersect proposal submitted for Q3/Q4 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ensuring-mithril-continuity-for-cardano-intersect-proposal-submitted-for-q3-q4-2026/154652",
+      "date": "2026-05-19T10:09:29.613Z",
+      "score": 2,
+      "comments": 0,
+      "title_sv": "Säkra Mithril-kontinuiteten för Cardano — Intersect-förslag inlagt för Q3/Q4 2026",
+      "summary_sv": "",
+      "_title_sha": "db8266193df0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154645",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/developer-office-hours-62-odatano-bringing-cardano-to-sap-environments/154645",
       "date": "2026-05-19T08:38:30.379Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Utvecklarkontorstid #62 - ODATANO: Att ta Cardano till SAP-miljöer",
       "summary_sv": "",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/just-convert-to-stablecoins-is-not-a-treasury-plan/154640",
       "date": "2026-05-18T21:28:15.858Z",
-      "score": 1,
+      "score": 3,
       "comments": 0,
       "title_sv": "”Just Convert to Stablecoins” är inte en treasury-plan",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano Live #20 - ODYC-poolen, Midnight Event, DRepίστικα och Telemachus DAO",
       "summary_sv": "",
       "_title_sha": "5929afea081c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154574",
-      "source": "Cardano Forum",
-      "title_en": "Andamio is proud to be invited as part of the delegation representing Cardano at The Linux Foundation Open Source Summit, a key event in the global tech industry",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/andamio-is-proud-to-be-invited-as-part-of-the-delegation-representing-cardano-at-the-linux-foundation-open-source-summit-a-key-event-in-the-global-tech-industry/154574",
-      "date": "2026-05-14T16:06:02.237Z",
-      "score": 4,
-      "comments": 1,
-      "title_sv": "Andamio är stolt över att vara inbjuden som en del av delegationen som representerar Cardano på The Linux Foundation Open Source Summit, ett nyckelhändelse inom den globala teknikindustrin",
-      "summary_sv": "",
-      "_title_sha": "ff0769a2b45c",
       "_summary_sha": ""
     },
     {
