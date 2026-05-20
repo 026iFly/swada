@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-05-20T18:28:00.540Z",
+  "fetched_at": "2026-05-20T21:06:30.157Z",
   "items": [
+    {
+      "id": "gov:gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
+      "proposal_id": "gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 632,
+      "expiration_epoch": 639,
+      "title_en": "Cardano Critical Integrations V2",
+      "summary_en": "This governance action requests the withdrawal of ₳23,000,000 (USD 5,750,000 based on $0.25c) from the Cardano Treasury to cover a focused ‘Year 2’ contracted cost and a 12-month enhancement & maintenance program for the critical integrations already delivered or currently being integrated under the first Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics, and a new full native integration of Fireblocks.\n\nThe CCI V2 initiative provides the necessary funding for the ongoing operation and optimization of infrastructure previously establis",
+      "url": "https://gov.tools/governance_actions/gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
+      "block_time": "2026-05-20T20:58:08.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Cardano Kritiska integrationer V2",
+      "summary_sv": "Denna governance action begär uttag av ₳23,000,000 (USD 5,750,000 baserat på $0.25) från Cardano Treasury för att täcka ett fokuserat kostnadsavtal för år 2 och ett 12-månaders program för förbättring och underhåll av de kritiska integrationer som redan levererats eller för närvarande integreras under den första Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics och en ny fullständig inbyggd integration av Fireblocks.\n\nCCI V2-initiativet tillhandahåller nödvändigt finansiering för den pågående driften och optimeringen av infrastrukturen som tidigare etablerats",
+      "_title_sha": "40ee4ffee510",
+      "_summary_sha": "50d16a456931"
+    },
     {
       "id": "gov:gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
       "proposal_id": "gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
@@ -50,22 +66,6 @@
       "_summary_sha": "6d1f1a3f9a1c"
     },
     {
-      "id": "gov:gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
-      "proposal_id": "gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 629,
-      "expiration_epoch": 636,
-      "title_en": "Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research",
-      "summary_en": "**Proposal as pdf:** [here](https://ipnso-com.ipns.dweb.link/?cid=QmbrCWbfcJYUeBVzTkqRFUNej86YAcEwiDkQNgY2gWrq1X)\n\nCardano Vision 2026 (CV26) delivers a structured, end-to-end innovation pipeline that translates foundational research into deployable system capabilities and measurable impact. Building on CV25, where delivery exceeded targets by 20%, the programme is executed through an integrated IO Research delivery model combining research (IOR), applied engineering (ARC), and product alignment (Cardano Business Unit).\n\nCV26 is anchored around 3 priorities.\n\n* **Human-centred design** improve",
-      "url": "https://gov.tools/governance_actions/gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
-      "block_time": "2026-05-07T08:54:58.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research",
-      "summary_sv": "Proposal som pdf: [här](https://ipnso-com.ipns.dweb.link/?cid=QmbrCWbfcJYUeBVzTkqRFUNej86YAcEwiDkQNgY2gWrq1X)\n\nCardano Vision 2026 (CV26) levererar en strukturerad, end-to-end-innovationspipeline som översätter grundforskning till driftsatta systemfunktioner och mätbar påverkan. Med utgångspunkt i CV25, där leveransen överträffade målen med 20%, genomförs programmet genom en integrerad IO Research-leveransmodell som kombinerar forskning (IOR), tillämpad ingenjörsvetenskap (ARC) och produktjustering (Cardano Business Unit).\n\nCV26 är förankrad i 3 prioriteringar.\n\n* Användarcentrerad design förbättra",
-      "_title_sha": "ecea33ce1c50",
-      "_summary_sha": "772aca6525b7"
-    },
-    {
       "id": "gov:gov_action1ggr2uz7prwn5l84cdn2krwngfez0p7wluy4u3u3ez9pz5ls2whesqnsjly8",
       "proposal_id": "gov_action1ggr2uz7prwn5l84cdn2krwngfez0p7wluy4u3u3ez9pz5ls2whesqnsjly8",
       "type": "TreasuryWithdrawals",
@@ -98,20 +98,20 @@
       "_summary_sha": "46cba2edbc26"
     },
     {
-      "id": "gov:gov_action14u26vcn3wmcnhc5pqrt6494ypugr7c7f3e2ns60r32cntl6zjtxsqqgeu8p",
-      "proposal_id": "gov_action14u26vcn3wmcnhc5pqrt6494ypugr7c7f3e2ns60r32cntl6zjtxsqqgeu8p",
+      "id": "gov:gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
+      "proposal_id": "gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
       "type": "TreasuryWithdrawals",
-      "proposed_epoch": 628,
-      "expiration_epoch": 635,
-      "title_en": "Tweag Core Cardano Infrastructure: Treasury Withdrawal 2026–2028",
-      "summary_en": "This treasury withdrawal requests **₳39,787,316** (USD $9,946,829) to fund Tweag by Modus Create's delivery of 17 work packages across 9 core infrastructure areas for the Cardano ecosystem over 2026–2028.\n\nThe primary focus is the **mainnet deployment of Peras** (faster finality: ~2 min vs. ~12 min today), alongside improvements to resilience, scalability, developer tooling, and network observability. Work packages include:\n\n- **Peras v1** – production cryptography, KillSwitch, mainnet readiness\n- **Peras v2** – pre-agreement algorithm, cooldown recovery, performance optimizations\n- **History ",
-      "url": "https://gov.tools/governance_actions/gov_action14u26vcn3wmcnhc5pqrt6494ypugr7c7f3e2ns60r32cntl6zjtxsqqgeu8p",
-      "block_time": "2026-04-30T13:50:52.000Z",
+      "proposed_epoch": 629,
+      "expiration_epoch": 636,
+      "title_en": "Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research",
+      "summary_en": "**Proposal as pdf:** [here](https://ipnso-com.ipns.dweb.link/?cid=QmbrCWbfcJYUeBVzTkqRFUNej86YAcEwiDkQNgY2gWrq1X)\n\nCardano Vision 2026 (CV26) delivers a structured, end-to-end innovation pipeline that translates foundational research into deployable system capabilities and measurable impact. Building on CV25, where delivery exceeded targets by 20%, the programme is executed through an integrated IO Research delivery model combining research (IOR), applied engineering (ARC), and product alignment (Cardano Business Unit).\n\nCV26 is anchored around 3 priorities.\n\n* **Human-centred design** improve",
+      "url": "https://gov.tools/governance_actions/gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
+      "block_time": "2026-05-07T08:54:58.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Tweag Core Cardano-infrastruktur: Treasury-uttag 2026–2028",
-      "summary_sv": "Denna treasury-uttaget begärs på **₳39,787,316** (USD $9,946,829) för att finansiera Tweag av Modus Create:s leverans av 17 arbetspaket över 9 kärninfrastrukturområden för Cardano-ekosystemet under 2026–2028.\n\nHuvudfokus är **mainnet-utvecklingen av Peras** (snabbare finalisering: ~2 min jämfört med ~12 min idag), tillsammans med förbättringar av motståndskraft, skalbarhet, utvecklarverktyg och nätverksobservation. Arbetspaketen inkluderar:\n\n- **Peras v1** – produktionsteknik, KillSwitch, mainnet-readiness\n- **Peras v2** – föravtal-algoritm, cooldown-återhämtning, prestandaoptimeringar\n- History",
-      "_title_sha": "410374d9d030",
-      "_summary_sha": "ac5d654d6b48"
+      "title_sv": "Cardano Vision 2026: Human Centred, Scalable, Post Quantum Secure - IO Research",
+      "summary_sv": "Proposal som pdf: [här](https://ipnso-com.ipns.dweb.link/?cid=QmbrCWbfcJYUeBVzTkqRFUNej86YAcEwiDkQNgY2gWrq1X)\n\nCardano Vision 2026 (CV26) levererar en strukturerad, end-to-end-innovationspipeline som översätter grundforskning till driftsatta systemfunktioner och mätbar påverkan. Med utgångspunkt i CV25, där leveransen överträffade målen med 20%, genomförs programmet genom en integrerad IO Research-leveransmodell som kombinerar forskning (IOR), tillämpad ingenjörsvetenskap (ARC) och produktjustering (Cardano Business Unit).\n\nCV26 är förankrad i 3 prioriteringar.\n\n* Användarcentrerad design förbättra",
+      "_title_sha": "ecea33ce1c50",
+      "_summary_sha": "772aca6525b7"
     },
     {
       "id": "gov:gov_action19avrmrhm0gqa4qwlgvh4vxj6nwe02ay42h828cva2zt6n0asddfqqtgph5d",
