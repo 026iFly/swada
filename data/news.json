@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-20T08:33:51.180Z",
+  "fetched_at": "2026-05-20T11:55:33.138Z",
   "items": [
+    {
+      "id": "forum:154668",
+      "source": "Cardano Forum",
+      "title_en": "Governance Hour #6 - Cardano Builder DAO & Initiative DAO Framework",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-hour-6-cardano-builder-dao-initiative-dao-framework/154668",
+      "date": "2026-05-20T09:43:54.480Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Styra timmar #6 - Cardano Builder DAO & Initiative DAO-ramverk",
+      "summary_sv": "",
+      "_title_sha": "96df7622be77",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154652",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "CIP: Utnyttjandegraderad Lånebonus — Den multi-pool-busterande (Multi-Pool Buster)",
       "summary_sv": "",
       "_title_sha": "81171ecaf796",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154576",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Live #20 - ODYC pool, Midnight Event, DRepίστικα & Telemachus DAO",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-live-20-odyc-pool-midnight-event-drep-telemachus-dao/154576",
-      "date": "2026-05-14T17:06:55.835Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano Live #20 - ODYC-poolen, Midnight Event, DRepίστικα och Telemachus DAO",
-      "summary_sv": "",
-      "_title_sha": "5929afea081c",
       "_summary_sha": ""
     },
     {
