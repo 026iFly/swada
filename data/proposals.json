@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T12:53:58.611Z",
+  "fetched_at": "2026-05-21T16:22:27.015Z",
   "items": [
     {
       "id": "gov:gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
@@ -16,6 +16,22 @@
       "summary_sv": "Denna governance action begär uttag av ₳23,000,000 (USD 5,750,000 baserat på $0.25) från Cardano Treasury för att täcka ett fokuserat kostnadsavtal för år 2 och ett 12-månaders program för förbättring och underhåll av de kritiska integrationer som redan levererats eller för närvarande integreras under den första Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics och en ny fullständig inbyggd integration av Fireblocks.\n\nCCI V2-initiativet tillhandahåller nödvändigt finansiering för den pågående driften och optimeringen av infrastrukturen som tidigare etablerats",
       "_title_sha": "40ee4ffee510",
       "_summary_sha": "50d16a456931"
+    },
+    {
+      "id": "gov:gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
+      "proposal_id": "gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 632,
+      "expiration_epoch": 639,
+      "title_en": "5am.earth Trust Layer Targeting Vision 2030 KPIs",
+      "summary_en": "5am.earth Foundation requests 10,000,000 ADA (hard cap) to build an open, Cardano-anchored trust layer for global agricultural supply chains. The trust layer combines Veridian self-sovereign identity for farmers and Agri-Entrepreneurs (AEs) with a Cardano on-chain satellite oracle delivering verified farm and crop data. The 18-month programme (M1 Stand-Up at Month 6, M2 Closed Loop at Month 12, M3 Self-Sustaining at Month 18) delivers across India, Cambodia, and Kenya, reaching 500,000 registered farmers and operating three named application paths during the funded period: AE certification wit",
+      "url": "https://gov.tools/governance_actions/gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
+      "block_time": "2026-05-21T14:23:23.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "5am.earth Trust Layer Targeting Vision 2030 KPIs",
+      "summary_sv": "5am.earth Foundation begär 10 000 000 ADA (hard cap) för att bygga ett öppet, Cardano-anknutet förtroendelager för globala livsmedelsförsörjningskedjor. Förtroendelageret kombinerar Veridian självständiga identitet (self-sovereign identity) för jordbrukare och Agri-Entrepreneurs (AEs) med en Cardano-on-chain satellit oberoende data- eller oracle som levererar verifierad farm- och avkastningsdata. Det 18-månaders programmet (M1 Stand-Up vid månad 6, M2 Closed Loop vid månad 12, M3 Self-Sustaining vid månad 18) levererar i Indien, Kambodja och Kenya, når 500 000 registrerade jordbrukare och driver tre namngivna applikationsvägar under den finansierade perioden: AE-certifiering med",
+      "_title_sha": "dbb01b862f09",
+      "_summary_sha": "e51445e638ce"
     },
     {
       "id": "gov:gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
@@ -112,22 +128,6 @@
       "summary_sv": "Proposal som pdf: [här](https://ipnso-com.ipns.dweb.link/?cid=QmbrCWbfcJYUeBVzTkqRFUNej86YAcEwiDkQNgY2gWrq1X)\n\nCardano Vision 2026 (CV26) levererar en strukturerad, end-to-end-innovationspipeline som översätter grundforskning till driftsatta systemfunktioner och mätbar påverkan. Med utgångspunkt i CV25, där leveransen överträffade målen med 20%, genomförs programmet genom en integrerad IO Research-leveransmodell som kombinerar forskning (IOR), tillämpad ingenjörsvetenskap (ARC) och produktjustering (Cardano Business Unit).\n\nCV26 är förankrad i 3 prioriteringar.\n\n* Användarcentrerad design förbättra",
       "_title_sha": "ecea33ce1c50",
       "_summary_sha": "772aca6525b7"
-    },
-    {
-      "id": "gov:gov_action19avrmrhm0gqa4qwlgvh4vxj6nwe02ay42h828cva2zt6n0asddfqqtgph5d",
-      "proposal_id": "gov_action19avrmrhm0gqa4qwlgvh4vxj6nwe02ay42h828cva2zt6n0asddfqqtgph5d",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 628,
-      "expiration_epoch": 635,
-      "title_en": "[OriLife × TonFarm] Identifying 180 Million Durians Without Physical Labels",
-      "summary_en": "**OriLife Alliance proposes 2,400,000 ADA from the Cardano Treasury to deploy tamper-evident traceability across 12,000 hectares of durian in Đắk Lắk, Vietnam — before the December 1, 2026 deadline ([Article 15, Circular 11/2026/TT-BCT](https://chinhphu.vn/?pageid=27160&docid=217126&classid=0)).**\n\nThis is not a research grant. The PoC works today: AI fruit identification is live at [orilife.io/demo](https://www.orilife.io/demo), VeData batching is [verified on Cardano Preprod](https://preprod.cardanoscan.io/transaction/a8dd2f28d7b4d4a162d752070d839496e671f608abde9bb95a021cbbe7574dde), and far",
-      "url": "https://gov.tools/governance_actions/gov_action19avrmrhm0gqa4qwlgvh4vxj6nwe02ay42h828cva2zt6n0asddfqqtgph5d",
-      "block_time": "2026-05-04T06:15:29.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "[OriLife × TonFarm] Identifiera 180 miljoner durianfrukter utan fysiska etiketter",
-      "summary_sv": "OriLife Alliance föreslår 2 400 000 ADA från Cardano Treasury för att genomföra tamper-evident spårbarhet över 12 000 hektar durian i Đắk Lắk, Vietnam — före deadline 1 december 2026 (Artikel 15, Circular 11/2026/TT-BCT).\n\nDet här är inte ett forskningsbidrag. PoC fungerar idag: AI-fruktidentifiering är live på orilife.io/demo, VeData-batching är verifierad på Cardano Preprod, och långt senare",
-      "_title_sha": "61803890a859",
-      "_summary_sha": "24bffaebc6b9"
     }
   ]
 }
