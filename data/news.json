@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-21T00:15:36.977Z",
+  "fetched_at": "2026-05-21T05:16:39.239Z",
   "items": [
+    {
+      "id": "forum:154675",
+      "source": "Cardano Forum",
+      "title_en": "USDCx上线表现与生态影响",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/usdcx/154675",
+      "date": "2026-05-21T01:47:16.353Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "USDCx:s lanseringens prestation och ekosystemets påverkan",
+      "summary_sv": "",
+      "_title_sha": "be2c40f2ac90",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154668",
       "source": "Cardano Forum",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/developer-office-hours-62-odatano-bringing-cardano-to-sap-environments/154645",
       "date": "2026-05-19T08:38:30.379Z",
-      "score": 2,
+      "score": 3,
       "comments": 0,
       "title_sv": "Utvecklarkontorstid #62 - ODATANO: Att ta Cardano till SAP-miljöer",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Gemenskapen vill veta - S2 - avsnitt 5 - Bifrost, Fluid token",
       "summary_sv": "",
       "_title_sha": "91230120d6b3",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154614",
-      "source": "Cardano Forum",
-      "title_en": "CIP: Utilization Scaled Pledge Bonus — The Multi-Pool Buster",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cip-utilization-scaled-pledge-bonus-the-multi-pool-buster/154614",
-      "date": "2026-05-17T01:23:08.033Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "CIP: Utnyttjandegraderad Lånebonus — Den multi-pool-busterande (Multi-Pool Buster)",
-      "summary_sv": "",
-      "_title_sha": "81171ecaf796",
       "_summary_sha": ""
     },
     {
