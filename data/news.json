@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-05-22T04:23:59.454Z",
+  "fetched_at": "2026-05-22T08:29:54.386Z",
   "items": [
+    {
+      "id": "forum:154701",
+      "source": "Cardano Forum",
+      "title_en": ":vietnam: Cardano Event - Networking Day 2026 — Blockchain Startups: Building in the AI Era",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-event-networking-day-2026-blockchain-startups-building-in-the-ai-era/154701",
+      "date": "2026-05-22T07:54:55.120Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Vietnam: Cardano-evenemang - Nätverksdag 2026 — Blockchain- startups: Bygga i AI-eran",
+      "summary_sv": "",
+      "_title_sha": "57a0021feee3",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:154698",
+      "source": "Cardano Forum",
+      "title_en": "DRC Community: Plus que 4 jours avant notre première session communautaire Cardano & Web3",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/drc-community-plus-que-4-jours-avant-notre-premiere-session-communautaire-cardano-web3/154698",
+      "date": "2026-05-22T07:38:53.916Z",
+      "score": 2,
+      "comments": 0,
+      "title_sv": "DRC-samhället: Plus que 4 jours avant notre première session communautaire Cardano & Web3\n\nNote: The user provided French text. We must translate to Swedish. The instruction: maintain technical terms in English. However the sentence is in French: \"DRC Community: Plus que 4 jours avant notre première session communautaire Cardano & Web3\" Translation: \"DRC-samhället: Bara 4 dagar kvar till vår första Community-sessie Cardano & Web3\" But we should translate to Swedish, keep terms like Cardano, Web3, DRC, etc. \"session communautaire\" is French for \"community session\" -> \"gemenskapsession\" or \"community session\" Swedish: \"gemenskapssession\" or \"community-session\" but better \"gemenskapsmöte\". \"Plus que 4 jours avant\" = \"endast 4 dagar kvar innan\". \"notial\": So final: \"DRC-samhället: Endast 4 dagar kvar till vår första gemenskapsmöte Cardano & Web3\". Use hyphen: \"DRC Community\" Swedish: They want Swedish translation; maybe \"DRC-samhället\". Use \"Community\" as \"gemenskap\". The instruction says keep technical terms in English where established; \"Community\" might be \"community\" but it's okay to \"gemenskap\". I'll produce: \"DRC-samhället: Endast 4 dagar kvar till vår första gemenskapsmöte Cardano & Web3\". But \"gemenskapsmöte\" is ok. I'll output only the Swedish translation.",
+      "summary_sv": "",
+      "_title_sha": "9b3e5602ffc1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154695",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Säkra Mithril-fortsättning för Cardano — Intersect-förslag lämnades in för Q3/Q4 2026",
       "summary_sv": "",
       "_title_sha": "db8266193df0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154645",
-      "source": "Cardano Forum",
-      "title_en": "Developer Office Hours #62 - ODATANO: Bringing Cardano to SAP Environments",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developer-office-hours-62-odatano-bringing-cardano-to-sap-environments/154645",
-      "date": "2026-05-19T08:38:30.379Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Utvecklarens kontorstid #62 - ODATANO: Att ta Cardano till SAP-miljöer",
-      "summary_sv": "",
-      "_title_sha": "4a11e195fb56",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154640",
-      "source": "Cardano Forum",
-      "title_en": "“Just Convert to Stablecoins” Is Not a Treasury Plan",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/just-convert-to-stablecoins-is-not-a-treasury-plan/154640",
-      "date": "2026-05-18T21:28:15.858Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "”Just Convert to Stablecoins” är inte en treasury-plan",
-      "summary_sv": "",
-      "_title_sha": "1c7f108f1368",
       "_summary_sha": ""
     },
     {
