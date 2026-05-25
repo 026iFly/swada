@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-25T19:54:54.956Z",
+  "fetched_at": "2026-05-25T21:20:08.755Z",
   "items": [
+    {
+      "id": "forum:154742",
+      "source": "Cardano Forum",
+      "title_en": "Global Pizza Party 2026 – Tamale, Ghana🍕",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/global-pizza-party-2026-tamale-ghana/154742",
+      "date": "2026-05-25T20:57:47.875Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Global pizza party 2026 – Tamale, Ghana🍕",
+      "summary_sv": "",
+      "_title_sha": "5981c22e7101",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154738",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/strengthening-long-term-revenue-streams-a-thought-on-consumer-app-vc/154738",
       "date": "2026-05-25T15:23:34.867Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Stärkning av långsiktiga intäktsströmmar: En tanke om konsumentapp-VC",
       "summary_sv": "",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/voting-closes-soon-the-cardano-summit-2026-proposal-needs-your-vote/154726",
       "date": "2026-05-25T12:18:20.122Z",
-      "score": 2,
+      "score": 3,
       "comments": 1,
       "title_sv": "Rösterna stänger snart. Cardano Summit 2026-förslaget behöver din röst",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "DRC-samhället: Plus que 4 jours avant notre première session communautaire Cardano & Web3\n\nNote: The user provided French text. We must translate to Swedish. The instruction: maintain technical terms in English. However the sentence is in French: \"DRC Community: Plus que 4 jours avant notre première session communautaire Cardano & Web3\" Translation: \"DRC-samhället: Bara 4 dagar kvar till vår första Community-sessie Cardano & Web3\" But we should translate to Swedish, keep terms like Cardano, Web3, DRC, etc. \"session communautaire\" is French for \"community session\" -> \"gemenskapsession\" or \"community session\" Swedish: \"gemenskapssession\" or \"community-session\" but better \"gemenskapsmöte\". \"Plus que 4 jours avant\" = \"endast 4 dagar kvar innan\". \"notial\": So final: \"DRC-samhället: Endast 4 dagar kvar till vår första gemenskapsmöte Cardano & Web3\". Use hyphen: \"DRC Community\" Swedish: They want Swedish translation; maybe \"DRC-samhället\". Use \"Community\" as \"gemenskap\". The instruction says keep technical terms in English where established; \"Community\" might be \"community\" but it's okay to \"gemenskap\". I'll produce: \"DRC-samhället: Endast 4 dagar kvar till vår första gemenskapsmöte Cardano & Web3\". But \"gemenskapsmöte\" is ok. I'll output only the Swedish translation.",
       "summary_sv": "",
       "_title_sha": "9b3e5602ffc1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154695",
-      "source": "Cardano Forum",
-      "title_en": "Cardano에 출시되는 Pyth Network Pro",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-pyth-network-pro/154695",
-      "date": "2026-05-22T03:04:17.653Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Pyth Network Pro som lanseras på Cardano",
-      "summary_sv": "",
-      "_title_sha": "c50642c7a90e",
       "_summary_sha": ""
     },
     {
