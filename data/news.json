@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-25T09:05:01.021Z",
+  "fetched_at": "2026-05-25T12:42:23.347Z",
   "items": [
+    {
+      "id": "forum:154726",
+      "source": "Cardano Forum",
+      "title_en": "Voting Closes Soon. The Cardano Summit 2026 Proposal Needs Your Vote",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/voting-closes-soon-the-cardano-summit-2026-proposal-needs-your-vote/154726",
+      "date": "2026-05-25T12:18:20.122Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Rösterna stänger snart. Cardano Summit 2026-förslaget behöver din röst",
+      "summary_sv": "",
+      "_title_sha": "099a5e4b8fe4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154713",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: DUBBING Om Vetenskap | CH 20 maj 2026",
       "summary_sv": "",
       "_title_sha": "f74fd68d197d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154675",
-      "source": "Cardano Forum",
-      "title_en": "USDCx上线表现与生态影响",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/usdcx/154675",
-      "date": "2026-05-21T01:47:16.353Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "USDCx lanseringens prestation och ekosystempåverkan",
-      "summary_sv": "",
-      "_title_sha": "be2c40f2ac90",
       "_summary_sha": ""
     },
     {
