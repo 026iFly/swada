@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T16:51:50.253Z",
+  "fetched_at": "2026-05-26T19:26:07.735Z",
   "items": [
     {
       "id": "gov:gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
@@ -12,8 +12,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
       "block_time": "2026-05-26T16:18:46.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Uppdatera Plutus-kostnadsmodeller",
+      "summary_sv": "Intersect's Parameter Committee föreslår att uppdatera Plutus V3-kostnadsmodellen via en Parameter Update governance action för att möjliggöra de nya Plutus-primitiven som kommer att vara tillgängliga efter van Rossem-hard fork (till Protokollversion 11), för att möjliggöra samtliga Plutus-primitiver i Plutus V1 och V2 såväl som Plutus V3, och att ändra inställningar för några befintliga Plutus-primitiver. Observera att de nya primitivena inte kommer att aktiveras i Protokollversion 10, utan först efter verkställandet av hard fork till Protokollversion 11. Men ändringarna för befintliga primitiv kommer att ske omedelbart vid verkställandet.",
       "_title_sha": "ab8948d8cd55",
       "_summary_sha": "d2f4ef70647b"
     },
