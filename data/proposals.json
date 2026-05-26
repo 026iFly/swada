@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-05-26T08:40:11.554Z",
+  "fetched_at": "2026-05-26T16:51:50.253Z",
   "items": [
+    {
+      "id": "gov:gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
+      "proposal_id": "gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
+      "type": "ParameterChange",
+      "proposed_epoch": 633,
+      "expiration_epoch": 640,
+      "title_en": "Update Plutus Cost Models",
+      "summary_en": "Intersect's Parameter Committee proposes to update the Plutus V3 Cost Model via a Parameter Update governance action to enable the new Plutus primitives that will be available following the van Rossem hard fork (to Protocol Version 11), to enable all Plutus primitives in Plutus V1 and V2 as well as Plutus V3, and to change settings for some existing Plutus primitives. Note that the new primitives will not be enabled in Protocol version 10, but only following the enactment of the hard fork to Protocol Version 11.  However, the changes for existing primitives will happen immediately on enactment",
+      "url": "https://gov.tools/governance_actions/gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
+      "block_time": "2026-05-26T16:18:46.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "ab8948d8cd55",
+      "_summary_sha": "d2f4ef70647b"
+    },
     {
       "id": "gov:gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
       "proposal_id": "gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
@@ -96,22 +112,6 @@
       "summary_sv": "Harmonic Laboratories (HLabs förkortat) är ett FoU-företag som fötts upp och fokuserat helt på Cardano-ekosystemet.\n\nHarmonic Laboratories stöder och underhåller en betydande del av TypeScript-verktygen för Cardano-ekosystemet, vilka majoriteten av Cardano-utvecklare använder, antingen direkt eller indirekt via andra bibliotek som beror på kod som skrivits och underhålls av HLabs.\n\nHLabs uppdrag är att verklig decentralisering ska bli baslinjen för applikationsutveckling, inte bara en trevlig extrafunktion.\n\nDetta förslag finansierar två kompletterande ingenjörsgrenar:\n\n- [Pebble](https://github.",
       "_title_sha": "5baa1380ef17",
       "_summary_sha": "b8b0529482e5"
-    },
-    {
-      "id": "gov:gov_action1guz68e8zkwphcdc8wnp40cclkv92qgnel7xnffmsmp2ljp09qtwqq596k4c",
-      "proposal_id": "gov_action1guz68e8zkwphcdc8wnp40cclkv92qgnel7xnffmsmp2ljp09qtwqq596k4c",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 629,
-      "expiration_epoch": 636,
-      "title_en": "The first node in the browser; a Cardano USP",
-      "summary_en": "Harmonic Laboratories (HLabs for short) is an R&D firm born and focused solely on the Cardano ecosystem.\n\nHarmonic Laboratories supports and maintains a considerable portion of the TypeScript tooling for the Cardano ecosystem, which the majority of Cardano developers use, either directly, or indirectly via other libraries that depend on code written and maintained by HLabs.\n\nThe mission of HLabs is for true decentralization to become the baseline of application development, not only a nice-to-have feature.\n\nThis proposal funds [Gerolamo](https://github.com/HarmonicLabs/gerolamo), the first pro",
-      "url": "https://gov.tools/governance_actions/gov_action1guz68e8zkwphcdc8wnp40cclkv92qgnel7xnffmsmp2ljp09qtwqq596k4c",
-      "block_time": "2026-05-04T22:23:43.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Den första noden i webbläsaren; en Cardano USP.",
-      "summary_sv": "Harmonic Laboratories (HLabs för kort) är ett FoU-företag fött och koncentrerat främst på Cardano-ekosystemet.\n\nHarmonic Laboratories stödjer och upprätthåller en betydande del av TypeScript-verktygen för Cardano-ekosystemet, vilka majoriteten av Cardano-utvecklare använder, antingen direkt eller indirekt via andra bibliotek som beror på kod skriven och underhållen av HLabs.\n\nHLabs uppdrag är att riktig decentralisering ska bli baslinjen för applikationsutveckling, inte bara en funktion man kan ha om man vill.\n\nDetta förslag finansierar [Gerolamo](https://github.com/HarmonicLabs/gerolamo), den första pro",
-      "_title_sha": "2b7caf320192",
-      "_summary_sha": "46cba2edbc26"
     },
     {
       "id": "gov:gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
