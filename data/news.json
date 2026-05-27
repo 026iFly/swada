@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-26T23:18:22.274Z",
+  "fetched_at": "2026-05-27T04:43:52.465Z",
   "items": [
+    {
+      "id": "forum:154757",
+      "source": "Cardano Forum",
+      "title_en": "[2026년 5월] Van Rossem 하드포크, 카르다노 역사상 가장 중요한 온체인 거버넌스 표결 임박",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-5-van-rossem/154757",
+      "date": "2026-05-26T23:34:11.758Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "[maj 2026] Van Rossem hård-förgrening/hard fork, den mest betydelsefulla on-chain governance-omröstningen i Cardanos historia närmar sig",
+      "summary_sv": "",
+      "_title_sha": "216623643f1a",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154756",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Global pizza party 2026 – Tamale, Ghana🍕",
       "summary_sv": "",
       "_title_sha": "5981c22e7101",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154738",
-      "source": "Cardano Forum",
-      "title_en": "Strengthening Long‑Term Revenue Streams: A Thought on Consumer‑App VC",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/strengthening-long-term-revenue-streams-a-thought-on-consumer-app-vc/154738",
-      "date": "2026-05-25T15:23:34.867Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Stärkning av långsiktiga intäktsströmmar: En tanke om konsumentapp-VC",
-      "summary_sv": "",
-      "_title_sha": "0585ddb2e02c",
       "_summary_sha": ""
     },
     {
