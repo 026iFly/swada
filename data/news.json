@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-28T19:42:30.555Z",
+  "fetched_at": "2026-05-28T22:03:40.428Z",
   "items": [
+    {
+      "id": "forum:154784",
+      "source": "Cardano Forum",
+      "title_en": "Governance Hour #7 - Tweag Core Cardano Infrastructure (2 June, 16:00-17:00 UTC)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-hour-7-tweag-core-cardano-infrastructure-2-june-1600-utc/154784",
+      "date": "2026-05-28T19:56:50.004Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Styrenhetstimmen #7 - Tweag Core Cardano Infrastructure (2 juni, 16:00–17:00 UTC)",
+      "summary_sv": "",
+      "_title_sha": "46d09e0b8b79",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154783",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning den 26 maj 2026: Hackathon Gimbalabs Piece of the Pie 2026 • Uppdateringar av Cardano-förbättringsförslag (CIP) • Publicering av Aiken version 1.1.22 • Cardano-toppmötet 2026: DReps, din röst räknas",
       "summary_sv": "",
       "_title_sha": "24ce95b72247",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154755",
-      "source": "Cardano Forum",
-      "title_en": "Land records",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/land-records/154755",
-      "date": "2026-05-26T15:33:01.031Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Lantregistre",
-      "summary_sv": "",
-      "_title_sha": "4ac7c46f188e",
       "_summary_sha": ""
     },
     {
