@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-28T04:24:02.931Z",
+  "fetched_at": "2026-05-28T08:51:23.375Z",
   "items": [
+    {
+      "id": "forum:154773",
+      "source": "Cardano Forum",
+      "title_en": "[2026년 5월] CLARITY Act, 미국 상원 위원회 통과로 ADA 상품 분류 길 열려",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-5-clarity-act-ada/154773",
+      "date": "2026-05-28T08:46:39.156Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "[Maj 2026] CLARITY Act godkänd av USA:s senatens kommitté öppnar dörren för ADA-tillgångsklassificering",
+      "summary_sv": "",
+      "_title_sha": "03baf672945e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154772",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSKA DUBBNING 12 år Efter TEDx: Charles Hoskinson Återvänder till Bermudas | IOG 25 maj 2026",
       "summary_sv": "",
       "_title_sha": "de4a53816c0f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154752",
-      "source": "Cardano Forum",
-      "title_en": "Digest May 26, 2026: Gimbalabs Piece of the Pie Hackathon 2026 • Cardano Improvement Proposals (CIPs) Updates • Aiken version 1.1.22 Released • Cardano Summit 2026: DReps, Your Vote Matters",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-may-26-2026-gimbalabs-piece-of-the-pie-hackathon-2026-cardano-improvement-proposals-cips-updates-aiken-version-1-1-22-released-cardano-summit-2026-dreps-your-vote-matters/154752",
-      "date": "2026-05-26T13:01:37.665Z",
-      "score": 5,
-      "comments": 3,
-      "title_sv": "Digest 26 maj 2026: Gimbalabs Piece of the Pie Hackathon 2026 • Cardano Improvement Proposals (CIPs) Updates • Aiken version 1.1.22 Released • Cardano Summit 2026: DReps, Your Vote Matters",
-      "summary_sv": "",
-      "_title_sha": "f1df1c96d06a",
       "_summary_sha": ""
     },
     {
