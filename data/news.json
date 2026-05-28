@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-28T12:41:04.778Z",
+  "fetched_at": "2026-05-28T17:00:47.490Z",
   "items": [
+    {
+      "id": "forum:154783",
+      "source": "Cardano Forum",
+      "title_en": "From Onboarding to Participation: Recap of the First DR Congo Community Call",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/from-onboarding-to-participation-recap-of-the-first-dr-congo-community-call/154783",
+      "date": "2026-05-28T16:12:57.045Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Från onboarding till deltagande: Sammanfattning av det första DR Congo Community Call",
+      "summary_sv": "",
+      "_title_sha": "706107813576",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154773",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Lantregistre",
       "summary_sv": "",
       "_title_sha": "4ac7c46f188e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154753",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING 12 años Después del TEDx: Charles Hoskinson Vuelve a Bermudas | IOG 25 May 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-12-anos-despues-del-tedx-charles-hoskinson-vuelve-a-bermudas-iog-25-may-2026/154753",
-      "date": "2026-05-26T13:44:42.242Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSKA DUBBNING 12 år Efter TEDx: Charles Hoskinson Återvänder till Bermudas | IOG 25 maj 2026",
-      "summary_sv": "",
-      "_title_sha": "de4a53816c0f",
       "_summary_sha": ""
     },
     {
