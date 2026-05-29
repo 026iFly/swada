@@ -1,22 +1,6 @@
 {
-  "fetched_at": "2026-05-29T19:38:17.000Z",
+  "fetched_at": "2026-05-29T22:01:11.193Z",
   "items": [
-    {
-      "id": "gov:gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
-      "proposal_id": "gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
-      "type": "ParameterChange",
-      "proposed_epoch": 633,
-      "expiration_epoch": 640,
-      "title_en": "Update Plutus Cost Models",
-      "summary_en": "Intersect's Parameter Committee proposes to update the Plutus V3 Cost Model via a Parameter Update governance action to enable the new Plutus primitives that will be available following the van Rossem hard fork (to Protocol Version 11), to enable all Plutus primitives in Plutus V1 and V2 as well as Plutus V3, and to change settings for some existing Plutus primitives. Note that the new primitives will not be enabled in Protocol version 10, but only following the enactment of the hard fork to Protocol Version 11.  However, the changes for existing primitives will happen immediately on enactment",
-      "url": "https://gov.tools/governance_actions/gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
-      "block_time": "2026-05-26T16:18:46.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Uppdatera Plutus-kostnadsmodeller",
-      "summary_sv": "Intersect's Parameter Committee föreslår att uppdatera Plutus V3-kostnadsmodellen via en Parameter Update governance action för att möjliggöra de nya Plutus-primitiven som kommer att vara tillgängliga efter van Rossem-hard fork (till Protokollversion 11), för att möjliggöra samtliga Plutus-primitiver i Plutus V1 och V2 såväl som Plutus V3, och att ändra inställningar för några befintliga Plutus-primitiver. Observera att de nya primitivena inte kommer att aktiveras i Protokollversion 10, utan först efter verkställandet av hard fork till Protokollversion 11. Men ändringarna för befintliga primitiv kommer att ske omedelbart vid verkställandet.",
-      "_title_sha": "ab8948d8cd55",
-      "_summary_sha": "d2f4ef70647b"
-    },
     {
       "id": "gov:gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
       "proposal_id": "gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
@@ -32,6 +16,22 @@
       "summary_sv": "Huvudmålet med detta förslag är att stärka och utöka Cardanos globala ekosystemnärvaro genom Rare Evo 2026 och Rare Dev Gov Day 2026, två etablerade samhällsledda initiativ som har blivit centrala plattformar för samordning, onboarding, nätverkande, governance och branschdialog inom Cardano-ekosystemet.\n\nDetta förslag skulle positionera Cardano-ekosystemet som titelsponsor för Rare Evo 2026 huvudscen och global live-sändning, samtidigt som det stödjer det andra årliga Rare Dev Gov Day, ett dedikerat Cardano-fokuserat tekniskt, governance- och samhällskoordinationsarrangemang occ",
       "_title_sha": "a2939fc4cf60",
       "_summary_sha": "9ab2b1e3b377"
+    },
+    {
+      "id": "gov:gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
+      "proposal_id": "gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
+      "type": "ParameterChange",
+      "proposed_epoch": 633,
+      "expiration_epoch": 640,
+      "title_en": "Update Plutus Cost Models",
+      "summary_en": "Intersect's Parameter Committee proposes to update the Plutus V3 Cost Model via a Parameter Update governance action to enable the new Plutus primitives that will be available following the van Rossem hard fork (to Protocol Version 11), to enable all Plutus primitives in Plutus V1 and V2 as well as Plutus V3, and to change settings for some existing Plutus primitives. Note that the new primitives will not be enabled in Protocol version 10, but only following the enactment of the hard fork to Protocol Version 11.  However, the changes for existing primitives will happen immediately on enactment",
+      "url": "https://gov.tools/governance_actions/gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
+      "block_time": "2026-05-26T16:18:46.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Uppdatera Plutus-kostnadsmodeller",
+      "summary_sv": "Intersect's Parameter Committee föreslår att uppdatera Plutus V3-kostnadsmodellen via en Parameter Update governance action för att möjliggöra de nya Plutus-primitiven som kommer att vara tillgängliga efter van Rossem-hard fork (till Protokollversion 11), för att möjliggöra samtliga Plutus-primitiver i Plutus V1 och V2 såväl som Plutus V3, och att ändra inställningar för några befintliga Plutus-primitiver. Observera att de nya primitivena inte kommer att aktiveras i Protokollversion 10, utan först efter verkställandet av hard fork till Protokollversion 11. Men ändringarna för befintliga primitiv kommer att ske omedelbart vid verkställandet.",
+      "_title_sha": "ab8948d8cd55",
+      "_summary_sha": "d2f4ef70647b"
     },
     {
       "id": "gov:gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
@@ -82,22 +82,6 @@
       "_summary_sha": "cd6af20fc2df"
     },
     {
-      "id": "gov:gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
-      "proposal_id": "gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 630,
-      "expiration_epoch": 637,
-      "title_en": "Cardano dOSPO and OMF Program",
-      "summary_en": "Cardano's infrastructure depends on open source software maintained by a handful of individuals with no formal support, succession planning, or continuity funding. Research shows 96% of commercial codebases contain OSS with fewer than 10 contributors. Critical protocol libraries, wallet SDKs, developer tooling, and indexing infrastructure have single maintainers, no succession plans, and no stable funding beyond episodic grants.\n\nThis program establishes a community-governed, data-driven open source sustainment architecture. Funded through direct treasury withdrawal, operated by an independent",
-      "url": "https://gov.tools/governance_actions/gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
-      "block_time": "2026-05-11T17:34:46.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Cardano dOSPO och OMF-program",
-      "summary_sv": "Cardano-infrastrukturen bygger på öppen källkod som underhålls av ett fåtal personer utan formell support, successionsplanering eller kontinuitetsfinansiering. Forskning visar att 96 % av kommersiella kodbaser innehåller OSS med färre än 10 bidragsgivare. Kritiska protokollbibliotek, plånboks-SDK:er, utvecklarverktyg och indexeringsinfrastruktur har enskilda underhållare, inga successorsplaner och ingen stabil finansiering utöver episodiska bidrag.\n\nDetta program etablerar en samhällsstyrd, data-driven öppen källkodsunderhållsarkitektur. Finansieras genom direkt uttag ur treasury, drift av en oberoende",
-      "_title_sha": "7df1e753a7a9",
-      "_summary_sha": "6d1f1a3f9a1c"
-    },
-    {
       "id": "gov:gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
       "proposal_id": "gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
       "type": "TreasuryWithdrawals",
@@ -112,6 +96,22 @@
       "summary_sv": "Cardano rör sig framåt. Protokolet uppgraderingar, kritiska integrationer, DeFi-likviditet och riskkapital sammanfaller. Men nästa flaskhals är inte längre kärninfrastruktur, utan applikationsleverans.\n\nTeamen kämpar fortfarande med att leverera icke-triviala applikationer eftersom de själva måste bemästra och sammanfoga så många rörliga delar: smart contracts, formell verifiering, block kedjeåtkomst, drift och skalning. Ekosystemet saknar inte verktyg. Det saknar en integrerad applikationsplattform som har allt och bara fungerar.\n\n[Scalus](https://scalus.org/) byggdes för att hantera just denna flaskhals. Det är en etablerad...",
       "_title_sha": "c7b574f15b45",
       "_summary_sha": "cd32135937ed"
+    },
+    {
+      "id": "gov:gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
+      "proposal_id": "gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 630,
+      "expiration_epoch": 637,
+      "title_en": "Cardano dOSPO and OMF Program",
+      "summary_en": "Cardano's infrastructure depends on open source software maintained by a handful of individuals with no formal support, succession planning, or continuity funding. Research shows 96% of commercial codebases contain OSS with fewer than 10 contributors. Critical protocol libraries, wallet SDKs, developer tooling, and indexing infrastructure have single maintainers, no succession plans, and no stable funding beyond episodic grants.\n\nThis program establishes a community-governed, data-driven open source sustainment architecture. Funded through direct treasury withdrawal, operated by an independent",
+      "url": "https://gov.tools/governance_actions/gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
+      "block_time": "2026-05-11T17:34:46.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Cardano dOSPO och OMF-program",
+      "summary_sv": "Cardano-infrastrukturen bygger på öppen källkod som underhålls av ett fåtal personer utan formell support, successionsplanering eller kontinuitetsfinansiering. Forskning visar att 96 % av kommersiella kodbaser innehåller OSS med färre än 10 bidragsgivare. Kritiska protokollbibliotek, plånboks-SDK:er, utvecklarverktyg och indexeringsinfrastruktur har enskilda underhållare, inga successorsplaner och ingen stabil finansiering utöver episodiska bidrag.\n\nDetta program etablerar en samhällsstyrd, data-driven öppen källkodsunderhållsarkitektur. Finansieras genom direkt uttag ur treasury, drift av en oberoende",
+      "_title_sha": "7df1e753a7a9",
+      "_summary_sha": "6d1f1a3f9a1c"
     },
     {
       "id": "gov:gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
