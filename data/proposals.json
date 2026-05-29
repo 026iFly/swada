@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-29T16:51:52.349Z",
+  "fetched_at": "2026-05-29T19:38:17.000Z",
   "items": [
     {
       "id": "gov:gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
@@ -18,20 +18,20 @@
       "_summary_sha": "d2f4ef70647b"
     },
     {
-      "id": "gov:gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
-      "proposal_id": "gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
+      "id": "gov:gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
+      "proposal_id": "gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
       "type": "TreasuryWithdrawals",
-      "proposed_epoch": 632,
-      "expiration_epoch": 639,
-      "title_en": "Cardano Critical Integrations V2",
-      "summary_en": "This governance action requests the withdrawal of ₳23,000,000 (USD 5,750,000 based on $0.25c) from the Cardano Treasury to cover a focused ‘Year 2’ contracted cost and a 12-month enhancement & maintenance program for the critical integrations already delivered or currently being integrated under the first Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics, and a new full native integration of Fireblocks.\n\nThe CCI V2 initiative provides the necessary funding for the ongoing operation and optimization of infrastructure previously establis",
-      "url": "https://gov.tools/governance_actions/gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
-      "block_time": "2026-05-20T20:58:08.000Z",
+      "proposed_epoch": 633,
+      "expiration_epoch": 640,
+      "title_en": "Rare Evo and Dev Gov Day 2026: Cardano Title Sponsorship",
+      "summary_en": "The primary mission of this proposal is to strengthen and expand Cardano's global ecosystem presence through Rare Evo 2026 and Rare Dev Gov Day 2026, two established community-led initiatives that have become major coordination, onboarding, networking, governance, and industry outreach platforms for the Cardano ecosystem. \n\n**This proposal would position the Cardano ecosystem as the title sponsor of the Rare Evo 2026 main stage and global livestream, while also supporting the second annual Rare Dev Gov Day, a dedicated Cardano-focused technical, governance, and community coordination event occ",
+      "url": "https://gov.tools/governance_actions/gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
+      "block_time": "2026-05-29T17:58:46.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Cardano Kritiska integrationer V2",
-      "summary_sv": "Denna governance action begär uttag av ₳23,000,000 (USD 5,750,000 baserat på $0.25) från Cardano Treasury för att täcka ett fokuserat kostnadsavtal för år 2 och ett 12-månaders program för förbättring och underhåll av de kritiska integrationer som redan levererats eller för närvarande integreras under den första Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics och en ny fullständig inbyggd integration av Fireblocks.\n\nCCI V2-initiativet tillhandahåller nödvändigt finansiering för den pågående driften och optimeringen av infrastrukturen som tidigare etablerats",
-      "_title_sha": "40ee4ffee510",
-      "_summary_sha": "50d16a456931"
+      "title_sv": "Sällsynt Evo och Dev Gov Day 2026: Cardano-title Sponsorship",
+      "summary_sv": "Huvudmålet med detta förslag är att stärka och utöka Cardanos globala ekosystemnärvaro genom Rare Evo 2026 och Rare Dev Gov Day 2026, två etablerade samhällsledda initiativ som har blivit centrala plattformar för samordning, onboarding, nätverkande, governance och branschdialog inom Cardano-ekosystemet.\n\nDetta förslag skulle positionera Cardano-ekosystemet som titelsponsor för Rare Evo 2026 huvudscen och global live-sändning, samtidigt som det stödjer det andra årliga Rare Dev Gov Day, ett dedikerat Cardano-fokuserat tekniskt, governance- och samhällskoordinationsarrangemang occ",
+      "_title_sha": "a2939fc4cf60",
+      "_summary_sha": "9ab2b1e3b377"
     },
     {
       "id": "gov:gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
@@ -50,6 +50,22 @@
       "_summary_sha": "e51445e638ce"
     },
     {
+      "id": "gov:gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
+      "proposal_id": "gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 632,
+      "expiration_epoch": 639,
+      "title_en": "Cardano Critical Integrations V2",
+      "summary_en": "This governance action requests the withdrawal of ₳23,000,000 (USD 5,750,000 based on $0.25c) from the Cardano Treasury to cover a focused ‘Year 2’ contracted cost and a 12-month enhancement & maintenance program for the critical integrations already delivered or currently being integrated under the first Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics, and a new full native integration of Fireblocks.\n\nThe CCI V2 initiative provides the necessary funding for the ongoing operation and optimization of infrastructure previously establis",
+      "url": "https://gov.tools/governance_actions/gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
+      "block_time": "2026-05-20T20:58:08.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Cardano Kritiska integrationer V2",
+      "summary_sv": "Denna governance action begär uttag av ₳23,000,000 (USD 5,750,000 baserat på $0.25) från Cardano Treasury för att täcka ett fokuserat kostnadsavtal för år 2 och ett 12-månaders program för förbättring och underhåll av de kritiska integrationer som redan levererats eller för närvarande integreras under den första Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics och en ny fullständig inbyggd integration av Fireblocks.\n\nCCI V2-initiativet tillhandahåller nödvändigt finansiering för den pågående driften och optimeringen av infrastrukturen som tidigare etablerats",
+      "_title_sha": "40ee4ffee510",
+      "_summary_sha": "50d16a456931"
+    },
+    {
       "id": "gov:gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
       "proposal_id": "gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
       "type": "TreasuryWithdrawals",
@@ -64,22 +80,6 @@
       "summary_sv": "Eternl är en icke-förvaltad Cardano-lätt plånbok för webben, webbläsartillägg, Android och iOS.\n\nAnvändare förlitar sig på Eternl för betalningar, stake, governance och DApp-interaktion.\n\nDetta förslag möjliggör 12 månaders drift, underhåll och förbättringar. Det inkluderar frontend- och backend-underhåll och utveckling, backend-infrastruktur, användarsupport och dagliga driftaktiviteter.[^1]\n\nMålet är att hålla Eternl säker, kompatibel, stabil och tillgänglig samtidigt som Cardano fortsätter att utvecklas. Detta kostar cirka 420 000 USD per år.",
       "_title_sha": "0d8b435ee126",
       "_summary_sha": "cd6af20fc2df"
-    },
-    {
-      "id": "gov:gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
-      "proposal_id": "gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 630,
-      "expiration_epoch": 637,
-      "title_en": "Scalus: Cardano’s Application Platform for Building, Launching, and Scaling",
-      "summary_en": "Cardano is moving. Protocol upgrades, critical integrations, DeFi liquidity, and VC capital are aligning. But the next bottleneck is no longer core infrastructure, it is application delivery.\n\nTeams still struggle to ship non-trivial applications because they must master and assemble too many moving parts themselves: smart contracts, formal verification, chain access, operations, and scaling. The ecosystem does not lack tools. It lacks an integrated application platform that has it all and just works.\n\n[Scalus](https://scalus.org/) was built to address exactly this bottleneck. It is an establi",
-      "url": "https://gov.tools/governance_actions/gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
-      "block_time": "2026-05-14T15:09:43.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Scalus: Cardanos applikationsplattform för byggande, lansering och skalning",
-      "summary_sv": "Cardano rör sig framåt. Protokolet uppgraderingar, kritiska integrationer, DeFi-likviditet och riskkapital sammanfaller. Men nästa flaskhals är inte längre kärninfrastruktur, utan applikationsleverans.\n\nTeamen kämpar fortfarande med att leverera icke-triviala applikationer eftersom de själva måste bemästra och sammanfoga så många rörliga delar: smart contracts, formell verifiering, block kedjeåtkomst, drift och skalning. Ekosystemet saknar inte verktyg. Det saknar en integrerad applikationsplattform som har allt och bara fungerar.\n\n[Scalus](https://scalus.org/) byggdes för att hantera just denna flaskhals. Det är en etablerad...",
-      "_title_sha": "c7b574f15b45",
-      "_summary_sha": "cd32135937ed"
     },
     {
       "id": "gov:gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
@@ -98,20 +98,20 @@
       "_summary_sha": "6d1f1a3f9a1c"
     },
     {
-      "id": "gov:gov_action1ggr2uz7prwn5l84cdn2krwngfez0p7wluy4u3u3ez9pz5ls2whesqnsjly8",
-      "proposal_id": "gov_action1ggr2uz7prwn5l84cdn2krwngfez0p7wluy4u3u3ez9pz5ls2whesqnsjly8",
+      "id": "gov:gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
+      "proposal_id": "gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
       "type": "TreasuryWithdrawals",
-      "proposed_epoch": 629,
-      "expiration_epoch": 636,
-      "title_en": "Pebble & Ecosystem maintenance: TypeScript core of Cardano",
-      "summary_en": "Harmonic Laboratories (HLabs for short) is an R&D firm born and focused solely on the Cardano ecosystem.\n\nHarmonic Laboratories supports and maintains a considerable portion of the TypeScript tooling for the Cardano ecosystem, which the majority of Cardano developers use, either directly, or indirectly via other libraries that depend on code written and maintained by HLabs.\n\nThe mission of HLabs is for true decentralization to become the baseline of application development, not only a nice-to-have feature.\n\nThis proposal funds two complementary engineering tracks:\n\n- **[Pebble](https://github.",
-      "url": "https://gov.tools/governance_actions/gov_action1ggr2uz7prwn5l84cdn2krwngfez0p7wluy4u3u3ez9pz5ls2whesqnsjly8",
-      "block_time": "2026-05-04T22:37:49.000Z",
+      "proposed_epoch": 630,
+      "expiration_epoch": 637,
+      "title_en": "Scalus: Cardano’s Application Platform for Building, Launching, and Scaling",
+      "summary_en": "Cardano is moving. Protocol upgrades, critical integrations, DeFi liquidity, and VC capital are aligning. But the next bottleneck is no longer core infrastructure, it is application delivery.\n\nTeams still struggle to ship non-trivial applications because they must master and assemble too many moving parts themselves: smart contracts, formal verification, chain access, operations, and scaling. The ecosystem does not lack tools. It lacks an integrated application platform that has it all and just works.\n\n[Scalus](https://scalus.org/) was built to address exactly this bottleneck. It is an establi",
+      "url": "https://gov.tools/governance_actions/gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
+      "block_time": "2026-05-14T15:09:43.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Pebble och ekosystemunderhåll: Cardanos TypeScript-kärna",
-      "summary_sv": "Harmonic Laboratories (HLabs förkortat) är ett FoU-företag som fötts upp och fokuserat helt på Cardano-ekosystemet.\n\nHarmonic Laboratories stöder och underhåller en betydande del av TypeScript-verktygen för Cardano-ekosystemet, vilka majoriteten av Cardano-utvecklare använder, antingen direkt eller indirekt via andra bibliotek som beror på kod som skrivits och underhålls av HLabs.\n\nHLabs uppdrag är att verklig decentralisering ska bli baslinjen för applikationsutveckling, inte bara en trevlig extrafunktion.\n\nDetta förslag finansierar två kompletterande ingenjörsgrenar:\n\n- [Pebble](https://github.",
-      "_title_sha": "5baa1380ef17",
-      "_summary_sha": "b8b0529482e5"
+      "title_sv": "Scalus: Cardanos applikationsplattform för byggande, lansering och skalning",
+      "summary_sv": "Cardano rör sig framåt. Protokolet uppgraderingar, kritiska integrationer, DeFi-likviditet och riskkapital sammanfaller. Men nästa flaskhals är inte längre kärninfrastruktur, utan applikationsleverans.\n\nTeamen kämpar fortfarande med att leverera icke-triviala applikationer eftersom de själva måste bemästra och sammanfoga så många rörliga delar: smart contracts, formell verifiering, block kedjeåtkomst, drift och skalning. Ekosystemet saknar inte verktyg. Det saknar en integrerad applikationsplattform som har allt och bara fungerar.\n\n[Scalus](https://scalus.org/) byggdes för att hantera just denna flaskhals. Det är en etablerad...",
+      "_title_sha": "c7b574f15b45",
+      "_summary_sha": "cd32135937ed"
     },
     {
       "id": "gov:gov_action1ttgs45ulfxs0jwkfrecystc3flduhszmyzk8wnd7yw5za77tsg9qq4afmus",
