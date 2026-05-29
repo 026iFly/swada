@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-05-28T23:39:12.930Z",
+  "fetched_at": "2026-05-29T04:37:31.501Z",
   "items": [
+    {
+      "id": "forum:154787",
+      "source": "Cardano Forum",
+      "title_en": "[2026년 5월] 카르다노 월간 소식 모음",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-5/154787",
+      "date": "2026-05-29T00:57:47.165Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "[Maj 2026] Sammanställning av Cardano månadsnyheter",
+      "summary_sv": "",
+      "_title_sha": "a70e2a6b65da",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:154786",
+      "source": "Cardano Forum",
+      "title_en": "[2026년 5월] JPG Store 영구 폐쇄, 카르다노 NFT 생태계의 위기와 DeFi의 현주소",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-5-jpg-store-nft-defi/154786",
+      "date": "2026-05-29T00:49:24.770Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "[2026年5月] JPG Store permanent stängning, Cardano NFT-ekosystemets kris och DeFi:s nuvarande läge",
+      "summary_sv": "",
+      "_title_sha": "8686d98b1527",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154784",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano Nybörjare Support Space || Ep. 79",
       "summary_sv": "",
       "_title_sha": "a6a9d3bda9ac",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154757",
-      "source": "Cardano Forum",
-      "title_en": "[2026년 5월] Van Rossem 하드포크, 카르다노 역사상 가장 중요한 온체인 거버넌스 표결 임박",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-5-van-rossem/154757",
-      "date": "2026-05-26T23:34:11.758Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[maj 2026] Van Rossem hård-förgrening/hard fork, den mest betydelsefulla on-chain governance-omröstningen i Cardanos historia närmar sig",
-      "summary_sv": "",
-      "_title_sha": "216623643f1a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154756",
-      "source": "Cardano Forum",
-      "title_en": "Résumé du 26 mai 2026 : Hackathon Gimbalabs Piece of the Pie 2026 • Mises à jour des propositions d’amélioration de Cardano (CIP) • Publication d’Aiken version 1.1.22 • Sommet Cardano 2026 : DReps, votre vote compte",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/resume-du-26-mai-2026-hackathon-gimbalabs-piece-of-the-pie-2026-mises-a-jour-des-propositions-d-amelioration-de-cardano-cip-publication-d-aiken-version-1-1-22-sommet-cardano-2026-dreps-votre-vote-compte/154756",
-      "date": "2026-05-26T16:27:45.827Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Sammanfattning den 26 maj 2026: Hackathon Gimbalabs Piece of the Pie 2026 • Uppdateringar av Cardano-förbättringsförslag (CIP) • Publicering av Aiken version 1.1.22 • Cardano-toppmötet 2026: DReps, din röst räknas",
-      "summary_sv": "",
-      "_title_sha": "24ce95b72247",
       "_summary_sha": ""
     },
     {
