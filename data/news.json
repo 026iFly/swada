@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-29T04:37:31.501Z",
+  "fetched_at": "2026-05-29T08:49:46.857Z",
   "items": [
+    {
+      "id": "forum:154788",
+      "source": "Cardano Forum",
+      "title_en": "JPG Store의 영구 폐쇄로 보는 Cardano의 NFT 생태계 현황",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/jpg-store-cardano-nft/154788",
+      "date": "2026-05-29T08:00:17.293Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardanos NFT-ekosystemstatus i ljuset av JPG Stores permanenta stängning",
+      "summary_sv": "",
+      "_title_sha": "13d1707d26f1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154787",
       "source": "Cardano Forum",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/governance-hour-7-tweag-core-cardano-infrastructure-2-june-1600-utc/154784",
       "date": "2026-05-28T19:56:50.004Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Styrenhetstimmen #7 - Tweag Core Cardano Infrastructure (2 juni, 16:00–17:00 UTC)",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano Venture Hub: Cardano Accelerator Program",
       "summary_sv": "",
       "_title_sha": "abbf8f85fdf8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154769",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Newcomers Support Space || Ep. 79",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-newcomers-support-space-ep-79/154769",
-      "date": "2026-05-27T12:50:07.573Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Cardano Nybörjare Support Space || Ep. 79",
-      "summary_sv": "",
-      "_title_sha": "a6a9d3bda9ac",
       "_summary_sha": ""
     },
     {
