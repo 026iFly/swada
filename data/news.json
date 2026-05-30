@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-29T23:24:08.241Z",
+  "fetched_at": "2026-05-30T04:12:55.143Z",
   "items": [
+    {
+      "id": "forum:154797",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Epoch Calendar 2026: A Simple Guide for ADA Delegators",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-epoch-calendar-2026-a-simple-guide-for-ada-delegators/154797",
+      "date": "2026-05-30T01:37:27.211Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-epochkalender 2026: En enkel guide för ADA-delegatorer",
+      "summary_sv": "",
+      "_title_sha": "87cce1cb8d5b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154796",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-may-2026-ambassador-tooling-live-payment-infrastructure-and-community-core-offerings/154796",
       "date": "2026-05-29T21:35:37.172Z",
-      "score": 0,
+      "score": 3,
       "comments": 0,
       "title_sv": "(Public) Maj 2026: Ambassador Tooling Live, Payment Infrastructure och Community Core Offerings",
       "summary_sv": "",
@@ -92,25 +106,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/from-onboarding-to-participation-recap-of-the-first-dr-congo-community-call/154783",
       "date": "2026-05-28T16:12:57.045Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Från onboarding till deltagande: Sammanfattning av det första DR Congo Community Call",
       "summary_sv": "",
       "_title_sha": "706107813576",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154773",
-      "source": "Cardano Forum",
-      "title_en": "[2026년 5월] CLARITY Act, 미국 상원 위원회 통과로 ADA 상품 분류 길 열려",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-5-clarity-act-ada/154773",
-      "date": "2026-05-28T08:46:39.156Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[Maj 2026] CLARITY Act godkänd av USA:s senatens kommitté öppnar dörren för ADA-tillgångsklassificering",
-      "summary_sv": "",
-      "_title_sha": "03baf672945e",
       "_summary_sha": ""
     },
     {
