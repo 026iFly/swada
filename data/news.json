@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-30T12:11:09.754Z",
+  "fetched_at": "2026-05-30T14:45:24.408Z",
   "items": [
+    {
+      "id": "forum:154814",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Más allá de la Tarjeta: la Estrategia Blockchain de Mastercard | CF 23 May 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-mas-alla-de-la-tarjeta-la-estrategia-blockchain-de-mastercard-cf-23-may-2026/154814",
+      "date": "2026-05-30T13:29:35.023Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: DUBBING Bortom kortet: Mastercards blockchain-strategi | CF 23 maj 2026",
+      "summary_sv": "",
+      "_title_sha": "3919018798e4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154801",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "[2026年5月] JPG Store permanent stängning, Cardano NFT-ekosystemets kris och DeFi:s nuvarande läge",
       "summary_sv": "",
       "_title_sha": "8686d98b1527",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154784",
-      "source": "Cardano Forum",
-      "title_en": "Governance Hour #7 - Tweag Core Cardano Infrastructure (2 June, 16:00-17:00 UTC)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-hour-7-tweag-core-cardano-infrastructure-2-june-1600-utc/154784",
-      "date": "2026-05-28T19:56:50.004Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Styrenhetstimmen #7 - Tweag Core Cardano Infrastructure (2 juni, 16:00–17:00 UTC)",
-      "summary_sv": "",
-      "_title_sha": "46d09e0b8b79",
       "_summary_sha": ""
     },
     {
