@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-05-31T23:13:26.951Z",
+  "fetched_at": "2026-06-01T05:08:40.108Z",
   "items": [
+    {
+      "id": "forum:154833",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Budget Process 2026: Improving Proposer Track Record Data Through Manual Research",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-budget-process-2026-improving-proposer-track-record-data-through-manual-research/154833",
+      "date": "2026-05-31T23:55:02.281Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano Budget Process 2026: Förbättra upprättarspårningsdata för förslagsställare genom manuell forskning",
+      "summary_sv": "",
+      "_title_sha": "6a5d2ee99564",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154814",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "[Maj 2026] Sammanställning av Cardano månadsnyheter",
       "summary_sv": "",
       "_title_sha": "a70e2a6b65da",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154786",
-      "source": "Cardano Forum",
-      "title_en": "[2026년 5월] JPG Store 영구 폐쇄, 카르다노 NFT 생태계의 위기와 DeFi의 현주소",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-5-jpg-store-nft-defi/154786",
-      "date": "2026-05-29T00:49:24.770Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[2026年5月] JPG Store permanent stängning, Cardano NFT-ekosystemets kris och DeFi:s nuvarande läge",
-      "summary_sv": "",
-      "_title_sha": "8686d98b1527",
       "_summary_sha": ""
     },
     {
