@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-02T05:58:51.668Z",
+  "fetched_at": "2026-06-02T10:52:36.146Z",
   "items": [
+    {
+      "id": "forum:154854",
+      "source": "Cardano Forum",
+      "title_en": "Blockchain for AI course by Cardano Foundation",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/blockchain-for-ai-course-by-cardano-foundation/154854",
+      "date": "2026-06-02T09:44:47.718Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Blockchain för AI-kurs av Cardano Foundation",
+      "summary_sv": "",
+      "_title_sha": "fa4834b35efd",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154839",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/explore-cardano-campaign-represented-by-ayomi/154839",
       "date": "2026-06-01T13:01:37.586Z",
-      "score": 0,
-      "comments": 0,
+      "score": 2,
+      "comments": 1,
       "title_sv": "Utforska Cardano-kampanjen representerad av Ayomi",
       "summary_sv": "",
       "_title_sha": "389c34bdb34f",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/developers-office-hours-64-road-to-v1-0-for-elm-cardano-5-june/154836",
       "date": "2026-06-01T09:36:42.993Z",
-      "score": 2,
+      "score": 3,
       "comments": 0,
       "title_sv": "Utvecklare kontorstid #64 - Vägen mot v1.0 för elm-cardano (5 juni)",
       "summary_sv": "",
@@ -64,7 +78,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-budget-process-2026-improving-proposer-track-record-data-through-manual-research/154833",
       "date": "2026-05-31T23:55:02.281Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Cardano Budget Process 2026: Förbättra upprättarspårningsdata för förslagsställare genom manuell forskning",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Intersect Update #113 — 29 maj 2026",
       "summary_sv": "",
       "_title_sha": "999bb93a8922",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154797",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Epoch Calendar 2026: A Simple Guide for ADA Delegators",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-epoch-calendar-2026-a-simple-guide-for-ada-delegators/154797",
-      "date": "2026-05-30T01:37:27.211Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "Cardano Epoch-kalender 2026: En enkel guide för ADA-delegatorer",
-      "summary_sv": "",
-      "_title_sha": "87cce1cb8d5b",
       "_summary_sha": ""
     },
     {
