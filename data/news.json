@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-02T15:02:37.482Z",
+  "fetched_at": "2026-06-02T18:50:22.504Z",
   "items": [
+    {
+      "id": "forum:154863",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Ideas para el Summit | CH 2 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-ideas-para-el-summit-ch-2-jun-2026/154863",
+      "date": "2026-06-02T16:58:59.459Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Idéer för the Summit | CH 2 Jun 2026",
+      "summary_sv": "",
+      "_title_sha": "e0cd21669d45",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:154862",
+      "source": "Cardano Forum",
+      "title_en": "Attending The Linux Foundation Open Source Summit North America 2026 reinforced an important lesson: People are ready to learn more about blockchain",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/attending-the-linux-foundation-open-source-summit-north-america-2026-reinforced-an-important-lesson-people-are-ready-to-learn-more-about-blockchain/154862",
+      "date": "2026-06-02T15:36:19.910Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Att närvara vid Linux Foundation Open Source Summit North America 2026 stärkte en viktig lärdom: Människor är redo att lära sig mer om blockchain",
+      "summary_sv": "",
+      "_title_sha": "a447447656f9",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154854",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano Budget Process 2026: Förbättra upprättarspårningsdata för förslagsställare genom manuell forskning",
       "summary_sv": "",
       "_title_sha": "6a5d2ee99564",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154814",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Más allá de la Tarjeta: la Estrategia Blockchain de Mastercard | CF 23 May 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-mas-alla-de-la-tarjeta-la-estrategia-blockchain-de-mastercard-cf-23-may-2026/154814",
-      "date": "2026-05-30T13:29:35.023Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: DUBBING Bortom kortet: Mastercards blockchain-strategi | CF 23 maj 2026",
-      "summary_sv": "",
-      "_title_sha": "3919018798e4",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154801",
-      "source": "Cardano Forum",
-      "title_en": "Intersect Update #113 — May 29, 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/intersect-update-113-may-29-2026/154801",
-      "date": "2026-05-30T06:52:10.284Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Intersect Update #113 — 29 maj 2026",
-      "summary_sv": "",
-      "_title_sha": "999bb93a8922",
       "_summary_sha": ""
     },
     {
