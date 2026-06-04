@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-04T12:11:52.419Z",
+  "fetched_at": "2026-06-04T16:27:32.384Z",
   "items": [
+    {
+      "id": "forum:154890",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Newcomers Support || X Space || Episode 80",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-newcomers-support-x-space-episode-80/154890",
+      "date": "2026-06-04T14:01:49.826Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano Nybörjare Support || X Space || Avsnitt 80",
+      "summary_sv": "",
+      "_title_sha": "493a86dd0aaa",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:154888",
+      "source": "Cardano Forum",
+      "title_en": "Governance Hour #8 - 5am.earth Trust Layer Targeting Vision 2030 KPIs (09 June, 16:00-17:00 UTC)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-hour-8-5am-earth-trust-layer-targeting-vision-2030-kpis-09-june-1600-utc/154888",
+      "date": "2026-06-04T12:31:56.166Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Styrningstimmen #8 - 5am.earth Trust Layer Targeting Vision 2030 KPI:er (09 juni, 16:00–17:00 UTC)",
+      "summary_sv": "",
+      "_title_sha": "ba3b664b95b9",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154878",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Att närvara vid Linux Foundation Open Source Summit North America 2026 stärkte en viktig lärdom: Människor är redo att lära sig mer om blockchain",
       "summary_sv": "",
       "_title_sha": "a447447656f9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154854",
-      "source": "Cardano Forum",
-      "title_en": "Blockchain for AI course by Cardano Foundation",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/blockchain-for-ai-course-by-cardano-foundation/154854",
-      "date": "2026-06-02T09:44:47.718Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Blockchain för AI-kurs av Cardano Foundation",
-      "summary_sv": "",
-      "_title_sha": "fa4834b35efd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154839",
-      "source": "Cardano Forum",
-      "title_en": "Explore Cardano Campaign Represented by Ayomi",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/explore-cardano-campaign-represented-by-ayomi/154839",
-      "date": "2026-06-01T13:01:37.586Z",
-      "score": 3,
-      "comments": 1,
-      "title_sv": "Utforska Cardano-kampanjen representerad av Ayomi",
-      "summary_sv": "",
-      "_title_sha": "389c34bdb34f",
       "_summary_sha": ""
     },
     {
