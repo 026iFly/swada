@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-03T23:55:53.236Z",
+  "fetched_at": "2026-06-04T04:59:43.408Z",
   "items": [
+    {
+      "id": "forum:154878",
+      "source": "Cardano Forum",
+      "title_en": "2편: ADA는 어떻게 태어나고, 어떻게 줄어드는가 — 발행 구조와 준비금 메커니즘",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2-ada/154878",
+      "date": "2026-06-04T00:59:05.007Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Del 2: Hur ADA föds och hur den minskar — utgivningsstruktur och reservmekanism",
+      "summary_sv": "",
+      "_title_sha": "fcd8e960b5e8",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154871",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Utforska Cardano-kampanjen representerad av Ayomi",
       "summary_sv": "",
       "_title_sha": "389c34bdb34f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154836",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #64 - Road to v1.0 for elm-cardano (5 June)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-64-road-to-v1-0-for-elm-cardano-5-june/154836",
-      "date": "2026-06-01T09:36:42.993Z",
-      "score": 4,
-      "comments": 0,
-      "title_sv": "Utvecklare kontorstid #64 - Vägen mot v1.0 för elm-cardano (5 juni)",
-      "summary_sv": "",
-      "_title_sha": "b95149908a7d",
       "_summary_sha": ""
     },
     {
