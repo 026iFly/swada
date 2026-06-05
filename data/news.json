@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-05T12:17:39.649Z",
+  "fetched_at": "2026-06-05T16:07:51.117Z",
   "items": [
+    {
+      "id": "forum:154915",
+      "source": "Cardano Forum",
+      "title_en": "Tweag by Modus Create Proposal - Peras to mainnet",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/tweag-by-modus-create-proposal-peras-to-mainnet/154915",
+      "date": "2026-06-05T12:35:51.299Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Tweag av Modus Create-förslag - Peras till mainnet",
+      "summary_sv": "",
+      "_title_sha": "c850df03d3f1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154914",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/missing-my-ada/154907",
       "date": "2026-06-05T09:00:59.784Z",
-      "score": 0,
-      "comments": 2,
+      "score": 2,
+      "comments": 3,
       "title_sv": "Saknar min ADA",
       "summary_sv": "",
       "_title_sha": "3d10d996dcec",
@@ -50,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-newcomers-support-x-space-episode-80/154890",
       "date": "2026-06-04T14:01:49.826Z",
-      "score": 2,
-      "comments": 0,
+      "score": 3,
+      "comments": 2,
       "title_sv": "Cardano Nybörjare Support || X Space || Avsnitt 80",
       "summary_sv": "",
       "_title_sha": "493a86dd0aaa",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANISH DUBBING TapTools | CH 2 Jun 2026",
       "summary_sv": "",
       "_title_sha": "570a72e58a8b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154870",
-      "source": "Cardano Forum",
-      "title_en": "1편: 코인마다 설계가 다르다, 희소성의 경제학 | ADA를 이해하면 하락장이 달라 보인다",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/1-ada/154870",
-      "date": "2026-06-03T12:56:01.974Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Del 1: Varje mynt har olika design, ekonomin bakom knapphet | Förstå ADA så ser nedgångsmarknaden annorlunda ut",
-      "summary_sv": "",
-      "_title_sha": "73300b80da8d",
       "_summary_sha": ""
     },
     {
