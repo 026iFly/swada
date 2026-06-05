@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-05T19:03:58.284Z",
+  "fetched_at": "2026-06-05T20:53:18.297Z",
   "items": [
+    {
+      "id": "forum:154920",
+      "source": "Cardano Forum",
+      "title_en": "Cardano From Other POV Series 5 & 6 Completed – Women's Mini Forum in Surabaya Uses the Books as Learning Media",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-from-other-pov-series-5-6-completed-womens-mini-forum-in-surabaya-uses-the-books-as-learning-media/154920",
+      "date": "2026-06-05T20:00:37.384Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano från andra POV-serierna 5 och 6 färdiga – Kvinnors Mini Forum i Surabaya använder böckerna som lärandemedier",
+      "summary_sv": "",
+      "_title_sha": "6b76404c6326",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154915",
       "source": "Cardano Forum",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/on-governance-incentives-and-the-users-cardano-promised-to-serve/154914",
       "date": "2026-06-05T11:52:10.979Z",
-      "score": 1,
+      "score": 3,
       "comments": 2,
       "title_sv": "Om styrning, incitament och användarna Cardano lovade att tjäna",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Del 2: Hur ADA föds och hur den minskar — utgivningsstruktur och reservmekanism",
       "summary_sv": "",
       "_title_sha": "fcd8e960b5e8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154871",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING TapTools | CH 2 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-taptools-ch-2-jun-2026/154871",
-      "date": "2026-06-03T14:17:24.141Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING TapTools | CH 2 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "570a72e58a8b",
       "_summary_sha": ""
     },
     {
