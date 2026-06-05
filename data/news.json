@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-05T08:50:30.845Z",
+  "fetched_at": "2026-06-05T12:17:39.649Z",
   "items": [
+    {
+      "id": "forum:154914",
+      "source": "Cardano Forum",
+      "title_en": "On Governance, Incentives, and the Users Cardano Promised to Serve",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/on-governance-incentives-and-the-users-cardano-promised-to-serve/154914",
+      "date": "2026-06-05T11:52:10.979Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Om styrning, incitament och användarna Cardano lovade att tjäna",
+      "summary_sv": "",
+      "_title_sha": "0ee395f3390f",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:154907",
+      "source": "Cardano Forum",
+      "title_en": "Missing my ada",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/missing-my-ada/154907",
+      "date": "2026-06-05T09:00:59.784Z",
+      "score": 0,
+      "comments": 2,
+      "title_sv": "Saknar min ADA",
+      "summary_sv": "",
+      "_title_sha": "3d10d996dcec",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154900",
       "source": "Cardano Forum",
@@ -22,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-newcomers-support-x-space-episode-80/154890",
       "date": "2026-06-04T14:01:49.826Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Cardano Nybörjare Support || X Space || Avsnitt 80",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "Del 1: Varje mynt har olika design, ekonomin bakom knapphet | Förstå ADA så ser nedgångsmarknaden annorlunda ut",
       "summary_sv": "",
       "_title_sha": "73300b80da8d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154866",
-      "source": "Cardano Forum",
-      "title_en": "Cardano解説漫画「ことりびより第48話~AIがブロックチェーンを変える？~」",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-48-ai/154866",
-      "date": "2026-06-03T07:40:43.161Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Cardano förklarings manga \"Kotoribiori del 48 ~AI kommer att förändra blockkedjan?~\"",
-      "summary_sv": "",
-      "_title_sha": "95b83ff9d24b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154863",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Ideas para el Summit | CH 2 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-ideas-para-el-summit-ch-2-jun-2026/154863",
-      "date": "2026-06-02T16:58:59.459Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Idéer för the Summit | CH 2 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "e0cd21669d45",
       "_summary_sha": ""
     },
     {
