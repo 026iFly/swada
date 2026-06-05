@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-05T16:07:51.574Z",
+  "fetched_at": "2026-06-05T19:04:02.991Z",
   "items": [
+    {
+      "id": "gov:gov_action1cadmygtqv6r64pvwezw859wg36wpwp209cz94cc7ej9fdp7dyphqq58n5ur",
+      "proposal_id": "gov_action1cadmygtqv6r64pvwezw859wg36wpwp209cz94cc7ej9fdp7dyphqq58n5ur",
+      "type": "ParameterChange",
+      "proposed_epoch": 635,
+      "expiration_epoch": 642,
+      "title_en": "Reduce the committeeMinSize parameter from 7 to 5",
+      "summary_en": "Intersect’s Civics Committee and Technical Steering Committee propose to change the **minimum** Constitutional Committee size (`committeeMinSize`) from 7 to 5 in order to improve operational resilience while maintaining constitutional safeguards.\n\nThe ratification of this Governance Action depends on the enactment of another live Parameter Change Governance Action (`gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r`), which will change a number of Plutus cost model settings in preparation for the van Rossem hard fork.",
+      "url": "https://gov.tools/governance_actions/gov_action1cadmygtqv6r64pvwezw859wg36wpwp209cz94cc7ej9fdp7dyphqq58n5ur",
+      "block_time": "2026-06-05T17:09:29.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Minska kommitténs minsta storlek (committeeMinSize) från 7 till 5",
+      "summary_sv": "Intersect’s Civics Committee and Technical Steering Committee föreslår att ändra den minsta konstitutionella kommittéstorleken (`committeeMinSize`) från 7 till 5 för att förbättra operativ resiliens samtidigt som konstitutionella skydd bibehålls.\n\nRatifikationen av denna Governance Action beror på att en annan live Parameter Change Governance Action (`gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r`) träder i kraft, vilken kommer att ändra ett antal Plutus cost model-inställningar i förberedelse för van Rossem-hårdgrinsen.",
+      "_title_sha": "132831d161c1",
+      "_summary_sha": "e408d2849ae5"
+    },
     {
       "id": "gov:gov_action1zljrlljt9cxlz7ra2nep43nxg0r54wcnrgexyuhuam9ah0ws607qq2vcg4x",
       "proposal_id": "gov_action1zljrlljt9cxlz7ra2nep43nxg0r54wcnrgexyuhuam9ah0ws607qq2vcg4x",
@@ -112,22 +128,6 @@
       "summary_sv": "Cardano rör sig framåt. Protokolet uppgraderingar, kritiska integrationer, DeFi-likviditet och riskkapital sammanfaller. Men nästa flaskhals är inte längre kärninfrastruktur, utan applikationsleverans.\n\nTeamen kämpar fortfarande med att leverera icke-triviala applikationer eftersom de själva måste bemästra och sammanfoga så många rörliga delar: smart contracts, formell verifiering, block kedjeåtkomst, drift och skalning. Ekosystemet saknar inte verktyg. Det saknar en integrerad applikationsplattform som har allt och bara fungerar.\n\n[Scalus](https://scalus.org/) byggdes för att hantera just denna flaskhals. Det är en etablerad...",
       "_title_sha": "c7b574f15b45",
       "_summary_sha": "cd32135937ed"
-    },
-    {
-      "id": "gov:gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
-      "proposal_id": "gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 630,
-      "expiration_epoch": 637,
-      "title_en": "Cardano dOSPO and OMF Program",
-      "summary_en": "Cardano's infrastructure depends on open source software maintained by a handful of individuals with no formal support, succession planning, or continuity funding. Research shows 96% of commercial codebases contain OSS with fewer than 10 contributors. Critical protocol libraries, wallet SDKs, developer tooling, and indexing infrastructure have single maintainers, no succession plans, and no stable funding beyond episodic grants.\n\nThis program establishes a community-governed, data-driven open source sustainment architecture. Funded through direct treasury withdrawal, operated by an independent",
-      "url": "https://gov.tools/governance_actions/gov_action1pv7g8d0x9f3kqw2gcfrmgl8aqy38jat05wx0wwcvdsvuuclss6xqqhpzemv",
-      "block_time": "2026-05-11T17:34:46.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Cardano dOSPO och OMF-program",
-      "summary_sv": "Cardano-infrastrukturen bygger på öppen källkod som underhålls av ett fåtal personer utan formell support, successionsplanering eller kontinuitetsfinansiering. Forskning visar att 96 % av kommersiella kodbaser innehåller OSS med färre än 10 bidragsgivare. Kritiska protokollbibliotek, plånboks-SDK:er, utvecklarverktyg och indexeringsinfrastruktur har enskilda underhållare, inga successorsplaner och ingen stabil finansiering utöver episodiska bidrag.\n\nDetta program etablerar en samhällsstyrd, data-driven öppen källkodsunderhållsarkitektur. Finansieras genom direkt uttag ur treasury, drift av en oberoende",
-      "_title_sha": "7df1e753a7a9",
-      "_summary_sha": "6d1f1a3f9a1c"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-05T16:07:51.117Z",
+  "fetched_at": "2026-06-05T19:03:58.284Z",
   "items": [
     {
       "id": "forum:154915",
@@ -22,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/on-governance-incentives-and-the-users-cardano-promised-to-serve/154914",
       "date": "2026-06-05T11:52:10.979Z",
-      "score": 0,
-      "comments": 1,
+      "score": 1,
+      "comments": 2,
       "title_sv": "Om styrning, incitament och användarna Cardano lovade att tjäna",
       "summary_sv": "",
       "_title_sha": "0ee395f3390f",
@@ -64,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-newcomers-support-x-space-episode-80/154890",
       "date": "2026-06-04T14:01:49.826Z",
-      "score": 3,
+      "score": 4,
       "comments": 2,
       "title_sv": "Cardano Nybörjare Support || X Space || Avsnitt 80",
       "summary_sv": "",
