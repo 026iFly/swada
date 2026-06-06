@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-06T00:16:45.200Z",
+  "fetched_at": "2026-06-06T05:01:57.702Z",
   "items": [
+    {
+      "id": "forum:154943",
+      "source": "Cardano Forum",
+      "title_en": "3편: ADA 스테이킹 보상 — 스테이킹된 내 ADA는 지금 이 순간에도 일하고 있다",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/3-ada-ada/154943",
+      "date": "2026-06-06T02:00:00.562Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "3-del: ADA-staking-belöningar — det stakade ADA:t arbetar fortfarande vid denna stund",
+      "summary_sv": "",
+      "_title_sha": "1000ea4fc9fd",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154920",
       "source": "Cardano Forum",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/on-governance-incentives-and-the-users-cardano-promised-to-serve/154914",
       "date": "2026-06-05T11:52:10.979Z",
-      "score": 3,
+      "score": 5,
       "comments": 2,
       "title_sv": "Om styrning, incitament och användarna Cardano lovade att tjäna",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Styrningstimmen #8 - 5am.earth Trust Layer Targeting Vision 2030 KPI:er (09 juni, 16:00–17:00 UTC)",
       "summary_sv": "",
       "_title_sha": "ba3b664b95b9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154878",
-      "source": "Cardano Forum",
-      "title_en": "2편: ADA는 어떻게 태어나고, 어떻게 줄어드는가 — 발행 구조와 준비금 메커니즘",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2-ada/154878",
-      "date": "2026-06-04T00:59:05.007Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Del 2: Hur ADA föds och hur den minskar — utgivningsstruktur och reservmekanism",
-      "summary_sv": "",
-      "_title_sha": "fcd8e960b5e8",
       "_summary_sha": ""
     },
     {
