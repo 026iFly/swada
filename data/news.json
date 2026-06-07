@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-07T00:14:41.611Z",
+  "fetched_at": "2026-06-07T05:47:55.261Z",
   "items": [
+    {
+      "id": "forum:154963",
+      "source": "Cardano Forum",
+      "title_en": "4편 (최종): 당신의 ADA는 투표권이자 지분이다 — 거버넌스 참여와 장기 투자 시각",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/4-ada/154963",
+      "date": "2026-06-07T00:35:00.720Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "4 delen (slutförd): Din ADA är din röst och din andel — deltagande i governance och långsiktiga investeringsperspektiv",
+      "summary_sv": "",
+      "_title_sha": "669509ba5392",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154946",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Nej, jag går inte.",
       "summary_sv": "",
       "_title_sha": "384c5ff5fb5f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154890",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Newcomers Support || X Space || Episode 80",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-newcomers-support-x-space-episode-80/154890",
-      "date": "2026-06-04T14:01:49.826Z",
-      "score": 4,
-      "comments": 2,
-      "title_sv": "Cardano Nybörjare Support || X Space || Avsnitt 80",
-      "summary_sv": "",
-      "_title_sha": "493a86dd0aaa",
       "_summary_sha": ""
     },
     {
