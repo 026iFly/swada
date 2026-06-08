@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-08T19:31:17.107Z",
+  "fetched_at": "2026-06-08T21:58:24.659Z",
   "items": [
+    {
+      "id": "gov:gov_action1fah9m7dxu99af8jqdc4mkrgs3va790nyh9tfhycq2wsvrm47p4rsqtcm6ry",
+      "proposal_id": "gov_action1fah9m7dxu99af8jqdc4mkrgs3va790nyh9tfhycq2wsvrm47p4rsqtcm6ry",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 635,
+      "expiration_epoch": 642,
+      "title_en": "IO: Hydra",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.inbrowser.link/?cid=Qmbk3jHKKLQ1VrniKaD7sGMscJxCKvoXqt1sQoEnRLTku4](https://ipnso-com.ipns.inbrowser.link/?cid=Qmbk3jHKKLQ1VrniKaD7sGMscJxCKvoXqt1sQoEnRLTku4)**\n\n**Hydra is the only production-grade Layer 2 on Cardano, already running live workloads for Delta DeFi, Masumi, Intersect, Vtechcom and others.** This proposal funds four workstreams - performance optimization, operational excellence, ecosystem support, and developer experience - delivering a feature-complete and hardened Hydra v2 so we offer a competitive scaling solution to existing builder",
+      "url": "https://gov.tools/governance_actions/gov_action1fah9m7dxu99af8jqdc4mkrgs3va790nyh9tfhycq2wsvrm47p4rsqtcm6ry",
+      "block_time": "2026-06-08T19:56:01.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "IO: Hydra",
+      "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.inbrowser.link/?cid=Qmbk3jHKKLQ1VrniKaD7sGMscJxCKvoXqt1sQoEnRLTku4](https://ipnso-com.ipns.inbrowser.link/?cid=Qmbk3jHKKLQ1VrniKaD7sGMscJxCKvoXqt1sQoEnRLTku4)\n\nHydra är den enda produktionstestade Layer 2 på Cardano, redan i drift med live-arbetspass för Delta DeFi, Masumi, Intersect, Vtechcom och andra. Detta förslag finansierar fyra arbetsströmningar - prestandaoptimering, operativ excellens, ekosystemstöd och utvecklarupplevelse - och levererar en funktionscomplete och hårdvaruanpassad Hydra v2 så att vi kan erbjuda en konkurrenskraftig skalningslösning till befintliga byggare.",
+      "_title_sha": "c7871cd475c4",
+      "_summary_sha": "08305aac0408"
+    },
     {
       "id": "gov:gov_action1cadmygtqv6r64pvwezw859wg36wpwp209cz94cc7ej9fdp7dyphqq58n5ur",
       "proposal_id": "gov_action1cadmygtqv6r64pvwezw859wg36wpwp209cz94cc7ej9fdp7dyphqq58n5ur",
@@ -112,22 +128,6 @@
       "summary_sv": "Eternl är en icke-förvaltad Cardano-lätt plånbok för webben, webbläsartillägg, Android och iOS.\n\nAnvändare förlitar sig på Eternl för betalningar, stake, governance och DApp-interaktion.\n\nDetta förslag möjliggör 12 månaders drift, underhåll och förbättringar. Det inkluderar frontend- och backend-underhåll och utveckling, backend-infrastruktur, användarsupport och dagliga driftaktiviteter.[^1]\n\nMålet är att hålla Eternl säker, kompatibel, stabil och tillgänglig samtidigt som Cardano fortsätter att utvecklas. Detta kostar cirka 420 000 USD per år.",
       "_title_sha": "0d8b435ee126",
       "_summary_sha": "cd6af20fc2df"
-    },
-    {
-      "id": "gov:gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
-      "proposal_id": "gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 630,
-      "expiration_epoch": 637,
-      "title_en": "Scalus: Cardano’s Application Platform for Building, Launching, and Scaling",
-      "summary_en": "Cardano is moving. Protocol upgrades, critical integrations, DeFi liquidity, and VC capital are aligning. But the next bottleneck is no longer core infrastructure, it is application delivery.\n\nTeams still struggle to ship non-trivial applications because they must master and assemble too many moving parts themselves: smart contracts, formal verification, chain access, operations, and scaling. The ecosystem does not lack tools. It lacks an integrated application platform that has it all and just works.\n\n[Scalus](https://scalus.org/) was built to address exactly this bottleneck. It is an establi",
-      "url": "https://gov.tools/governance_actions/gov_action1uzgqlh049u0j7epel29r425vyf9ttxmqwngw9kemyly0q6cwt5esqpwp09a",
-      "block_time": "2026-05-14T15:09:43.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Scalus: Cardanos applikationsplattform för byggande, lansering och skalning",
-      "summary_sv": "Cardano rör sig framåt. Protokolet uppgraderingar, kritiska integrationer, DeFi-likviditet och riskkapital sammanfaller. Men nästa flaskhals är inte längre kärninfrastruktur, utan applikationsleverans.\n\nTeamen kämpar fortfarande med att leverera icke-triviala applikationer eftersom de själva måste bemästra och sammanfoga så många rörliga delar: smart contracts, formell verifiering, block kedjeåtkomst, drift och skalning. Ekosystemet saknar inte verktyg. Det saknar en integrerad applikationsplattform som har allt och bara fungerar.\n\n[Scalus](https://scalus.org/) byggdes för att hantera just denna flaskhals. Det är en etablerad...",
-      "_title_sha": "c7b574f15b45",
-      "_summary_sha": "cd32135937ed"
     }
   ]
 }
