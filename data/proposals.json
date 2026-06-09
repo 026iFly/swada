@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-06-09T12:13:38.576Z",
+  "fetched_at": "2026-06-09T16:12:02.163Z",
   "items": [
+    {
+      "id": "gov:gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq",
+      "proposal_id": "gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 636,
+      "expiration_epoch": 643,
+      "title_en": "Reimburse Ikigai Info Governance Action Deposit.",
+      "summary_en": "In September 2024, only weeks after the Chang hard fork to introduce on-chain governance, an Info governance action titled Cardanoの生きがい - Ikigai - was submitted. This was only a symbolic governance action, as it simply asked the community whether they agreed with a statement thanking those that helped get Cardano to this point and expressing a sense of hope for the future.\n\nUnfortunately, due to a bug in the code of the Cardano node that permitted an unregistered stake key to be used in the governance action, the submitter was unable to recover their deposit of 100K ADA. While the community ex",
+      "url": "https://gov.tools/governance_actions/gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq",
+      "block_time": "2026-06-09T14:15:26.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Återbetalning av Ikigai Info Governance Action Deposit.",
+      "summary_sv": "I september 2024, bara veckor efter Chang-skäpet för att införa on-chain governance, skickades en Info governance action med titeln Cardanoの生きがい - Ikigai -. Detta var endast en symbolisk governance action, eftersom den helt enkelt frågade gemenskapen om de höll med om ett uttalande som tackade de som hjälpt Cardano till denna punkt och uttryckte en känsla av hopp för framtiden.\n\nTyvärr, på grund av ett fel i koden hos Cardano-noden som tillät en oregistrerad stake key att användas i governance action, kunde inlämnaren inte få tillbaka sin insättning om 100K ADA. Medan gemenskapen ex…",
+      "_title_sha": "2fe74606c997",
+      "_summary_sha": "d0f53b8ef4a2"
+    },
+    {
+      "id": "gov:gov_action1t5ap7etluvct2x69nj5mfqhurgakuvekyflcsrv2qkrhrs378n3qq3z2c22",
+      "proposal_id": "gov_action1t5ap7etluvct2x69nj5mfqhurgakuvekyflcsrv2qkrhrs378n3qq3z2c22",
+      "type": "InfoAction",
+      "proposed_epoch": 636,
+      "expiration_epoch": 643,
+      "title_en": "Reforming Treasury Governance",
+      "summary_en": "Treasury governance should enable strategic alignment and facilitate decision-making. However, treasury governance within the Cardano ecosystem is in a poor state. First, there is a funding impasse. Second, while being pivotal for Cardano's stability and growth, treasury governance is only indirectly addressed and barely supported by the existing governance system. This governance info action sketches basic ideas for reforming treasury governance and introduces them into public discussion. The goal is to provide an impetus for improving the treasury governance process and to outline guardrails",
+      "url": "https://gov.tools/governance_actions/gov_action1t5ap7etluvct2x69nj5mfqhurgakuvekyflcsrv2qkrhrs378n3qq3z2c22",
+      "block_time": "2026-06-09T13:12:15.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Reformerad treasury-styrning",
+      "summary_sv": "",
+      "_title_sha": "62f5daba6372",
+      "_summary_sha": "c83987076310"
+    },
     {
       "id": "gov:gov_action1fah9m7dxu99af8jqdc4mkrgs3va790nyh9tfhycq2wsvrm47p4rsqtcm6ry",
       "proposal_id": "gov_action1fah9m7dxu99af8jqdc4mkrgs3va790nyh9tfhycq2wsvrm47p4rsqtcm6ry",
@@ -96,38 +128,6 @@
       "summary_sv": "5am.earth Foundation begär 10 000 000 ADA (hard cap) för att bygga ett öppet, Cardano-anknutet förtroendelager för globala livsmedelsförsörjningskedjor. Förtroendelageret kombinerar Veridian självständiga identitet (self-sovereign identity) för jordbrukare och Agri-Entrepreneurs (AEs) med en Cardano-on-chain satellit oberoende data- eller oracle som levererar verifierad farm- och avkastningsdata. Det 18-månaders programmet (M1 Stand-Up vid månad 6, M2 Closed Loop vid månad 12, M3 Self-Sustaining vid månad 18) levererar i Indien, Kambodja och Kenya, når 500 000 registrerade jordbrukare och driver tre namngivna applikationsvägar under den finansierade perioden: AE-certifiering med",
       "_title_sha": "dbb01b862f09",
       "_summary_sha": "e51445e638ce"
-    },
-    {
-      "id": "gov:gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
-      "proposal_id": "gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 632,
-      "expiration_epoch": 639,
-      "title_en": "Cardano Critical Integrations V2",
-      "summary_en": "This governance action requests the withdrawal of ₳23,000,000 (USD 5,750,000 based on $0.25c) from the Cardano Treasury to cover a focused ‘Year 2’ contracted cost and a 12-month enhancement & maintenance program for the critical integrations already delivered or currently being integrated under the first Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics, and a new full native integration of Fireblocks.\n\nThe CCI V2 initiative provides the necessary funding for the ongoing operation and optimization of infrastructure previously establis",
-      "url": "https://gov.tools/governance_actions/gov_action1cp0w6zwgwpj98jtu3r2q838lgwmhs6j49l58zx4q05lx220lmzaqqztnljz",
-      "block_time": "2026-05-20T20:58:08.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Cardano Kritiska integrationer V2",
-      "summary_sv": "Denna governance action begär uttag av ₳23,000,000 (USD 5,750,000 baserat på $0.25) från Cardano Treasury för att täcka ett fokuserat kostnadsavtal för år 2 och ett 12-månaders program för förbättring och underhåll av de kritiska integrationer som redan levererats eller för närvarande integreras under den första Cardano Critical Integrations Budget (“CCI V1”): Circle (USDCx), LayerZero, Pyth Price Feeds, Dune Analytics och en ny fullständig inbyggd integration av Fireblocks.\n\nCCI V2-initiativet tillhandahåller nödvändigt finansiering för den pågående driften och optimeringen av infrastrukturen som tidigare etablerats",
-      "_title_sha": "40ee4ffee510",
-      "_summary_sha": "50d16a456931"
-    },
-    {
-      "id": "gov:gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
-      "proposal_id": "gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 631,
-      "expiration_epoch": 638,
-      "title_en": "Eternl: Path to Sustainability (2026-2027)",
-      "summary_en": "Eternl is a non-custodial Cardano light wallet for the web, browser extension, Android, and iOS.\n\nUsers rely on Eternl for payments, staking, governance, and DApp interaction.\n\nThis proposal enables 12 months of operations, maintenance, and improvements. It includes frontend and backend maintenance and development, backend infrastructure, user support, and day-to-day operations.[^1]\n\nThe goal is to keep Eternl secure, compatible, stable, and available as Cardano keeps evolving. This costs around $420,000 per year.",
-      "url": "https://gov.tools/governance_actions/gov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z",
-      "block_time": "2026-05-15T12:52:13.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Eternl: Vägen till hållbarhet (2026–2027)",
-      "summary_sv": "Eternl är en icke-förvaltad Cardano-lätt plånbok för webben, webbläsartillägg, Android och iOS.\n\nAnvändare förlitar sig på Eternl för betalningar, stake, governance och DApp-interaktion.\n\nDetta förslag möjliggör 12 månaders drift, underhåll och förbättringar. Det inkluderar frontend- och backend-underhåll och utveckling, backend-infrastruktur, användarsupport och dagliga driftaktiviteter.[^1]\n\nMålet är att hålla Eternl säker, kompatibel, stabil och tillgänglig samtidigt som Cardano fortsätter att utvecklas. Detta kostar cirka 420 000 USD per år.",
-      "_title_sha": "0d8b435ee126",
-      "_summary_sha": "cd6af20fc2df"
     }
   ]
 }
