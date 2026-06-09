@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-09T16:12:02.163Z",
+  "fetched_at": "2026-06-09T19:25:56.645Z",
   "items": [
     {
       "id": "gov:gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq",
@@ -29,7 +29,7 @@
       "block_time": "2026-06-09T13:12:15.000Z",
       "deposit_ada": 100000,
       "title_sv": "Reformerad treasury-styrning",
-      "summary_sv": "",
+      "summary_sv": "Deckarens styrning av treasury bör möjliggöra strategisk anpassning och underlätta beslutsfattande. Treasurystyrningen inom Cardano-ekosystemet är dock i ett dåligt tillstånd. För det första råder ett finansieringshinder. För det andra, även om det är avgörande för Cardanos stabilitet och tillväxt, behandlas treasurerystyrningen endast indirekt och är knappt stödd av det befintliga styrsystemet. Denna governance-infoåtgärd skissar grundläggande idéer för reformering av treasurerystyrningen och introducerar dem i den offentliga diskussionen. Målet är att ge en drivkraft för att förbättra processen för treasury governance och att ange riktmärken.",
       "_title_sha": "62f5daba6372",
       "_summary_sha": "c83987076310"
     },

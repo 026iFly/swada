@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-09T16:11:31.613Z",
+  "fetched_at": "2026-06-09T19:25:53.772Z",
   "items": [
+    {
+      "id": "forum:155002",
+      "source": "Cardano Forum",
+      "title_en": "How do you delete your Cardano forum account or rename your account?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/how-do-you-delete-your-cardano-forum-account-or-rename-your-account/155002",
+      "date": "2026-06-09T18:56:39.462Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Hur tar du bort ditt Cardano-forum konto eller byter namn på ditt konto?",
+      "summary_sv": "",
+      "_title_sha": "926eeebe482c",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155000",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Por qué Cardano es el único Ecosistema capaz de hacer funcionar el mundo | CH 8 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-por-que-cardano-es-el-unico-ecosistema-capaz-de-hacer-funcionar-el-mundo-ch-8-jun-2026/155000",
+      "date": "2026-06-09T18:12:02.599Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Varför Cardano är det enda ekosystemet som får världen att fungera | CH 8 Jun 2026",
+      "summary_sv": "",
+      "_title_sha": "7aee25170843",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:154997",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "3-del: ADA-staking-belöningar — det stakade ADA:t arbetar fortfarande vid denna stund",
       "summary_sv": "",
       "_title_sha": "1000ea4fc9fd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154920",
-      "source": "Cardano Forum",
-      "title_en": "Cardano From Other POV Series 5 & 6 Completed – Women's Mini Forum in Surabaya Uses the Books as Learning Media",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-from-other-pov-series-5-6-completed-womens-mini-forum-in-surabaya-uses-the-books-as-learning-media/154920",
-      "date": "2026-06-05T20:00:37.384Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano från andra POV-serierna 5 och 6 färdiga – Kvinnors Mini Forum i Surabaya använder böckerna som lärandemedier",
-      "summary_sv": "",
-      "_title_sha": "6b76404c6326",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154915",
-      "source": "Cardano Forum",
-      "title_en": "Tweag by Modus Create Proposal - Peras to mainnet",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/tweag-by-modus-create-proposal-peras-to-mainnet/154915",
-      "date": "2026-06-05T12:35:51.299Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Tweag av Modus Create-förslag - Peras till mainnet",
-      "summary_sv": "",
-      "_title_sha": "c850df03d3f1",
       "_summary_sha": ""
     },
     {
