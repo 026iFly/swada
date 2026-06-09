@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-09T19:25:53.772Z",
+  "fetched_at": "2026-06-09T21:56:49.115Z",
   "items": [
+    {
+      "id": "forum:155003",
+      "source": "Cardano Forum",
+      "title_en": "Building On Cardano Is Now 200 Times Cheaper And 100 Times Faster - We Don't Need Your Funding",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/building-on-cardano-is-now-200-times-cheaper-and-100-times-faster-we-dont-need-your-funding/155003",
+      "date": "2026-06-09T19:47:25.063Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Att bygga på Cardano är nu 200 gånger billigare och 100 gånger snabbare – vi behöver inte din finansiering",
+      "summary_sv": "",
+      "_title_sha": "89af376a06c0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155002",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "MRI- och isosfärbehandlingsmetoder som används för att jämföra multipool-busting CIP 23, 74, 75, 50, 187?",
       "summary_sv": "",
       "_title_sha": "0b056f4784a8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154943",
-      "source": "Cardano Forum",
-      "title_en": "3편: ADA 스테이킹 보상 — 스테이킹된 내 ADA는 지금 이 순간에도 일하고 있다",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/3-ada-ada/154943",
-      "date": "2026-06-06T02:00:00.562Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "3-del: ADA-staking-belöningar — det stakade ADA:t arbetar fortfarande vid denna stund",
-      "summary_sv": "",
-      "_title_sha": "1000ea4fc9fd",
       "_summary_sha": ""
     },
     {
