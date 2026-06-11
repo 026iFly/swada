@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T22:17:03.855Z",
+  "fetched_at": "2026-06-11T01:33:21.772Z",
   "items": [
     {
       "id": "forum:155025",
@@ -8,25 +8,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-june-10-2026-cardano-budget-process-seeks-community-van-rossem-hard-fork-readiness-update-spotlight-on-content-from-linda-peter-bui-wendy-o/155025",
       "date": "2026-06-10T15:57:43.842Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Digest juni 10, 2026: Cardano-budgetprocessen söker samhällsdeltagande | Van Rossem hårdförgreningens beredskapsuppdatering | Fokus på innehåll från Linda, Peter Bui & Wendy O",
       "summary_sv": "",
       "_title_sha": "2b55e939455c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155019",
-      "source": "Cardano Forum",
-      "title_en": "Need help recovering access to 900 ADA on a legacy Byron address from Atomic Wallet (2020)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/need-help-recovering-access-to-900-ada-on-a-legacy-byron-address-from-atomic-wallet-2020/155019",
-      "date": "2026-06-10T08:49:54.044Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Behöver hjälp med att återfå åtkomst till 900 ADA på en legacy Byron-adress från Atomic Wallet (2020)",
-      "summary_sv": "",
-      "_title_sha": "abedcf1c435e",
       "_summary_sha": ""
     },
     {
@@ -111,6 +97,20 @@
       "title_sv": "Ladda ner tidigare version av Cardano Mainnet Wallet för MacOS",
       "summary_sv": "",
       "_title_sha": "57d3c327a019",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:154992",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #65 - Dingo: High-Performance Cardano Node (12 June)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-65-dingo-high-performance-cardano-node-12-june/154992",
+      "date": "2026-06-09T13:15:14.878Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Utvecklarnas kontorstid #65 - Dingo: Högpresterande Cardano-nod (12 juni)",
+      "summary_sv": "",
+      "_title_sha": "79a693876025",
       "_summary_sha": ""
     },
     {
