@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-11T11:43:35.673Z",
+  "fetched_at": "2026-06-11T16:17:30.698Z",
   "items": [
+    {
+      "id": "forum:155040",
+      "source": "Cardano Forum",
+      "title_en": "Résumé du 10 juin 2026 : Le processus budgétaire de Cardano sollicite la communauté | Point sur la préparation du hard fork de Van Rossem | Pleins feux sur les contenus de Linda, Peter Bui et Wendy O",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/resume-du-10-juin-2026-le-processus-budgetaire-de-cardano-sollicite-la-communaute-point-sur-la-preparation-du-hard-fork-de-van-rossem-pleins-feux-sur-les-contenus-de-linda-peter-bui-et-wendy-o/155040",
+      "date": "2026-06-11T14:04:31.454Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Sammanfattning den 10 juni 2026: Cardanos budgetprocess uppmanar samhället | Översikt av förberedelserna inför hard fork Van Rossem | Fullt fokus på Linda-, Peter Bui- och Wendy O:s innehåll",
+      "summary_sv": "",
+      "_title_sha": "0a3abd3adbcf",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155025",
       "source": "Cardano Forum",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-foundation-voting-decisions-2026-intersect-budget-process/155016",
       "date": "2026-06-10T07:24:35.790Z",
-      "score": 2,
+      "score": 3,
       "comments": 0,
       "title_sv": "Cardano Foundation Voting Decisions: 2026 Intersect Budget Process\n\nCardano Foundation-valbeslut: 2026 Intersect-budgetprocessen",
       "summary_sv": "",
@@ -65,7 +79,7 @@
       "url": "https://forum.cardano.org/t/how-do-you-delete-your-cardano-forum-account-or-rename-your-account/155002",
       "date": "2026-06-09T18:56:39.462Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Hur tar du bort ditt Cardano-forum konto eller byter namn på ditt konto?",
       "summary_sv": "",
       "_title_sha": "926eeebe482c",
@@ -97,20 +111,6 @@
       "title_sv": "Ladda ner tidigare version av Cardano Mainnet Wallet för MacOS",
       "summary_sv": "",
       "_title_sha": "57d3c327a019",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154992",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #65 - Dingo: High-Performance Cardano Node (12 June)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-65-dingo-high-performance-cardano-node-12-june/154992",
-      "date": "2026-06-09T13:15:14.878Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Utvecklarnas kontorstid #65 - Dingo: Högpresterande Cardano-nod (12 juni)",
-      "summary_sv": "",
-      "_title_sha": "79a693876025",
       "_summary_sha": ""
     },
     {
