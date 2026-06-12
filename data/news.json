@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-12T00:24:06.778Z",
+  "fetched_at": "2026-06-12T05:57:17.847Z",
   "items": [
+    {
+      "id": "forum:155052",
+      "source": "Cardano Forum",
+      "title_en": "Pourquoi je choisis le français pour construire l’avenir de Cardano en République Démocratique du Congo",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/pourquoi-je-choisis-le-francais-pour-construire-l-avenir-de-cardano-en-republique-democratique-du-congo/155052",
+      "date": "2026-06-12T04:47:22.824Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Varför jag väljer franska för att bygga framtiden för Cardano i Den demokratiska republiken Kongo",
+      "summary_sv": "",
+      "_title_sha": "427ac5f87f8b",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155051",
+      "source": "Cardano Forum",
+      "title_en": "My old account @Metajaskar was taken down for unkown reason",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/my-old-account-metajaskar-was-taken-down-for-unkown-reason/155051",
+      "date": "2026-06-12T02:44:57.936Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Mitt gamla konto @Metajaskar togs ner av okänd anledning",
+      "summary_sv": "",
+      "_title_sha": "0b9c89c6adc5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155040",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Hur tar du bort ditt Cardano-forum konto eller byter namn på ditt konto?",
       "summary_sv": "",
       "_title_sha": "926eeebe482c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155000",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Por qué Cardano es el único Ecosistema capaz de hacer funcionar el mundo | CH 8 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-por-que-cardano-es-el-unico-ecosistema-capaz-de-hacer-funcionar-el-mundo-ch-8-jun-2026/155000",
-      "date": "2026-06-09T18:12:02.599Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Varför Cardano är det enda ekosystemet som får världen att fungera | CH 8 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "7aee25170843",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:154997",
-      "source": "Cardano Forum",
-      "title_en": "Download previous version of Cardano Mainnett Wallet on MacOS",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/download-previous-version-of-cardano-mainnett-wallet-on-macos/154997",
-      "date": "2026-06-09T14:00:58.423Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Ladda ner tidigare version av Cardano Mainnet Wallet för MacOS",
-      "summary_sv": "",
-      "_title_sha": "57d3c327a019",
       "_summary_sha": ""
     },
     {
