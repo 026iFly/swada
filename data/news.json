@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T22:42:52.052Z",
+  "fetched_at": "2026-06-13T00:24:33.032Z",
   "items": [
     {
       "id": "forum:155052",
@@ -78,8 +78,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/this-stake-pool-should-be-named-rugpool/155010",
       "date": "2026-06-10T02:15:29.965Z",
-      "score": 6,
-      "comments": 2,
+      "score": 8,
+      "comments": 4,
       "title_sv": "Denna Stake Pool bör döpas till RugPool",
       "summary_sv": "",
       "_title_sha": "5f35db15cba5",
