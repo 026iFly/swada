@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-13T14:20:49.287Z",
+  "fetched_at": "2026-06-13T16:25:28.223Z",
   "items": [
+    {
+      "id": "forum:155079",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Intro | CH AMA 11 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-intro-ch-ama-11-jun-2026/155079",
+      "date": "2026-06-13T14:48:47.761Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANISKT DUBBING Intro | CH AMA 11 jun 2026",
+      "summary_sv": "",
+      "_title_sha": "3bba369c2ffe",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155052",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Att bygga på Cardano är nu 200 gånger billigare och 100 gånger snabbare – vi behöver inte din finansiering",
       "summary_sv": "",
       "_title_sha": "89af376a06c0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155002",
-      "source": "Cardano Forum",
-      "title_en": "How do you delete your Cardano forum account or rename your account?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/how-do-you-delete-your-cardano-forum-account-or-rename-your-account/155002",
-      "date": "2026-06-09T18:56:39.462Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Hur tar du bort ditt Cardano-forum konto eller byter namn på ditt konto?",
-      "summary_sv": "",
-      "_title_sha": "926eeebe482c",
       "_summary_sha": ""
     },
     {
