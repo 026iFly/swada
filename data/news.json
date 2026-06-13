@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T00:24:33.032Z",
+  "fetched_at": "2026-06-13T05:43:05.195Z",
   "items": [
     {
       "id": "forum:155052",
@@ -8,7 +8,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/pourquoi-je-choisis-le-francais-pour-construire-l-avenir-de-cardano-en-republique-democratique-du-congo/155052",
       "date": "2026-06-12T04:47:22.824Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Varför jag väljer franska för att bygga framtiden för Cardano i Den demokratiska republiken Kongo",
       "summary_sv": "",
@@ -78,8 +78,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/this-stake-pool-should-be-named-rugpool/155010",
       "date": "2026-06-10T02:15:29.965Z",
-      "score": 8,
-      "comments": 4,
+      "score": 9,
+      "comments": 5,
       "title_sv": "Denna Stake Pool bör döpas till RugPool",
       "summary_sv": "",
       "_title_sha": "5f35db15cba5",
