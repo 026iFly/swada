@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-15T12:38:00.069Z",
+  "fetched_at": "2026-06-15T18:00:39.469Z",
   "items": [
+    {
+      "id": "forum:155102",
+      "source": "Cardano Forum",
+      "title_en": "Call for Applications: Voluntary Cardano Community Director",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/call-for-applications-voluntary-cardano-community-director/155102",
+      "date": "2026-06-15T16:40:34.270Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Kallelse till ansökan: Voluntary Cardano Community Director",
+      "summary_sv": "",
+      "_title_sha": "8fdd8ffb219f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155094",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning den 10 juni 2026: Cardanos budgetprocess uppmanar samhället | Översikt av förberedelserna inför hard fork Van Rossem | Fullt fokus på Linda-, Peter Bui- och Wendy O:s innehåll",
       "summary_sv": "",
       "_title_sha": "0a3abd3adbcf",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155025",
-      "source": "Cardano Forum",
-      "title_en": "Digest June 10, 2026: Cardano Budget Process Seeks Community | Van Rossem Hard Fork Readiness Update | Spotlight on Content From Linda, Peter Bui & Wendy O",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-june-10-2026-cardano-budget-process-seeks-community-van-rossem-hard-fork-readiness-update-spotlight-on-content-from-linda-peter-bui-wendy-o/155025",
-      "date": "2026-06-10T15:57:43.842Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Digest juni 10, 2026: Cardano-budgetprocessen söker samhällsdeltagande | Van Rossem hårdförgreningens beredskapsuppdatering | Fokus på innehåll från Linda, Peter Bui & Wendy O",
-      "summary_sv": "",
-      "_title_sha": "2b55e939455c",
       "_summary_sha": ""
     },
     {
