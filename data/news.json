@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-15T18:00:39.469Z",
+  "fetched_at": "2026-06-15T21:16:11.954Z",
   "items": [
+    {
+      "id": "forum:155106",
+      "source": "Cardano Forum",
+      "title_en": "Who Are the Cardano Builders We Should Be Paying Attention To?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/who-are-the-cardano-builders-we-should-be-paying-attention-to/155106",
+      "date": "2026-06-15T18:51:30.618Z",
+      "score": 5,
+      "comments": 2,
+      "title_sv": "Vem är Cardano-byggarna som vi borde uppmärksamma?",
+      "summary_sv": "",
+      "_title_sha": "3ebf4d5ac780",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155102",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/call-for-applications-voluntary-cardano-community-director/155102",
       "date": "2026-06-15T16:40:34.270Z",
-      "score": 0,
+      "score": 2,
       "comments": 0,
       "title_sv": "Kallelse till ansökan: Voluntary Cardano Community Director",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Mitt gamla konto @Metajaskar togs ner av okänd anledning",
       "summary_sv": "",
       "_title_sha": "0b9c89c6adc5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155040",
-      "source": "Cardano Forum",
-      "title_en": "Résumé du 10 juin 2026 : Le processus budgétaire de Cardano sollicite la communauté | Point sur la préparation du hard fork de Van Rossem | Pleins feux sur les contenus de Linda, Peter Bui et Wendy O",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/resume-du-10-juin-2026-le-processus-budgetaire-de-cardano-sollicite-la-communaute-point-sur-la-preparation-du-hard-fork-de-van-rossem-pleins-feux-sur-les-contenus-de-linda-peter-bui-et-wendy-o/155040",
-      "date": "2026-06-11T14:04:31.454Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Sammanfattning den 10 juni 2026: Cardanos budgetprocess uppmanar samhället | Översikt av förberedelserna inför hard fork Van Rossem | Fullt fokus på Linda-, Peter Bui- och Wendy O:s innehåll",
-      "summary_sv": "",
-      "_title_sha": "0a3abd3adbcf",
       "_summary_sha": ""
     },
     {
