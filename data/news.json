@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-14T23:21:51.445Z",
+  "fetched_at": "2026-06-15T05:21:56.497Z",
   "items": [
+    {
+      "id": "forum:155094",
+      "source": "Cardano Forum",
+      "title_en": "3세대 블록체인이란 무엇인가: 개념과 역사",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/topic/155094",
+      "date": "2026-06-15T01:22:25.259Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Vad är tredje generationens blockkedja: begrepp och historia",
+      "summary_sv": "",
+      "_title_sha": "0b4a66ab4b7a",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155085",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Digest juni 10, 2026: Cardano-budgetprocessen söker samhällsdeltagande | Van Rossem hårdförgreningens beredskapsuppdatering | Fokus på innehåll från Linda, Peter Bui & Wendy O",
       "summary_sv": "",
       "_title_sha": "2b55e939455c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155016",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Foundation Voting Decisions: 2026 Intersect Budget Process",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-foundation-voting-decisions-2026-intersect-budget-process/155016",
-      "date": "2026-06-10T07:24:35.790Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Cardano Foundation Voting Decisions: 2026 Intersect Budget Process\n\nCardano Foundation-valbeslut: 2026 Intersect-budgetprocessen",
-      "summary_sv": "",
-      "_title_sha": "51e8401570ae",
       "_summary_sha": ""
     },
     {
