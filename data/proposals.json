@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-16T05:25:29.133Z",
+  "fetched_at": "2026-06-16T11:30:44.994Z",
   "items": [
+    {
+      "id": "gov:gov_action1lwudrf9g66mzlrxhq62y5pvzhzzv9wgps7u04kne202udge7kknsqlgmhse",
+      "proposal_id": "gov_action1lwudrf9g66mzlrxhq62y5pvzhzzv9wgps7u04kne202udge7kknsqlgmhse",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 637,
+      "expiration_epoch": 644,
+      "title_en": "Eternl: Path to Sustainability - v2",
+      "summary_en": "## Preamble\n\nThe previous proposal, “Eternl: Path to Sustainability (2026-2027),” received NO votes from CC members due to a lack of clarity regarding audits.\n\nThis new proposal is essentially the same as the previous one and adds that clarification.\n\n_Previous Governance action:_\n\ngov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z\nhttps://adastat.net/governances/9a020ea7a6a0d813ff08c92bd8300b26077ae69a4b827c4d432ac665120325d700\n\n_Key differences:_\n\n- Added clarification on Audit funds spending and oversight metrics, as requested in the CC vote rationales.\n- Updated Ada to ",
+      "url": "https://gov.tools/governance_actions/gov_action1lwudrf9g66mzlrxhq62y5pvzhzzv9wgps7u04kne202udge7kknsqlgmhse",
+      "block_time": "2026-06-16T09:20:06.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Eter­n l: Vägen mot hållbarhet - v2",
+      "summary_sv": "## Inledande\n\nFöregående förslag, “Eternl: Path to Sustainability (2026-2027),” fick INGA röster från CC-medlemmar på grund av otydlighet kring revisioner.\n\nDetta nya förslag är i huvudsak samma som det föregående och tillför den förklaringen.\n\n_Förgående Governance-åtgärd:_\n\ngov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z\nhttps://adastat.net/governances/9a020ea7a6a0d813ff08c92bd8300b26077ae69a4b827c4d432ac665120325d700\n\n_Viktiga skillnader:_\n\n- Lagt till förklaring av hur Audit-fonder används och översynsmetrik, som begärdes i CC-rationalerna.\n- Uppdaterat Ada till",
+      "_title_sha": "8862aac33269",
+      "_summary_sha": "a241df13d183"
+    },
     {
       "id": "gov:gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq",
       "proposal_id": "gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq",
@@ -112,22 +128,6 @@
       "summary_sv": "Intersect's Parameter Committee föreslår att uppdatera Plutus V3-kostnadsmodellen via en Parameter Update governance action för att möjliggöra de nya Plutus-primitiven som kommer att vara tillgängliga efter van Rossem-hard fork (till Protokollversion 11), för att möjliggöra samtliga Plutus-primitiver i Plutus V1 och V2 såväl som Plutus V3, och att ändra inställningar för några befintliga Plutus-primitiver. Observera att de nya primitivena inte kommer att aktiveras i Protokollversion 10, utan först efter verkställandet av hard fork till Protokollversion 11. Men ändringarna för befintliga primitiv kommer att ske omedelbart vid verkställandet.",
       "_title_sha": "ab8948d8cd55",
       "_summary_sha": "d2f4ef70647b"
-    },
-    {
-      "id": "gov:gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
-      "proposal_id": "gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 632,
-      "expiration_epoch": 639,
-      "title_en": "5am.earth Trust Layer Targeting Vision 2030 KPIs",
-      "summary_en": "5am.earth Foundation requests 10,000,000 ADA (hard cap) to build an open, Cardano-anchored trust layer for global agricultural supply chains. The trust layer combines Veridian self-sovereign identity for farmers and Agri-Entrepreneurs (AEs) with a Cardano on-chain satellite oracle delivering verified farm and crop data. The 18-month programme (M1 Stand-Up at Month 6, M2 Closed Loop at Month 12, M3 Self-Sustaining at Month 18) delivers across India, Cambodia, and Kenya, reaching 500,000 registered farmers and operating three named application paths during the funded period: AE certification wit",
-      "url": "https://gov.tools/governance_actions/gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
-      "block_time": "2026-05-21T14:23:23.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "5am.earth Trust Layer Targeting Vision 2030 KPIs",
-      "summary_sv": "5am.earth Foundation begär 10 000 000 ADA (hard cap) för att bygga ett öppet, Cardano-anknutet förtroendelager för globala livsmedelsförsörjningskedjor. Förtroendelageret kombinerar Veridian självständiga identitet (self-sovereign identity) för jordbrukare och Agri-Entrepreneurs (AEs) med en Cardano-on-chain satellit oberoende data- eller oracle som levererar verifierad farm- och avkastningsdata. Det 18-månaders programmet (M1 Stand-Up vid månad 6, M2 Closed Loop vid månad 12, M3 Self-Sustaining vid månad 18) levererar i Indien, Kambodja och Kenya, når 500 000 registrerade jordbrukare och driver tre namngivna applikationsvägar under den finansierade perioden: AE-certifiering med",
-      "_title_sha": "dbb01b862f09",
-      "_summary_sha": "e51445e638ce"
     }
   ]
 }
