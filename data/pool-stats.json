@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-16T11:30:47.404Z",
+  "fetched_at": "2026-06-16T17:17:58.965Z",
   "summary": {
     "pool_id_bech32": "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc",
     "active_stake": "125587796773",
-    "live_stake": "125587796773",
+    "live_stake": "125587625464",
     "live_pledge": "80811237855",
     "live_delegators": 6,
     "live_saturation": 0.16,

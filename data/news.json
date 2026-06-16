@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-16T11:30:39.085Z",
+  "fetched_at": "2026-06-16T17:17:52.009Z",
   "items": [
+    {
+      "id": "forum:155130",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Discord Parte 2 | CH 14 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-discord-parte-2-ch-14-jun-2026/155130",
+      "date": "2026-06-16T14:19:15.402Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANISH DUBBING Discord Del 2 | CH 14 Jun 2026",
+      "summary_sv": "",
+      "_title_sha": "72e9a8b8c425",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155112",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANISKT DUBBING Intro | CH AMA 11 jun 2026",
       "summary_sv": "",
       "_title_sha": "3bba369c2ffe",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155052",
-      "source": "Cardano Forum",
-      "title_en": "Pourquoi je choisis le français pour construire l’avenir de Cardano en République Démocratique du Congo",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/pourquoi-je-choisis-le-francais-pour-construire-l-avenir-de-cardano-en-republique-democratique-du-congo/155052",
-      "date": "2026-06-12T04:47:22.824Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Varför jag väljer franska för att bygga framtiden för Cardano i Den demokratiska republiken Kongo",
-      "summary_sv": "",
-      "_title_sha": "427ac5f87f8b",
       "_summary_sha": ""
     },
     {

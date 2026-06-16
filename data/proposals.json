@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-16T11:30:44.994Z",
+  "fetched_at": "2026-06-16T17:17:56.237Z",
   "items": [
+    {
+      "id": "gov:gov_action1lh2x3kjucjkggvwu6l3txggkvmrnhs3flpv8j35lvlcan4gax3xsq3cxfjc",
+      "proposal_id": "gov_action1lh2x3kjucjkggvwu6l3txggkvmrnhs3flpv8j35lvlcan4gax3xsq3cxfjc",
+      "type": "HardForkInitiation",
+      "proposed_epoch": 637,
+      "expiration_epoch": 644,
+      "title_en": "Hard Fork to Protocol Version 11 ('van Rossem' Hard Fork)",
+      "summary_en": "We propose to upgrade Cardano Mainnet to Protocol Version 11. This upgrade will be achieved via an intra-era Hard Fork (called \"van Rossem\"). Following the upgrade:\n\n1. The Cardano mainnet protocol will be upgraded to Major Version 11 and Minor Version 0;  \n2. The ledger remains in the Conway era, there is no era transition;  \n3. Several new Plutus primitives will be available, as defined in CIP-0109, CIP-0132, CIP-0133, CIP-0138 and CIP-0153;  \n4. All Plutus built-in functions will be available consistently across Plutus V1, V2 and V3, expanding the capabilities of Plutus V1 and V2 scripts;  ",
+      "url": "https://gov.tools/governance_actions/gov_action1lh2x3kjucjkggvwu6l3txggkvmrnhs3flpv8j35lvlcan4gax3xsq3cxfjc",
+      "block_time": "2026-06-16T15:49:53.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Hard Fork till Protokoll Version 11 ('van Rossem'-Hard Fork)",
+      "summary_sv": "Vi föreslår att uppgradera Cardano Mainnet till Protocol Version 11. Denna uppgradering kommer att uppnås via ett intra-era Hard Fork (kallad \"van Rossem\"). Efter uppgraderingen:\n\n1. Cardano mainnet-protokollet uppgraderas till Major Version 11 och Minor Version 0;  \n2. huvudboken förblir i Conway-eran, det sker ingen eraövergång;  \n3. Flera nya Plutus-primitiver kommer att vara tillgängliga, som definierats i CIP-0109, CIP-0132, CIP-0133, CIP-0138 och CIP-0153;  \n4. Alla Plutus inbyggda funktioner kommer att vara tillgängliga konsekvent över Plutus V1, V2 och V3, vilket utökar möjligheterna för Plutus V1- och V2-skript;",
+      "_title_sha": "e3429cf10a87",
+      "_summary_sha": "2cc94c3fd57e"
+    },
     {
       "id": "gov:gov_action1lwudrf9g66mzlrxhq62y5pvzhzzv9wgps7u04kne202udge7kknsqlgmhse",
       "proposal_id": "gov_action1lwudrf9g66mzlrxhq62y5pvzhzzv9wgps7u04kne202udge7kknsqlgmhse",
@@ -112,22 +128,6 @@
       "summary_sv": "Huvudmålet med detta förslag är att stärka och utöka Cardanos globala ekosystemnärvaro genom Rare Evo 2026 och Rare Dev Gov Day 2026, två etablerade samhällsledda initiativ som har blivit centrala plattformar för samordning, onboarding, nätverkande, governance och branschdialog inom Cardano-ekosystemet.\n\nDetta förslag skulle positionera Cardano-ekosystemet som titelsponsor för Rare Evo 2026 huvudscen och global live-sändning, samtidigt som det stödjer det andra årliga Rare Dev Gov Day, ett dedikerat Cardano-fokuserat tekniskt, governance- och samhällskoordinationsarrangemang occ",
       "_title_sha": "a2939fc4cf60",
       "_summary_sha": "9ab2b1e3b377"
-    },
-    {
-      "id": "gov:gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
-      "proposal_id": "gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
-      "type": "ParameterChange",
-      "proposed_epoch": 633,
-      "expiration_epoch": 640,
-      "title_en": "Update Plutus Cost Models",
-      "summary_en": "Intersect's Parameter Committee proposes to update the Plutus V3 Cost Model via a Parameter Update governance action to enable the new Plutus primitives that will be available following the van Rossem hard fork (to Protocol Version 11), to enable all Plutus primitives in Plutus V1 and V2 as well as Plutus V3, and to change settings for some existing Plutus primitives. Note that the new primitives will not be enabled in Protocol version 10, but only following the enactment of the hard fork to Protocol Version 11.  However, the changes for existing primitives will happen immediately on enactment",
-      "url": "https://gov.tools/governance_actions/gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r",
-      "block_time": "2026-05-26T16:18:46.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Uppdatera Plutus-kostnadsmodeller",
-      "summary_sv": "Intersect's Parameter Committee föreslår att uppdatera Plutus V3-kostnadsmodellen via en Parameter Update governance action för att möjliggöra de nya Plutus-primitiven som kommer att vara tillgängliga efter van Rossem-hard fork (till Protokollversion 11), för att möjliggöra samtliga Plutus-primitiver i Plutus V1 och V2 såväl som Plutus V3, och att ändra inställningar för några befintliga Plutus-primitiver. Observera att de nya primitivena inte kommer att aktiveras i Protokollversion 10, utan först efter verkställandet av hard fork till Protokollversion 11. Men ändringarna för befintliga primitiv kommer att ske omedelbart vid verkställandet.",
-      "_title_sha": "ab8948d8cd55",
-      "_summary_sha": "d2f4ef70647b"
     }
   ]
 }
