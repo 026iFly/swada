@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-16T23:43:55.652Z",
+  "fetched_at": "2026-06-17T05:05:47.632Z",
   "items": [
+    {
+      "id": "forum:155139",
+      "source": "Cardano Forum",
+      "title_en": "카르다노: 3세대 블록체인의 비전 & 카르다노 생태계 현황 — 2026년 6월 솔직한 진단",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/3-2026-6/155139",
+      "date": "2026-06-17T04:52:19.609Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano: Vision för tredje generationens blockchain och Cardanoekosystemets läge — ärlig bedömning juni 2026",
+      "summary_sv": "",
+      "_title_sha": "da2c538e26e5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155130",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANISH DUBBING Pogun och Taptools | CH AMA 11 Jun 2026",
       "summary_sv": "",
       "_title_sha": "642d0a69a35b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155079",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Intro | CH AMA 11 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-intro-ch-ama-11-jun-2026/155079",
-      "date": "2026-06-13T14:48:47.761Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISKT DUBBING Intro | CH AMA 11 jun 2026",
-      "summary_sv": "",
-      "_title_sha": "3bba369c2ffe",
       "_summary_sha": ""
     },
     {
