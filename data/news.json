@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-17T05:05:47.632Z",
+  "fetched_at": "2026-06-17T10:00:12.919Z",
   "items": [
+    {
+      "id": "forum:155142",
+      "source": "Cardano Forum",
+      "title_en": "DR Congo Cardano & Web3 Community Call #2",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-web3-community-call-2/155142",
+      "date": "2026-06-17T09:58:00.955Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "DR Congo Cardano & Web3 Community Call #2",
+      "summary_sv": "",
+      "_title_sha": "2a08cb057d0b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155139",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSK DUBBNING Discord, Styrelse och Gemenskapsstyrning | CH 13 Jun 2026",
       "summary_sv": "",
       "_title_sha": "cbba4ea1102d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155084",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Pogun y Taptools | CH AMA 11 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-pogun-y-taptools-ch-ama-11-jun-2026/155084",
-      "date": "2026-06-14T12:37:27.816Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING Pogun och Taptools | CH AMA 11 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "642d0a69a35b",
       "_summary_sha": ""
     },
     {
