@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-17T22:50:10.950Z",
+  "fetched_at": "2026-06-18T00:24:05.448Z",
   "items": [
+    {
+      "id": "forum:155152",
+      "source": "Cardano Forum",
+      "title_en": "Many Great Cardano Pools Stay Invisible — Can We Change That?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/many-great-cardano-pools-stay-invisible-can-we-change-that/155152",
+      "date": "2026-06-17T23:19:35.218Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Många stora Cardano-pooler förblir osynliga — kan vi ändra på det?",
+      "summary_sv": "",
+      "_title_sha": "f3f8e8ff324b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155142",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Vad är tredje generationens blockkedja: begrepp och historia",
       "summary_sv": "",
       "_title_sha": "0b4a66ab4b7a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155085",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Discord, Gobernanza y Gestión de la Comunidad | CH 13 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-discord-gobernanza-y-gestion-de-la-comunidad-ch-13-jun-2026/155085",
-      "date": "2026-06-14T15:03:16.754Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Discord, Styrelse och Gemenskapsstyrning | CH 13 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "cbba4ea1102d",
       "_summary_sha": ""
     },
     {
