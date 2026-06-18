@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-18T18:10:16.431Z",
+  "fetched_at": "2026-06-18T21:26:24.265Z",
   "items": [
+    {
+      "id": "gov:gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj",
+      "proposal_id": "gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 637,
+      "expiration_epoch": 644,
+      "title_en": "Strike Finance Liquidity Deployment",
+      "summary_en": "# Strike Finance V2 Treasury Deployment Proposal\n\nThis governance action requests a **12-month productive treasury deployment of 9,000,000 ADA** into Strike Finance V2 liquidity infrastructure.\n\nThis is **not grant funding**. Treasury-owned capital would be deployed to deepen Cardano-native perpetual futures liquidity, increase on-chain trading activity, and generate yield for the Cardano Treasury.\n\nStrike has processed **over 1,130,000,000 USD** in cumulative volume, facilitated **968,000+ trades** across **3,071 unique traders**, generated **over 3,250,000 USD** in profit for liquidity provi",
+      "url": "https://gov.tools/governance_actions/gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj",
+      "block_time": "2026-06-18T20:16:52.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Strike Finance Likviditetsutplacering",
+      "summary_sv": "Strike Finance V2 Treasury-distributionsförslag\n\nDenna styrningsåtgärd begär en produktiv 12-månaders förvaltning av treasury på 9 000 000 ADA in i Strike Finance V2s likviditetsinfrastruktur.\n\nDetta är inte bidragsfinansiering. Treasury-ägda kapital skulle användas för att fördjupa Cardano-nativt fantastisk (perpetual) futures-likviditet, öka on-chain handel och generera avkastning för Cardano Treasury.\n\nStrike har behandlat över 1 130 000 000 USD i kumulativt volym, underlättat över 968 000 affärer över 3 071 unika handlare, och genererat över 3 250 000 USD i vinst för likviditetsleverantörer.",
+      "_title_sha": "aff75f0eebc7",
+      "_summary_sha": "257770ed94a4"
+    },
     {
       "id": "gov:gov_action1lh2x3kjucjkggvwu6l3txggkvmrnhs3flpv8j35lvlcan4gax3xsq3cxfjc",
       "proposal_id": "gov_action1lh2x3kjucjkggvwu6l3txggkvmrnhs3flpv8j35lvlcan4gax3xsq3cxfjc",
@@ -112,22 +128,6 @@
       "summary_sv": "Denna treasury-uttag begäran **₳18,263,496.00** (USD $4,565,874.00) för att finansiera Tweag av Modus Create:s leverans av 3 arbetspaket inom kärn-infrastrukturområden för Cardano-ekosystemet under 2026–2027.\n\nHuvudfokus är **mainnet-utrullningen av Peras** (snabbare finalitet: ~2 min jämfört med ~12 min idag), tillsammans med förbättringar av motståndskraft, skalbarhet, utvecklarverktyg och nätverksobservation. Arbetspaketen inkluderar:\n\n- **Peras v1** – produktion cryptography, KillSwitch, mainnet-färdigställande samt ytterligare support och underhåll\n- **History Expiry** – delvis historik-noder för att minska SPO s",
       "_title_sha": "d7f633f95266",
       "_summary_sha": "b559e58d2841"
-    },
-    {
-      "id": "gov:gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
-      "proposal_id": "gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 633,
-      "expiration_epoch": 640,
-      "title_en": "Rare Evo and Dev Gov Day 2026: Cardano Title Sponsorship",
-      "summary_en": "The primary mission of this proposal is to strengthen and expand Cardano's global ecosystem presence through Rare Evo 2026 and Rare Dev Gov Day 2026, two established community-led initiatives that have become major coordination, onboarding, networking, governance, and industry outreach platforms for the Cardano ecosystem. \n\n**This proposal would position the Cardano ecosystem as the title sponsor of the Rare Evo 2026 main stage and global livestream, while also supporting the second annual Rare Dev Gov Day, a dedicated Cardano-focused technical, governance, and community coordination event occ",
-      "url": "https://gov.tools/governance_actions/gov_action18a9sytyez02jl8ee4ryz5xu7heg587m5tu6nr7fkd3ex30umnnjqq27e7ey",
-      "block_time": "2026-05-29T17:58:46.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Sällsynt Evo och Dev Gov Day 2026: Cardano-title Sponsorship",
-      "summary_sv": "Huvudmålet med detta förslag är att stärka och utöka Cardanos globala ekosystemnärvaro genom Rare Evo 2026 och Rare Dev Gov Day 2026, två etablerade samhällsledda initiativ som har blivit centrala plattformar för samordning, onboarding, nätverkande, governance och branschdialog inom Cardano-ekosystemet.\n\nDetta förslag skulle positionera Cardano-ekosystemet som titelsponsor för Rare Evo 2026 huvudscen och global live-sändning, samtidigt som det stödjer det andra årliga Rare Dev Gov Day, ett dedikerat Cardano-fokuserat tekniskt, governance- och samhällskoordinationsarrangemang occ",
-      "_title_sha": "a2939fc4cf60",
-      "_summary_sha": "9ab2b1e3b377"
     }
   ]
 }
