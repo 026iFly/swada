@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-18T06:05:50.150Z",
+  "fetched_at": "2026-06-18T10:45:45.505Z",
   "items": [
+    {
+      "id": "forum:155158",
+      "source": "Cardano Forum",
+      "title_en": "Τί συμβαίνει σήμερα στο CARDANO;",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano/155158",
+      "date": "2026-06-18T09:49:36.368Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Vad händer idag på CARDANO;",
+      "summary_sv": "",
+      "_title_sha": "81b8d94b5f66",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155152",
       "source": "Cardano Forum",
@@ -98,44 +112,6 @@
       "summary_sv": "",
       "_title_sha": "8fdd8ffb219f",
       "_summary_sha": ""
-    },
-    {
-      "id": "forum:155094",
-      "source": "Cardano Forum",
-      "title_en": "3세대 블록체인이란 무엇인가: 개념과 역사",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/155094",
-      "date": "2026-06-15T01:22:25.259Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Vad är tredje generationens blockkedja: begrepp och historia",
-      "summary_sv": "",
-      "_title_sha": "0b4a66ab4b7a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "adapulse:814beeae5d21",
-      "source": "AdaPulse",
-      "title_en": "BTCGrow and Danogo: Bringing Bitcoin into the Cardano DeFi Ecosystem",
-      "summary_en": "Learn how BTCGrow and Danogo bring Bitcoin to Cardano DeFi, enabling staking, yield generation, and full BTC redeemability on-chain. The post BTCGrow and Danogo: Bringing Bitcoin into the Cardano DeFi Ecosystem appeared first on ADAPULSE .",
-      "url": "https://adapulse.io/btcgrow-and-danogo-bringing-bitcoin-into-the-cardano-defi-ecosystem/",
-      "date": "2025-11-26T11:30:20.000Z",
-      "title_sv": "BTCGrow och Danogo: Att ta Bitcoin in i Cardano DeFi-ekosystemet",
-      "summary_sv": "Lär dig hur BTCGrow och Danogo tar Bitcoin till Cardano DeFi, vilket möjliggör staking, avkastningsgenerering och full BTC‑återtagbarhet på kedjan. Inlägget BTCGrow och Danogo: Att ta Bitcoin in i Cardano DeFi-ekosystemet publicerades först på ADAPULSE .",
-      "_title_sha": "9f1b9d2cd54c",
-      "_summary_sha": "90da00c0f21b"
-    },
-    {
-      "id": "adapulse:4ad1c3c2b5ce",
-      "source": "AdaPulse",
-      "title_en": "Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2",
-      "summary_en": "Learn how Danogo enables leveraged trading on Cardano using Splash for execution, plus trade lifecycle, comparisons, and future outlook. The post Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2 appeared first on ADAPULSE .",
-      "url": "https://adapulse.io/danogo-leveraged-trading-how-it-works-with-splash-on-cardano-part-2/",
-      "date": "2025-11-23T15:09:00.000Z",
-      "title_sv": "Danogo Leveraged Trading: Hur det fungerar med Splash på Cardano — Del 2",
-      "summary_sv": "Lär dig hur Danogo möjliggör hävdat handel på Cardano med Splash för genomförande, samt handelns livscykel, jämförelser och framtidsutsikter. Inlägget Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2 publicerades först på ADAPULSE.",
-      "_title_sha": "83671801fc56",
-      "_summary_sha": "379c7eef6403"
     }
   ]
 }
