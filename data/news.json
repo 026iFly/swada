@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-18T10:45:45.505Z",
+  "fetched_at": "2026-06-18T14:18:27.038Z",
   "items": [
+    {
+      "id": "forum:155159",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Discord Parte 3 | CH 15 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-discord-parte-3-ch-15-jun-2026/155159",
+      "date": "2026-06-18T13:56:58.349Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBING Discord Del 3 | CH 15 Jun 2026",
+      "summary_sv": "",
+      "_title_sha": "730a790b8307",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155158",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/many-great-cardano-pools-stay-invisible-can-we-change-that/155152",
       "date": "2026-06-17T23:19:35.218Z",
-      "score": 0,
-      "comments": 0,
+      "score": 3,
+      "comments": 4,
       "title_sv": "Många stora Cardano-pooler förblir osynliga — kan vi ändra på det?",
       "summary_sv": "",
       "_title_sha": "f3f8e8ff324b",
@@ -100,18 +114,28 @@
       "_summary_sha": ""
     },
     {
-      "id": "forum:155102",
-      "source": "Cardano Forum",
-      "title_en": "Call for Applications: Voluntary Cardano Community Director",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/call-for-applications-voluntary-cardano-community-director/155102",
-      "date": "2026-06-15T16:40:34.270Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Kallelse till ansökan: Voluntary Cardano Community Director",
-      "summary_sv": "",
-      "_title_sha": "8fdd8ffb219f",
-      "_summary_sha": ""
+      "id": "adapulse:814beeae5d21",
+      "source": "AdaPulse",
+      "title_en": "BTCGrow and Danogo: Bringing Bitcoin into the Cardano DeFi Ecosystem",
+      "summary_en": "Learn how BTCGrow and Danogo bring Bitcoin to Cardano DeFi, enabling staking, yield generation, and full BTC redeemability on-chain. The post BTCGrow and Danogo: Bringing Bitcoin into the Cardano DeFi Ecosystem appeared first on ADAPULSE .",
+      "url": "https://adapulse.io/btcgrow-and-danogo-bringing-bitcoin-into-the-cardano-defi-ecosystem/",
+      "date": "2025-11-26T11:30:20.000Z",
+      "title_sv": "BTCGrow och Danogo: Att ta Bitcoin in i Cardano DeFi-ekosystemet",
+      "summary_sv": "Lär dig hur BTCGrow och Danogo tar Bitcoin till Cardano DeFi, vilket möjliggör staking, avkastning och full BTC‑återläsbarhet on-chain. Inlägget BTCGrow and Danogo: Bringing Bitcoin into the Cardano DeFi Ecosystem publicerades först på ADAPULSE.",
+      "_title_sha": "9f1b9d2cd54c",
+      "_summary_sha": "90da00c0f21b"
+    },
+    {
+      "id": "adapulse:4ad1c3c2b5ce",
+      "source": "AdaPulse",
+      "title_en": "Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2",
+      "summary_en": "Learn how Danogo enables leveraged trading on Cardano using Splash for execution, plus trade lifecycle, comparisons, and future outlook. The post Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2 appeared first on ADAPULSE .",
+      "url": "https://adapulse.io/danogo-leveraged-trading-how-it-works-with-splash-on-cardano-part-2/",
+      "date": "2025-11-23T15:09:00.000Z",
+      "title_sv": "Danogo Leverage Trading: Hur det fungerar med Splash på Cardano — Del 2",
+      "summary_sv": "Lär dig hur Danogo möjliggör hävstångshandel på Cardano med Splash för genomförande, samt handelslivscykel, jämförelser och framtidsutsikter. Inlägget Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2 publicerades först på ADAPULSE.",
+      "_title_sha": "83671801fc56",
+      "_summary_sha": "379c7eef6403"
     }
   ]
 }
