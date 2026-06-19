@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-19T20:00:37.987Z",
+  "fetched_at": "2026-06-19T21:17:42.521Z",
   "items": [
+    {
+      "id": "forum:155170",
+      "source": "Cardano Forum",
+      "title_en": "How to boost the cardano price? we need to do something",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/how-to-boost-the-cardano-price-we-need-to-do-something/155170",
+      "date": "2026-06-19T20:45:04.224Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Hur kan vi öka Cardano-priset? vi måste göra något",
+      "summary_sv": "",
+      "_title_sha": "120c3c1fa01a",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155166",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANISH DUBBING Discord Del 2 | CH 14 Jun 2026",
       "summary_sv": "",
       "_title_sha": "72e9a8b8c425",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155112",
-      "source": "Cardano Forum",
-      "title_en": "3세대 블록체인의 현재: 거버넌스, 블록체인은 누가 통치하는가 | 메타 거버넌스",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/155112",
-      "date": "2026-06-16T01:19:42.609Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Tredje generationens blockkedjas nutid: governance, vem styr blockchainen | Meta governance",
-      "summary_sv": "",
-      "_title_sha": "cd97ac819422",
       "_summary_sha": ""
     },
     {
