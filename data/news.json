@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-19T14:18:22.006Z",
+  "fetched_at": "2026-06-19T17:24:30.064Z",
   "items": [
+    {
+      "id": "forum:155166",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Más Comentarios sobre Discord | CH 16 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-mas-comentarios-sobre-discord-ch-16-jun-2026/155166",
+      "date": "2026-06-19T15:24:50.867Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSKA DUBBNINGEN Fler kommentarer om Discord | CH 16 Jun 2026",
+      "summary_sv": "",
+      "_title_sha": "26100a3b0ec1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155159",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Tredje generationens blockkedjas nutid: governance, vem styr blockchainen | Meta governance",
       "summary_sv": "",
       "_title_sha": "cd97ac819422",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155106",
-      "source": "Cardano Forum",
-      "title_en": "Who Are the Cardano Builders We Should Be Paying Attention To?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/who-are-the-cardano-builders-we-should-be-paying-attention-to/155106",
-      "date": "2026-06-15T18:51:30.618Z",
-      "score": 9,
-      "comments": 5,
-      "title_sv": "Vem är Cardano-byggarna som vi borde uppmärksamma?",
-      "summary_sv": "",
-      "_title_sha": "3ebf4d5ac780",
       "_summary_sha": ""
     },
     {
