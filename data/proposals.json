@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T20:23:39.775Z",
+  "fetched_at": "2026-06-20T22:18:37.486Z",
   "items": [
     {
       "id": "gov:gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj",
@@ -125,7 +125,7 @@
       "block_time": "2026-06-03T16:13:33.000Z",
       "deposit_ada": 100000,
       "title_sv": "Tweag Core Cardano-infrastruktur: Treasury-uttag 2026–2027",
-      "summary_sv": "",
+      "summary_sv": "Denna treasury-uttag begärs på **₳18,263,496.00** (USD $4,565,874.00) för att finansiera Tweag via Modus Create:s leverans av tre arbetshelheter inom kärninfrastrukturområden för Cardano-ekosystemet under 2026–2027.\n\nHuvudfokus är **mainnet-distributionen av Peras** (snabbare finalitet: cirka 2 min mot cirka 12 min idag), tillsammans med förbättringar av motståndskraft, skalbarhet, utvecklarverktyg och nätverksobservation. Arbetshelheter inkluderar:\n\n- **Peras v1** – produktionens kryptografi, KillSwitch, mainnet-förberedelse och ytterligare stöd och underhåll\n- **History Expiry** – delhistoriknoder för att reducera SPOs",
       "_title_sha": "d7f633f95266",
       "_summary_sha": "b559e58d2841"
     }
