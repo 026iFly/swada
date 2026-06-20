@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-20T08:26:56.968Z",
+  "fetched_at": "2026-06-20T11:24:42.425Z",
   "items": [
+    {
+      "id": "forum:155180",
+      "source": "Cardano Forum",
+      "title_en": "Could Stablecoin Revenue Help Fund Cardano Growth?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/could-stablecoin-revenue-help-fund-cardano-growth/155180",
+      "date": "2026-06-20T10:58:21.720Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Kan stablecoin-intäkter hjälpa till att finansiera Cardano-tillväxten?",
+      "summary_sv": "",
+      "_title_sha": "8bdc98eaf828",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155170",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano: Vision för tredje generationens blockchain och Cardanoekosystemets läge — ärlig bedömning juni 2026",
       "summary_sv": "",
       "_title_sha": "da2c538e26e5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155130",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Discord Parte 2 | CH 14 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-discord-parte-2-ch-14-jun-2026/155130",
-      "date": "2026-06-16T14:19:15.402Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING Discord Del 2 | CH 14 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "72e9a8b8c425",
       "_summary_sha": ""
     },
     {
