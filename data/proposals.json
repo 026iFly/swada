@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T16:47:28.893Z",
+  "fetched_at": "2026-06-20T18:24:53.107Z",
   "items": [
     {
       "id": "gov:gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj",
@@ -45,7 +45,7 @@
       "block_time": "2026-06-16T09:20:06.000Z",
       "deposit_ada": 100000,
       "title_sv": "Eternl: Vägen till hållbarhet - v2",
-      "summary_sv": "",
+      "summary_sv": "## Inledning\n\nFöregående förslag, “Eternl: Path to Sustainability (2026-2027),” fick INGA röster från CC-medlemmar på grund av bristande tydlighet kring revisioner.\n\nDetta nya förslag är i huvudsak detsamma som det föregående och lägger till den tydligheten.\n\n_Föregående styrningsåtgärd:_\n\ngov_action1ngpqafax5rvp8lcgey4asvqtycrh4e56fwp8cn2r9trx2ysryhtsqdm3w3z\nhttps://adastat.net/governances/9a020ea7a6a0d813ff08c92bd8300b26077ae69a4b827c4d432ac665120325d700\n\n_Viktiga skillnader:_\n\n- Lagt till tydlighet om användning av Audit-fonder och uppföljningsmått, enligt begärt i CC-omröstningens motiveringar.\n- Uppdaterad Ada till",
       "_title_sha": "8862aac33269",
       "_summary_sha": "a241df13d183"
     },
@@ -60,8 +60,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1654yj97lf7guxsh27phtknq2tsc4dajp95fh7vrucaltjy0502csq7qtkhq",
       "block_time": "2026-06-09T14:15:26.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Återbetalning av Ikigai Info Governance Action Deposit.",
+      "summary_sv": "I september 2024, bara veckor efter Chang-hårdgranskningen för att introducera on-chain governance, skickades en Info governance action med titeln Cardanoの生きがい - Ikigai -. Detta var endast en symbolisk governance action, eftersom den helt enkelt frågade communityn om de höll med om ett uttalande som tackade de som hjälpt Cardano till denna punkt och uttryckte ett hopp inför framtiden.\n\nTyvärr, på grund av en bugg i koden i Cardano-noden som tillät en oregistrerad stake key att användas i governance action, kunde inlämnaren inte återfå sin insats på 100K ADA. Medan communityn ex",
       "_title_sha": "2fe74606c997",
       "_summary_sha": "d0f53b8ef4a2"
     },
@@ -76,8 +76,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1t5ap7etluvct2x69nj5mfqhurgakuvekyflcsrv2qkrhrs378n3qq3z2c22",
       "block_time": "2026-06-09T13:12:15.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Omstrukturering av statsskattets styrning",
+      "summary_sv": "Treasury governance bör möjliggöra strategisk anpassning och underlätta beslutsfattande. Men treasury governance inom Cardano-ekosystemet är i ett dåligt tillstånd. För det första råder ett finansieringskilo. För det andra, även om det är avgörande för Cardanos stabilitet och tillväxt, behandlas treasury governance endast indirekt och knappt stöds av det befintliga styrsystemet. Denna governance-infoåtgärd skissar grundidéer för reformering av treasury governance och introducerar dem i den offentliga debatten. Målet är att ge drivkraft för att förbättra treasury governance-processen och att beskriva vaktlinjer.",
       "_title_sha": "62f5daba6372",
       "_summary_sha": "c83987076310"
     },
