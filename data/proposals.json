@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T18:24:53.107Z",
+  "fetched_at": "2026-06-20T20:23:39.775Z",
   "items": [
     {
       "id": "gov:gov_action1suskjc6c4nw58c6wtmv77xe79gwj47wp4gvh9cqhhxujwxmam3cqqkz5nwj",
@@ -92,8 +92,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1fah9m7dxu99af8jqdc4mkrgs3va790nyh9tfhycq2wsvrm47p4rsqtcm6ry",
       "block_time": "2026-06-08T19:56:01.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "IO: Hydra",
+      "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.inbrowser.link/?cid=Qmbk3jHKKLQ1VrniKaD7sGMscJxCKvoXqt1sQoEnRLTku4](https://ipnso-com.ipns.inbrowser.link/?cid=Qmbk3jHKKLQ1VrniKaD7sGMscJxCKvoXqt1sQoEnRLTku4)\n\nHydra är den enda produktion-klara Layer 2 på Cardano, som redan kör live-arbetspass för Delta DeFi, Masumi, Intersect, Vtechcom och andra. Detta förslag finansierar fyra arbetsströmmar - prestandaoptimering, operativ briljans, ekosystemstöd och utvecklarupplevelse - vilket levererar en funktionellt komplett och hårdvarubeskyddad Hydra v2 så att vi kan erbjuda en konkurrenskraftig skalningslösning till befintliga byggare.",
       "_title_sha": "c7871cd475c4",
       "_summary_sha": "08305aac0408"
     },
@@ -108,8 +108,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1cadmygtqv6r64pvwezw859wg36wpwp209cz94cc7ej9fdp7dyphqq58n5ur",
       "block_time": "2026-06-05T17:09:29.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Minska kommitténsMinSize-parameter från 7 till 5",
+      "summary_sv": "Intersect’s Civics Committee and Technical Steering Committee föreslår att förändra den **minsta** konstitutionella kommitténs storlek (`committeeMinSize`) från 7 till 5 för att förbättra operativ motståndskraft samtidigt som konstitutionella skydd bibehålls.\n\nAntagandet av denna Governance Action beror på ikraftträdandet av en annan live Parameter Change Governance Action (`gov_action1eqhnsdyf3exhp5mqt7sdjtl7xy69wqg8tvg854psns2jt72cra3qqrcnr8r`), vilken kommer att justera ett antal inställningar i Plutus kostnadsmodell i förberedelse för van Rossem-hard fork.",
       "_title_sha": "132831d161c1",
       "_summary_sha": "e408d2849ae5"
     },
@@ -124,7 +124,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1zljrlljt9cxlz7ra2nep43nxg0r54wcnrgexyuhuam9ah0ws607qq2vcg4x",
       "block_time": "2026-06-03T16:13:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
+      "title_sv": "Tweag Core Cardano-infrastruktur: Treasury-uttag 2026–2027",
       "summary_sv": "",
       "_title_sha": "d7f633f95266",
       "_summary_sha": "b559e58d2841"
