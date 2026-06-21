@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-21T13:16:11.955Z",
+  "fetched_at": "2026-06-21T16:04:08.700Z",
   "items": [
+    {
+      "id": "forum:155197",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Con Jason | CH 17 Jun 2026 (PARTE 2 DE 2)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-con-jason-ch-17-jun-2026-parte-2-de-2/155197",
+      "date": "2026-06-21T15:37:52.099Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANISH DUBBING Med Jason | CH 17 Jun 2026 (DEL 2 AV 2)",
+      "summary_sv": "",
+      "_title_sha": "aed6b9cda349",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155196",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Con Jason | CH 17 Jun 2026 (PARTE 1 DE 2)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-con-jason-ch-17-jun-2026-parte-1-de-2/155196",
+      "date": "2026-06-21T15:35:37.175Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "ESP: SPANSK DUBBNING Med Jason | CH 17 jun 2026 (DEL 1 AV 2)",
+      "summary_sv": "",
+      "_title_sha": "9e2fc6900ab8",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155180",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Många stora Cardano-pooler förblir osynliga — kan vi ändra på det?",
       "summary_sv": "",
       "_title_sha": "f3f8e8ff324b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155142",
-      "source": "Cardano Forum",
-      "title_en": "DR Congo Cardano & Web3 Community Call #2",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-web3-community-call-2/155142",
-      "date": "2026-06-17T09:58:00.955Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "DR Congo Cardano & Web3 Community Call #2",
-      "summary_sv": "",
-      "_title_sha": "2a08cb057d0b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155139",
-      "source": "Cardano Forum",
-      "title_en": "카르다노: 3세대 블록체인의 비전 & 카르다노 생태계 현황 — 2026년 6월 솔직한 진단",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/3-2026-6/155139",
-      "date": "2026-06-17T04:52:19.609Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano: Vision för tredje generationens blockchain och Cardanoekosystemets läge — ärlig bedömning juni 2026",
-      "summary_sv": "",
-      "_title_sha": "da2c538e26e5",
       "_summary_sha": ""
     },
     {
