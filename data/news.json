@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-22T12:22:34.622Z",
+  "fetched_at": "2026-06-22T17:46:04.435Z",
   "items": [
+    {
+      "id": "forum:155216",
+      "source": "Cardano Forum",
+      "title_en": "Cardano - Node diversity workshop in Porto - June 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-node-diversity-workshop-in-porto-june-2026/155216",
+      "date": "2026-06-22T17:22:42.430Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Cardano - Node-diversity-workshop i Porto - juni 2026",
+      "summary_sv": "",
+      "_title_sha": "4462c456d92c",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155202",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSK DUBBING Discord Del 3 | CH 15 Jun 2026",
       "summary_sv": "",
       "_title_sha": "730a790b8307",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155158",
-      "source": "Cardano Forum",
-      "title_en": "Τί συμβαίνει σήμερα στο CARDANO;",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano/155158",
-      "date": "2026-06-18T09:49:36.368Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Vad händer idag på CARDANO;",
-      "summary_sv": "",
-      "_title_sha": "81b8d94b5f66",
       "_summary_sha": ""
     },
     {
