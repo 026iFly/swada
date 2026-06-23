@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-23T18:08:18.756Z",
+  "fetched_at": "2026-06-23T21:04:37.020Z",
   "items": [
+    {
+      "id": "forum:155231",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Enterprise Adoption: Production Ticketing Platform — Sellout × Anvil",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-enterprise-adoption-production-ticketing-platform-sellout-x-anvil/155231",
+      "date": "2026-06-23T20:12:36.490Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano Enterprise Adoption: Produktionsbiljetthantering — Sellout × Anvil",
+      "summary_sv": "",
+      "_title_sha": "94f908cf14bf",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155229",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "PCP_rho_tau_JonathanNikkel",
       "summary_sv": "",
       "_title_sha": "8c082a2c378d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155197",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Con Jason | CH 17 Jun 2026 (PARTE 2 DE 2)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-con-jason-ch-17-jun-2026-parte-2-de-2/155197",
-      "date": "2026-06-21T15:37:52.099Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING Med Jason | CH 17 Jun 2026 (DEL 2 AV 2)",
-      "summary_sv": "",
-      "_title_sha": "aed6b9cda349",
       "_summary_sha": ""
     },
     {

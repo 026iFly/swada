@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T18:12:57.160Z",
+  "fetched_at": "2026-06-23T21:07:40.415Z",
   "items": [
     {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",
@@ -45,7 +45,7 @@
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
       "title_sv": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
-      "summary_sv": "",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Underhåll av hårdvaruplånbok 2026.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för följande avsnitt; Abstract (Sammanfattning), Motivation and Rationale (Motivation och Rationella skäl) har hämtats från det godkända förslaget som leverantören lämnat in som en del av Intersect-budgetprocessen.",
       "_title_sha": "c1eb036db3f5",
       "_summary_sha": "46958b0a6bf1"
     },
@@ -60,8 +60,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Ta ut 1 193 000 ada för Intersect Technical Steering Committee Support",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Intersect Technical Steering Committee Support.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorns vägnar. Innehållet i följande avsnitt; Abstract, Motivation och Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect-budgetprocessen.",
       "_title_sha": "b432b78d5b59",
       "_summary_sha": "13e68004225c"
     },
@@ -76,7 +76,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sgx6wlxf",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
+      "title_sv": "Överför 25 400 000 ada för Intersect: Governance koordinering och teknisk ...",
       "summary_sv": "",
       "_title_sha": "6334d3ce149d",
       "_summary_sha": "44512fb219ca"
