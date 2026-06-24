@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-06-24T00:05:52.496Z",
+  "fetched_at": "2026-06-24T04:21:53.829Z",
   "items": [
+    {
+      "id": "gov:gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
+      "proposal_id": "gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 639,
+      "expiration_epoch": 646,
+      "title_en": "Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol",
+      "summary_en": "Alchemy is a Cardano-native Bitcoin treasury protocol and BTCfi infrastructure layer proposed by a collaboration between Sundial Protocol and Charms. It gives Cardano reusable infrastructure for transparent, on-chain Bitcoin-backed structured exposure: reserve architecture, composable FIRE (BTC+) and ICE (BTC-) assets, public dashboards, integration adapters, monthly reporting, and staged launch liquidity.\n\nThe proposal requests 10,000,000 ada, using a reference value of approximately USD 0.20 per ada for a total planning budget of approximately USD 2.0 million. The request is split into two s",
+      "url": "https://gov.tools/governance_actions/gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
+      "block_time": "2026-06-24T03:01:28.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Alchemy av Sundial x Charms: Cardano-native Bitcoin Treasury Protocol",
+      "summary_sv": "Alchemy är ett Cardano-nativt Bitcoin-treasury-protokoll och BTCfi-infrastrukturslager föreslaget genom ett samarbete mellan Sundial Protocol och Charms. Det ger Cardano återanvändbar infrastruktur för transparent, on-chain Bitcoin-stödd strukturerad exponering: reservarkitektur, sammanbyggbara FIRE (BTC+) och ICE (BTC-) tillgångar, offentliga dashboards, integrationsadaptrar, månadsrapporter, och stegvis lanseringslikviditet.\n\nFörslaget begär 10 000 000 ada, med en referensvärde på cirka 0,20 USD per ada för en total planeringsbudget på cirka 2,0 miljoner USD. Begäran är uppdelad i två s",
+      "_title_sha": "a9c45a7b78e1",
+      "_summary_sha": "18393dad54bf"
+    },
     {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",
       "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",
@@ -18,36 +34,20 @@
       "_summary_sha": "3a814b374a37"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 638,
       "expiration_epoch": 645,
-      "title_en": "Withdraw 540,750 ada for by TxPipe Dolos: Maintaining Cardano's Lightweight D...",
-      "summary_en": "This Treasury Withdrawal funds Dolos by TxPipe: Maintaining Cardano's Lightweight Data Node, Year 2.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
+      "title_en": "Withdraw 1,162,746 ada for MLabs Core Tool Maintenance & Enhancement: Plutarc...",
+      "summary_en": "This Treasury Withdrawal funds MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 540 750 ada för genom TxPipe Dolos: Underhåll av Cardanos lätta D...",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Dolos via TxPipe: Underhåll av Cardanos lättvikts-datapunktnod, År 2.\n\nDenna Treasury Withdrawal lämnas in av Intersect å leverantörens vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect:s budgetprocess.",
-      "_title_sha": "5b94d1bd31d3",
-      "_summary_sha": "97c99d4a65e8"
-    },
-    {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 638,
-      "expiration_epoch": 645,
-      "title_en": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
-      "summary_en": "This Treasury Withdrawal funds Hardware Wallet Maintenance 2026.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
-      "block_time": "2026-06-23T16:14:33.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Underhåll av hårdvaruplånbok 2026.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för följande avsnitt; Abstract (Sammanfattning), Motivation and Rationale (Motivation och Rationella skäl) har hämtats från det godkända förslaget som leverantören lämnat in som en del av Intersect-budgetprocessen.",
-      "_title_sha": "c1eb036db3f5",
-      "_summary_sha": "46958b0a6bf1"
+      "title_sv": "Ta ut 1 162 746 ada för MLabs Core Tool Maintenance & Enhancement: Plutarc...",
+      "summary_sv": "Denna Treasury Withdrawal finansierar MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendor:s vägnar. Innehållet för de följande avsnitten; Abstract, Motivation och Rationale har hämtats från den godkända förslaget som levererats av leverantören som en del av Intersect:s budgetprocess.",
+      "_title_sha": "06f70f1cb093",
+      "_summary_sha": "3f77cd568cbc"
     },
     {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr",
@@ -98,36 +98,36 @@
       "_summary_sha": "00b386f25ac9"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 638,
       "expiration_epoch": 645,
-      "title_en": "Withdraw 1,162,746 ada for MLabs Core Tool Maintenance & Enhancement: Plutarc...",
-      "summary_en": "This Treasury Withdrawal funds MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
+      "title_en": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
+      "summary_en": "This Treasury Withdrawal funds Hardware Wallet Maintenance 2026.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 1 162 746 ada för MLabs Core Tool Maintenance & Enhancement: Plutarc...",
-      "summary_sv": "Denna Treasury Withdrawal finansierar MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendor:s vägnar. Innehållet för de följande avsnitten; Abstract, Motivation och Rationale har hämtats från den godkända förslaget som levererats av leverantören som en del av Intersect:s budgetprocess.",
-      "_title_sha": "06f70f1cb093",
-      "_summary_sha": "3f77cd568cbc"
+      "title_sv": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Underhåll av hårdvaruplånbok 2026.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för följande avsnitt; Abstract (Sammanfattning), Motivation and Rationale (Motivation och Rationella skäl) har hämtats från det godkända förslaget som leverantören lämnat in som en del av Intersect-budgetprocessen.",
+      "_title_sha": "c1eb036db3f5",
+      "_summary_sha": "46958b0a6bf1"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 638,
       "expiration_epoch": 645,
-      "title_en": "Withdraw 540,750 ada for UTxO RPC by TxPipe: Maintaining Cardano’s Integratio...",
-      "summary_en": "This Treasury Withdrawal funds UTxO RPC by TxPipe: Maintaining Cardano’s Integration Standard, Year 2.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
+      "title_en": "Withdraw 540,750 ada for by TxPipe Dolos: Maintaining Cardano's Lightweight D...",
+      "summary_en": "This Treasury Withdrawal funds Dolos by TxPipe: Maintaining Cardano's Lightweight Data Node, Year 2.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 540 750 ada för UTxO RPC via TxPipe: Underhåll av Cardano’s Integratio...",
-      "summary_sv": "Denna Treasury Withdrawal finansierar UTxO RPC via TxPipe: Upprätthålla Cardanos integrationsstandard, År 2.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorens vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersects budgetprocess.",
-      "_title_sha": "f6d33ce7523c",
-      "_summary_sha": "d16c8668f69b"
+      "title_sv": "Ta ut 540 750 ada för genom TxPipe Dolos: Underhåll av Cardanos lätta D...",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Dolos via TxPipe: Underhåll av Cardanos lättvikts-datapunktnod, År 2.\n\nDenna Treasury Withdrawal lämnas in av Intersect å leverantörens vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect:s budgetprocess.",
+      "_title_sha": "5b94d1bd31d3",
+      "_summary_sha": "97c99d4a65e8"
     }
   ]
 }
