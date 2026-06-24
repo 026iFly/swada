@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-24T17:13:12.411Z",
+  "fetched_at": "2026-06-24T20:00:36.178Z",
   "items": [
+    {
+      "id": "forum:155262",
+      "source": "Cardano Forum",
+      "title_en": "CPS-0008 (Domain Name Resolution): room for a community CIP, or is the Foundation handling it via the gTLD work?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cps-0008-domain-name-resolution-room-for-a-community-cip-or-is-the-foundation-handling-it-via-the-gtld-work/155262",
+      "date": "2026-06-24T18:54:50.726Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "CPS-0008 (Domännamnsupplösning): utrymme för ett community CIP, eller hanterar Foundation det via gTLD-arbetet?",
+      "summary_sv": "",
+      "_title_sha": "edb056d02c31",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155248",
       "source": "Cardano Forum",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/spanish-dubbing-reflexiones-sobre-clarity-act-ch-ama-11-jun-2026/155247",
       "date": "2026-06-24T14:12:58.433Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": ":es: SPANSKA DUBBNING Reflexioner om Clarity Act | CH AMA 11 jun 2026",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "SekundäraFi-säkerhetsincident: kärnan i sårbarheten, skadeomfattning",
       "summary_sv": "",
       "_title_sha": "86ac6e77c539",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155239",
-      "source": "Cardano Forum",
-      "title_en": "세컨드파이(SecondFi) 보안 사고: 사건의 전말",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi/155239",
-      "date": "2026-06-24T05:30:18.846Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "AndraFi-säkerhetsincident: Händelseförloppet",
-      "summary_sv": "",
-      "_title_sha": "357a33e93374",
       "_summary_sha": ""
     },
     {
