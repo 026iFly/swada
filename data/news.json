@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-24T08:30:40.873Z",
+  "fetched_at": "2026-06-24T11:52:08.539Z",
   "items": [
+    {
+      "id": "forum:155244",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Project Showcase || June Edition",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-project-showcase-june-edition/155244",
+      "date": "2026-06-24T10:03:12.746Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-projektet visar upp || Juni-utgåvan",
+      "summary_sv": "",
+      "_title_sha": "b460cddbe2c2",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155243",
       "source": "Cardano Forum",
@@ -78,8 +92,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-enterprise-adoption-production-ticketing-platform-sellout-x-anvil/155231",
       "date": "2026-06-23T20:12:36.490Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Cardano Enterprise Adoption: Produktionsbiljetthantering — Sellout × Anvil",
       "summary_sv": "",
       "_title_sha": "94f908cf14bf",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSKA DUBBNING SecondFi | CH 23 Jun 2026",
       "summary_sv": "",
       "_title_sha": "843a9b0e0338",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155228",
-      "source": "Cardano Forum",
-      "title_en": "RealFi Stake Pool Accelerator",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/realfi-stake-pool-accelerator/155228",
-      "date": "2026-06-23T15:15:48.091Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "RealFi Stake Pool Accelerator",
-      "summary_sv": "",
-      "_title_sha": "f964c0cd10dc",
       "_summary_sha": ""
     },
     {
