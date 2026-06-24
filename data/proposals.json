@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T22:21:44.728Z",
+  "fetched_at": "2026-06-24T00:05:52.496Z",
   "items": [
     {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",
@@ -124,8 +124,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Ta ut 540 750 ada för UTxO RPC via TxPipe: Underhåll av Cardano’s Integratio...",
+      "summary_sv": "Denna Treasury Withdrawal finansierar UTxO RPC via TxPipe: Upprätthålla Cardanos integrationsstandard, År 2.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorens vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersects budgetprocess.",
       "_title_sha": "f6d33ce7523c",
       "_summary_sha": "d16c8668f69b"
     }
