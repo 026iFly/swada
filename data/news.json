@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-24T11:52:08.539Z",
+  "fetched_at": "2026-06-24T14:50:26.768Z",
   "items": [
+    {
+      "id": "forum:155248",
+      "source": "Cardano Forum",
+      "title_en": "Digest June 24, 2026: Arouet Community Director Applications Open, Orion Fund Founder Cohort Now Accepting Applicants | Ouroboros Leios Now Live on Testnet | Updates From Cardano Foundation, and Intersect MBO",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-june-24-2026-arouet-community-director-applications-open-orion-fund-founder-cohort-now-accepting-applicants-ouroboros-leios-now-live-on-testnet-updates-from-cardano-foundation-and-intersect-mbo/155248",
+      "date": "2026-06-24T14:14:36.701Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Digest 24 juni 2026: Arouet Community Director Applications Open, Orion Fund Founder Cohort Now Accepting Applicants | Ouroboros Leios Now Live on Testnet | Updates From Cardano Foundation, and Intersect MBO",
+      "summary_sv": "",
+      "_title_sha": "54dde6227b3c",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155247",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Reflexiones sobre Clarity Act | CH AMA 11 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-reflexiones-sobre-clarity-act-ch-ama-11-jun-2026/155247",
+      "date": "2026-06-24T14:12:58.433Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSKA DUBBNING Reflexioner om Clarity Act | CH AMA 11 jun 2026",
+      "summary_sv": "",
+      "_title_sha": "3645659a0a8c",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155244",
       "source": "Cardano Forum",
@@ -8,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-project-showcase-june-edition/155244",
       "date": "2026-06-24T10:03:12.746Z",
-      "score": 0,
+      "score": 2,
       "comments": 0,
       "title_sv": "Cardano-projektet visar upp || Juni-utgåvan",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "AndraFi-säkerhetsincident: Händelseförloppet",
       "summary_sv": "",
       "_title_sha": "357a33e93374",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155231",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Enterprise Adoption: Production Ticketing Platform — Sellout × Anvil",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-enterprise-adoption-production-ticketing-platform-sellout-x-anvil/155231",
-      "date": "2026-06-23T20:12:36.490Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Cardano Enterprise Adoption: Produktionsbiljetthantering — Sellout × Anvil",
-      "summary_sv": "",
-      "_title_sha": "94f908cf14bf",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155229",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING SecondFi | CH 23 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-secondfi-ch-23-jun-2026/155229",
-      "date": "2026-06-23T15:57:58.599Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSKA DUBBNING SecondFi | CH 23 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "843a9b0e0338",
       "_summary_sha": ""
     },
     {
