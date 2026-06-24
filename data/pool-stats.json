@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T14:50:29.223Z",
+  "fetched_at": "2026-06-24T17:13:21.929Z",
   "summary": {
     "pool_id_bech32": "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc",
     "active_stake": "125587625464",
@@ -30,8 +30,8 @@
     {
       "epoch_no": 636,
       "active_stake": "124222135917",
-      "active_stake_pct": null,
-      "saturation_pct": null,
+      "active_stake_pct": 0.0005717608352967038,
+      "saturation_pct": 0.16,
       "block_cnt": 0,
       "delegator_cnt": 5,
       "margin": 0.01,
