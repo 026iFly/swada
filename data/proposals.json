@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T20:00:43.466Z",
+  "fetched_at": "2026-06-24T21:40:31.379Z",
   "items": [
     {
       "id": "gov:gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
@@ -18,22 +18,6 @@
       "_summary_sha": "18393dad54bf"
     },
     {
-      "id": "gov:gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
-      "proposal_id": "gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 639,
-      "expiration_epoch": 646,
-      "title_en": "Withdraw 4,969,231 ada for Cardano Enterprise Adoption: Ticketing Platform",
-      "summary_en": "This Treasury Withdrawal funds Phase 2 of a production Cardano-native ticketing platform operated by Sellout.io and built by Anvil Development Agency. Phase 1 (on-chain event creation, CIP-68 ticket minting, transfers, and attendance verification) is already live on Cardano mainnet, funded entirely by Sellout (over $130k invested). Phase 2 delivers a secondary marketplace with on-chain royalty enforcement, per-event anti-scalping controls, wallet onboarding for Sellout's 200,000+ existing users, organizer tools, an independent third-party security audit, and a professional launch campaign, anc",
-      "url": "https://gov.tools/governance_actions/gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
-      "block_time": "2026-06-24T19:30:39.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Ta ut 4 969 231 ada för Cardano Enterprise Adoption: Ticketing Platform",
-      "summary_sv": "Denna Treasury Withdrawal finansierar fas 2 av en Cardano-native biljetthanteringsplattform i produktion som drivs av Sellout.io och byggs av Anvil Development Agency. Fas 1 (on-chain händelseskapande, CIP-68 biljettminting, överföringar och närvaroverifiering) är redan live på Cardano mainnet och finansierades helt av Sellout (över 130 000 USD investerade). Fas 2 levererar en sekundär marknadsplats med on-chain royalty-efterlevnad, per-händelse anti-skalningskontroller, plånboks-in- onboarding för Sellouts mer än 200 000 befintliga användare, arrangörsverktyg, en oberoende tredjeparts säkerhetsrevision och en professionell lanseringskampanj, och",
-      "_title_sha": "ef0a5a84f321",
-      "_summary_sha": "f03e5be1a947"
-    },
-    {
       "id": "gov:gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
       "proposal_id": "gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
       "type": "TreasuryWithdrawals",
@@ -50,36 +34,36 @@
       "_summary_sha": "2c1c1226bf32"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
+      "id": "gov:gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
+      "proposal_id": "gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
       "type": "TreasuryWithdrawals",
-      "proposed_epoch": 638,
-      "expiration_epoch": 645,
-      "title_en": "Withdraw 3,810,423 ada for Mithril Protocol",
-      "summary_en": "This Treasury Withdrawal funds Mithril Protocol.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
-      "block_time": "2026-06-23T16:14:33.000Z",
+      "proposed_epoch": 639,
+      "expiration_epoch": 646,
+      "title_en": "Se7en Labs: Daedalus Wallet Maintenance and Improvements 2026-2027",
+      "summary_en": "This Treasury Withdrawal funds Daedalus Wallet Maintenance and Improvements\n2026–2027, delivered by Se7en Labs, Inc.\n\nDaedalus is Cardano's only full-node desktop wallet — it runs an embedded\nCardano node and derives all wallet and governance data directly from the\nchain, with no third-party APIs or trusted backends. Because it participates\nin P2P networking and maintains its own local mempool, Daedalus transactions\ncompete for block inclusion on equal footing with full-node participants,\nproviding reliable submission even under high chain utilisation where lite\nwallets can fail for hours.\n\nDa",
+      "url": "https://gov.tools/governance_actions/gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
+      "block_time": "2026-06-24T21:25:59.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 3,810,423 ada för Mithril Protocol",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Mithril Protocol.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för följande avsnitt; Abstract, Motivation och Rationale har hämtats från det godkända förslaget som leverantören lämnat som en del av Intersect-budgetprocessen.",
-      "_title_sha": "b69eb8464cb0",
-      "_summary_sha": "00b386f25ac9"
+      "title_sv": "Se7en Labs: Daedalus Wallet-underhåll och förbättringar 2026–2027",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Daedalus Wallet Maintenance and Improvements\n2026–2027, levereras av Se7en Labs, Inc.\n\nDaedalus är Cardanos enda fullknot-datorplånbok — den kör en inbäddad Cardano-nod och härleder all plånboks- och styrningsdata direkt från kedjan, utan tredje parts APIer eller betrodda backends. Eftersom den deltar i P2P-nätverk och upprätthåller sin egen lokala mempool, tävlar Daedalus-transaktioner om blockinnehav på lika villkor som fullknot-deltagare, vilket ger tillförlitlig inlämning även vid hög kedjeutnyttjande där lätta plånböcker kan misslyckas i timmar.\n\nDaedalus",
+      "_title_sha": "a360e2f19af5",
+      "_summary_sha": "b994ca942658"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
+      "id": "gov:gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
+      "proposal_id": "gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
       "type": "TreasuryWithdrawals",
-      "proposed_epoch": 638,
-      "expiration_epoch": 645,
-      "title_en": "Withdraw 540,750 ada for by TxPipe Dolos: Maintaining Cardano's Lightweight D...",
-      "summary_en": "This Treasury Withdrawal funds Dolos by TxPipe: Maintaining Cardano's Lightweight Data Node, Year 2.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
-      "block_time": "2026-06-23T16:14:33.000Z",
+      "proposed_epoch": 639,
+      "expiration_epoch": 646,
+      "title_en": "Withdraw 4,969,231 ada for Cardano Enterprise Adoption: Ticketing Platform",
+      "summary_en": "This Treasury Withdrawal funds Phase 2 of a production Cardano-native ticketing platform operated by Sellout.io and built by Anvil Development Agency. Phase 1 (on-chain event creation, CIP-68 ticket minting, transfers, and attendance verification) is already live on Cardano mainnet, funded entirely by Sellout (over $130k invested). Phase 2 delivers a secondary marketplace with on-chain royalty enforcement, per-event anti-scalping controls, wallet onboarding for Sellout's 200,000+ existing users, organizer tools, an independent third-party security audit, and a professional launch campaign, anc",
+      "url": "https://gov.tools/governance_actions/gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
+      "block_time": "2026-06-24T19:30:39.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 540 750 ada för genom TxPipe Dolos: Underhåll av Cardanos lätta D...",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Dolos via TxPipe: Underhåll av Cardanos lättvikts-datapunktnod, År 2.\n\nDenna Treasury Withdrawal lämnas in av Intersect å leverantörens vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect:s budgetprocess.",
-      "_title_sha": "5b94d1bd31d3",
-      "_summary_sha": "97c99d4a65e8"
+      "title_sv": "Ta ut 4 969 231 ada för Cardano Enterprise Adoption: Ticketing Platform",
+      "summary_sv": "Denna Treasury Withdrawal finansierar fas 2 av en Cardano-native biljetthanteringsplattform i produktion som drivs av Sellout.io och byggs av Anvil Development Agency. Fas 1 (on-chain händelseskapande, CIP-68 biljettminting, överföringar och närvaroverifiering) är redan live på Cardano mainnet och finansierades helt av Sellout (över 130 000 USD investerade). Fas 2 levererar en sekundär marknadsplats med on-chain royalty-efterlevnad, per-händelse anti-skalningskontroller, plånboks-in- onboarding för Sellouts mer än 200 000 befintliga användare, arrangörsverktyg, en oberoende tredjeparts säkerhetsrevision och en professionell lanseringskampanj, och",
+      "_title_sha": "ef0a5a84f321",
+      "_summary_sha": "f03e5be1a947"
     },
     {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",
@@ -96,6 +80,22 @@
       "summary_sv": "Denna Treasury Withdrawal finansierar För Real World Payments till Cardano med Wirex.\n\nDenna Treasury Withdrawal lämnas in av Intersect å Vän av leverantören. Innehållet för följande sektioner; Abstract, Motivation och Rationale har hämtats från den godkända förslaget som lämnats av leverantören som en del av Intersect-budgetprocessen.",
       "_title_sha": "e4d4327fb33d",
       "_summary_sha": "3a814b374a37"
+    },
+    {
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 638,
+      "expiration_epoch": 645,
+      "title_en": "Withdraw 540,750 ada for by TxPipe Dolos: Maintaining Cardano's Lightweight D...",
+      "summary_en": "This Treasury Withdrawal funds Dolos by TxPipe: Maintaining Cardano's Lightweight Data Node, Year 2.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sztttste",
+      "block_time": "2026-06-23T16:14:33.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Ta ut 540 750 ada för genom TxPipe Dolos: Underhåll av Cardanos lätta D...",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Dolos via TxPipe: Underhåll av Cardanos lättvikts-datapunktnod, År 2.\n\nDenna Treasury Withdrawal lämnas in av Intersect å leverantörens vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect:s budgetprocess.",
+      "_title_sha": "5b94d1bd31d3",
+      "_summary_sha": "97c99d4a65e8"
     },
     {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr",

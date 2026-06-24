@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-24T20:00:36.178Z",
+  "fetched_at": "2026-06-24T21:40:27.342Z",
   "items": [
+    {
+      "id": "forum:155267",
+      "source": "Cardano Forum",
+      "title_en": "Does Success on Cardano Create Demand for ADA?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/does-success-on-cardano-create-demand-for-ada/155267",
+      "date": "2026-06-24T21:22:55.667Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Skapar framgång på Cardano efterfrågan på ADA?",
+      "summary_sv": "",
+      "_title_sha": "ebeab9b0aaae",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155262",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "SekundäraFi (SecondFi) säkerhetsincident: pågående läge, andra hot",
       "summary_sv": "",
       "_title_sha": "cd0f036dcfc1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155240",
-      "source": "Cardano Forum",
-      "title_en": "세컨드파이(SecondFi) 보안 사고: 취약점의 핵심, 피해 규모",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi/155240",
-      "date": "2026-06-24T05:32:09.620Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SekundäraFi-säkerhetsincident: kärnan i sårbarheten, skadeomfattning",
-      "summary_sv": "",
-      "_title_sha": "86ac6e77c539",
       "_summary_sha": ""
     },
     {
