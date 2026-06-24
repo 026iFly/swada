@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-24T21:40:27.342Z",
+  "fetched_at": "2026-06-24T23:16:53.981Z",
   "items": [
+    {
+      "id": "forum:155268",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Actualización | CH 24 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-actualizacion-ch-24-jun-2026/155268",
+      "date": "2026-06-24T22:35:09.146Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SPANSK dubbning Uppdatering | CH 24 Jun 2026",
+      "summary_sv": "",
+      "_title_sha": "66684b04ddba",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155267",
       "source": "Cardano Forum",
@@ -9,7 +23,7 @@
       "url": "https://forum.cardano.org/t/does-success-on-cardano-create-demand-for-ada/155267",
       "date": "2026-06-24T21:22:55.667Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Skapar framgång på Cardano efterfrågan på ADA?",
       "summary_sv": "",
       "_title_sha": "ebeab9b0aaae",
@@ -23,7 +37,7 @@
       "url": "https://forum.cardano.org/t/cps-0008-domain-name-resolution-room-for-a-community-cip-or-is-the-foundation-handling-it-via-the-gtld-work/155262",
       "date": "2026-06-24T18:54:50.726Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "CPS-0008 (Domännamnsupplösning): utrymme för ett community CIP, eller hanterar Foundation det via gTLD-arbetet?",
       "summary_sv": "",
       "_title_sha": "edb056d02c31",
@@ -97,20 +111,6 @@
       "title_sv": "SecondFi-säkerhetsincident: kärnfrågor, framtida scenarier",
       "summary_sv": "",
       "_title_sha": "33260314cee0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155241",
-      "source": "Cardano Forum",
-      "title_en": "세컨드파이(SecondFi) 보안 사고: 현재 진행 상황, 2차 위협",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi-2/155241",
-      "date": "2026-06-24T05:33:52.964Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SekundäraFi (SecondFi) säkerhetsincident: pågående läge, andra hot",
-      "summary_sv": "",
-      "_title_sha": "cd0f036dcfc1",
       "_summary_sha": ""
     },
     {
