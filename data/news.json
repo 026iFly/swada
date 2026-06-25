@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-25T04:19:08.366Z",
+  "fetched_at": "2026-06-25T08:29:33.566Z",
   "items": [
+    {
+      "id": "forum:155276",
+      "source": "Cardano Forum",
+      "title_en": "Résumé du 24 juin 2026 : Candidatures ouvertes pour le poste de directeur de communauté Arouet, le programme de fondateurs du Fonds Orion accepte désormais les candidatures | Ouroboros Leios est maintenant disponible sur le réseau de test,",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/resume-du-24-juin-2026-candidatures-ouvertes-pour-le-poste-de-directeur-de-communaute-arouet-le-programme-de-fondateurs-du-fonds-orion-accepte-desormais-les-candidatures-ouroboros-leios-est-maintenant-disponible-sur-le-reseau-de-test/155276",
+      "date": "2026-06-25T07:22:32.405Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Sammanfattning den 24 juni 2026: Öppen ansökan till posten som community director för Arouet, Orion-fondsets program för grundare accepterar nu ansökningar | Ouroboros Leios är nu tillgänglig på testnätet",
+      "summary_sv": "",
+      "_title_sha": "443864e54176",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155268",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/does-success-on-cardano-create-demand-for-ada/155267",
       "date": "2026-06-24T21:22:55.667Z",
-      "score": 0,
-      "comments": 1,
+      "score": 2,
+      "comments": 2,
       "title_sv": "Skapar framgång på Cardano efterfrågan på ADA?",
       "summary_sv": "",
       "_title_sha": "ebeab9b0aaae",
@@ -50,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-june-24-2026-arouet-community-director-applications-open-orion-fund-founder-cohort-now-accepting-applicants-ouroboros-leios-now-live-on-testnet-updates-from-cardano-foundation-and-intersect-mbo/155248",
       "date": "2026-06-24T14:14:36.701Z",
-      "score": 3,
+      "score": 4,
       "comments": 0,
       "title_sv": "Digest 24 juni 2026: Arouet Community Director Applications Open, Orion Fund Founder Cohort Now Accepting Applicants | Ouroboros Leios Now Live on Testnet | Updates From Cardano Foundation, and Intersect MBO",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "[Uppdatering] Sekundära planens officiella guide: vad du måste göra nu och vad du inte bör göra nu",
       "summary_sv": "",
       "_title_sha": "cf61b3ed21d1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155242",
-      "source": "Cardano Forum",
-      "title_en": "세컨드파이(SecondFi) 보안 사고: 핵심 질문, 향후 시나리오",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi/155242",
-      "date": "2026-06-24T05:36:24.000Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SecondFi-säkerhetsincident: kärnfrågor, framtida scenarier",
-      "summary_sv": "",
-      "_title_sha": "33260314cee0",
       "_summary_sha": ""
     },
     {
