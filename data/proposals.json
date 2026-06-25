@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T17:20:45.899Z",
+  "fetched_at": "2026-06-25T20:18:50.884Z",
   "items": [
     {
       "id": "gov:gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
@@ -66,6 +66,22 @@
       "_summary_sha": "f03e5be1a947"
     },
     {
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 638,
+      "expiration_epoch": 645,
+      "title_en": "Withdraw 1,162,746 ada for MLabs Core Tool Maintenance & Enhancement: Plutarc...",
+      "summary_en": "This Treasury Withdrawal funds MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
+      "block_time": "2026-06-23T16:14:33.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Ta ut 1 162 746 ADA för MLabs Core Tool Maintenance & Enhancement: Plutarc...",
+      "summary_sv": "Denna Treasury Withdrawal finansierar MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorns vägnar. Innehållet för följande avsnitt; Abstract, Motivation och Rationale har hämtats från det godkända förslaget som lämnats av leverantören som en del av Intersect-budgetprocessen.",
+      "_title_sha": "06f70f1cb093",
+      "_summary_sha": "3f77cd568cbc"
+    },
+    {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",
       "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",
       "type": "TreasuryWithdrawals",
@@ -112,22 +128,6 @@
       "summary_sv": "Denna Treasury Withdrawal finansierar Intersect Technical Steering Committee Support.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorns vägnar. Innehållet i följande avsnitt; Abstract, Motivation och Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect-budgetprocessen.",
       "_title_sha": "b432b78d5b59",
       "_summary_sha": "13e68004225c"
-    },
-    {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 638,
-      "expiration_epoch": 645,
-      "title_en": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
-      "summary_en": "This Treasury Withdrawal funds Hardware Wallet Maintenance 2026.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8syhyg4hw",
-      "block_time": "2026-06-23T16:14:33.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Withdraw 1,310,960 ada for Hardware Wallet Maintenance 2026",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Underhåll av hårdvaruplånbok 2026.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för följande avsnitt; Abstract (Sammanfattning), Motivation and Rationale (Motivation och Rationella skäl) har hämtats från det godkända förslaget som leverantören lämnat in som en del av Intersect-budgetprocessen.",
-      "_title_sha": "c1eb036db3f5",
-      "_summary_sha": "46958b0a6bf1"
     }
   ]
 }
