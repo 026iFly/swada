@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-25T11:47:24.640Z",
+  "fetched_at": "2026-06-25T14:53:36.816Z",
   "items": [
+    {
+      "id": "forum:155282",
+      "source": "Cardano Forum",
+      "title_en": "CARDANO MEETUP – TAMALE, JUNE 2026: Reconnecting the Cardano Community to Drive Blockchain Innovation in Ghana",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-meetup-tamale-june-2026-reconnecting-the-cardano-community-to-drive-blockchain-innovation-in-ghana/155282",
+      "date": "2026-06-25T14:30:35.282Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "CARDANO-MÖTE I TAMALE, JUNI 2026: Återkoppla Cardano-samhället för att driva blockchain-innovation i Ghana",
+      "summary_sv": "",
+      "_title_sha": "fc77e6e537da",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155276",
       "source": "Cardano Forum",
@@ -37,7 +51,7 @@
       "url": "https://forum.cardano.org/t/does-success-on-cardano-create-demand-for-ada/155267",
       "date": "2026-06-24T21:22:55.667Z",
       "score": 4,
-      "comments": 3,
+      "comments": 4,
       "title_sv": "Skapar framgång på Cardano efterfrågan på ADA?",
       "summary_sv": "",
       "_title_sha": "ebeab9b0aaae",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano-projektet visar upp || Juni-utgåvan",
       "summary_sv": "",
       "_title_sha": "b460cddbe2c2",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155243",
-      "source": "Cardano Forum",
-      "title_en": "[업데이트] 세컨드파이 공식 안내: 지금 당장 해야 할 것과 하지 말아야 할 것",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/155243",
-      "date": "2026-06-24T07:00:54.347Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[Uppdatering] Sekundära planens officiella guide: vad du måste göra nu och vad du inte bör göra nu",
-      "summary_sv": "",
-      "_title_sha": "cf61b3ed21d1",
       "_summary_sha": ""
     },
     {
