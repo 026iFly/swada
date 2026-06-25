@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T08:29:33.566Z",
+  "fetched_at": "2026-06-25T11:47:24.640Z",
   "items": [
     {
       "id": "forum:155276",
@@ -9,7 +9,7 @@
       "url": "https://forum.cardano.org/t/resume-du-24-juin-2026-candidatures-ouvertes-pour-le-poste-de-directeur-de-communaute-arouet-le-programme-de-fondateurs-du-fonds-orion-accepte-desormais-les-candidatures-ouroboros-leios-est-maintenant-disponible-sur-le-reseau-de-test/155276",
       "date": "2026-06-25T07:22:32.405Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Sammanfattning den 24 juni 2026: Öppen ansökan till posten som community director för Arouet, Orion-fondsets program för grundare accepterar nu ansökningar | Ouroboros Leios är nu tillgänglig på testnätet",
       "summary_sv": "",
       "_title_sha": "443864e54176",
@@ -36,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/does-success-on-cardano-create-demand-for-ada/155267",
       "date": "2026-06-24T21:22:55.667Z",
-      "score": 2,
-      "comments": 2,
+      "score": 4,
+      "comments": 3,
       "title_sv": "Skapar framgång på Cardano efterfrågan på ADA?",
       "summary_sv": "",
       "_title_sha": "ebeab9b0aaae",
@@ -60,15 +60,15 @@
     {
       "id": "forum:155248",
       "source": "Cardano Forum",
-      "title_en": "Digest June 24, 2026: Arouet Community Director Applications Open, Orion Fund Founder Cohort Now Accepting Applicants | Ouroboros Leios Now Live on Testnet | Updates From Cardano Foundation, and Intersect MBO",
+      "title_en": "Digest June 24, 2026: Arouet Community Director Applications Open next week, Orion Fund Founder Cohort Now Accepting Applicants | Ouroboros Leios Now Live on Testnet | Updates From Cardano Foundation, and Intersect MBO",
       "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-june-24-2026-arouet-community-director-applications-open-orion-fund-founder-cohort-now-accepting-applicants-ouroboros-leios-now-live-on-testnet-updates-from-cardano-foundation-and-intersect-mbo/155248",
+      "url": "https://forum.cardano.org/t/digest-june-24-2026-arouet-community-director-applications-open-next-week-orion-fund-founder-cohort-now-accepting-applicants-ouroboros-leios-now-live-on-testnet-updates-from-cardano-foundation-and-intersect-mbo/155248",
       "date": "2026-06-24T14:14:36.701Z",
       "score": 4,
-      "comments": 0,
-      "title_sv": "Digest 24 juni 2026: Arouet Community Director Applications Open, Orion Fund Founder Cohort Now Accepting Applicants | Ouroboros Leios Now Live on Testnet | Updates From Cardano Foundation, and Intersect MBO",
+      "comments": 1,
+      "title_sv": "Digest 24 juni, 2026: Arouet Community Director Applications Open nästa vecka, Orion Fund Grundarförsamling Accepting Applicants | Ouroboros Leios nu live på Testnet | Uppdateringar från Cardano Foundation och Intersect MBO",
       "summary_sv": "",
-      "_title_sha": "54dde6227b3c",
+      "_title_sha": "e2b96eded82e",
       "_summary_sha": ""
     },
     {
@@ -92,8 +92,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-project-showcase-june-edition/155244",
       "date": "2026-06-24T10:03:12.746Z",
-      "score": 2,
-      "comments": 0,
+      "score": 3,
+      "comments": 1,
       "title_sv": "Cardano-projektet visar upp || Juni-utgåvan",
       "summary_sv": "",
       "_title_sha": "b460cddbe2c2",
