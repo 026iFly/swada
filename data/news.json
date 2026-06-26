@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-26T21:37:31.832Z",
+  "fetched_at": "2026-06-26T23:18:00.923Z",
   "items": [
+    {
+      "id": "forum:155324",
+      "source": "Cardano Forum",
+      "title_en": "SecondFi is in maintenance mode",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/secondfi-is-in-maintenance-mode/155324",
+      "date": "2026-06-26T22:25:57.721Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SecondFi är i underhållsläge",
+      "summary_sv": "",
+      "_title_sha": "d20ea0d6a59a",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155317",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "CARDANO-MÖTE I TAMALE, JUNI 2026: Återkoppla Cardano-samhället för att driva blockchain-innovation i Ghana",
       "summary_sv": "",
       "_title_sha": "fc77e6e537da",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155276",
-      "source": "Cardano Forum",
-      "title_en": "Résumé du 24 juin 2026 : Candidatures ouvertes pour le poste de directeur de communauté Arouet, le programme de fondateurs du Fonds Orion accepte désormais les candidatures | Ouroboros Leios est maintenant disponible sur le réseau de test,",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/resume-du-24-juin-2026-candidatures-ouvertes-pour-le-poste-de-directeur-de-communaute-arouet-le-programme-de-fondateurs-du-fonds-orion-accepte-desormais-les-candidatures-ouroboros-leios-est-maintenant-disponible-sur-le-reseau-de-test/155276",
-      "date": "2026-06-25T07:22:32.405Z",
-      "score": 0,
-      "comments": 1,
-      "title_sv": "Sammanfattning den 24 juni 2026: Öppen ansökan till posten som community director för Arouet, Orion-fondsets program för grundare accepterar nu ansökningar | Ouroboros Leios är nu tillgänglig på testnätet",
-      "summary_sv": "",
-      "_title_sha": "443864e54176",
       "_summary_sha": ""
     },
     {
