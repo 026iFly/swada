@@ -1,22 +1,6 @@
 {
-  "fetched_at": "2026-06-26T12:22:58.913Z",
+  "fetched_at": "2026-06-26T15:29:31.654Z",
   "items": [
-    {
-      "id": "gov:gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
-      "proposal_id": "gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 639,
-      "expiration_epoch": 646,
-      "title_en": "Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol",
-      "summary_en": "Alchemy is a Cardano-native Bitcoin treasury protocol and BTCfi infrastructure layer proposed by a collaboration between Sundial Protocol and Charms. It gives Cardano reusable infrastructure for transparent, on-chain Bitcoin-backed structured exposure: reserve architecture, composable FIRE (BTC+) and ICE (BTC-) assets, public dashboards, integration adapters, monthly reporting, and staged launch liquidity.\n\nThe proposal requests 10,000,000 ada, using a reference value of approximately USD 0.20 per ada for a total planning budget of approximately USD 2.0 million. The request is split into two s",
-      "url": "https://gov.tools/governance_actions/gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
-      "block_time": "2026-06-24T03:01:28.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Alchemy av Sundial x Charms: Cardano-native Bitcoin Treasury Protocol",
-      "summary_sv": "Alchemy är ett Cardano-nativt Bitcoin-treasury-protokoll och BTCfi-infrastrukturslager föreslaget genom ett samarbete mellan Sundial Protocol och Charms. Det ger Cardano återanvändbar infrastruktur för transparent, on-chain Bitcoin-stödd strukturerad exponering: reservarkitektur, sammanbyggbara FIRE (BTC+) och ICE (BTC-) tillgångar, offentliga dashboards, integrationsadaptrar, månadsrapporter, och stegvis lanseringslikviditet.\n\nFörslaget begär 10 000 000 ada, med en referensvärde på cirka 0,20 USD per ada för en total planeringsbudget på cirka 2,0 miljoner USD. Begäran är uppdelad i två s",
-      "_title_sha": "a9c45a7b78e1",
-      "_summary_sha": "18393dad54bf"
-    },
     {
       "id": "gov:gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
       "proposal_id": "gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
@@ -32,6 +16,22 @@
       "summary_sv": "Cardano Builder DAO är en ekosystemsomfattande, särskilt framtagen finansieringsmekanism styrd av smarta kontrakt för att stödja projekt som främjar Cardanos Vision 2030 genom mätbara ekosystem-KPI:er. Dess roll är att fördela kapital till skapare som kan driva tillväxt i de mätetal som är viktigast för Cardanos långsiktiga framgång, inklusive månatliga aktiva användare, månatliga on-chain-transaktioner och TVL.",
       "_title_sha": "dcb161832823",
       "_summary_sha": "2c1c1226bf32"
+    },
+    {
+      "id": "gov:gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
+      "proposal_id": "gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 639,
+      "expiration_epoch": 646,
+      "title_en": "Blockfrost's transformation to not-for-profit",
+      "summary_en": "Blockfrost is a reliable way for developers to interact with the chain without running their own infrastructure or node. This proposal transitions Blockfrost into a free, community-governed public good, owned by the people who build on it where the Blockfrost source code, trademarks, and domains are transferred into community stewardship under an independent, community-governed not-for-profit. It funds a 18-month transition and operations into community ownership.\n\nTotal ask: **₳9,832,979** (\\$1,868,266 at \\$0.19/₳).",
+      "url": "https://gov.tools/governance_actions/gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
+      "block_time": "2026-06-26T13:51:52.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Blockfrosts transformation till nonprofit/not-for-profit",
+      "summary_sv": "Blockfrost är ett pålitligt sätt för utvecklare att interagera med kedjan utan att köra sin egen infrastruktur eller nod. Förslaget övergår Blockfrost till en fri, samhällsstyrd offentlig nyttighet, ägd av de som bygger på den där Blockfrosts källkod, varumärken och domäner överförs till samhällsomsorg under ett oberoende, samhällsstyrt not-for-profit. Det finansierar en 18-månaders övergång och drift till samhällsäownership.\n\nTotalt begärt belopp: **₳9,832,979** (\\$1,868,266 vid \\$0.19/₳).",
+      "_title_sha": "50b91df6613e",
+      "_summary_sha": "4fbddd4fa2f6"
     },
     {
       "id": "gov:gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
@@ -50,6 +50,22 @@
       "_summary_sha": "b994ca942658"
     },
     {
+      "id": "gov:gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
+      "proposal_id": "gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 639,
+      "expiration_epoch": 646,
+      "title_en": "Alchemy by Sundial x Charms: Cardano-Native Bitcoin Treasury Protocol",
+      "summary_en": "Alchemy is a Cardano-native Bitcoin treasury protocol and BTCfi infrastructure layer proposed by a collaboration between Sundial Protocol and Charms. It gives Cardano reusable infrastructure for transparent, on-chain Bitcoin-backed structured exposure: reserve architecture, composable FIRE (BTC+) and ICE (BTC-) assets, public dashboards, integration adapters, monthly reporting, and staged launch liquidity.\n\nThe proposal requests 10,000,000 ada, using a reference value of approximately USD 0.20 per ada for a total planning budget of approximately USD 2.0 million. The request is split into two s",
+      "url": "https://gov.tools/governance_actions/gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
+      "block_time": "2026-06-24T03:01:28.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Alchemy av Sundial x Charms: Cardano-native Bitcoin Treasury Protocol",
+      "summary_sv": "Alchemy är ett Cardano-nativt Bitcoin-treasury-protokoll och BTCfi-infrastrukturslager föreslaget genom ett samarbete mellan Sundial Protocol och Charms. Det ger Cardano återanvändbar infrastruktur för transparent, on-chain Bitcoin-stödd strukturerad exponering: reservarkitektur, sammanbyggbara FIRE (BTC+) och ICE (BTC-) tillgångar, offentliga dashboards, integrationsadaptrar, månadsrapporter, och stegvis lanseringslikviditet.\n\nFörslaget begär 10 000 000 ada, med en referensvärde på cirka 0,20 USD per ada för en total planeringsbudget på cirka 2,0 miljoner USD. Begäran är uppdelad i två s",
+      "_title_sha": "a9c45a7b78e1",
+      "_summary_sha": "18393dad54bf"
+    },
+    {
       "id": "gov:gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
       "proposal_id": "gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
       "type": "TreasuryWithdrawals",
@@ -64,22 +80,6 @@
       "summary_sv": "Denna Treasury Withdrawal finansierar fas 2 av en Cardano-native biljetthanteringsplattform i produktion som drivs av Sellout.io och byggs av Anvil Development Agency. Fas 1 (on-chain händelseskapande, CIP-68 biljettminting, överföringar och närvaroverifiering) är redan live på Cardano mainnet och finansierades helt av Sellout (över 130 000 USD investerade). Fas 2 levererar en sekundär marknadsplats med on-chain royalty-efterlevnad, per-händelse anti-skalningskontroller, plånboks-in- onboarding för Sellouts mer än 200 000 befintliga användare, arrangörsverktyg, en oberoende tredjeparts säkerhetsrevision och en professionell lanseringskampanj, och",
       "_title_sha": "ef0a5a84f321",
       "_summary_sha": "f03e5be1a947"
-    },
-    {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 638,
-      "expiration_epoch": 645,
-      "title_en": "Withdraw 1,162,746 ada for MLabs Core Tool Maintenance & Enhancement: Plutarc...",
-      "summary_en": "This Treasury Withdrawal funds MLabs Core Tool Maintenance & Enhancement: Plutarch and Ply.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8svfsvefn",
-      "block_time": "2026-06-23T16:14:33.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Ta ut 1 162 746 ada för MLabs Core Tool Maintenance & Enhancement: Plutarc...",
-      "summary_sv": "",
-      "_title_sha": "06f70f1cb093",
-      "_summary_sha": "3f77cd568cbc"
     },
     {
       "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sqcw2nc5",

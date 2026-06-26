@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-26T12:22:31.527Z",
+  "fetched_at": "2026-06-26T15:29:26.618Z",
   "items": [
+    {
+      "id": "forum:155317",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Block 45 y Leios | CH 22 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-block-45-y-leios-ch-22-jun-2026/155317",
+      "date": "2026-06-26T15:24:19.460Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBB Block 45 och Leios | CH 22 Jun 2026",
+      "summary_sv": "",
+      "_title_sha": "e43daa6a36d3",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155310",
       "source": "Cardano Forum",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/drcongo-cardano-community-call-2-building-momentum-together/155309",
       "date": "2026-06-26T10:59:08.180Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "DRCongo Cardano Community Call #2: Bygga momentum tillsammans",
       "summary_sv": "",
@@ -50,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/new-catalyst-pilot-fund-launching-this-summer/155306",
       "date": "2026-06-26T10:36:02.320Z",
-      "score": 10,
-      "comments": 1,
+      "score": 22,
+      "comments": 2,
       "title_sv": "Ny Catalyst-pilotfond lanseras i sommar",
       "summary_sv": "",
       "_title_sha": "23e42c01101a",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning den 24 juni 2026: Öppen ansökan till posten som community director för Arouet, Orion-fondsets program för grundare accepterar nu ansökningar | Ouroboros Leios är nu tillgänglig på testnätet",
       "summary_sv": "",
       "_title_sha": "443864e54176",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155268",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Actualización | CH 24 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-actualizacion-ch-24-jun-2026/155268",
-      "date": "2026-06-24T22:35:09.146Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SPANSK dubbning Uppdatering | CH 24 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "66684b04ddba",
       "_summary_sha": ""
     },
     {
