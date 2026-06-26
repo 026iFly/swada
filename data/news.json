@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-26T00:20:04.828Z",
+  "fetched_at": "2026-06-26T05:18:22.496Z",
   "items": [
+    {
+      "id": "forum:155295",
+      "source": "Cardano Forum",
+      "title_en": "SecondFi 지갑 보안 위기 및 자가 구조 가이드",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/secondfi/155295",
+      "date": "2026-06-26T02:52:42.231Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SekundäraFi-plånbokens säkerhetskris och självgående återhämtningsguide",
+      "summary_sv": "",
+      "_title_sha": "dc7168d016a4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155282",
       "source": "Cardano Forum",
@@ -50,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/does-success-on-cardano-create-demand-for-ada/155267",
       "date": "2026-06-24T21:22:55.667Z",
-      "score": 5,
+      "score": 6,
       "comments": 6,
       "title_sv": "Skapar framgång på Cardano efterfrågan på ADA?",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSKA DUBBNING Reflexioner om Clarity Act | CH AMA 11 jun 2026",
       "summary_sv": "",
       "_title_sha": "3645659a0a8c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155244",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Project Showcase || June Edition",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-project-showcase-june-edition/155244",
-      "date": "2026-06-24T10:03:12.746Z",
-      "score": 3,
-      "comments": 1,
-      "title_sv": "Cardano-projektet visar upp || Juni-utgåvan",
-      "summary_sv": "",
-      "_title_sha": "b460cddbe2c2",
       "_summary_sha": ""
     },
     {
