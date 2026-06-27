@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-26T23:18:00.923Z",
+  "fetched_at": "2026-06-27T04:11:55.829Z",
   "items": [
+    {
+      "id": "forum:155327",
+      "source": "Cardano Forum",
+      "title_en": "즉흥적인 공격이 아니라 개인 키 목록을 미리 확보해 놓고 체계적으로 실행한 공격이었다",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/topic/155327",
+      "date": "2026-06-27T04:00:37.843Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Det var en systematiskt genomförd attack där nyckellistorna hade förberedts i förväg, snarare än en spontant angrepp.",
+      "summary_sv": "",
+      "_title_sha": "10bb6ce5ece1",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155325",
+      "source": "Cardano Forum",
+      "title_en": "SecondFi钱包安全危机与自救指南",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/secondfi/155325",
+      "date": "2026-06-26T23:25:54.832Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SecondFi plånboks säkrahetskris och självredningsguide",
+      "summary_sv": "",
+      "_title_sha": "d6d912f135f4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155324",
       "source": "Cardano Forum",
@@ -9,7 +37,7 @@
       "url": "https://forum.cardano.org/t/secondfi-is-in-maintenance-mode/155324",
       "date": "2026-06-26T22:25:57.721Z",
       "score": 0,
-      "comments": 0,
+      "comments": 2,
       "title_sv": "SecondFi är i underhållsläge",
       "summary_sv": "",
       "_title_sha": "d20ea0d6a59a",
@@ -83,34 +111,6 @@
       "title_sv": "Ny Catalyst-pilotfond lanseras i sommar",
       "summary_sv": "",
       "_title_sha": "23e42c01101a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155295",
-      "source": "Cardano Forum",
-      "title_en": "SecondFi 지갑 보안 위기 및 자가 구조 가이드",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi/155295",
-      "date": "2026-06-26T02:52:42.231Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SekundäraFi-plånbokens säkerhetskris och självgående återhämtningsguide",
-      "summary_sv": "",
-      "_title_sha": "dc7168d016a4",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155282",
-      "source": "Cardano Forum",
-      "title_en": "CARDANO MEETUP – TAMALE, JUNE 2026: Reconnecting the Cardano Community to Drive Blockchain Innovation in Ghana",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-meetup-tamale-june-2026-reconnecting-the-cardano-community-to-drive-blockchain-innovation-in-ghana/155282",
-      "date": "2026-06-25T14:30:35.282Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "CARDANO-MÖTE I TAMALE, JUNI 2026: Återkoppla Cardano-samhället för att driva blockchain-innovation i Ghana",
-      "summary_sv": "",
-      "_title_sha": "fc77e6e537da",
       "_summary_sha": ""
     },
     {
