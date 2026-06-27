@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T07:55:41.928Z",
+  "fetched_at": "2026-06-27T10:19:24.547Z",
   "items": [
     {
       "id": "gov:gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
@@ -114,20 +114,20 @@
       "_summary_sha": "97c99d4a65e8"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr",
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sw64d667",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sw64d667",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 638,
       "expiration_epoch": 645,
-      "title_en": "Withdraw 1,193,000 ada for Intersect Technical Steering Committee Support",
-      "summary_en": "This Treasury Withdrawal funds Intersect Technical Steering Committee Support.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sxypfkyr",
+      "title_en": "Withdraw 540,750 ada for Oura by TxPipe: Maintaining Cardano’s Event Pipeline",
+      "summary_en": "This Treasury Withdrawal funds Oura by TxPipe: Maintaining Cardano’s Event Pipeline.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sw64d667",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 1 193 000 ADA för Intersect Technical Steering Committee Support",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Intersect Technical Steering Committee Support.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som leverantören lämnat in som en del av Intersect-budgetprocessen.",
-      "_title_sha": "b432b78d5b59",
-      "_summary_sha": "13e68004225c"
+      "title_sv": "Borra ut 540 750 ADA för Oura av TxPipe: Upprätthåller Cardanos Event Pipeline",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Oura med TxPipe: Underhåll av Cardanos Event Pipeline.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorns vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från det godkända förslaget som lämnats av leverantören som en del av Intersect:s budgetprocess.",
+      "_title_sha": "6c655b62a2bd",
+      "_summary_sha": "b7a699eaba73"
     }
   ]
 }
