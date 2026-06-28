@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-28T05:25:34.125Z",
+  "fetched_at": "2026-06-28T09:27:16.621Z",
   "items": [
+    {
+      "id": "forum:155345",
+      "source": "Cardano Forum",
+      "title_en": "Μας ΧΑΚΑΡΑΝ wallet στο CARDANO",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/wallet-cardano/155345",
+      "date": "2026-06-28T09:15:54.171Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Vår HACKARAN-wallet på CARDANO",
+      "summary_sv": "",
+      "_title_sha": "c35d02af9695",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155333",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSK DUBB Block 45 och Leios | CH 22 Jun 2026",
       "summary_sv": "",
       "_title_sha": "e43daa6a36d3",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155310",
-      "source": "Cardano Forum",
-      "title_en": "Catalyst Pilot Fund Akan Segera Hadir",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/catalyst-pilot-fund-akan-segera-hadir/155310",
-      "date": "2026-06-26T11:16:59.640Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Catalyst Pilot Fund kommer snart att lanseras",
-      "summary_sv": "",
-      "_title_sha": "79a521248f0a",
       "_summary_sha": ""
     },
     {
