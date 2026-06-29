@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-29T11:20:42.686Z",
+  "fetched_at": "2026-06-29T16:09:24.359Z",
   "items": [
+    {
+      "id": "forum:155372",
+      "source": "Cardano Forum",
+      "title_en": "Scalus 2026 Resubmission: Smaller Scope, Lower Ask, Dijkstra Readiness & Scoped Runtime",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/scalus-2026-resubmission-smaller-scope-lower-ask-dijkstra-readiness-scoped-runtime/155372",
+      "date": "2026-06-29T14:18:16.387Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Scalus 2026 inlämning, ny remiss: smalare omfattning, lägre begäran, Dijkstra-färdighet och avgränsad körning",
+      "summary_sv": "",
+      "_title_sha": "608d78448bef",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155369",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-june-2026-agent-economy-milestones-global-venture-support-and-a-data-driven-cardano-org-revamp/155369",
       "date": "2026-06-29T09:51:52.528Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "(Public) juni 2026: Agent Economy-milstolpar, globalt venture-stöd och en datadriven Cardano.org-omfattning/omslag",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Det var en systematiskt genomförd attack där nyckellistorna hade förberedts i förväg, snarare än en spontant angrepp.",
       "summary_sv": "",
       "_title_sha": "10bb6ce5ece1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155325",
-      "source": "Cardano Forum",
-      "title_en": "SecondFi钱包安全危机与自救指南",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi/155325",
-      "date": "2026-06-26T23:25:54.832Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SecondFi plånboks säkrahetskris och självredningsguide",
-      "summary_sv": "",
-      "_title_sha": "d6d912f135f4",
       "_summary_sha": ""
     },
     {
