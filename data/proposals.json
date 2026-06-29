@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29T00:17:55.132Z",
+  "fetched_at": "2026-06-29T06:01:24.885Z",
   "items": [
     {
       "id": "gov:gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
@@ -125,7 +125,7 @@
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
       "title_sv": "Ta ut 25 400 000 ada för Intersect: Governance coordination and technical ...",
-      "summary_sv": "",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Intersect: Governancekoordination och tekniskt förvaltarskap för Cardano-ekosystemet.\n\nDenna Treasury Withdrawal lämnas in av Intersect. Innehållet för följande sektioner; Abstract, Motivation och Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect-budgetprocessen.",
       "_title_sha": "6334d3ce149d",
       "_summary_sha": "44512fb219ca"
     }
