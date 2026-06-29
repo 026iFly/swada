@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29T19:09:44.575Z",
+  "fetched_at": "2026-06-29T21:41:22.295Z",
   "items": [
     {
       "id": "gov:gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
@@ -114,20 +114,20 @@
       "_summary_sha": "3a814b374a37"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sgx6wlxf",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sgx6wlxf",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 638,
       "expiration_epoch": 645,
-      "title_en": "Withdraw 3,810,423 ada for Mithril Protocol",
-      "summary_en": "This Treasury Withdrawal funds Mithril Protocol.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
+      "title_en": "Withdraw 25,400,000 ada for Intersect: Governance coordination and technical ...",
+      "summary_en": "This Treasury Withdrawal funds Intersect: Governance coordination and technical stewardship for the Cardano ecosystem.\n\nThis Treasury Withdrawal is submitted by Intersect. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8sgx6wlxf",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 3 810 423 ada för Mithril Protocol",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Mithril Protocol.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorns vägnar. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från den godkända förslaget som lämnats av leverantören som en del av Intersect-budgetprocessen.",
-      "_title_sha": "b69eb8464cb0",
-      "_summary_sha": "00b386f25ac9"
+      "title_sv": "Ta ut 25 400 000 ada för Intersect: Styrelsekoordinering och tekniskt ...",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Intersect: Samordning av styrning och teknisk förvaltning för Cardano-ekosystemet.\n\nDenna Treasury Withdrawal lämnas in av Intersect. Innehållet i följande avsnitt; Summary/Abstract, Motivation och Rationale har hämtats från den godkända proposal som lämnats av Leverantören som en del av Intersect:s budgetprocess.",
+      "_title_sha": "6334d3ce149d",
+      "_summary_sha": "44512fb219ca"
     }
   ]
 }
