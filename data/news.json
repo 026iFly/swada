@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-29T16:09:24.359Z",
+  "fetched_at": "2026-06-29T19:09:43.545Z",
   "items": [
+    {
+      "id": "forum:155387",
+      "source": "Cardano Forum",
+      "title_en": "# Posada_io — Treasury Proposal: The Retail Door Cardano Never Had",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/posada-io-treasury-proposal-the-retail-door-cardano-never-had/155387",
+      "date": "2026-06-29T18:46:50.118Z",
+      "score": 2,
+      "comments": 1,
+      "title_sv": "# Posada_io — Treasury Proposal: The Retail Door Cardano Never Had",
+      "summary_sv": "",
+      "_title_sha": "9e7e1fe49315",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155372",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Enda privata nyckel som kan härledas enbart från transaktionssignaturr, deterministisk nonce-datumfel?",
       "summary_sv": "",
       "_title_sha": "4c1c574d2a27",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155327",
-      "source": "Cardano Forum",
-      "title_en": "즉흥적인 공격이 아니라 개인 키 목록을 미리 확보해 놓고 체계적으로 실행한 공격이었다",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/155327",
-      "date": "2026-06-27T04:00:37.843Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Det var en systematiskt genomförd attack där nyckellistorna hade förberedts i förväg, snarare än en spontant angrepp.",
-      "summary_sv": "",
-      "_title_sha": "10bb6ce5ece1",
       "_summary_sha": ""
     },
     {
