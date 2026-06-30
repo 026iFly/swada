@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-30T17:10:35.212Z",
+  "fetched_at": "2026-06-30T20:11:36.020Z",
   "items": [
+    {
+      "id": "forum:155429",
+      "source": "Cardano Forum",
+      "title_en": "🇮🇩 Ringkasan Komunitas Cardano - 24 June 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ringkasan-komunitas-cardano-24-june-2026/155429",
+      "date": "2026-06-30T18:31:04.980Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Kommunity Cardano – 24 juni 2026",
+      "summary_sv": "",
+      "_title_sha": "a54f34374f56",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155425",
       "source": "Cardano Forum",
@@ -78,8 +92,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/developers-office-hours-67-cip-113-kyc-from-standard-to-implementation-03-july/155405",
       "date": "2026-06-30T08:47:08.315Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Developers Office Hours #67 - CIP-113 KYC: From Standard to Implementation (03 July)",
       "summary_sv": "",
       "_title_sha": "e58004798a16",
@@ -92,25 +106,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/is-there-a-fully-open-source-hardware-wallet-drep-voting-solution/155403",
       "date": "2026-06-30T06:11:09.893Z",
-      "score": 2,
-      "comments": 3,
+      "score": 9,
+      "comments": 5,
       "title_sv": "Finns det en helt öppen hårdvaruplånboks-DRep-omröstningslösning?",
       "summary_sv": "",
       "_title_sha": "134096a1897f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155402",
-      "source": "Cardano Forum",
-      "title_en": "[2026년 6월] 거버넌스 — 반 로썸 하드포크, 헌법위원회 선출, 그리고 서밋 취소",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-6/155402",
-      "date": "2026-06-30T04:23:52.779Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[2026년 6월] Governance — halv RosM hard fork, val av constitutional committee, och konferensens avbokning",
-      "summary_sv": "",
-      "_title_sha": "5d81623f05ae",
       "_summary_sha": ""
     },
     {
