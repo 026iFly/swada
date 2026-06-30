@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-06-30T04:20:26.588Z",
+  "fetched_at": "2026-06-30T08:35:50.799Z",
   "items": [
+    {
+      "id": "forum:155403",
+      "source": "Cardano Forum",
+      "title_en": "Is there a fully open-source hardware wallet DRep voting solution?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/is-there-a-fully-open-source-hardware-wallet-drep-voting-solution/155403",
+      "date": "2026-06-30T06:11:09.893Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Finns det en helt öppen hårdvaruplånboks-DRep-omröstningslösning?",
+      "summary_sv": "",
+      "_title_sha": "134096a1897f",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155402",
+      "source": "Cardano Forum",
+      "title_en": "[2026년 6월] 거버넌스 — 반 로썸 하드포크, 헌법위원회 선출, 그리고 서밋 취소",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-6/155402",
+      "date": "2026-06-30T04:23:52.779Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "[2026년 6월] Governance — halv RosM hard fork, val av constitutional committee, och konferensens avbokning",
+      "summary_sv": "",
+      "_title_sha": "5d81623f05ae",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155387",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano-adressdump?",
       "summary_sv": "",
       "_title_sha": "92dc07e417e5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155329",
-      "source": "Cardano Forum",
-      "title_en": "다른 지갑들은 안전한가?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/155329",
-      "date": "2026-06-27T04:47:53.895Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Är andra plånböcker säkra?",
-      "summary_sv": "",
-      "_title_sha": "e8bb10c7f092",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155328",
-      "source": "Cardano Forum",
-      "title_en": "거래 서명 기록만으로 역산할 수 있는 개인 키? | 결정론적 논스 도출 오류",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/155328",
-      "date": "2026-06-27T04:22:54.719Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Enda privata nyckel som kan härledas enbart från transaktionssignaturr, deterministisk nonce-datumfel?",
-      "summary_sv": "",
-      "_title_sha": "4c1c574d2a27",
       "_summary_sha": ""
     },
     {
