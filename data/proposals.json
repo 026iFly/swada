@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T11:50:27.227Z",
+  "fetched_at": "2026-06-30T14:38:49.693Z",
   "items": [
     {
       "id": "gov:gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
@@ -13,7 +13,7 @@
       "block_time": "2026-06-30T10:33:59.000Z",
       "deposit_ada": 100000,
       "title_sv": "Global Order Book kopplar Cardano DeFi till att öka transaktioner",
-      "summary_sv": "",
+      "summary_sv": "Denna proposition begär **3 333 000 ADA** (3 300 000 ADA för leverans och 33 000 ADA för 1% budgetförvaltningsavgiften) för Dano Finance att accelerera **DeFi Kernel** som en öppen standard för delad likviditet, on-chain finansiella avsikter och global orderbok-koordination på Cardano.\n\nCardano DeFi är fortfarande fragmenterat. DEX:er, utlåningsprotokoll, optionsprotokoll, marknadsplatser och framtida syntetiska tillgångssystem fungerar ofta som separata likviditets-silos. DeFi Kernel adresserar detta genom att definiera en gemensam standard där kompatibla smarta kontrakt är permissionless (tillståndsfria), composable (sammansättbara) och upptäckbara.",
       "_title_sha": "64c2a1bf1d1c",
       "_summary_sha": "239e7cf6f192"
     },
@@ -114,20 +114,20 @@
       "_summary_sha": "4fbddd4fa2f6"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 638,
       "expiration_epoch": 645,
-      "title_en": "Withdraw 540,750 ada for UTxO RPC by TxPipe: Maintaining Cardano’s Integratio...",
-      "summary_en": "This Treasury Withdrawal funds UTxO RPC by TxPipe: Maintaining Cardano’s Integration Standard, Year 2.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
+      "title_en": "Withdraw 3,810,423 ada for Mithril Protocol",
+      "summary_en": "This Treasury Withdrawal funds Mithril Protocol.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
-      "_title_sha": "f6d33ce7523c",
-      "_summary_sha": "d16c8668f69b"
+      "title_sv": "Ta ut 3 810 423 ada för Mithril Protocol",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Mithril Protocol.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för de följande sektionerna; Abstract, Motivation och Rationale har hämtats från den godkända förslaget som lämnats av Leverantören som en del av Intersect-budgetprocessen.",
+      "_title_sha": "b69eb8464cb0",
+      "_summary_sha": "00b386f25ac9"
     }
   ]
 }
