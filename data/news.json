@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-01T05:49:16.881Z",
+  "fetched_at": "2026-07-01T10:07:31.100Z",
   "items": [
+    {
+      "id": "forum:155441",
+      "source": "Cardano Forum",
+      "title_en": "Cardano deserves an app that actually needs Cardano — our earnest attempt (Rational Protocol, preprod alpha)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-deserves-an-app-that-actually-needs-cardano-our-earnest-attempt-rational-protocol-preprod-alpha/155441",
+      "date": "2026-07-01T08:06:40.429Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano förtjänar en app som faktiskt behöver Cardano — vårt seriösa försök (Rational Protocol, preprod alpha)",
+      "summary_sv": "",
+      "_title_sha": "f9df2b3e3753",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155440",
+      "source": "Cardano Forum",
+      "title_en": "SecondFi Incident- Indonesian",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/secondfi-incident-indonesian/155440",
+      "date": "2026-07-01T07:48:20.169Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SecondFi-incidenten – Indonesien",
+      "summary_sv": "",
+      "_title_sha": "cc74f445ee28",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155435",
       "source": "Cardano Forum",
@@ -22,8 +50,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-governance-doesn-t-belong-in-a-discord-server/155431",
       "date": "2026-06-30T21:38:33.910Z",
-      "score": 2,
-      "comments": 0,
+      "score": 4,
+      "comments": 1,
       "title_sv": "Cardano-styrning hör inte hemma i en Discord-server",
       "summary_sv": "",
       "_title_sha": "167e72df814b",
@@ -83,34 +111,6 @@
       "title_sv": "[2026 juni] Isue — uppmärksamt negativt/varningsaktigt nyheter",
       "summary_sv": "",
       "_title_sha": "740a7ff31ff9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155409",
-      "source": "Cardano Forum",
-      "title_en": "[2026년 6월] 기술 진전과 생태계 확장 — Hydra, 레이오스, 그리고 제도권 파트너십",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-6-hydra/155409",
-      "date": "2026-06-30T10:25:07.453Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[Juni 2026] Tekniska framsteg och ekosystemets utvidgning — Hydra, Leios och institutionella partnerskap",
-      "summary_sv": "",
-      "_title_sha": "9ce659d88258",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155408",
-      "source": "Cardano Forum",
-      "title_en": ":vietnam: Cardano Event Recap – Networking Day 2026: Blockchain Startups – Building in the AI Era",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-event-recap-networking-day-2026-blockchain-startups-building-in-the-ai-era/155408",
-      "date": "2026-06-30T09:11:37.864Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": ":vietnam: Cardano-evenemangssammanfattning – Nätverksdagen 2026: Blockchain-startups – Bygga i AI-eran",
-      "summary_sv": "",
-      "_title_sha": "59ccfea168c9",
       "_summary_sha": ""
     },
     {
