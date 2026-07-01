@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-06-30T22:21:22.930Z",
+  "fetched_at": "2026-07-01T00:17:14.778Z",
   "items": [
+    {
+      "id": "forum:155435",
+      "source": "Cardano Forum",
+      "title_en": "Emerge Society — Lesson 1 is live: The Entrepreneurial Mindset (free, Catalyst-funded)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/emerge-society-lesson-1-is-live-the-entrepreneurial-mindset-free-catalyst-funded/155435",
+      "date": "2026-07-01T00:15:48.599Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Emerge Society — Lektion 1 är live: The Entrepreneurial Mindset (gratis, Catalyst-finansierad)",
+      "summary_sv": "",
+      "_title_sha": "c6370746d583",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155431",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-governance-doesn-t-belong-in-a-discord-server/155431",
       "date": "2026-06-30T21:38:33.910Z",
-      "score": 0,
+      "score": 2,
       "comments": 0,
       "title_sv": "Cardano-styrning hör inte hemma i en Discord-server",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": ":vietnam: Cardano-evenemangssammanfattning – Nätverksdagen 2026: Blockchain-startups – Bygga i AI-eran",
       "summary_sv": "",
       "_title_sha": "59ccfea168c9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155405",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #67 - CIP-113 KYC: From Standard to Implementation (03 July)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-67-cip-113-kyc-from-standard-to-implementation-03-july/155405",
-      "date": "2026-06-30T08:47:08.315Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Developers Office Hours #67 - CIP-113 KYC: From Standard to Implementation (03 July)",
-      "summary_sv": "",
-      "_title_sha": "e58004798a16",
       "_summary_sha": ""
     },
     {
