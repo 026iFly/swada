@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T13:38:37.085Z",
+  "fetched_at": "2026-07-01T16:35:14.532Z",
   "items": [
     {
       "id": "gov:gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
@@ -114,20 +114,20 @@
       "_summary_sha": "4fbddd4fa2f6"
     },
     {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
+      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
+      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 638,
       "expiration_epoch": 645,
-      "title_en": "Withdraw 540,750 ada for UTxO RPC by TxPipe: Maintaining Cardano’s Integratio...",
-      "summary_en": "This Treasury Withdrawal funds UTxO RPC by TxPipe: Maintaining Cardano’s Integration Standard, Year 2.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s5z9qdza",
+      "title_en": "Withdraw 3,810,423 ada for Mithril Protocol",
+      "summary_en": "This Treasury Withdrawal funds Mithril Protocol.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
+      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
       "block_time": "2026-06-23T16:14:33.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Ta ut 540 750 ada för UTxO RPC via TxPipe: Upprätthålla Cardano’s Integratio...",
-      "summary_sv": "Detta Treasury Withdrawal finansierar UTxO RPC via TxPipe: Upprätthålla Cardanos integrationsstandard, År 2.\n\nDetta Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet i följande avsnitt; Abstract, Motivation and Rationale har hämtats från den godkända förslaget som leverantören lämnat in som en del av Intersect-budgetprocessen.",
-      "_title_sha": "f6d33ce7523c",
-      "_summary_sha": "d16c8668f69b"
+      "title_sv": "Ta ut 3,810,423 ada för Mithril Protocol",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Mithril Protocol.\n\nDenna Treasury Withdrawal lämnas in av Intersect på uppdrag av leverantören. Innehållet för följande avsnitt; Abstract, Motivation och Rationale har hämtats från det godkända förslaget som lämnats av Leverantören som en del av Intersect:s budgetprocess.",
+      "_title_sha": "b69eb8464cb0",
+      "_summary_sha": "00b386f25ac9"
     }
   ]
 }

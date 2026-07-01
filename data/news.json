@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-01T13:38:36.171Z",
+  "fetched_at": "2026-07-01T16:35:10.230Z",
   "items": [
+    {
+      "id": "forum:155451",
+      "source": "Cardano Forum",
+      "title_en": "Discussion: Why CIP-1694's Tripartite Structure & DReps Risk Systemic Collusion",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/discussion-why-cip-1694s-tripartite-structure-dreps-risk-systemic-collusion/155451",
+      "date": "2026-07-01T14:18:01.205Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Diskussion: Varför CIP-1694:s tripartite struktur och DReps risk för systemisk kollusion",
+      "summary_sv": "",
+      "_title_sha": "fec5899d138b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155441",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANISH DUBBING Uppdatering | CH 29 Jun 2026",
       "summary_sv": "",
       "_title_sha": "a49099ccad1d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155413",
-      "source": "Cardano Forum",
-      "title_en": "[2026년 6월] 이슈 — 주목할 만한 부정적·주의 소식",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-6/155413",
-      "date": "2026-06-30T10:30:31.162Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[2026 juni] Isue — uppmärksamt negativt/varningsaktigt nyheter",
-      "summary_sv": "",
-      "_title_sha": "740a7ff31ff9",
       "_summary_sha": ""
     },
     {
