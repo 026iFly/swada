@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T08:22:36.334Z",
+  "fetched_at": "2026-07-02T11:40:51.433Z",
   "items": [
     {
       "id": "forum:155470",
@@ -22,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/marketing-doesnt-fix-a-broken-governance/155453",
       "date": "2026-07-01T23:21:07.810Z",
-      "score": 2,
-      "comments": 4,
+      "score": 4,
+      "comments": 8,
       "title_sv": "Marknadsföring fixar inte en trasig styrning",
       "summary_sv": "",
       "_title_sha": "09340a67f3cf",
@@ -64,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/secondfi-incident-indonesian/155440",
       "date": "2026-07-01T07:48:20.169Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "SecondFi-incidenten – Indonesien",
       "summary_sv": "",
@@ -92,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-governance-doesn-t-belong-in-a-discord-server/155431",
       "date": "2026-06-30T21:38:33.910Z",
-      "score": 6,
+      "score": 9,
       "comments": 3,
       "title_sv": "Cardano-styrning hör inte hemma i en Discord-server",
       "summary_sv": "",
