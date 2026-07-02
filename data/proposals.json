@@ -1,22 +1,6 @@
 {
-  "fetched_at": "2026-07-02T14:24:57.448Z",
+  "fetched_at": "2026-07-02T16:58:46.570Z",
   "items": [
-    {
-      "id": "gov:gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
-      "proposal_id": "gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 640,
-      "expiration_epoch": 647,
-      "title_en": "Global Order Book connect Cardano DeFi to increase transaction",
-      "summary_en": "This proposal requests **3,333,000 ADA** (3,300,000 ADA for delivery and 33,000 ADA for the 1% budget administration fee) for Dano Finance to accelerate the **DeFi Kernel** as an open standard for shared liquidity, on-chain financial intents, and global order-book coordination on Cardano.\n\nCardano DeFi is still fragmented. DEXs, lending protocols, options protocols, marketplaces, and future synthetic asset systems often operate as separate liquidity silos. The DeFi Kernel addresses this by defining a common standard where compatible smart contracts are permissionless, composable, and discovera",
-      "url": "https://gov.tools/governance_actions/gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
-      "block_time": "2026-06-30T10:33:59.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Global Order Book kopplar Cardano DeFi till att öka transaktioner",
-      "summary_sv": "Denna proposition begär **3 333 000 ADA** (3 300 000 ADA för leverans och 33 000 ADA för 1% budgetförvaltningsavgiften) för Dano Finance att accelerera **DeFi Kernel** som en öppen standard för delad likviditet, on-chain finansiella avsikter och global orderbok-koordination på Cardano.\n\nCardano DeFi är fortfarande fragmenterat. DEX:er, utlåningsprotokoll, optionsprotokoll, marknadsplatser och framtida syntetiska tillgångssystem fungerar ofta som separata likviditets-silos. DeFi Kernel adresserar detta genom att definiera en gemensam standard där kompatibla smarta kontrakt är permissionless (tillståndsfria), composable (sammansättbara) och upptäckbara.",
-      "_title_sha": "64c2a1bf1d1c",
-      "_summary_sha": "239e7cf6f192"
-    },
     {
       "id": "gov:gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
       "proposal_id": "gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
@@ -34,20 +18,36 @@
       "_summary_sha": "8b99a752b37f"
     },
     {
-      "id": "gov:gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
-      "proposal_id": "gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 639,
-      "expiration_epoch": 646,
-      "title_en": "Cardano Builder DAO",
-      "summary_en": "The Cardano Builder DAO is an ecosystem-wide, purpose-built, smart contract-governed funding mechanism to support projects advancing Cardano’s Vision 2030 through measurable ecosystem KPIs. Its role is to allocate capital to builders who can drive growth in the metrics that matter most to Cardano’s long-term success, including monthly active users, monthly on-chain transactions, and TVL.",
-      "url": "https://gov.tools/governance_actions/gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
-      "block_time": "2026-06-24T16:47:14.000Z",
+      "id": "gov:gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq",
+      "proposal_id": "gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq",
+      "type": "InfoAction",
+      "proposed_epoch": 640,
+      "expiration_epoch": 647,
+      "title_en": "Net Change Limit: Cardano Treasury (Epochs 613-713)",
+      "summary_en": "By this Info action, the DReps agree a new Net Change Limit of 500,000,000 ada (500,000,000,000,000 lovelace) for the Cardano Treasury, for the period beginning at the start of Epoch 613 (February 13, 2026) and ending at the close of Epoch 713 (on or about July 3, 2027). This Net Change Limit is a fixed cap on the total ada removed from the Treasury through Treasury Withdrawals during the period; it does not count Treasury inflows. This is a newly agreed Net Change Limit: it is the applicable Net Change Limit for the period and supersedes any prior Net Change Limit for the same period. Because",
+      "url": "https://gov.tools/governance_actions/gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq",
+      "block_time": "2026-07-02T16:33:15.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Cardano-byggar-DAO",
-      "summary_sv": "Cardano Builder DAO är en ekosystemsomfattande, särskilt framtagen finansieringsmekanism styrd av smarta kontrakt för att stödja projekt som främjar Cardanos Vision 2030 genom mätbara ekosystem-KPI:er. Dess roll är att fördela kapital till skapare som kan driva tillväxt i de mätetal som är viktigast för Cardanos långsiktiga framgång, inklusive månatliga aktiva användare, månatliga on-chain-transaktioner och TVL.",
-      "_title_sha": "dcb161832823",
-      "_summary_sha": "2c1c1226bf32"
+      "title_sv": "Net Change Limit: Cardano Treasury (Epochs 613-713)",
+      "summary_sv": "Genom denna Info-action kommer DRep att komma överens om en ny Net Change Limit på 500 000 000 ada (500 000 000 000 000 lovelace) för Cardano Treasury, för perioden som börjar i början av Epoch 613 (2 februari 2026) och slutar när Epoch 713 stänger (ungefär den 3 juli 2027). Denna Net Change Limit är ett fast tak för den totala mängden ada som tas ut ur Treasury genom Treasury Withdrawals under perioden; den räknar inte inflöden till Treasury. Detta är en ny överenskommen Net Change Limit: den är den tillämpliga Net Change Limit för perioden och upphäver tidigare Net Change Limit för samma period. Eftersom",
+      "_title_sha": "5af988546a72",
+      "_summary_sha": "fbcb5a2fa62e"
+    },
+    {
+      "id": "gov:gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
+      "proposal_id": "gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 640,
+      "expiration_epoch": 647,
+      "title_en": "Global Order Book connect Cardano DeFi to increase transaction",
+      "summary_en": "This proposal requests **3,333,000 ADA** (3,300,000 ADA for delivery and 33,000 ADA for the 1% budget administration fee) for Dano Finance to accelerate the **DeFi Kernel** as an open standard for shared liquidity, on-chain financial intents, and global order-book coordination on Cardano.\n\nCardano DeFi is still fragmented. DEXs, lending protocols, options protocols, marketplaces, and future synthetic asset systems often operate as separate liquidity silos. The DeFi Kernel addresses this by defining a common standard where compatible smart contracts are permissionless, composable, and discovera",
+      "url": "https://gov.tools/governance_actions/gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
+      "block_time": "2026-06-30T10:33:59.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Global Order Book kopplar Cardano DeFi till att öka transaktioner",
+      "summary_sv": "Denna proposition begär **3 333 000 ADA** (3 300 000 ADA för leverans och 33 000 ADA för 1% budgetförvaltningsavgiften) för Dano Finance att accelerera **DeFi Kernel** som en öppen standard för delad likviditet, on-chain finansiella avsikter och global orderbok-koordination på Cardano.\n\nCardano DeFi är fortfarande fragmenterat. DEX:er, utlåningsprotokoll, optionsprotokoll, marknadsplatser och framtida syntetiska tillgångssystem fungerar ofta som separata likviditets-silos. DeFi Kernel adresserar detta genom att definiera en gemensam standard där kompatibla smarta kontrakt är permissionless (tillståndsfria), composable (sammansättbara) och upptäckbara.",
+      "_title_sha": "64c2a1bf1d1c",
+      "_summary_sha": "239e7cf6f192"
     },
     {
       "id": "gov:gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
@@ -66,22 +66,6 @@
       "_summary_sha": "f03e5be1a947"
     },
     {
-      "id": "gov:gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
-      "proposal_id": "gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 639,
-      "expiration_epoch": 646,
-      "title_en": "Se7en Labs: Daedalus Wallet Maintenance and Improvements 2026-2027",
-      "summary_en": "This Treasury Withdrawal funds Daedalus Wallet Maintenance and Improvements\n2026–2027, delivered by Se7en Labs, Inc.\n\nDaedalus is Cardano's only full-node desktop wallet — it runs an embedded\nCardano node and derives all wallet and governance data directly from the\nchain, with no third-party APIs or trusted backends. Because it participates\nin P2P networking and maintains its own local mempool, Daedalus transactions\ncompete for block inclusion on equal footing with full-node participants,\nproviding reliable submission even under high chain utilisation where lite\nwallets can fail for hours.\n\nDa",
-      "url": "https://gov.tools/governance_actions/gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
-      "block_time": "2026-06-24T21:25:59.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Se7en Labs: Daedalus Wallet-underhåll och förbättringar 2026–2027",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Daedalus Wallet Maintenance and Improvements\n2026–2027, levereras av Se7en Labs, Inc.\n\nDaedalus är Cardanos enda fullknot-datorplånbok — den kör en inbäddad Cardano-nod och härleder all plånboks- och styrningsdata direkt från kedjan, utan tredje parts APIer eller betrodda backends. Eftersom den deltar i P2P-nätverk och upprätthåller sin egen lokala mempool, tävlar Daedalus-transaktioner om blockinnehav på lika villkor som fullknot-deltagare, vilket ger tillförlitlig inlämning även vid hög kedjeutnyttjande där lätta plånböcker kan misslyckas i timmar.\n\nDaedalus",
-      "_title_sha": "a360e2f19af5",
-      "_summary_sha": "b994ca942658"
-    },
-    {
       "id": "gov:gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
       "proposal_id": "gov_action1pa6a6yd7pdaxed9nqkshtvtu7jmqe5c8cpf0ej4lnatjj588qkpsq2x2sz2",
       "type": "TreasuryWithdrawals",
@@ -98,6 +82,38 @@
       "_summary_sha": "18393dad54bf"
     },
     {
+      "id": "gov:gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
+      "proposal_id": "gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 639,
+      "expiration_epoch": 646,
+      "title_en": "Cardano Builder DAO",
+      "summary_en": "The Cardano Builder DAO is an ecosystem-wide, purpose-built, smart contract-governed funding mechanism to support projects advancing Cardano’s Vision 2030 through measurable ecosystem KPIs. Its role is to allocate capital to builders who can drive growth in the metrics that matter most to Cardano’s long-term success, including monthly active users, monthly on-chain transactions, and TVL.",
+      "url": "https://gov.tools/governance_actions/gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
+      "block_time": "2026-06-24T16:47:14.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Cardano-byggar-DAO",
+      "summary_sv": "Cardano Builder DAO är en ekosystemsomfattande, särskilt framtagen finansieringsmekanism styrd av smarta kontrakt för att stödja projekt som främjar Cardanos Vision 2030 genom mätbara ekosystem-KPI:er. Dess roll är att fördela kapital till skapare som kan driva tillväxt i de mätetal som är viktigast för Cardanos långsiktiga framgång, inklusive månatliga aktiva användare, månatliga on-chain-transaktioner och TVL.",
+      "_title_sha": "dcb161832823",
+      "_summary_sha": "2c1c1226bf32"
+    },
+    {
+      "id": "gov:gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
+      "proposal_id": "gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 639,
+      "expiration_epoch": 646,
+      "title_en": "Se7en Labs: Daedalus Wallet Maintenance and Improvements 2026-2027",
+      "summary_en": "This Treasury Withdrawal funds Daedalus Wallet Maintenance and Improvements\n2026–2027, delivered by Se7en Labs, Inc.\n\nDaedalus is Cardano's only full-node desktop wallet — it runs an embedded\nCardano node and derives all wallet and governance data directly from the\nchain, with no third-party APIs or trusted backends. Because it participates\nin P2P networking and maintains its own local mempool, Daedalus transactions\ncompete for block inclusion on equal footing with full-node participants,\nproviding reliable submission even under high chain utilisation where lite\nwallets can fail for hours.\n\nDa",
+      "url": "https://gov.tools/governance_actions/gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
+      "block_time": "2026-06-24T21:25:59.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Se7en Labs: Daedalus Wallet-underhåll och förbättringar 2026–2027",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Daedalus Wallet Maintenance and Improvements\n2026–2027, levereras av Se7en Labs, Inc.\n\nDaedalus är Cardanos enda fullknot-datorplånbok — den kör en inbäddad Cardano-nod och härleder all plånboks- och styrningsdata direkt från kedjan, utan tredje parts APIer eller betrodda backends. Eftersom den deltar i P2P-nätverk och upprätthåller sin egen lokala mempool, tävlar Daedalus-transaktioner om blockinnehav på lika villkor som fullknot-deltagare, vilket ger tillförlitlig inlämning även vid hög kedjeutnyttjande där lätta plånböcker kan misslyckas i timmar.\n\nDaedalus",
+      "_title_sha": "a360e2f19af5",
+      "_summary_sha": "b994ca942658"
+    },
+    {
       "id": "gov:gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
       "proposal_id": "gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
       "type": "TreasuryWithdrawals",
@@ -112,22 +128,6 @@
       "summary_sv": "Blockfrost är ett pålitligt sätt för utvecklare att interagera med kedjan utan att köra sin egen infrastruktur eller nod. Förslaget övergår Blockfrost till en fri, samhällsstyrd offentlig nyttighet, ägd av de som bygger på den där Blockfrosts källkod, varumärken och domäner överförs till samhällsomsorg under ett oberoende, samhällsstyrt not-for-profit. Det finansierar en 18-månaders övergång och drift till samhällsäownership.\n\nTotalt begärt belopp: **₳9,832,979** (\\$1,868,266 vid \\$0.19/₳).",
       "_title_sha": "50b91df6613e",
       "_summary_sha": "4fbddd4fa2f6"
-    },
-    {
-      "id": "gov:gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
-      "proposal_id": "gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 638,
-      "expiration_epoch": 645,
-      "title_en": "Withdraw 3,810,423 ada for Mithril Protocol",
-      "summary_en": "This Treasury Withdrawal funds Mithril Protocol.\n\nThis Treasury Withdrawal is submitted by Intersect on behalf of the vendor. The content for the following sections; Abstract, Motivation and Rationale have been sourced from the approved proposal submitted by the Vendor as part of the Intersect budget process.",
-      "url": "https://gov.tools/governance_actions/gov_action1k02990lhw6wh74t7c6ufw3mqaek9ujtvyan99dj5qv5kvcs7pn8s24l0u4y",
-      "block_time": "2026-06-23T16:14:33.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Kontrollera och ta ut 3,810,423 ADA för Mithril Protocol",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Mithril Protocol.\n\nDenna Treasury Withdrawal lämnas in av Intersect å vendorns vägnar. Innehållet för följande avsnitt; Abstract, Motivation and Rationale har hämtats från den godkända förslaget som lämnats av Leverantören som en del av Intersect-budgetprocessen.",
-      "_title_sha": "b69eb8464cb0",
-      "_summary_sha": "00b386f25ac9"
     }
   ]
 }
