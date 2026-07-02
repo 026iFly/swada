@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-01T22:24:10.282Z",
+  "fetched_at": "2026-07-02T00:17:42.915Z",
   "items": [
+    {
+      "id": "forum:155453",
+      "source": "Cardano Forum",
+      "title_en": "# Marketing Doesn't Fix a Broken Governance",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/marketing-doesnt-fix-a-broken-governance/155453",
+      "date": "2026-07-01T23:21:07.810Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Marknadsföring hjälper inte när styrningen är trasig",
+      "summary_sv": "",
+      "_title_sha": "b9ce7ab2c8d5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155451",
       "source": "Cardano Forum",
@@ -65,7 +79,7 @@
       "url": "https://forum.cardano.org/t/cardano-governance-doesn-t-belong-in-a-discord-server/155431",
       "date": "2026-06-30T21:38:33.910Z",
       "score": 4,
-      "comments": 1,
+      "comments": 2,
       "title_sv": "Cardano-styrning hör inte hemma i en Discord-server",
       "summary_sv": "",
       "_title_sha": "167e72df814b",
@@ -97,20 +111,6 @@
       "title_sv": "Ekosystemuppdatering: Översikt över Cardano-utvecklingen – juni 2026",
       "summary_sv": "",
       "_title_sha": "0ccc8f4f9171",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155424",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Actualización | CH 29 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-actualizacion-ch-29-jun-2026/155424",
-      "date": "2026-06-30T15:57:39.813Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING Uppdatering | CH 29 Jun 2026",
-      "summary_sv": "",
-      "_title_sha": "a49099ccad1d",
       "_summary_sha": ""
     },
     {
