@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-03T00:16:09.916Z",
+  "fetched_at": "2026-07-03T04:52:00.017Z",
   "items": [
+    {
+      "id": "forum:155486",
+      "source": "Cardano Forum",
+      "title_en": "Memperkuat Ekosistem: Apa Artinya Integrasi Open USD bagi Cardano dan $ADA?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/memperkuat-ekosistem-apa-artinya-integrasi-open-usd-bagi-cardano-dan-ada/155486",
+      "date": "2026-07-03T04:48:06.584Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Stärka ekosystemet: Vad betyder Open USD-integrationen för Cardano och $ADA?",
+      "summary_sv": "",
+      "_title_sha": "948b4dd3ef91",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155473",
       "source": "Cardano Forum",
@@ -64,8 +78,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-deserves-an-app-that-actually-needs-cardano-our-earnest-attempt-rational-protocol-preprod-alpha/155441",
       "date": "2026-07-01T08:06:40.429Z",
-      "score": 3,
-      "comments": 2,
+      "score": 4,
+      "comments": 3,
       "title_sv": "Cardano förtjänar en app som faktiskt behöver Cardano — vårt seriösa försök (Rational Protocol, preprod alpha)",
       "summary_sv": "",
       "_title_sha": "f9df2b3e3753",
@@ -97,20 +111,6 @@
       "title_sv": "Emerge Society — Lektion 1 är live: The Entrepreneurial Mindset (gratis, Catalyst-finansierad)",
       "summary_sv": "",
       "_title_sha": "c6370746d583",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155431",
-      "source": "Cardano Forum",
-      "title_en": "Cardano governance doesn’t belong in a Discord server",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-governance-doesn-t-belong-in-a-discord-server/155431",
-      "date": "2026-06-30T21:38:33.910Z",
-      "score": 12,
-      "comments": 3,
-      "title_sv": "Cardano-styrning hör inte hemma i en Discord-server",
-      "summary_sv": "",
-      "_title_sha": "167e72df814b",
       "_summary_sha": ""
     },
     {
