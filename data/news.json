@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T16:12:13.511Z",
+  "fetched_at": "2026-07-04T18:10:27.570Z",
   "items": [
     {
       "id": "forum:155503",
@@ -9,7 +9,7 @@
       "url": "https://forum.cardano.org/t/night-token-site-offline/155503",
       "date": "2026-07-04T13:27:45.891Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Natt-token-sidan är offline",
       "summary_sv": "",
       "_title_sha": "c1706027072a",
@@ -22,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/drep-match-making-app-nice-easy-way-to-find-a-drep-to-delegate-to/155502",
       "date": "2026-07-04T08:24:49.523Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "DRep Match Making App: Ett enkelt sätt att hitta en DRep att delegera till",
       "summary_sv": "",
@@ -36,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-ada-big-week-secondfi-recovery-open-usd-500m-ada/155493",
       "date": "2026-07-04T00:28:56.251Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Cardano ADA stor vecka: SecondFi-återhämtning, Open USD och 500M ADA",
       "summary_sv": "",
