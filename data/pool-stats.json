@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-07-04T18:10:30.458Z",
+  "fetched_at": "2026-07-04T20:14:18.761Z",
   "summary": {
     "pool_id_bech32": "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc",
-    "active_stake": "125888182687",
+    "active_stake": null,
     "live_stake": "125888182687",
     "live_pledge": "81065824263",
     "live_delegators": 6,
-    "live_saturation": 0.16,
+    "live_saturation": null,
     "block_count": 9,
     "op_cert_counter": 1,
-    "sigma": 0.0000058949484480233735,
+    "sigma": null,
     "pool_status": "registered"
   },
   "epochs": [
@@ -58,8 +58,8 @@
     {
       "epoch_no": 636,
       "active_stake": "124222135917",
-      "active_stake_pct": 0.0005717608352967038,
-      "saturation_pct": 0.16,
+      "active_stake_pct": null,
+      "saturation_pct": null,
       "block_cnt": 0,
       "delegator_cnt": 5,
       "margin": 0.01,
