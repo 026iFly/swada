@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-06T13:57:39.909Z",
+  "fetched_at": "2026-07-06T17:10:30.356Z",
   "items": [
+    {
+      "id": "forum:155528",
+      "source": "Cardano Forum",
+      "title_en": "The RealFi Testnet is officially live – Phase 1 starts now",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-realfi-testnet-is-officially-live-phase-1-starts-now/155528",
+      "date": "2026-07-06T13:59:15.714Z",
+      "score": 3,
+      "comments": 0,
+      "title_sv": "RealFi Testnet är officiellt live – fas 1 börjar nu",
+      "summary_sv": "",
+      "_title_sha": "7174dc0cdb0d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155527",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/proud-to-be-here-since-2021-a-quick-account-request-username/155527",
       "date": "2026-07-06T11:52:07.851Z",
-      "score": 0,
-      "comments": 1,
+      "score": 2,
+      "comments": 2,
       "title_sv": "Stolta över att vara här sedan 2021 och en snabb kontotsförfrågan (Användarnamn)",
       "summary_sv": "",
       "_title_sha": "5d985e1b5566",
@@ -97,20 +111,6 @@
       "title_sv": "Stärka ekosystemet: Vad betyder Open USD-integrationen för Cardano och $ADA?",
       "summary_sv": "",
       "_title_sha": "948b4dd3ef91",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155473",
-      "source": "Cardano Forum",
-      "title_en": "[2026년 6월] DeFi 생태계 현황, 7월에 주목할 지점들",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-6-defi-7/155473",
-      "date": "2026-07-02T15:07:31.644Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[2026 juni] DeFi-ekosystemets status, punkter att uppmärksamma i juli",
-      "summary_sv": "",
-      "_title_sha": "01452f68cad8",
       "_summary_sha": ""
     },
     {
