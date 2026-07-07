@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T22:22:23.786Z",
+  "fetched_at": "2026-07-07T00:16:46.410Z",
   "items": [
     {
       "id": "forum:155528",
@@ -22,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/proud-to-be-here-since-2021-a-quick-account-request-username/155527",
       "date": "2026-07-06T11:52:07.851Z",
-      "score": 2,
-      "comments": 2,
+      "score": 5,
+      "comments": 3,
       "title_sv": "Stolta över att vara här sedan 2021 och en snabb kontotsförfrågan (Användarnamn)",
       "summary_sv": "",
       "_title_sha": "5d985e1b5566",
@@ -92,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/looking-for-feedback-on-summa-a-cardano-swap-comparison-tool/155490",
       "date": "2026-07-03T14:56:07.510Z",
-      "score": 4,
+      "score": 5,
       "comments": 4,
       "title_sv": "Söker feedback på SummA, ett Cardano-swapjämförelsesverktyg",
       "summary_sv": "",
@@ -106,8 +106,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/memperkuat-ekosistem-apa-artinya-integrasi-open-usd-bagi-cardano-dan-ada/155486",
       "date": "2026-07-03T04:48:06.584Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Stärka ekosystemet: Vad betyder Open USD-integrationen för Cardano och $ADA?",
       "summary_sv": "",
       "_title_sha": "948b4dd3ef91",
