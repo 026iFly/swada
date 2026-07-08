@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-08T19:48:37.942Z",
+  "fetched_at": "2026-07-08T21:19:29.074Z",
   "items": [
+    {
+      "id": "forum:155580",
+      "source": "Cardano Forum",
+      "title_en": "Resumé du 8 juillet 2026 : Candidatures ouvertes pour Genesis Hacker House (développeurs Cardano) ; Rapport sur l’état de la gouvernance de Cardano disponible ;",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/resume-du-8-juillet-2026-candidatures-ouvertes-pour-genesis-hacker-house-developpeurs-cardano-rapport-sur-l-etat-de-la-gouvernance-de-cardano-disponible/155580",
+      "date": "2026-07-08T21:14:12.017Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Resumé den 8 juli 2026: Öppna ansökningar till Genesis Hacker House (Cardano-utvecklare); Rapport om Cardanos styrningstillstånd tillgänglig.",
+      "summary_sv": "",
+      "_title_sha": "d8a4b0112b18",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155577",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "CARDANO BOUNTIES BETATESTING ÄR LIVE",
       "summary_sv": "",
       "_title_sha": "9387f201b2ef",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155552",
-      "source": "Cardano Forum",
-      "title_en": "Young Innovators Tech Summit 2026, North East Region, Nalerigu-Ghana.",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/young-innovators-tech-summit-2026-north-east-region-nalerigu-ghana/155552",
-      "date": "2026-07-07T18:55:18.756Z",
-      "score": 3,
-      "comments": 1,
-      "title_sv": "Young Innovators Tech Summit 2026, North East Region, Nalerigu-Ghana.\"",
-      "summary_sv": "",
-      "_title_sha": "c8a4400524cf",
       "_summary_sha": ""
     },
     {
