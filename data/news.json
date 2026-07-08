@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-08T00:08:22.999Z",
+  "fetched_at": "2026-07-08T04:24:34.475Z",
   "items": [
     {
       "id": "forum:155553",
@@ -8,8 +8,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-bounties-beta-testing-is-live/155553",
       "date": "2026-07-07T20:12:06.798Z",
-      "score": 0,
-      "comments": 0,
+      "score": 2,
+      "comments": 1,
       "title_sv": "CARDANO BOUNTIES BETATESTING ÄR LIVE",
       "summary_sv": "",
       "_title_sha": "9387f201b2ef",
@@ -50,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cap-closed-beta-is-live-looking-for-cardano-builders-spos-governance-participants-and-wider-community/155550",
       "date": "2026-07-07T18:08:54.500Z",
-      "score": 2,
+      "score": 3,
       "comments": 0,
       "title_sv": "CAP Closed Beta är live! Söker Cardano-byggare, SPOs, governance-deltagare och bredare gemenskap",
       "summary_sv": "",
@@ -106,8 +106,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/step-into-cardano-a-beginner-s-path-to-the-ecosystem/155541",
       "date": "2026-07-07T01:26:21.873Z",
-      "score": 19,
-      "comments": 6,
+      "score": 32,
+      "comments": 13,
       "title_sv": "Steg in i Cardano: En nybörjars väg in i ekosystemet",
       "summary_sv": "",
       "_title_sha": "85f5bfeaf478",

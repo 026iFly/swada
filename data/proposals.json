@@ -1,21 +1,37 @@
 {
-  "fetched_at": "2026-07-08T00:08:23.895Z",
+  "fetched_at": "2026-07-08T04:24:39.800Z",
   "items": [
     {
-      "id": "gov:gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "proposal_id": "gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
+      "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
+      "proposal_id": "gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 641,
+      "expiration_epoch": 648,
+      "title_en": "Revised Cardano dOSPO and OMF Program Proposal",
+      "summary_en": "This proposal is to establish an independent entity dedicated to managing open source sustainability funds for the Cardano ecosystem.DAOs and traditional foundations are often too vulnerable to political influence, lack execution speed, and can become centralized in ways that distort outcomes based on internal politics. These issues can undermine priorities and weaken long-term initiatives.   \nTo address these problems, I am proposing a purpose-built independent structure — an execution function, not an executive one. This program has a single, clearly defined purpose set by its charter, and t",
+      "url": "https://gov.tools/governance_actions/gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
+      "block_time": "2026-07-08T03:35:17.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Reviderad Cardano dOSPO- och OMF-programförslag",
+      "summary_sv": "Detta förslag är att etablera en självständig enhet ägnad åt att hantera open source-säkerhetens finansiering för Cardano-ekosystemet. DAOs och traditionella stiftelser är ofta allt för sårbara för politisk påverkan, saknar genomförandefart och kan bli centraliserade på sätt som förvränger utfall baserat på intern politik. Dessa problem kan undergräva prioriteringar och försvaga långsiktiga initiativ.\nFör att ta itu med dessa problem föreslår jag en skräddarsydd oberoende struktur — en genomförandefunktion, inte en ledningsfunktion. Detta program har ett enskilt, tydligt definierat syfte som fastställts i dess stadga, och t",
+      "_title_sha": "55d2828307a5",
+      "_summary_sha": "0860d0479b43"
+    },
+    {
+      "id": "gov:gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
+      "proposal_id": "gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 640,
       "expiration_epoch": 647,
-      "title_en": "Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime",
-      "summary_en": "**Scalus** is an established, open-source Cardano development platform, built by **Lantr Engineering** over three years of continuous delivery. \n\nIt is the integrated, JVM-native toolset for complex protocols and mission-critical applications, such as **Gummiworm L2, Bifrost bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentralised identity**, that build on it.\n\nIts components are already reused inside Cardano's most widely used developer tooling: **MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib, and YaciDevKit**. Many teams depend on Scalus without ever integrating it di",
-      "url": "https://gov.tools/governance_actions/gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "block_time": "2026-06-29T14:02:41.000Z",
+      "title_en": "Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet (Phase 1 of 2)",
+      "summary_en": "Bitcoin is the largest pool of capital in crypto, yet most BTC still sits outside DeFi because moving it off the Bitcoin base layer still requires security trade-offs many holders are not willing to accept. Cardano is structurally well suited for Bitcoin DeFi, but it lacks the secure BTC rail needed to compete for that liquidity.\n\nBifrost is designed to provide that rail: a permissionless Bitcoin-Cardano bridge secured by Cardano’s existing SPO ecosystem that brings BTC onto Cardano as a native Cardano asset that applications can integrate into trading, lending, collateral, and other financial",
+      "url": "https://gov.tools/governance_actions/gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
+      "block_time": "2026-07-03T19:20:39.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Scalus 2026: Underhåll, Dijkstra-beredskap, interoperabilitet och applikationskörning",
-      "summary_sv": "Scalus är en etablerad, öppen källkod Cardano-utvecklingsplattform, byggd av Lantr Engineering över tre års kontinuerlig leverans.\n\nDet är det integrerade, JVM-nativa verktygspaketet för komplexa protokoll och kritiska applikationer, såsom Gummiworm L2, Bifrost-bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentraliserad identitet, som byggs på den.\n\nDess komponenter används redan igen inom Cardanos mest använda utvecklarverktyg: MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib och YaciDevKit. Många team förlitar sig på Scalus utan att någonsin integrera det di",
-      "_title_sha": "acde6d0a0105",
-      "_summary_sha": "8b99a752b37f"
+      "title_sv": "Bifrost: Avlåsa Bitcoin DeFi på Cardano — Vägen till mainnet (Fas 1 av 2)",
+      "summary_sv": "Bitcoin är den största kapitalpoolen i kryptosektorn, men nej större delen av BTC ligger fortfarande utanför DeFi eftersom flytt av BTC från Bitcoin-nätet fortfarande innebär säkerhetsavvägningar som många innehavare inte är villiga att acceptera. Cardano är strukturellt väl lämpat för Bitcoin DeFi, men saknar den säkra BTC-rail som behövs för att konkurrera om likviditeten.\n\n Bifrost är utformat för att tillhandahålla den railen: en permissionless Bitcoin-Cardano-bro som säkras av Cardanos befintliga SPO-ekosystem och som för in BTC på Cardano som en inbyggd Cardano-tillgång som applikationer kan integrera i handel, utlåning, collateral och andra finansiella tillämpningar.",
+      "_title_sha": "73ea6dcd5f55",
+      "_summary_sha": "5400c2b71a57"
     },
     {
       "id": "gov:gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
@@ -34,20 +50,20 @@
       "_summary_sha": "239e7cf6f192"
     },
     {
-      "id": "gov:gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
-      "proposal_id": "gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
+      "id": "gov:gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
+      "proposal_id": "gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 640,
       "expiration_epoch": 647,
-      "title_en": "Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet (Phase 1 of 2)",
-      "summary_en": "Bitcoin is the largest pool of capital in crypto, yet most BTC still sits outside DeFi because moving it off the Bitcoin base layer still requires security trade-offs many holders are not willing to accept. Cardano is structurally well suited for Bitcoin DeFi, but it lacks the secure BTC rail needed to compete for that liquidity.\n\nBifrost is designed to provide that rail: a permissionless Bitcoin-Cardano bridge secured by Cardano’s existing SPO ecosystem that brings BTC onto Cardano as a native Cardano asset that applications can integrate into trading, lending, collateral, and other financial",
-      "url": "https://gov.tools/governance_actions/gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
-      "block_time": "2026-07-03T19:20:39.000Z",
+      "title_en": "Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime",
+      "summary_en": "**Scalus** is an established, open-source Cardano development platform, built by **Lantr Engineering** over three years of continuous delivery. \n\nIt is the integrated, JVM-native toolset for complex protocols and mission-critical applications, such as **Gummiworm L2, Bifrost bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentralised identity**, that build on it.\n\nIts components are already reused inside Cardano's most widely used developer tooling: **MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib, and YaciDevKit**. Many teams depend on Scalus without ever integrating it di",
+      "url": "https://gov.tools/governance_actions/gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
+      "block_time": "2026-06-29T14:02:41.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Bifrost: Avlåsa Bitcoin DeFi på Cardano — Vägen till mainnet (Fas 1 av 2)",
-      "summary_sv": "Bitcoin är den största kapitalpoolen i kryptosektorn, men nej större delen av BTC ligger fortfarande utanför DeFi eftersom flytt av BTC från Bitcoin-nätet fortfarande innebär säkerhetsavvägningar som många innehavare inte är villiga att acceptera. Cardano är strukturellt väl lämpat för Bitcoin DeFi, men saknar den säkra BTC-rail som behövs för att konkurrera om likviditeten.\n\n Bifrost är utformat för att tillhandahålla den railen: en permissionless Bitcoin-Cardano-bro som säkras av Cardanos befintliga SPO-ekosystem och som för in BTC på Cardano som en inbyggd Cardano-tillgång som applikationer kan integrera i handel, utlåning, collateral och andra finansiella tillämpningar.",
-      "_title_sha": "73ea6dcd5f55",
-      "_summary_sha": "5400c2b71a57"
+      "title_sv": "Scalus 2026: Underhåll, Dijkstra-beredskap, interoperabilitet och applikationskörning",
+      "summary_sv": "Scalus är en etablerad, öppen källkod Cardano-utvecklingsplattform, byggd av Lantr Engineering över tre års kontinuerlig leverans.\n\nDet är det integrerade, JVM-nativa verktygspaketet för komplexa protokoll och kritiska applikationer, såsom Gummiworm L2, Bifrost-bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentraliserad identitet, som byggs på den.\n\nDess komponenter används redan igen inom Cardanos mest använda utvecklarverktyg: MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib och YaciDevKit. Många team förlitar sig på Scalus utan att någonsin integrera det di",
+      "_title_sha": "acde6d0a0105",
+      "_summary_sha": "8b99a752b37f"
     },
     {
       "id": "gov:gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq",
@@ -96,22 +112,6 @@
       "summary_sv": "Denna Treasury Withdrawal finansierar fas 2 av en Cardano-native biljetthanteringsplattform i produktion som drivs av Sellout.io och byggs av Anvil Development Agency. Fas 1 (on-chain händelseskapande, CIP-68 biljettminting, överföringar och närvaroverifiering) är redan live på Cardano mainnet och finansierades helt av Sellout (över 130 000 USD investerade). Fas 2 levererar en sekundär marknadsplats med on-chain royalty-efterlevnad, per-händelse anti-skalningskontroller, plånboks-in- onboarding för Sellouts mer än 200 000 befintliga användare, arrangörsverktyg, en oberoende tredjeparts säkerhetsrevision och en professionell lanseringskampanj, och",
       "_title_sha": "ef0a5a84f321",
       "_summary_sha": "f03e5be1a947"
-    },
-    {
-      "id": "gov:gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
-      "proposal_id": "gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 639,
-      "expiration_epoch": 646,
-      "title_en": "Cardano Builder DAO",
-      "summary_en": "The Cardano Builder DAO is an ecosystem-wide, purpose-built, smart contract-governed funding mechanism to support projects advancing Cardano’s Vision 2030 through measurable ecosystem KPIs. Its role is to allocate capital to builders who can drive growth in the metrics that matter most to Cardano’s long-term success, including monthly active users, monthly on-chain transactions, and TVL.",
-      "url": "https://gov.tools/governance_actions/gov_action1fdatlfcdnzzcw5x9pnt9r42v992nqw65zze57s8tyk0jll78eyusqccn9gc",
-      "block_time": "2026-06-24T16:47:14.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Cardano-byggar-DAO",
-      "summary_sv": "Cardano Builder DAO är en ekosystemsomfattande, särskilt framtagen finansieringsmekanism styrd av smarta kontrakt för att stödja projekt som främjar Cardanos Vision 2030 genom mätbara ekosystem-KPI:er. Dess roll är att fördela kapital till skapare som kan driva tillväxt i de mätetal som är viktigast för Cardanos långsiktiga framgång, inklusive månatliga aktiva användare, månatliga on-chain-transaktioner och TVL.",
-      "_title_sha": "dcb161832823",
-      "_summary_sha": "2c1c1226bf32"
     },
     {
       "id": "gov:gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
