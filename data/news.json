@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-08T04:24:34.475Z",
+  "fetched_at": "2026-07-08T07:38:18.924Z",
   "items": [
+    {
+      "id": "forum:155562",
+      "source": "Cardano Forum",
+      "title_en": "UTxO가 계정 기반 Ethereum으로부터 다시 주목받는 이유",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/utxo-ethereum/155562",
+      "date": "2026-07-08T04:56:07.768Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Varför UTxO åter får uppmärksamhet jämfört med kontobaserad Ethereum",
+      "summary_sv": "",
+      "_title_sha": "c1b96cf92f08",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155553",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Utvecklarnas kontorstid #68 - Zero-Knowledge på Cardano: Resan mot PTAU (10 juli)",
       "summary_sv": "",
       "_title_sha": "fc223cb6e470",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155541",
-      "source": "Cardano Forum",
-      "title_en": "Step into Cardano: A Beginner’s Path to the Ecosystem",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/step-into-cardano-a-beginner-s-path-to-the-ecosystem/155541",
-      "date": "2026-07-07T01:26:21.873Z",
-      "score": 32,
-      "comments": 13,
-      "title_sv": "Steg in i Cardano: En nybörjars väg in i ekosystemet",
-      "summary_sv": "",
-      "_title_sha": "85f5bfeaf478",
       "_summary_sha": ""
     },
     {
