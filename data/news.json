@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-08T12:47:51.598Z",
+  "fetched_at": "2026-07-08T15:29:48.523Z",
   "items": [
+    {
+      "id": "forum:155577",
+      "source": "Cardano Forum",
+      "title_en": "Digest July 8, 2026: Genesis Hacker House Applications Open For Cardano Builders State of Cardano Governance Report Now Available RealFi Phase 1 Testnet is Live Cardano Improvement Proposals (CIP) Updates Spotlight on Crypto Dossier & Linda",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-july-8-2026-genesis-hacker-house-applications-open-for-cardano-builders-state-of-cardano-governance-report-now-available-realfi-phase-1-testnet-is-live-cardano-improvement-proposals-cip-updates-spotlight-on-crypto-dossier-linda/155577",
+      "date": "2026-07-08T14:43:30.074Z",
+      "score": 2,
+      "comments": 1,
+      "title_sv": "Digest 8 juli 2026: Genesis Hacker House-ansökningar öppna för Cardano Builders State of Cardano Governance-rapporten finns nu Tillståndet Cardano Governance-rapport Nu Live RealFi Phase 1 Testnet Är Live Cardano Improvement Proposals (CIP) uppdateringar Spotlight på Crypto Dossier & Linda",
+      "summary_sv": "",
+      "_title_sha": "ce9ce711b1f5",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155576",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING no parece nada para mí (la palabra «C» de Ethereum) | CH 7 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-no-parece-nada-para-mi-la-palabra-c-de-ethereum-ch-7-jul-2026/155576",
+      "date": "2026-07-08T14:19:33.202Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBING verkar inget för mig (ordet «C» i Ethereum) | CH 7 Jul 2026",
+      "summary_sv": "",
+      "_title_sha": "22bcab056177",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155575",
       "source": "Cardano Forum",
@@ -8,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/important-notice-levvy-fi-platform-retirement-please-act-now-to-secure-your-assets/155575",
       "date": "2026-07-08T12:36:50.979Z",
-      "score": 0,
-      "comments": 0,
+      "score": 2,
+      "comments": 1,
       "title_sv": "Viktigt meddelande: Levvy.fi-plattformen avvecklas – vänligen agera nu för att säkra dina tillgångar",
       "summary_sv": "",
       "_title_sha": "f8318ae8af39",
@@ -18,15 +46,15 @@
     {
       "id": "forum:155574",
       "source": "Cardano Forum",
-      "title_en": "eUTXO가 동시성에 유리한 구조적 이유",
+      "title_en": "카르다노 eUTXO가 동시성에 유리한 구조적 이유",
       "summary_en": "",
       "url": "https://forum.cardano.org/t/eutxo/155574",
       "date": "2026-07-08T12:12:14.445Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "eUTXO:s strukturella fördel vid samtidighet",
+      "title_sv": "Cardano eUTXO:s fördelen med samtidighetens strukturella anledning",
       "summary_sv": "",
-      "_title_sha": "d5d479ab8019",
+      "_title_sha": "6321f1c36ef0",
       "_summary_sha": ""
     },
     {
@@ -83,34 +111,6 @@
       "title_sv": "Young Innovators Tech Summit 2026, North East Region, Nalerigu-Ghana.\"",
       "summary_sv": "",
       "_title_sha": "c8a4400524cf",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155551",
-      "source": "Cardano Forum",
-      "title_en": "Beta fechado CAP está no ar! Buscamos usuários da comunidade Cardano para testar a plataforma",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/beta-fechado-cap-esta-no-ar-buscamos-usuarios-da-comunidade-cardano-para-testar-a-plataforma/155551",
-      "date": "2026-07-07T18:16:55.621Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Beta fechado CAP är på gång! Vi söker användare från Cardano-gemenskapen för att testa plattformen",
-      "summary_sv": "",
-      "_title_sha": "fc3135e48818",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155550",
-      "source": "Cardano Forum",
-      "title_en": "CAP Closed Beta is Live! Looking for Cardano Builders, SPOs, Governance Participants, and Wider Community",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cap-closed-beta-is-live-looking-for-cardano-builders-spos-governance-participants-and-wider-community/155550",
-      "date": "2026-07-07T18:08:54.500Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "CAP Closed Beta är live! Söker Cardano-byggare, SPOs, governance-deltagare och bredare gemenskap",
-      "summary_sv": "",
-      "_title_sha": "770bc18a312e",
       "_summary_sha": ""
     },
     {
