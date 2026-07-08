@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-08T21:19:29.074Z",
+  "fetched_at": "2026-07-08T23:19:42.632Z",
   "items": [
+    {
+      "id": "forum:155581",
+      "source": "Cardano Forum",
+      "title_en": "The Cardano State of Governance Report",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-cardano-state-of-governance-report/155581",
+      "date": "2026-07-08T22:21:25.507Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-statens governance-rapport",
+      "summary_sv": "",
+      "_title_sha": "6969a4279b71",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155580",
       "source": "Cardano Forum",
@@ -23,7 +37,7 @@
       "url": "https://forum.cardano.org/t/digest-july-8-2026-genesis-hacker-house-applications-open-for-cardano-builders-state-of-cardano-governance-report-now-available-realfi-phase-1-testnet-is-live-cardano-improvement-proposals-cip-updates-spotlight-on-crypto-dossier-linda/155577",
       "date": "2026-07-08T14:43:30.074Z",
       "score": 7,
-      "comments": 1,
+      "comments": 2,
       "title_sv": "Digest 8 juli 2026: Genesis Hacker House-ansökningar öppna för Cardano Builders State of Cardano Governance-rapporten finns nu Tillståndet Cardano Governance-rapport Nu Live RealFi Phase 1 Testnet Är Live Cardano Improvement Proposals (CIP) uppdateringar Spotlight på Crypto Dossier & Linda",
       "summary_sv": "",
       "_title_sha": "ce9ce711b1f5",
@@ -50,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/important-notice-levvy-fi-platform-retirement-please-act-now-to-secure-your-assets/155575",
       "date": "2026-07-08T12:36:50.979Z",
-      "score": 2,
+      "score": 3,
       "comments": 1,
       "title_sv": "Viktigt meddelande: Levvy.fi-plattformen avvecklas – vänligen agera nu för att säkra dina tillgångar",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Varför UTxO åter får uppmärksamhet jämfört med kontobaserad Ethereum",
       "summary_sv": "",
       "_title_sha": "c1b96cf92f08",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155553",
-      "source": "Cardano Forum",
-      "title_en": "CARDANO BOUNTIES BETA TESTING IS LIVE",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-bounties-beta-testing-is-live/155553",
-      "date": "2026-07-07T20:12:06.798Z",
-      "score": 5,
-      "comments": 3,
-      "title_sv": "CARDANO BOUNTIES BETATESTING ÄR LIVE",
-      "summary_sv": "",
-      "_title_sha": "9387f201b2ef",
       "_summary_sha": ""
     },
     {
