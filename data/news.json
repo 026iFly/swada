@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-09T21:38:22.075Z",
+  "fetched_at": "2026-07-09T23:22:14.149Z",
   "items": [
+    {
+      "id": "forum:155606",
+      "source": "Cardano Forum",
+      "title_en": "🇮🇩 Ringkasan Komunitas Cardano - 9 Juli 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ringkasan-komunitas-cardano-9-juli-2026/155606",
+      "date": "2026-07-09T23:02:26.002Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "🇸🇪 Sammanfattning av Cardano-gemenskapen - 9 juli 2026",
+      "summary_sv": "",
+      "_title_sha": "d86fc69c2d41",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155604",
       "source": "Cardano Forum",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-newsletter-130-ringkasan-berita-utama-ekosistem-cardano-minggu-ini-6-juli-2026/155600",
       "date": "2026-07-09T14:27:37.998Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "🇸🇪 CARDANO NYHETSBREV #130 | Översikt över veckans huvudnyheter i Cardano-ekosystemet | 6 juli 2026",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Leios, ge eUTXO potential en vinge",
       "summary_sv": "",
       "_title_sha": "078988a8d291",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155584",
-      "source": "Cardano Forum",
-      "title_en": "🇮🇩 Block//45 - Wawancara Leios dengan Carlos Lopez De Lara",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/block-45-wawancara-leios-dengan-carlos-lopez-de-lara/155584",
-      "date": "2026-07-09T01:48:20.102Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Block//45 - Intervju med Leios och Carlos Lopez De Lara",
-      "summary_sv": "",
-      "_title_sha": "f6a34029e1ff",
       "_summary_sha": ""
     },
     {
