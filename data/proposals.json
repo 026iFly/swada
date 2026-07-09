@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-07-09T15:30:34.343Z",
+  "fetched_at": "2026-07-09T18:05:46.817Z",
   "items": [
+    {
+      "id": "gov:gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
+      "proposal_id": "gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 642,
+      "expiration_epoch": 649,
+      "title_en": "Withdraw 120,000,000 ada for AlphaGrowth’s Cardano PRIME",
+      "summary_en": "This Treasury Withdrawal funds Cardano PRIME, a 12-month community-overseen program to improve DeFi protocol readiness, responsibly activate incentives, and grow durable liquidity across Cardano markets. The withdrawal requests ₳120,000,000, with USD figures included only as planning references at the $0.16/ADA assumption.\n\nPRIME is executed by AlphaGrowth under Operating Group oversight. Intersect acts as Constitutional Administrator and manages the withdrawn funds directly. Program funds are released through milestone-gated and action-gated processes, including a Month 4 Phase 3 release gate",
+      "url": "https://gov.tools/governance_actions/gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
+      "block_time": "2026-07-09T16:30:25.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Ta ut 120 000 000 ada för AlphaGrowths Cardano PRIME",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Cardano PRIME, ett 12 månader långt program övervakat av samhället för att förbättra DeFi-protokollens beredskap, ansvarsfullt aktivera incitament och stärka hållbar likviditet över Cardano-marknaderna. Uttagen uppgår till ₳120 000 000, där USD-siffror endast är med som planeringsreferenser utifrån antagandet $0,16/ADA.\n\nPRIME genomförs av AlphaGrowth under tillsyn av Operating Group. Intersect fungerar som Constitutional Administrator och förvaltar de uttagna pengarna direkt. Programmedel frigörs genom målstyrda och åtgärdsstyrda processer, inklusive en Month 4 Phase 3-release-gate.",
+      "_title_sha": "bd1fea21e0c0",
+      "_summary_sha": "3cdd1fa8d20f"
+    },
     {
       "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
       "proposal_id": "gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
@@ -50,22 +66,6 @@
       "_summary_sha": "239e7cf6f192"
     },
     {
-      "id": "gov:gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "proposal_id": "gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 640,
-      "expiration_epoch": 647,
-      "title_en": "Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime",
-      "summary_en": "**Scalus** is an established, open-source Cardano development platform, built by **Lantr Engineering** over three years of continuous delivery. \n\nIt is the integrated, JVM-native toolset for complex protocols and mission-critical applications, such as **Gummiworm L2, Bifrost bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentralised identity**, that build on it.\n\nIts components are already reused inside Cardano's most widely used developer tooling: **MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib, and YaciDevKit**. Many teams depend on Scalus without ever integrating it di",
-      "url": "https://gov.tools/governance_actions/gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "block_time": "2026-06-29T14:02:41.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Scalus 2026: Underhåll, Dijkstra-beredskap, interoperabilitet och applikationskörning",
-      "summary_sv": "Scalus är en etablerad, öppen källkod Cardano-utvecklingsplattform, byggd av Lantr Engineering över tre års kontinuerlig leverans.\n\nDet är det integrerade, JVM-nativa verktygspaketet för komplexa protokoll och kritiska applikationer, såsom Gummiworm L2, Bifrost-bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentraliserad identitet, som byggs på den.\n\nDess komponenter används redan igen inom Cardanos mest använda utvecklarverktyg: MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib och YaciDevKit. Många team förlitar sig på Scalus utan att någonsin integrera det di",
-      "_title_sha": "acde6d0a0105",
-      "_summary_sha": "8b99a752b37f"
-    },
-    {
       "id": "gov:gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq",
       "proposal_id": "gov_action15atytcy8ru7mkcs8m7r8mx7k5x36t0h6grtgmak6v5wmf4nq07lsqhakceq",
       "type": "InfoAction",
@@ -82,6 +82,22 @@
       "_summary_sha": "fbcb5a2fa62e"
     },
     {
+      "id": "gov:gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
+      "proposal_id": "gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 640,
+      "expiration_epoch": 647,
+      "title_en": "Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime",
+      "summary_en": "**Scalus** is an established, open-source Cardano development platform, built by **Lantr Engineering** over three years of continuous delivery. \n\nIt is the integrated, JVM-native toolset for complex protocols and mission-critical applications, such as **Gummiworm L2, Bifrost bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentralised identity**, that build on it.\n\nIts components are already reused inside Cardano's most widely used developer tooling: **MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib, and YaciDevKit**. Many teams depend on Scalus without ever integrating it di",
+      "url": "https://gov.tools/governance_actions/gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
+      "block_time": "2026-06-29T14:02:41.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Scalus 2026: Underhåll, Dijkstra-beredskap, interoperabilitet och applikationskörning",
+      "summary_sv": "Scalus är en etablerad, öppen källkod Cardano-utvecklingsplattform, byggd av Lantr Engineering över tre års kontinuerlig leverans.\n\nDet är det integrerade, JVM-nativa verktygspaketet för komplexa protokoll och kritiska applikationer, såsom Gummiworm L2, Bifrost-bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentraliserad identitet, som byggs på den.\n\nDess komponenter används redan igen inom Cardanos mest använda utvecklarverktyg: MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib och YaciDevKit. Många team förlitar sig på Scalus utan att någonsin integrera det di",
+      "_title_sha": "acde6d0a0105",
+      "_summary_sha": "8b99a752b37f"
+    },
+    {
       "id": "gov:gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
       "proposal_id": "gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
       "type": "TreasuryWithdrawals",
@@ -96,22 +112,6 @@
       "summary_sv": "Denna Treasury Withdrawal finansierar Daedalus Wallet Maintenance and Improvements\n2026–2027, levereras av Se7en Labs, Inc.\n\nDaedalus är Cardanos enda fullknot-datorplånbok — den kör en inbäddad Cardano-nod och härleder all plånboks- och styrningsdata direkt från kedjan, utan tredje parts APIer eller betrodda backends. Eftersom den deltar i P2P-nätverk och upprätthåller sin egen lokala mempool, tävlar Daedalus-transaktioner om blockinnehav på lika villkor som fullknot-deltagare, vilket ger tillförlitlig inlämning även vid hög kedjeutnyttjande där lätta plånböcker kan misslyckas i timmar.\n\nDaedalus",
       "_title_sha": "a360e2f19af5",
       "_summary_sha": "b994ca942658"
-    },
-    {
-      "id": "gov:gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
-      "proposal_id": "gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 639,
-      "expiration_epoch": 646,
-      "title_en": "Withdraw 4,969,231 ada for Cardano Enterprise Adoption: Ticketing Platform",
-      "summary_en": "This Treasury Withdrawal funds Phase 2 of a production Cardano-native ticketing platform operated by Sellout.io and built by Anvil Development Agency. Phase 1 (on-chain event creation, CIP-68 ticket minting, transfers, and attendance verification) is already live on Cardano mainnet, funded entirely by Sellout (over $130k invested). Phase 2 delivers a secondary marketplace with on-chain royalty enforcement, per-event anti-scalping controls, wallet onboarding for Sellout's 200,000+ existing users, organizer tools, an independent third-party security audit, and a professional launch campaign, anc",
-      "url": "https://gov.tools/governance_actions/gov_action1xk6yrz0tg72a2a63ytd99gapz46nlqlavckarleqt6nr8lyekd8qqp0ga3d",
-      "block_time": "2026-06-24T19:30:39.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Ta ut 4 969 231 ada för Cardano Enterprise Adoption: Ticketing Platform",
-      "summary_sv": "Denna Treasury Withdrawal finansierar fas 2 av en Cardano-native biljetthanteringsplattform i produktion som drivs av Sellout.io och byggs av Anvil Development Agency. Fas 1 (on-chain händelseskapande, CIP-68 biljettminting, överföringar och närvaroverifiering) är redan live på Cardano mainnet och finansierades helt av Sellout (över 130 000 USD investerade). Fas 2 levererar en sekundär marknadsplats med on-chain royalty-efterlevnad, per-händelse anti-skalningskontroller, plånboks-in- onboarding för Sellouts mer än 200 000 befintliga användare, arrangörsverktyg, en oberoende tredjeparts säkerhetsrevision och en professionell lanseringskampanj, och",
-      "_title_sha": "ef0a5a84f321",
-      "_summary_sha": "f03e5be1a947"
     },
     {
       "id": "gov:gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",

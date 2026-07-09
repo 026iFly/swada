@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-09T15:30:23.826Z",
+  "fetched_at": "2026-07-09T18:05:43.101Z",
   "items": [
+    {
+      "id": "forum:155604",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING No, no me voy. | CH 9 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-no-no-me-voy-ch-9-jul-2026/155604",
+      "date": "2026-07-09T17:16:03.715Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Nej, jag går inte. | CH 9 jul 2026",
+      "summary_sv": "",
+      "_title_sha": "19ae038c9e22",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155600",
       "source": "Cardano Forum",
@@ -36,8 +50,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-governance-a-community-discussion-space/155598",
       "date": "2026-07-09T14:01:00.073Z",
-      "score": 7,
-      "comments": 1,
+      "score": 8,
+      "comments": 2,
       "title_sv": "Cardano-styrning: Ett gemenskapsdiskussionsutrymme",
       "summary_sv": "",
       "_title_sha": "a24d20f74b7a",
@@ -97,20 +111,6 @@
       "title_sv": "Block//45 - Intervju med Leios och Carlos Lopez De Lara",
       "summary_sv": "",
       "_title_sha": "f6a34029e1ff",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155581",
-      "source": "Cardano Forum",
-      "title_en": "The Cardano State of Governance Report",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-cardano-state-of-governance-report/155581",
-      "date": "2026-07-08T22:21:25.507Z",
-      "score": 2,
-      "comments": 2,
-      "title_sv": "Cardano-statens governance-rapport",
-      "summary_sv": "",
-      "_title_sha": "6969a4279b71",
       "_summary_sha": ""
     },
     {
