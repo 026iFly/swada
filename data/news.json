@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-09T23:22:14.149Z",
+  "fetched_at": "2026-07-10T04:06:37.055Z",
   "items": [
+    {
+      "id": "forum:155615",
+      "source": "Cardano Forum",
+      "title_en": "카르다노 확장성, 실전 테스트에 들어가다",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/topic/155615",
+      "date": "2026-07-10T02:14:43.205Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-skalbarhet går in i praktiska tester",
+      "summary_sv": "",
+      "_title_sha": "75fa8010877f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155606",
       "source": "Cardano Forum",
@@ -50,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano/155599",
       "date": "2026-07-09T14:01:00.078Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Cardano-govemance: Community Discussion Space",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Block//45 – Intervju med Eric Coley",
       "summary_sv": "",
       "_title_sha": "dafbda5642c8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155585",
-      "source": "Cardano Forum",
-      "title_en": "Leios, eUTXO의 잠재력에 날개를 달다",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/leios-eutxo/155585",
-      "date": "2026-07-09T01:51:23.799Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Leios, ge eUTXO potential en vinge",
-      "summary_sv": "",
-      "_title_sha": "078988a8d291",
       "_summary_sha": ""
     },
     {
