@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-11T17:09:12.997Z",
+  "fetched_at": "2026-07-11T19:20:01.606Z",
   "items": [
+    {
+      "id": "forum:155646",
+      "source": "Cardano Forum",
+      "title_en": "First post from Beijing — looking for Cardano materials to share with Chinese-speaking friends",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/first-post-from-beijing-looking-for-cardano-materials-to-share-with-chinese-speaking-friends/155646",
+      "date": "2026-07-11T18:08:52.745Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Första inlägget från Beijing — letar efter Cardano-material att dela med kinesisktalande vänner",
+      "summary_sv": "",
+      "_title_sha": "3f7f09821406",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155633",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/proposal-incentivizing-stablecoin-ada-liquidity-growth-through-ada-rewards/155633",
       "date": "2026-07-11T07:00:28.413Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Förslag: Incitament för likviditetsökning mellan Stablecoin–ADA genom ADA-belöningar",
       "summary_sv": "",
@@ -50,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-to-the-moon-dibangun-di-atas-sains-digerakkan-oleh-desentralisasi-total/155621",
       "date": "2026-07-10T08:34:23.911Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Cardano till månen | Byggt på vetenskap, drivet av total decentralisering",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Nej, jag går inte. | CH 9 jul 2026",
       "summary_sv": "",
       "_title_sha": "19ae038c9e22",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155600",
-      "source": "Cardano Forum",
-      "title_en": "🇮🇩 CARDANO NEWSLETTER #130 | Ringkasan Berita Utama Ekosistem Cardano Minggu Ini | 6 Juli 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-newsletter-130-ringkasan-berita-utama-ekosistem-cardano-minggu-ini-6-juli-2026/155600",
-      "date": "2026-07-09T14:27:37.998Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "🇸🇪 CARDANO NYHETSBREV #130 | Översikt över veckans huvudnyheter i Cardano-ekosystemet | 6 juli 2026",
-      "summary_sv": "",
-      "_title_sha": "477e85efe623",
       "_summary_sha": ""
     },
     {

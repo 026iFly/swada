@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T17:09:48.408Z",
+  "fetched_at": "2026-07-11T19:20:04.225Z",
   "items": [
     {
       "id": "gov:gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
@@ -125,7 +125,7 @@
       "block_time": "2026-06-26T13:51:52.000Z",
       "deposit_ada": 100000,
       "title_sv": "Blockfrosts omvandling till icke-vinstdrivande",
-      "summary_sv": "",
+      "summary_sv": "Blockfrost är ett pålitligt sätt för utvecklare att interagera med kedjan utan att köra sin egen infrastruktur eller nod. Detta förslag överför Blockfrost till en fri, samhällsstyrd offentlig nyttighet, ägd av de som bygger på den där Blockfrosts källkod, varumärken och domäner överförs till samhällsstyrning under en oberoende, samhällsstyrd icke-vinstdrivande organisation. Det finansierar en 18-månaders övergång och drift i samhällsägande.\n\nTotalt begärt: **₳9,832,979** (\\$1,868,266 vid \\$0.19/₳).",
       "_title_sha": "50b91df6613e",
       "_summary_sha": "4fbddd4fa2f6"
     }
