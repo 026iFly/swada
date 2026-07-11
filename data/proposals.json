@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T15:10:01.806Z",
+  "fetched_at": "2026-07-11T17:09:48.408Z",
   "items": [
     {
       "id": "gov:gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
@@ -92,8 +92,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
       "block_time": "2026-06-29T14:02:41.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Scalus 2026: Underhåll, Dijkstra‑beredskap, interoperabilitet och applikationskörtid",
+      "summary_sv": "Scalus är en etablerad öppen källkod-plattform för Cardano-utveckling, byggd av Lantr Engineering under tre års kontinuerlig leverans.\n\nDen är det integrerade, JVM-native verktygssättet för komplexa protokoll och kritiska applikationer, såsom Gummiworm L2, Bifrost-bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentraliserad identitet, som byggs ovanpå den.\n\nDess komponenter används redan igen i Cardanos mest använda utvecklarverktyg: MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib och YaciDevKit. Många team är beroende av Scalus utan att någonsin integrera det di",
       "_title_sha": "acde6d0a0105",
       "_summary_sha": "8b99a752b37f"
     },
@@ -108,8 +108,8 @@
       "url": "https://gov.tools/governance_actions/gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
       "block_time": "2026-06-24T21:25:59.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Se7en Labs: Daedalus-plånbok underhåll och förbättringar 2026–2027",
+      "summary_sv": "Denna Treasury Withdrawal finansierar Daedalus Wallet Maintenance and Improvements\n2026–2027, levererad av Se7en Labs, Inc.\n\nDaedalus är Cardanos enda fullknotade skrivbordsvagnwallet — den kör en inbäddad Cardano-nod och hämtar all plånboks- och styrningsdata direkt från kedjan, utan tredje parts API:er eller betrodda backends. Eftersom den deltar i P2P-nätverkande och upprätthåller sin egen lokala mempool konkurrerar Daedalus-transaktioner om blockinköp på lika villkor som fullnodsdeltagare, vilket ger pålitlig inlämning även under hög kedjeutnyttjande där lätta plånböcker kan misslyckas i timmar.",
       "_title_sha": "a360e2f19af5",
       "_summary_sha": "b994ca942658"
     },
@@ -124,7 +124,7 @@
       "url": "https://gov.tools/governance_actions/gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
       "block_time": "2026-06-26T13:51:52.000Z",
       "deposit_ada": 100000,
-      "title_sv": "",
+      "title_sv": "Blockfrosts omvandling till icke-vinstdrivande",
       "summary_sv": "",
       "_title_sha": "50b91df6613e",
       "_summary_sha": "4fbddd4fa2f6"
