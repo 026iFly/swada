@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-11T03:36:55.510Z",
+  "fetched_at": "2026-07-11T06:22:58.749Z",
   "items": [
+    {
+      "id": "forum:155625",
+      "source": "Cardano Forum",
+      "title_en": "Can AlphaGrowth Fix Cardano DeFi?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/can-alphagrowth-fix-cardano-defi/155625",
+      "date": "2026-07-11T04:02:50.403Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Kan AlphaGrowth fixa Cardano DeFi?",
+      "summary_sv": "",
+      "_title_sha": "8bb655d025ad",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155622",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano-govemance: Community Discussion Space",
       "summary_sv": "",
       "_title_sha": "cf44c5735afc",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155598",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Governance: A Community Discussion Space",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-governance-a-community-discussion-space/155598",
-      "date": "2026-07-09T14:01:00.073Z",
-      "score": 23,
-      "comments": 3,
-      "title_sv": "Cardano-styrning: Ett gemenskapsdiskussionsutrymme",
-      "summary_sv": "",
-      "_title_sha": "a24d20f74b7a",
       "_summary_sha": ""
     },
     {
