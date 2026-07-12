@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-12T06:42:55.820Z",
+  "fetched_at": "2026-07-12T09:09:28.245Z",
   "items": [
+    {
+      "id": "forum:155656",
+      "source": "Cardano Forum",
+      "title_en": "Midnight tge",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/midnight-tge/155656",
+      "date": "2026-07-12T09:05:28.173Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Midnight tge",
+      "summary_sv": "",
+      "_title_sha": "052823f88b2f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155649",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano till månen | Byggt på vetenskap, drivet av total decentralisering",
       "summary_sv": "",
       "_title_sha": "9d0304301507",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155615",
-      "source": "Cardano Forum",
-      "title_en": "카르다노 확장성, 실전 테스트에 들어가다",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/155615",
-      "date": "2026-07-10T02:14:43.205Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano-skalbarhet går in i praktiska tester",
-      "summary_sv": "",
-      "_title_sha": "75fa8010877f",
       "_summary_sha": ""
     },
     {
