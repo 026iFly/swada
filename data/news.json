@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-12T00:04:36.557Z",
+  "fetched_at": "2026-07-12T03:50:04.832Z",
   "items": [
+    {
+      "id": "forum:155649",
+      "source": "Cardano Forum",
+      "title_en": "🇮🇩 Perangkap Barat dari CIP-1694: Apakah Cardano Membangun Republik Romawi Digital?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/perangkap-barat-dari-cip-1694-apakah-cardano-membangun-republik-romawi-digital/155649",
+      "date": "2026-07-12T01:10:48.993Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "🇸🇪 Västerfängelset från CIP-1694: Bygger Cardano en Digital Romersk Republik?",
+      "summary_sv": "",
+      "_title_sha": "2601829d6046",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155648",
+      "source": "Cardano Forum",
+      "title_en": "🇮🇩 Voltaire’s Voltaire Problem: Bagaimana Aturan Otomatis dalam CIP-1694 Mengancam Ketahanan Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/voltaire-s-voltaire-problem-bagaimana-aturan-otomatis-dalam-cip-1694-mengancam-ketahanan-cardano/155648",
+      "date": "2026-07-12T00:44:43.092Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Voltaire-problemet till Voltaire: Hur automatiska regler i CIP-1694 hotar Cardanos motståndskraft",
+      "summary_sv": "",
+      "_title_sha": "ae60ff262607",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155646",
       "source": "Cardano Forum",
@@ -8,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/first-post-from-beijing-looking-for-cardano-materials-to-share-with-chinese-speaking-friends/155646",
       "date": "2026-07-11T18:08:52.745Z",
-      "score": 1,
-      "comments": 1,
+      "score": 2,
+      "comments": 2,
       "title_sv": "Första inlägget från Beijing — letar efter Cardano-material att dela med kinesisktalande vänner",
       "summary_sv": "",
       "_title_sha": "3f7f09821406",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano-skalbarhet går in i praktiska tester",
       "summary_sv": "",
       "_title_sha": "75fa8010877f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155606",
-      "source": "Cardano Forum",
-      "title_en": "🇮🇩 Ringkasan Komunitas Cardano - 9 Juli 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ringkasan-komunitas-cardano-9-juli-2026/155606",
-      "date": "2026-07-09T23:02:26.002Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "🇸🇪 Sammanfattning av Cardano-gemenskapen - 9 juli 2026",
-      "summary_sv": "",
-      "_title_sha": "d86fc69c2d41",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155604",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING No, no me voy. | CH 9 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-no-no-me-voy-ch-9-jul-2026/155604",
-      "date": "2026-07-09T17:16:03.715Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Nej, jag går inte. | CH 9 jul 2026",
-      "summary_sv": "",
-      "_title_sha": "19ae038c9e22",
       "_summary_sha": ""
     },
     {
