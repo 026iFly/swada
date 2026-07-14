@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-14T15:41:50.037Z",
+  "fetched_at": "2026-07-14T17:23:45.591Z",
   "items": [
+    {
+      "id": "forum:155696",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING RealFi | CH 14 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-realfi-ch-14-jul-2026/155696",
+      "date": "2026-07-14T16:35:04.782Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANISH DUBBING RealFi | CH 14 Jul 2026",
+      "summary_sv": "",
+      "_title_sha": "38089e48fd12",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155695",
+      "source": "Cardano Forum",
+      "title_en": "Ambassador Stories, Journal #49: Andi Schmitt",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ambassador-stories-journal-49-andi-schmitt/155695",
+      "date": "2026-07-14T16:15:02.092Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ambassadörsberättelser, Journal #49: Andi Schmitt",
+      "summary_sv": "",
+      "_title_sha": "0e699fd4b516",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155692",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Midnight tge",
       "summary_sv": "",
       "_title_sha": "052823f88b2f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155649",
-      "source": "Cardano Forum",
-      "title_en": "🇮🇩 Perangkap Barat dari CIP-1694: Apakah Cardano Membangun Republik Romawi Digital?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/perangkap-barat-dari-cip-1694-apakah-cardano-membangun-republik-romawi-digital/155649",
-      "date": "2026-07-12T01:10:48.993Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "🇸🇪 Västerfängelset från CIP-1694: Bygger Cardano en Digital Romersk Republik?",
-      "summary_sv": "",
-      "_title_sha": "2601829d6046",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155648",
-      "source": "Cardano Forum",
-      "title_en": "🇮🇩 Voltaire’s Voltaire Problem: Bagaimana Aturan Otomatis dalam CIP-1694 Mengancam Ketahanan Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/voltaire-s-voltaire-problem-bagaimana-aturan-otomatis-dalam-cip-1694-mengancam-ketahanan-cardano/155648",
-      "date": "2026-07-12T00:44:43.092Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Voltaire-problemet till Voltaire: Hur automatiska regler i CIP-1694 hotar Cardanos motståndskraft",
-      "summary_sv": "",
-      "_title_sha": "ae60ff262607",
       "_summary_sha": ""
     },
     {
