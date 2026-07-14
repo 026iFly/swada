@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-14T06:20:28.231Z",
+  "fetched_at": "2026-07-14T09:13:15.076Z",
   "items": [
+    {
+      "id": "forum:155686",
+      "source": "Cardano Forum",
+      "title_en": "🇮🇩 Mempersiapkan Konstitusi untuk Dijkstra: pembaruan parameter yang akan datang - Input | Output",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/mempersiapkan-konstitusi-untuk-dijkstra-pembaruan-parameter-yang-akan-datang-input-output/155686",
+      "date": "2026-07-14T06:31:13.051Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Förbereder konstitutionen för Dijkstra: kommande parameteruppdateringar - Inmatning | Utmatning",
+      "summary_sv": "",
+      "_title_sha": "a3de8af1f527",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155676",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Första inlägget från Beijing — letar efter Cardano-material att dela med kinesisktalande vänner",
       "summary_sv": "",
       "_title_sha": "3f7f09821406",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155633",
-      "source": "Cardano Forum",
-      "title_en": "Proposal: Incentivizing Stablecoin–ADA Liquidity Growth Through ADA Rewards",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/proposal-incentivizing-stablecoin-ada-liquidity-growth-through-ada-rewards/155633",
-      "date": "2026-07-11T07:00:28.413Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Förslag: Incitament för likviditetsökning mellan Stablecoin–ADA genom ADA-belöningar",
-      "summary_sv": "",
-      "_title_sha": "a9481ab9600d",
       "_summary_sha": ""
     },
     {
