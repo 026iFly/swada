@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-15T14:03:36.548Z",
+  "fetched_at": "2026-07-15T15:43:11.108Z",
   "items": [
+    {
+      "id": "forum:155723",
+      "source": "Cardano Forum",
+      "title_en": "Voltaire Discussion: Why CIP-1694's \"Scale Mismatch\" Will Lead to DRep Oligarchy (It already is enroute)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/voltaire-discussion-why-cip-1694s-scale-mismatch-will-lead-to-drep-oligarchy-it-already-is-enroute/155723",
+      "date": "2026-07-15T15:40:19.535Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Voltaire-diskussion: Varför CIP-1694:s \"Scale Mismatch\" kommer att leda till DRep-oligarki (redan på väg)",
+      "summary_sv": "",
+      "_title_sha": "f6251c9b37d9",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155722",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING repositorio sobre la recuperación de conocimiento cero | CH 14 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-repositorio-sobre-la-recuperacion-de-conocimiento-cero-ch-14-jul-2026/155722",
+      "date": "2026-07-15T14:40:46.554Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBING-repo om återhämtning av nollkunskap | CH 14 jul 2026",
+      "summary_sv": "",
+      "_title_sha": "c203409da1f6",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155721",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Developers Office Hours #69 - Tessera: On-Chain Surveys with CIP-0179 (17 juli)",
       "summary_sv": "",
       "_title_sha": "e2eb8aace589",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155696",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING RealFi | CH 14 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-realfi-ch-14-jul-2026/155696",
-      "date": "2026-07-14T16:35:04.782Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING RealFi | CH 14 Jul 2026",
-      "summary_sv": "",
-      "_title_sha": "38089e48fd12",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155695",
-      "source": "Cardano Forum",
-      "title_en": "Ambassador Stories, Journal #49: Andi Schmitt",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ambassador-stories-journal-49-andi-schmitt/155695",
-      "date": "2026-07-14T16:15:02.092Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Ambassadörsberättelser, Journal #49: Andi Schmitt",
-      "summary_sv": "",
-      "_title_sha": "0e699fd4b516",
       "_summary_sha": ""
     },
     {
