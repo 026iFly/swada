@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-15T11:43:49.914Z",
+  "fetched_at": "2026-07-15T14:03:36.548Z",
   "items": [
+    {
+      "id": "forum:155721",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Projects Showcase || July’s Edition || W/ GameChanger Wallet",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-projects-showcase-july-s-edition-w-gamechanger-wallet/155721",
+      "date": "2026-07-15T13:41:53.943Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-projektvisning || juli-utgåvan || med GameChanger Wallet",
+      "summary_sv": "",
+      "_title_sha": "68275da03334",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155716",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Ambassadörsberättelser, Journal #49: Andi Schmitt",
       "summary_sv": "",
       "_title_sha": "0e699fd4b516",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155692",
-      "source": "Cardano Forum",
-      "title_en": "DR Congo Cardano & Web3 Community Call #3 July 28,2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-web3-community-call-3-july-28-2026/155692",
-      "date": "2026-07-14T13:59:47.980Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "DR Congo Cardano & Web3-communityn och samtal #3 28 juli 2026",
-      "summary_sv": "",
-      "_title_sha": "2534fb83c1db",
       "_summary_sha": ""
     },
     {
