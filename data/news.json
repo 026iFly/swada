@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-16T20:08:12.466Z",
+  "fetched_at": "2026-07-16T22:11:57.926Z",
   "items": [
+    {
+      "id": "forum:155743",
+      "source": "Cardano Forum",
+      "title_en": "Understanding Cardano Consensus: From Proof of Work to Ouroboros",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/understanding-cardano-consensus-from-proof-of-work-to-ouroboros/155743",
+      "date": "2026-07-16T21:55:17.829Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Förstå Cardano-konsensus: Från Proof of Work till Ouroboros",
+      "summary_sv": "",
+      "_title_sha": "3148db018ad5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155740",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano-projektvisning || juli-utgåvan || med GameChanger Wallet",
       "summary_sv": "",
       "_title_sha": "68275da03334",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155716",
-      "source": "Cardano Forum",
-      "title_en": "My Cardano Wallet Was Hit by the SecondFi Incident",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/my-cardano-wallet-was-hit-by-the-secondfi-incident/155716",
-      "date": "2026-07-15T11:13:07.362Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Min Cardano-plånbok drabbades av andraFi-incidenten",
-      "summary_sv": "",
-      "_title_sha": "27a521134b2c",
       "_summary_sha": ""
     },
     {
