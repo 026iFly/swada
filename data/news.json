@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-16T11:48:48.991Z",
+  "fetched_at": "2026-07-16T14:14:56.427Z",
   "items": [
+    {
+      "id": "forum:155739",
+      "source": "Cardano Forum",
+      "title_en": "Governance Incentives Framework: Building Sustainable Compensation Plans for Cardano’s Future",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-incentives-framework-building-sustainable-compensation-plans-for-cardano-s-future/155739",
+      "date": "2026-07-16T13:52:37.615Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Styrningens incitamentsramverk: Bygga hållbara kompensationsplaner för Cardanos framtid",
+      "summary_sv": "",
+      "_title_sha": "26bdb483e758",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155737",
+      "source": "Cardano Forum",
+      "title_en": "Hello Cardano — Anzus from Gem Wallet",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/hello-cardano-anzus-from-gem-wallet/155737",
+      "date": "2026-07-16T13:50:07.185Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Hej Cardano — Anzus från Gem Wallet",
+      "summary_sv": "",
+      "_title_sha": "f7f3254d962e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155730",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Från Hydra Technology till verkliga tillämpningar: Hydra SDK är nu mer produktionsfärdig och AI-tillgänglig",
       "summary_sv": "",
       "_title_sha": "3523694ad213",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155714",
-      "source": "Cardano Forum",
-      "title_en": "Stress Testing the Cardano Treasury: Cost of 100% ADA, Diversification, and Conversion",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/stress-testing-the-cardano-treasury-cost-of-100-ada-diversification-and-conversion/155714",
-      "date": "2026-07-15T10:22:13.681Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Stress-testrättning av Cardano Treasury: kostnad för 100% ADA, diversifiering och omvandling",
-      "summary_sv": "",
-      "_title_sha": "4ab9a96701fe",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155713",
-      "source": "Cardano Forum",
-      "title_en": "The Hype Cycle is Over, Welcome to the Era of Utility. Why Cardano is Just Getting Started",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-hype-cycle-is-over-welcome-to-the-era-of-utility-why-cardano-is-just-getting-started/155713",
-      "date": "2026-07-15T08:45:30.464Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Hype-cykeln är över, välkommen till nyttan-eran. Varför Cardano precis har börjat",
-      "summary_sv": "",
-      "_title_sha": "c524c2d349d2",
       "_summary_sha": ""
     },
     {
