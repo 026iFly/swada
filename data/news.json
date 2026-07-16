@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-16T06:27:25.421Z",
+  "fetched_at": "2026-07-16T09:22:00.031Z",
   "items": [
+    {
+      "id": "forum:155730",
+      "source": "Cardano Forum",
+      "title_en": "Don't Let Your ADA Sleep: Why Participation Matters",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dont-let-your-ada-sleep-why-participation-matters/155730",
+      "date": "2026-07-16T07:15:26.921Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Låt inte din ADA sova: Varför deltagande är viktigt",
+      "summary_sv": "",
+      "_title_sha": "9fdd724f96b3",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155723",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Hype-cykeln är över, välkommen till nyttan-eran. Varför Cardano precis har börjat",
       "summary_sv": "",
       "_title_sha": "c524c2d349d2",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155712",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #69 - Tessera: On-Chain Surveys with CIP-0179 (17 July)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-69-tessera-on-chain-surveys-with-cip-0179-17-july/155712",
-      "date": "2026-07-15T07:50:55.551Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Developers Office Hours #69 - Tessera: On-Chain Surveys with CIP-0179 (17 juli)",
-      "summary_sv": "",
-      "_title_sha": "e2eb8aace589",
       "_summary_sha": ""
     },
     {
