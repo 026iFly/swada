@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-16T14:14:56.427Z",
+  "fetched_at": "2026-07-16T16:37:02.070Z",
   "items": [
+    {
+      "id": "forum:155740",
+      "source": "Cardano Forum",
+      "title_en": "IOR Cardano Vision Work Program 2026: Mid-Year report (Draft)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ior-cardano-vision-work-program-2026-mid-year-report-draft/155740",
+      "date": "2026-07-16T15:38:30.501Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "IOR Cardano Vision Work Program 2026: Mittenårsrapport (Utkast)",
+      "summary_sv": "",
+      "_title_sha": "8a923b8b264f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155739",
       "source": "Cardano Forum",
@@ -23,7 +37,7 @@
       "url": "https://forum.cardano.org/t/hello-cardano-anzus-from-gem-wallet/155737",
       "date": "2026-07-16T13:50:07.185Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Hej Cardano — Anzus från Gem Wallet",
       "summary_sv": "",
       "_title_sha": "f7f3254d962e",
@@ -97,20 +111,6 @@
       "title_sv": "Min Cardano-plånbok drabbades av andraFi-incidenten",
       "summary_sv": "",
       "_title_sha": "27a521134b2c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155715",
-      "source": "Cardano Forum",
-      "title_en": "From Hydra Technology to Real Applications: Hydra SDK Is Now More Production-Ready and AI-Accessible",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/from-hydra-technology-to-real-applications-hydra-sdk-is-now-more-production-ready-and-ai-accessible/155715",
-      "date": "2026-07-15T10:45:26.970Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Från Hydra Technology till verkliga tillämpningar: Hydra SDK är nu mer produktionsfärdig och AI-tillgänglig",
-      "summary_sv": "",
-      "_title_sha": "3523694ad213",
       "_summary_sha": ""
     },
     {
