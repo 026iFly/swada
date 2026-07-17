@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-17T00:07:57.786Z",
+  "fetched_at": "2026-07-17T04:16:47.262Z",
   "items": [
+    {
+      "id": "forum:155745",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Blockfrost | CH 16 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-blockfrost-ch-16-jul-2026/155745",
+      "date": "2026-07-17T02:14:09.282Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANISH DUBBING Blockfrost | CH 16 Jul 2026",
+      "summary_sv": "",
+      "_title_sha": "6743969f21cb",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155743",
       "source": "Cardano Forum",
@@ -50,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/hello-cardano-anzus-from-gem-wallet/155737",
       "date": "2026-07-16T13:50:07.185Z",
-      "score": 0,
-      "comments": 1,
+      "score": 1,
+      "comments": 2,
       "title_sv": "Hej Cardano — Anzus från Gem Wallet",
       "summary_sv": "",
       "_title_sha": "f7f3254d962e",
@@ -65,7 +79,7 @@
       "url": "https://forum.cardano.org/t/dont-let-your-ada-sleep-why-participation-matters/155730",
       "date": "2026-07-16T07:15:26.921Z",
       "score": 1,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Låt inte din ADA sova: Varför deltagande är viktigt",
       "summary_sv": "",
       "_title_sha": "9fdd724f96b3",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSK DUBBING-repo om återhämtning av nollkunskap | CH 14 jul 2026",
       "summary_sv": "",
       "_title_sha": "c203409da1f6",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155721",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Projects Showcase || July’s Edition || W/ GameChanger Wallet",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-projects-showcase-july-s-edition-w-gamechanger-wallet/155721",
-      "date": "2026-07-15T13:41:53.943Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano-projektvisning || juli-utgåvan || med GameChanger Wallet",
-      "summary_sv": "",
-      "_title_sha": "68275da03334",
       "_summary_sha": ""
     },
     {
