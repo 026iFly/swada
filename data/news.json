@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-17T07:25:32.477Z",
+  "fetched_at": "2026-07-17T10:07:32.867Z",
   "items": [
+    {
+      "id": "forum:155752",
+      "source": "Cardano Forum",
+      "title_en": "Fund transfer from lace wallet to exchange",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/fund-transfer-from-lace-wallet-to-exchange/155752",
+      "date": "2026-07-17T09:39:43.436Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Överföring av medel från Lace-wallet till börs",
+      "summary_sv": "",
+      "_title_sha": "84b3d44304b5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155749",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-has-the-tech-so-why-is-everyone-else-winning-deals/155749",
       "date": "2026-07-17T06:33:54.205Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Cardano har tekniken. Så varför vinner alla andra affärer?",
       "summary_sv": "",
@@ -37,7 +51,7 @@
       "url": "https://forum.cardano.org/t/understanding-cardano-consensus-from-proof-of-work-to-ouroboros/155743",
       "date": "2026-07-16T21:55:17.829Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Förstå Cardano-konsensus: Från Proof of Work till Ouroboros",
       "summary_sv": "",
       "_title_sha": "3148db018ad5",
@@ -97,20 +111,6 @@
       "title_sv": "Låt inte din ADA sova: Varför deltagande är viktigt",
       "summary_sv": "",
       "_title_sha": "9fdd724f96b3",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155723",
-      "source": "Cardano Forum",
-      "title_en": "Voltaire Discussion: Why CIP-1694's \"Scale Mismatch\" Will Lead to DRep Oligarchy (It already is enroute)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/voltaire-discussion-why-cip-1694s-scale-mismatch-will-lead-to-drep-oligarchy-it-already-is-enroute/155723",
-      "date": "2026-07-15T15:40:19.535Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Voltaire-diskussion: Varför CIP-1694:s \"Scale Mismatch\" kommer att leda till DRep-oligarki (redan på väg)",
-      "summary_sv": "",
-      "_title_sha": "f6251c9b37d9",
       "_summary_sha": ""
     },
     {
