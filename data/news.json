@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-17T04:16:47.262Z",
+  "fetched_at": "2026-07-17T07:25:32.477Z",
   "items": [
+    {
+      "id": "forum:155749",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Has the Tech. So Why Is Everyone Else Winning Deals?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-has-the-tech-so-why-is-everyone-else-winning-deals/155749",
+      "date": "2026-07-17T06:33:54.205Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano har tekniken. Så varför vinner alla andra affärer?",
+      "summary_sv": "",
+      "_title_sha": "65b98c9c0438",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155745",
       "source": "Cardano Forum",
@@ -79,7 +93,7 @@
       "url": "https://forum.cardano.org/t/dont-let-your-ada-sleep-why-participation-matters/155730",
       "date": "2026-07-16T07:15:26.921Z",
       "score": 1,
-      "comments": 1,
+      "comments": 2,
       "title_sv": "Låt inte din ADA sova: Varför deltagande är viktigt",
       "summary_sv": "",
       "_title_sha": "9fdd724f96b3",
@@ -97,20 +111,6 @@
       "title_sv": "Voltaire-diskussion: Varför CIP-1694:s \"Scale Mismatch\" kommer att leda till DRep-oligarki (redan på väg)",
       "summary_sv": "",
       "_title_sha": "f6251c9b37d9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155722",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING repositorio sobre la recuperación de conocimiento cero | CH 14 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-repositorio-sobre-la-recuperacion-de-conocimiento-cero-ch-14-jul-2026/155722",
-      "date": "2026-07-15T14:40:46.554Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBING-repo om återhämtning av nollkunskap | CH 14 jul 2026",
-      "summary_sv": "",
-      "_title_sha": "c203409da1f6",
       "_summary_sha": ""
     },
     {
