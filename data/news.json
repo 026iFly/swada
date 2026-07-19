@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-19T09:10:55.861Z",
+  "fetched_at": "2026-07-19T11:17:47.675Z",
   "items": [
+    {
+      "id": "forum:155783",
+      "source": "Cardano Forum",
+      "title_en": "Recover of Eternl wallet",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/recover-of-eternl-wallet/155783",
+      "date": "2026-07-19T09:55:23.283Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Återställning av Eternl-plånbok",
+      "summary_sv": "",
+      "_title_sha": "20d5d855ecb4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155779",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Förstå Cardano-konsensus: Från Proof of Work till Ouroboros",
       "summary_sv": "",
       "_title_sha": "3148db018ad5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155740",
-      "source": "Cardano Forum",
-      "title_en": "IOR Cardano Vision Work Program 2026: Mid-Year report (Draft)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ior-cardano-vision-work-program-2026-mid-year-report-draft/155740",
-      "date": "2026-07-16T15:38:30.501Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "IOR Cardano Vision Work Program 2026: Mittenårsrapport (Utkast)",
-      "summary_sv": "",
-      "_title_sha": "8a923b8b264f",
       "_summary_sha": ""
     },
     {
