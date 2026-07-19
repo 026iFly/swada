@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-19T00:02:22.101Z",
+  "fetched_at": "2026-07-19T03:42:27.097Z",
   "items": [
+    {
+      "id": "forum:155779",
+      "source": "Cardano Forum",
+      "title_en": "Je n'ai pas attendu de devenir quoi que ce soit pour commencer à contribuer à l'expansion et à l'adoption de Cardano en République Démocratique du Congo",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/je-nai-pas-attendu-de-devenir-quoi-que-ce-soit-pour-commencer-a-contribuer-a-lexpansion-et-a-ladoption-de-cardano-en-republique-democratique-du-congo/155779",
+      "date": "2026-07-19T03:07:45.462Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Jag har inte väntat på att bli något för att börja bidra till Cardanos utbredning och antagande i Demokratiska republiken Kongo.",
+      "summary_sv": "",
+      "_title_sha": "f415b3c7b0f1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155777",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "IOR Cardano Vision Work Program 2026: Mittenårsrapport (Utkast)",
       "summary_sv": "",
       "_title_sha": "8a923b8b264f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155739",
-      "source": "Cardano Forum",
-      "title_en": "Governance Incentives Framework: Building Sustainable Compensation Plans for Cardano’s Future",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-incentives-framework-building-sustainable-compensation-plans-for-cardano-s-future/155739",
-      "date": "2026-07-16T13:52:37.615Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Styrningens incitamentsramverk: Bygga hållbara kompensationsplaner för Cardanos framtid",
-      "summary_sv": "",
-      "_title_sha": "26bdb483e758",
       "_summary_sha": ""
     },
     {
