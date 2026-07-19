@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T11:17:47.675Z",
+  "fetched_at": "2026-07-19T13:45:39.185Z",
   "items": [
     {
       "id": "forum:155783",
@@ -9,7 +9,7 @@
       "url": "https://forum.cardano.org/t/recover-of-eternl-wallet/155783",
       "date": "2026-07-19T09:55:23.283Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Återställning av Eternl-plånbok",
       "summary_sv": "",
       "_title_sha": "20d5d855ecb4",
@@ -78,7 +78,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-has-the-tech-so-why-is-everyone-else-winning-deals/155749",
       "date": "2026-07-17T06:33:54.205Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Cardano har tekniken. Så varför vinner alla andra affärer?",
       "summary_sv": "",
