@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-20T11:09:42.875Z",
+  "fetched_at": "2026-07-20T14:27:44.021Z",
   "items": [
+    {
+      "id": "forum:155799",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Blockchain, IA y el Mundo que Estamos Construyendo | CF 18 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-blockchain-ia-y-el-mundo-que-estamos-construyendo-cf-18-jun-2026/155799",
+      "date": "2026-07-20T14:22:31.191Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANISH DUBBING Blockchain, IA y el Mundo que Estamos Construyendo | CF 18 Jun 2026\"",
+      "summary_sv": "",
+      "_title_sha": "f274b9c2bbe4",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155794",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #70 - Beyond DNS: Decentralized Naming with cDNSd (24 July)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-70-beyond-dns-decentralized-naming-with-cdnsd-24-july/155794",
+      "date": "2026-07-20T12:35:32.929Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Utvecklarnas kontorstider #70 - Beyond DNS: Decentralized Naming with cDNSd (24 juli)",
+      "summary_sv": "",
+      "_title_sha": "325fedc53f6e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155789",
       "source": "Cardano Forum",
@@ -8,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/i-m-cristian-rojas-i-m-building-kaltik-a-traceability-platform-where-every-step-of-the-supply-chain-becomes-a-verifiable-on-chain-record/155789",
       "date": "2026-07-20T02:21:56.645Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Jag är Cristian Rojas, jag bygger K'altik, en spårbarhetsplattform där varje steg i leveranskedjan blir en verifierbar on-chain post.",
       "summary_sv": "",
@@ -64,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/governance-hour-9-daedalus-wallet-maintenance-and-improvements-2026-2027-22-july/155757",
       "date": "2026-07-17T12:53:34.280Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Styrelsestunden #9 - Daedalus-plånbok underhåll och förbättringar 2026-2027 (22 juli)",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "Överföring av medel från Lace-wallet till börs",
       "summary_sv": "",
       "_title_sha": "84b3d44304b5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155749",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Has the Tech. So Why Is Everyone Else Winning Deals?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-has-the-tech-so-why-is-everyone-else-winning-deals/155749",
-      "date": "2026-07-17T06:33:54.205Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Cardano har tekniken. Så varför vinner alla andra affärer?",
-      "summary_sv": "",
-      "_title_sha": "65b98c9c0438",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155745",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Blockfrost | CH 16 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-blockfrost-ch-16-jul-2026/155745",
-      "date": "2026-07-17T02:14:09.282Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING Blockfrost | CH 16 Jul 2026",
-      "summary_sv": "",
-      "_title_sha": "6743969f21cb",
       "_summary_sha": ""
     },
     {
