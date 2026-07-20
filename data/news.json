@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-20T00:06:57.796Z",
+  "fetched_at": "2026-07-20T03:59:18.700Z",
   "items": [
+    {
+      "id": "forum:155789",
+      "source": "Cardano Forum",
+      "title_en": "I´m Cristian Rojas, I´m building K'altik, a traceability platform where every step of the supply chain becomes a verifiable on-chain record",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/i-m-cristian-rojas-i-m-building-kaltik-a-traceability-platform-where-every-step-of-the-supply-chain-becomes-a-verifiable-on-chain-record/155789",
+      "date": "2026-07-20T02:21:56.645Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Jag är Cristian Rojas, jag bygger K'altik, en spårbarhetsplattform där varje steg i leveranskedjan blir en verifierbar on-chain post.",
+      "summary_sv": "",
+      "_title_sha": "a52f928239db",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155783",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANISH DUBBING Blockfrost | CH 16 Jul 2026",
       "summary_sv": "",
       "_title_sha": "6743969f21cb",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155743",
-      "source": "Cardano Forum",
-      "title_en": "Understanding Cardano Consensus: From Proof of Work to Ouroboros",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/understanding-cardano-consensus-from-proof-of-work-to-ouroboros/155743",
-      "date": "2026-07-16T21:55:17.829Z",
-      "score": 0,
-      "comments": 1,
-      "title_sv": "Förstå Cardano-konsensus: Från Proof of Work till Ouroboros",
-      "summary_sv": "",
-      "_title_sha": "3148db018ad5",
       "_summary_sha": ""
     },
     {
