@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-21T00:05:04.350Z",
+  "fetched_at": "2026-07-21T03:37:30.687Z",
   "items": [
+    {
+      "id": "forum:155806",
+      "source": "Cardano Forum",
+      "title_en": "Zivana Protocol: Phase 0 Complete: Building Trust Infrastructure for the African Informal Economy on Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/zivana-protocol-phase-0-complete-building-trust-infrastructure-for-the-african-informal-economy-on-cardano/155806",
+      "date": "2026-07-21T02:36:04.806Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Zivana Protocol: Fas 0 fullbordad: Bygga förtroendestruktur för den afrikanska informella ekonomin på Cardano",
+      "summary_sv": "",
+      "_title_sha": "748e766a641b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155799",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Styrelsestunden #9 - Daedalus-plånbok underhåll och förbättringar 2026-2027 (22 juli)",
       "summary_sv": "",
       "_title_sha": "79ea27464530",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155752",
-      "source": "Cardano Forum",
-      "title_en": "Fund transfer from lace wallet to exchange",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/fund-transfer-from-lace-wallet-to-exchange/155752",
-      "date": "2026-07-17T09:39:43.436Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Överföring av medel från Lace-wallet till börs",
-      "summary_sv": "",
-      "_title_sha": "84b3d44304b5",
       "_summary_sha": ""
     },
     {
