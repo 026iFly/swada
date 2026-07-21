@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T06:37:42.035Z",
+  "fetched_at": "2026-07-21T09:33:16.306Z",
   "items": [
     {
       "id": "forum:155809",
@@ -38,7 +38,7 @@
       "date": "2026-07-21T05:53:37.799Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": "Van Rossem hård-första? Hmm. The phrase \"하드포크 완료\" Korean means \"hard fork completed\". The first part \"Van Rossem\" seems a name. So translate: \"Van Rossem hård-fork genomförd\" or \"Van Rossem hårdford\"? In Swedish proper: \"Van Rossem hårdfar.. Actually term: \"hård-fork\" in Swedish is \"hård fork\" or \"hårdfriv\"? Common: \"hård fork\" as two words. And \"completed\" = \"genomförd\" or \"slutförd\". So full: \"Van Rossem hård fork genomförd\" but Swedish would be \"Van Rossem har genomförd en hård fork\"? Grammatically: \"Van Rossem har genomfört en hård fork.\" But given imperative style? The original: \"Van Rossem 하드포크 완료\" equals \"Van Rossem hard fork completed.\" So best: \"Van Rossem: hård fork genomförd.\" But we should produce a proper sentence: \"Van Rossem har genomfört en hård fork.\" Let's output: \"Van Rossem har genomfört en hård fork.\" Ensure no extra commentary.",
       "summary_sv": "",
       "_title_sha": "d81dac7d5a9e",
       "_summary_sha": ""
