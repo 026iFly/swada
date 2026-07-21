@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-21T11:55:50.269Z",
+  "fetched_at": "2026-07-21T14:16:02.063Z",
   "items": [
+    {
+      "id": "forum:155823",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Breve actualización sobre WanChain | CH 20 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-breve-actualizacion-sobre-wanchain-ch-20-jul-2026/155823",
+      "date": "2026-07-21T13:43:09.940Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Kort uppdatering om WanChain | CH 20 jul 2026",
+      "summary_sv": "",
+      "_title_sha": "a39bca37cee0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155814",
       "source": "Cardano Forum",
@@ -9,7 +23,7 @@
       "url": "https://forum.cardano.org/t/the-blockfrost-vote-operational-reality-vs-ideological-treasury-preservation/155814",
       "date": "2026-07-21T10:36:51.041Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Blockfrost-omröstningen: Operativ verklighet vs. idébaserad treasury-bevarande",
       "summary_sv": "",
       "_title_sha": "edb8b7ad24fc",
@@ -97,20 +111,6 @@
       "title_sv": "Utvecklarnas kontorstider #70 - Beyond DNS: Decentralized Naming with cDNSd (24 juli)",
       "summary_sv": "",
       "_title_sha": "325fedc53f6e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155789",
-      "source": "Cardano Forum",
-      "title_en": "I´m Cristian Rojas, I´m building K'altik, a traceability platform where every step of the supply chain becomes a verifiable on-chain record",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/i-m-cristian-rojas-i-m-building-kaltik-a-traceability-platform-where-every-step-of-the-supply-chain-becomes-a-verifiable-on-chain-record/155789",
-      "date": "2026-07-20T02:21:56.645Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Jag är Cristian Rojas, jag bygger K'altik, en spårbarhetsplattform där varje steg i leveranskedjan blir en verifierbar on-chain post.",
-      "summary_sv": "",
-      "_title_sha": "a52f928239db",
       "_summary_sha": ""
     },
     {
