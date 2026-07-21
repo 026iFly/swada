@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-21T09:33:16.306Z",
+  "fetched_at": "2026-07-21T11:55:50.269Z",
   "items": [
+    {
+      "id": "forum:155814",
+      "source": "Cardano Forum",
+      "title_en": "The Blockfrost Vote: Operational Reality vs. Ideological Treasury Preservation",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-blockfrost-vote-operational-reality-vs-ideological-treasury-preservation/155814",
+      "date": "2026-07-21T10:36:51.041Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Blockfrost-omröstningen: Operativ verklighet vs. idébaserad treasury-bevarande",
+      "summary_sv": "",
+      "_title_sha": "edb8b7ad24fc",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155809",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/515m-night-moved-wanchain-bridge-incident/155809",
       "date": "2026-07-21T06:33:23.534Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "515M NIGHT Flyttad: Wanchain Bridge-incidenten",
       "summary_sv": "",
       "_title_sha": "3fa086eda3bd",
@@ -97,20 +111,6 @@
       "title_sv": "Jag är Cristian Rojas, jag bygger K'altik, en spårbarhetsplattform där varje steg i leveranskedjan blir en verifierbar on-chain post.",
       "summary_sv": "",
       "_title_sha": "a52f928239db",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155783",
-      "source": "Cardano Forum",
-      "title_en": "Recover of Eternl wallet",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/recover-of-eternl-wallet/155783",
-      "date": "2026-07-19T09:55:23.283Z",
-      "score": 1,
-      "comments": 3,
-      "title_sv": "Återställning av Eternl-plånbok",
-      "summary_sv": "",
-      "_title_sha": "20d5d855ecb4",
       "_summary_sha": ""
     },
     {
