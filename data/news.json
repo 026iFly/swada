@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-22T14:17:36.756Z",
+  "fetched_at": "2026-07-22T16:38:45.959Z",
   "items": [
+    {
+      "id": "forum:155846",
+      "source": "Cardano Forum",
+      "title_en": "The Chokehold of the Cartel: Deconstructing the Sea Shell Era of Token Inflation",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-chokehold-of-the-cartel-deconstructing-the-sea-shell-era-of-token-inflation/155846",
+      "date": "2026-07-22T14:36:32.879Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Klibbiga kartellen: De-konstruera havsskal-epoken av tokeninflation",
+      "summary_sv": "",
+      "_title_sha": "489f06d7209d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155844",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Van Rossem hård-första? Hmm. The phrase \"하드포크 완료\" Korean means \"hard fork completed\". The first part \"Van Rossem\" seems a name. So translate: \"Van Rossem hård-fork genomförd\" or \"Van Rossem hårdford\"? In Swedish proper: \"Van Rossem hårdfar.. Actually term: \"hård-fork\" in Swedish is \"hård fork\" or \"hårdfriv\"? Common: \"hård fork\" as two words. And \"completed\" = \"genomförd\" or \"slutförd\". So full: \"Van Rossem hård fork genomförd\" but Swedish would be \"Van Rossem har genomförd en hård fork\"? Grammatically: \"Van Rossem har genomfört en hård fork.\" But given imperative style? The original: \"Van Rossem 하드포크 완료\" equals \"Van Rossem hard fork completed.\" So best: \"Van Rossem: hård fork genomförd.\" But we should produce a proper sentence: \"Van Rossem har genomfört en hård fork.\" Let's output: \"Van Rossem har genomfört en hård fork.\" Ensure no extra commentary.",
       "summary_sv": "",
       "_title_sha": "d81dac7d5a9e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155806",
-      "source": "Cardano Forum",
-      "title_en": "Zivana Protocol: Phase 0 Complete: Building Trust Infrastructure for the African Informal Economy on Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/zivana-protocol-phase-0-complete-building-trust-infrastructure-for-the-african-informal-economy-on-cardano/155806",
-      "date": "2026-07-21T02:36:04.806Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Zivana Protocol: Fas 0 fullbordad: Bygga förtroendestruktur för den afrikanska informella ekonomin på Cardano",
-      "summary_sv": "",
-      "_title_sha": "748e766a641b",
       "_summary_sha": ""
     },
     {
