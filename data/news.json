@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T09:33:34.559Z",
+  "fetched_at": "2026-07-22T11:58:12.240Z",
   "items": [
     {
       "id": "forum:155823",
@@ -22,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/the-blockfrost-vote-operational-reality-vs-ideological-treasury-preservation/155814",
       "date": "2026-07-21T10:36:51.041Z",
-      "score": 0,
+      "score": 1,
       "comments": 2,
       "title_sv": "Blockfrost-omröstningen: Operativ verklighet vs. idébaserad treasury-bevarande",
       "summary_sv": "",
@@ -106,7 +106,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/developers-office-hours-70-beyond-dns-decentralized-naming-with-cdnsd-24-july/155794",
       "date": "2026-07-20T12:35:32.929Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Utvecklarnas kontorstider #70 - Beyond DNS: Decentralized Naming with cDNSd (24 juli)",
       "summary_sv": "",
