@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-22T11:58:12.240Z",
+  "fetched_at": "2026-07-22T14:17:36.756Z",
   "items": [
+    {
+      "id": "forum:155844",
+      "source": "Cardano Forum",
+      "title_en": "🇮🇩 Apa yang IO Deliver untuk Cardano di Q2 2026?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/apa-yang-io-deliver-untuk-cardano-di-q2-2026/155844",
+      "date": "2026-07-22T13:14:56.959Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Vad gör IO Deliver för Cardano under Q2 2026?",
+      "summary_sv": "",
+      "_title_sha": "e774d1896e8c",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155842",
+      "source": "Cardano Forum",
+      "title_en": "Digest July 22, 2026: Van Rossem Hard Fork Activates | Constitutional Committee Election | Cardano Foundation Updates | Cardano Improvement Proposals (CIP) Updates | Spotlight on Learn Cardano & Linda",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-july-22-2026-van-rossem-hard-fork-activates-constitutional-committee-election-cardano-foundation-updates-cardano-improvement-proposals-cip-updates-spotlight-on-learn-cardano-linda/155842",
+      "date": "2026-07-22T12:09:04.001Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Digest 22 juli 2026: Van Rossem Hard Fork aktiveras | Konstitutionell kommittéval | Cardano Foundation-uppdateringar | Cardano Improvement Proposals (CIP) uppdateringar | Spotlight på Learn Cardano & Linda",
+      "summary_sv": "",
+      "_title_sha": "30a6aa0a6b45",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155823",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Zivana Protocol: Fas 0 fullbordad: Bygga förtroendestruktur för den afrikanska informella ekonomin på Cardano",
       "summary_sv": "",
       "_title_sha": "748e766a641b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155799",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Blockchain, IA y el Mundo que Estamos Construyendo | CF 18 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-blockchain-ia-y-el-mundo-que-estamos-construyendo-cf-18-jun-2026/155799",
-      "date": "2026-07-20T14:22:31.191Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING Blockchain, IA y el Mundo que Estamos Construyendo | CF 18 Jun 2026\"",
-      "summary_sv": "",
-      "_title_sha": "f274b9c2bbe4",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155794",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #70 - Beyond DNS: Decentralized Naming with cDNSd (24 July)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-70-beyond-dns-decentralized-naming-with-cdnsd-24-july/155794",
-      "date": "2026-07-20T12:35:32.929Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Utvecklarnas kontorstider #70 - Beyond DNS: Decentralized Naming with cDNSd (24 juli)",
-      "summary_sv": "",
-      "_title_sha": "325fedc53f6e",
       "_summary_sha": ""
     },
     {
