@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-22T16:38:45.959Z",
+  "fetched_at": "2026-07-22T18:17:34.145Z",
   "items": [
+    {
+      "id": "forum:155848",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Volver a Poner los Puentes en Marcha | CH 21 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-volver-a-poner-los-puentes-en-marcha-ch-21-jul-2026/155848",
+      "date": "2026-07-22T17:40:58.039Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "ÅTER SÄTTA BROARNA I RÖRELSE | CH 21 jul 2026",
+      "summary_sv": "",
+      "_title_sha": "f0e081f9e91d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155846",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "RealFi fas 1 testnät release — nya stablecoin-experiment kopplat till RWA börjar",
       "summary_sv": "",
       "_title_sha": "a0000fb9291f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155807",
-      "source": "Cardano Forum",
-      "title_en": "Van Rossem 하드포크 완료",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/van-rossem/155807",
-      "date": "2026-07-21T05:53:37.799Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Van Rossem hård-första? Hmm. The phrase \"하드포크 완료\" Korean means \"hard fork completed\". The first part \"Van Rossem\" seems a name. So translate: \"Van Rossem hård-fork genomförd\" or \"Van Rossem hårdford\"? In Swedish proper: \"Van Rossem hårdfar.. Actually term: \"hård-fork\" in Swedish is \"hård fork\" or \"hårdfriv\"? Common: \"hård fork\" as two words. And \"completed\" = \"genomförd\" or \"slutförd\". So full: \"Van Rossem hård fork genomförd\" but Swedish would be \"Van Rossem har genomförd en hård fork\"? Grammatically: \"Van Rossem har genomfört en hård fork.\" But given imperative style? The original: \"Van Rossem 하드포크 완료\" equals \"Van Rossem hard fork completed.\" So best: \"Van Rossem: hård fork genomförd.\" But we should produce a proper sentence: \"Van Rossem har genomfört en hård fork.\" Let's output: \"Van Rossem har genomfört en hård fork.\" Ensure no extra commentary.",
-      "summary_sv": "",
-      "_title_sha": "d81dac7d5a9e",
       "_summary_sha": ""
     },
     {
