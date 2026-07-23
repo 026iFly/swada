@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-07-23T15:20:54.885Z",
+  "fetched_at": "2026-07-23T17:41:21.290Z",
   "items": [
+    {
+      "id": "gov:gov_action1fzatpjn3e3r09mjzzfptznef9wxg8q4a5uraq04xvfjyhmfzhzfsqqgfc9h",
+      "proposal_id": "gov_action1fzatpjn3e3r09mjzzfptznef9wxg8q4a5uraq04xvfjyhmfzhzfsqqgfc9h",
+      "type": "InfoAction",
+      "proposed_epoch": 644,
+      "expiration_epoch": 651,
+      "title_en": "Name the Protocol Version 12 hard fork “von Bergen“",
+      "summary_en": "This info action proposes naming the Protocol Version 12 hard fork “von Bergen” as a salute and recognition to Fabian von Bergen, also known as Zyroxa.\n\nFabian has been a Cardano community member since the ITN, an always critical, honest and sound voice in Cardano's past who introduced and guided many through the Cardano ecosystem, a well known person on the Cardano Forum, also SPO of the Tempus Stake Pool and a Cardano Ambassador since the earliest days of the program.",
+      "url": "https://gov.tools/governance_actions/gov_action1fzatpjn3e3r09mjzzfptznef9wxg8q4a5uraq04xvfjyhmfzhzfsqqgfc9h",
+      "block_time": "2026-07-23T15:57:02.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Namnge Protocol Version 12-hard forken “von Bergen”",
+      "summary_sv": "Denna informationsåtgärd föreslår att namnge Protocol Version 12-hårdskiftet “von Bergen” som en hyllning och erkännande till Fabian von Bergen, även känd som Zyroxa.\n\nFabian har varit medlem i Cardano-samhället sedan ITN, en alltid kritisk, ärlig och sund röst i Cardanos förflutna som introducerade och vägledde många genom Cardano-ekosystemet, en välkänd person på Cardano Forum, även SPO för Tempus Stake Pool och Cardano-ambassadör sedan programmets tidigaste dagar.",
+      "_title_sha": "06f6be44b3b7",
+      "_summary_sha": "b799cf6838c0"
+    },
     {
       "id": "gov:gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
       "proposal_id": "gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
@@ -32,22 +48,6 @@
       "summary_sv": "Detta förslag syftar till att etablera en oberoende enhet som ägnar sig åt att förvalta öppen källkods hållbarhetsfonder för Cardano-ekosystemet. DAOs och traditionella stiftelser är ofta allt för sårbara för politisk påverkan, saknar genomförandekraft och kan bli centraliserade på sätt som förvränger utfall baserat på interna politiska frågor. Dessa problem kan undergräva prioriteringar och försvaga långsiktiga initiativ.  \nFör att ta itu med dessa problem föreslår jag en skräddarsydd oberoende struktur — en genomförandefunktion, inte en verkställande sådan. Detta program har ett enkelt, tydligt definierat syfte faststäljt i stadgan, och t",
       "_title_sha": "55d2828307a5",
       "_summary_sha": "0860d0479b43"
-    },
-    {
-      "id": "gov:gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
-      "proposal_id": "gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 640,
-      "expiration_epoch": 647,
-      "title_en": "Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet (Phase 1 of 2)",
-      "summary_en": "Bitcoin is the largest pool of capital in crypto, yet most BTC still sits outside DeFi because moving it off the Bitcoin base layer still requires security trade-offs many holders are not willing to accept. Cardano is structurally well suited for Bitcoin DeFi, but it lacks the secure BTC rail needed to compete for that liquidity.\n\nBifrost is designed to provide that rail: a permissionless Bitcoin-Cardano bridge secured by Cardano’s existing SPO ecosystem that brings BTC onto Cardano as a native Cardano asset that applications can integrate into trading, lending, collateral, and other financial",
-      "url": "https://gov.tools/governance_actions/gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
-      "block_time": "2026-07-03T19:20:39.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Bifrost: Låsa upp Bitcoin DeFi på Cardano — Vägen till mainnet (fas 1 av 2)",
-      "summary_sv": "Bitcoin är den största kapitalpoolen inom krypto, men mesta BTC ligger fortfarande utanför DeFi eftersom flyttningen av den från Bitcoin-noden fortfarande kräver säkerhetsavvägningar som många innehavare inte är villiga att acceptera. Cardano är strukturellt väl lämpad för Bitcoin DeFi, men saknar den säkra BTC-rail som behövs för att konkurrera om likviditeten.\n\nBifrost är utformat för att tillhandahålla den railen: en permissionless Bitcoin-Cardano-bro som skyddas av Cardanos befintliga SPO-ekosystem och som för BTC till Cardano som en inhemsk Cardano-asset som applikationer kan integrera i handel, utlåning, säkerheter och andra finansiella funktioner",
-      "_title_sha": "73ea6dcd5f55",
-      "_summary_sha": "5400c2b71a57"
     },
     {
       "id": "gov:gov_action1cpnqmlgpkz3dnwnm4spqzsmsp93y9mr4vqcm2ltcpqyyf7a7nszsq4h586r",
@@ -98,20 +98,20 @@
       "_summary_sha": "8b99a752b37f"
     },
     {
-      "id": "gov:gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
-      "proposal_id": "gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
+      "id": "gov:gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
+      "proposal_id": "gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
       "type": "TreasuryWithdrawals",
-      "proposed_epoch": 639,
-      "expiration_epoch": 646,
-      "title_en": "Se7en Labs: Daedalus Wallet Maintenance and Improvements 2026-2027",
-      "summary_en": "This Treasury Withdrawal funds Daedalus Wallet Maintenance and Improvements\n2026–2027, delivered by Se7en Labs, Inc.\n\nDaedalus is Cardano's only full-node desktop wallet — it runs an embedded\nCardano node and derives all wallet and governance data directly from the\nchain, with no third-party APIs or trusted backends. Because it participates\nin P2P networking and maintains its own local mempool, Daedalus transactions\ncompete for block inclusion on equal footing with full-node participants,\nproviding reliable submission even under high chain utilisation where lite\nwallets can fail for hours.\n\nDa",
-      "url": "https://gov.tools/governance_actions/gov_action1mr0qdz2jmagvsch6r08fhqvq6vu8jakt4c8m9s7ea7z0p740vntqq4yjd6j",
-      "block_time": "2026-06-24T21:25:59.000Z",
+      "proposed_epoch": 640,
+      "expiration_epoch": 647,
+      "title_en": "Bifrost: Unlocking Bitcoin DeFi on Cardano — Road to Mainnet (Phase 1 of 2)",
+      "summary_en": "Bitcoin is the largest pool of capital in crypto, yet most BTC still sits outside DeFi because moving it off the Bitcoin base layer still requires security trade-offs many holders are not willing to accept. Cardano is structurally well suited for Bitcoin DeFi, but it lacks the secure BTC rail needed to compete for that liquidity.\n\nBifrost is designed to provide that rail: a permissionless Bitcoin-Cardano bridge secured by Cardano’s existing SPO ecosystem that brings BTC onto Cardano as a native Cardano asset that applications can integrate into trading, lending, collateral, and other financial",
+      "url": "https://gov.tools/governance_actions/gov_action1mlvplrdk2t7eyclqeca77ppmfq3sghkr5hdppjqhdqdd573r7q6qqms7jwt",
+      "block_time": "2026-07-03T19:20:39.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Se7en Labs: Daedalus-plånbok underhåll och förbättringar 2026–2027",
-      "summary_sv": "Denna Treasury Withdrawal finansierar Daedalus Wallet Maintenance and Improvements\n2026–2027, levererad av Se7en Labs, Inc.\n\nDaedalus är Cardanos enda fullknotade skrivbordsvagnwallet — den kör en inbäddad Cardano-nod och hämtar all plånboks- och styrningsdata direkt från kedjan, utan tredje parts API:er eller betrodda backends. Eftersom den deltar i P2P-nätverkande och upprätthåller sin egen lokala mempool konkurrerar Daedalus-transaktioner om blockinköp på lika villkor som fullnodsdeltagare, vilket ger pålitlig inlämning även under hög kedjeutnyttjande där lätta plånböcker kan misslyckas i timmar.",
-      "_title_sha": "a360e2f19af5",
-      "_summary_sha": "b994ca942658"
+      "title_sv": "Bifrost: Låsa upp Bitcoin DeFi på Cardano — Vägen till mainnet (fas 1 av 2)",
+      "summary_sv": "Bitcoin är den största kapitalpoolen inom krypto, men mesta BTC ligger fortfarande utanför DeFi eftersom flyttningen av den från Bitcoin-noden fortfarande kräver säkerhetsavvägningar som många innehavare inte är villiga att acceptera. Cardano är strukturellt väl lämpad för Bitcoin DeFi, men saknar den säkra BTC-rail som behövs för att konkurrera om likviditeten.\n\nBifrost är utformat för att tillhandahålla den railen: en permissionless Bitcoin-Cardano-bro som skyddas av Cardanos befintliga SPO-ekosystem och som för BTC till Cardano som en inhemsk Cardano-asset som applikationer kan integrera i handel, utlåning, säkerheter och andra finansiella funktioner",
+      "_title_sha": "73ea6dcd5f55",
+      "_summary_sha": "5400c2b71a57"
     },
     {
       "id": "gov:gov_action12sumv9qky4pkenmqp7gshv9nxqdk9zyn8gkd77fewkyy3t5tnxtsq457vgq",
