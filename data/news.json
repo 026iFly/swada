@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-24T12:24:29.761Z",
+  "fetched_at": "2026-07-24T15:02:43.794Z",
   "items": [
+    {
+      "id": "forum:155902",
+      "source": "Cardano Forum",
+      "title_en": "(Public) July 2026: Ambassador Call Recap and USDM DeFi Coalition",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/public-july-2026-ambassador-call-recap-and-usdm-defi-coalition/155902",
+      "date": "2026-07-24T13:56:02.436Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "(Public) juli 2026: Ambassadörsamtal återblick och USDM DeFi-koalition",
+      "summary_sv": "",
+      "_title_sha": "dd89938b62f3",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155894",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "ÅTER SÄTTA BROARNA I RÖRELSE | CH 21 jul 2026",
       "summary_sv": "",
       "_title_sha": "f0e081f9e91d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155846",
-      "source": "Cardano Forum",
-      "title_en": "The Chokehold of the Cartel: Deconstructing the Sea Shell Era of Token Inflation",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-chokehold-of-the-cartel-deconstructing-the-sea-shell-era-of-token-inflation/155846",
-      "date": "2026-07-22T14:36:32.879Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Klibbiga kartellen: De-konstruera havsskal-epoken av tokeninflation",
-      "summary_sv": "",
-      "_title_sha": "489f06d7209d",
       "_summary_sha": ""
     },
     {
