@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-24T07:39:06.572Z",
+  "fetched_at": "2026-07-24T10:26:47.880Z",
   "items": [
+    {
+      "id": "forum:155894",
+      "source": "Cardano Forum",
+      "title_en": "AI Escaped the Sandbox. Crypto Is the Next Target",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ai-escaped-the-sandbox-crypto-is-the-next-target/155894",
+      "date": "2026-07-24T09:29:14.948Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "AI har flytt sandboxen. Crypto är nästa mål",
+      "summary_sv": "",
+      "_title_sha": "cdac1f0f0f95",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155888",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Klibbiga kartellen: De-konstruera havsskal-epoken av tokeninflation",
       "summary_sv": "",
       "_title_sha": "489f06d7209d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155844",
-      "source": "Cardano Forum",
-      "title_en": "🇮🇩 Apa yang IO Deliver untuk Cardano di Q2 2026?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/apa-yang-io-deliver-untuk-cardano-di-q2-2026/155844",
-      "date": "2026-07-22T13:14:56.959Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Vad gör IO Deliver för Cardano under Q2 2026?",
-      "summary_sv": "",
-      "_title_sha": "e774d1896e8c",
       "_summary_sha": ""
     },
     {
