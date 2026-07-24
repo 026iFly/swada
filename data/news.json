@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-07-24T00:08:37.401Z",
+  "fetched_at": "2026-07-24T04:24:11.647Z",
   "items": [
+    {
+      "id": "forum:155887",
+      "source": "Cardano Forum",
+      "title_en": "2026年上半年Cardano回顾",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-cardano/155887",
+      "date": "2026-07-24T03:52:44.272Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano tillbakablick första halvåret 2026",
+      "summary_sv": "",
+      "_title_sha": "12560240428a",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155884",
+      "source": "Cardano Forum",
+      "title_en": "Cardano의 2026년 상반기 리뷰",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-2026/155884",
+      "date": "2026-07-24T02:28:43.270Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardanos review för första halvan av 2026",
+      "summary_sv": "",
+      "_title_sha": "f55cbc94fba9",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155881",
+      "source": "Cardano Forum",
+      "title_en": "Learn on Cardano Academy with Ease",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/learn-on-cardano-academy-with-ease/155881",
+      "date": "2026-07-24T01:18:17.725Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Lär dig på Cardano Academy med lätthet",
+      "summary_sv": "",
+      "_title_sha": "5a7981cf4447",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155856",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "Digest 22 juli 2026: Van Rossem Hard Fork aktiveras | Konstitutionell kommittéval | Cardano Foundation-uppdateringar | Cardano Improvement Proposals (CIP) uppdateringar | Spotlight på Learn Cardano & Linda",
       "summary_sv": "",
       "_title_sha": "30a6aa0a6b45",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155823",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Breve actualización sobre WanChain | CH 20 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-breve-actualizacion-sobre-wanchain-ch-20-jul-2026/155823",
-      "date": "2026-07-21T13:43:09.940Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Kort uppdatering om WanChain | CH 20 jul 2026",
-      "summary_sv": "",
-      "_title_sha": "a39bca37cee0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155814",
-      "source": "Cardano Forum",
-      "title_en": "The Blockfrost Vote: Operational Reality vs. Ideological Treasury Preservation",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-blockfrost-vote-operational-reality-vs-ideological-treasury-preservation/155814",
-      "date": "2026-07-21T10:36:51.041Z",
-      "score": 1,
-      "comments": 2,
-      "title_sv": "Blockfrost-omröstningen: Operativ verklighet vs. idébaserad treasury-bevarande",
-      "summary_sv": "",
-      "_title_sha": "edb8b7ad24fc",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155809",
-      "source": "Cardano Forum",
-      "title_en": "515M NIGHT Moved: Wanchain Bridge Incident",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/515m-night-moved-wanchain-bridge-incident/155809",
-      "date": "2026-07-21T06:33:23.534Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "515M NIGHT Flyttad: Wanchain Bridge-incidenten",
-      "summary_sv": "",
-      "_title_sha": "3fa086eda3bd",
       "_summary_sha": ""
     },
     {
