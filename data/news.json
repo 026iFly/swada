@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-25T07:24:45.597Z",
+  "fetched_at": "2026-07-25T09:57:21.441Z",
   "items": [
+    {
+      "id": "forum:155913",
+      "source": "Cardano Forum",
+      "title_en": "ΤΙ ΕΚΑΝΕ ΛΕΕΙ;;; (Απάντηση στον Χρούση!)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/topic/155913",
+      "date": "2026-07-25T09:35:51.608Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "ΤΙ ΕΚΑΝΕ ΛΕΕΙ;;; (Απάντηση στον Χρούση!)",
+      "summary_sv": "",
+      "_title_sha": "045585164f79",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155902",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "ÅTER SÄTTA BROARNA I RÖRELSE | CH 21 jul 2026",
       "summary_sv": "",
       "_title_sha": "f0e081f9e91d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155846",
-      "source": "Cardano Forum",
-      "title_en": "The Chokehold of the Cartel: Deconstructing the Sea Shell Era of Token Inflation",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-chokehold-of-the-cartel-deconstructing-the-sea-shell-era-of-token-inflation/155846",
-      "date": "2026-07-22T14:36:32.879Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Käftgreppet av Kartellens kontroll: Deconstruering av havsskalets era av tokeninflation",
-      "summary_sv": "",
-      "_title_sha": "489f06d7209d",
       "_summary_sha": ""
     },
     {
