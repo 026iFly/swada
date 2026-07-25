@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T04:19:43.525Z",
+  "fetched_at": "2026-07-25T07:24:45.597Z",
   "items": [
     {
       "id": "forum:155902",
@@ -58,20 +58,6 @@
       "_summary_sha": ""
     },
     {
-      "id": "forum:155884",
-      "source": "Cardano Forum",
-      "title_en": "Cardano의 2026년 상반기 리뷰",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-2026/155884",
-      "date": "2026-07-24T02:28:43.270Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardanos review för första halvan av 2026",
-      "summary_sv": "",
-      "_title_sha": "f55cbc94fba9",
-      "_summary_sha": ""
-    },
-    {
       "id": "forum:155881",
       "source": "Cardano Forum",
       "title_en": "Learn on Cardano Academy with Ease",
@@ -111,6 +97,20 @@
       "title_sv": "ÅTER SÄTTA BROARNA I RÖRELSE | CH 21 jul 2026",
       "summary_sv": "",
       "_title_sha": "f0e081f9e91d",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155846",
+      "source": "Cardano Forum",
+      "title_en": "The Chokehold of the Cartel: Deconstructing the Sea Shell Era of Token Inflation",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-chokehold-of-the-cartel-deconstructing-the-sea-shell-era-of-token-inflation/155846",
+      "date": "2026-07-22T14:36:32.879Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Käftgreppet av Kartellens kontroll: Deconstruering av havsskalets era av tokeninflation",
+      "summary_sv": "",
+      "_title_sha": "489f06d7209d",
       "_summary_sha": ""
     },
     {
