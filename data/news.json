@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-25T11:21:15.928Z",
+  "fetched_at": "2026-07-25T13:55:33.707Z",
   "items": [
+    {
+      "id": "forum:155914",
+      "source": "Cardano Forum",
+      "title_en": "SecondFi Hack Update: 16.1M ADA Stolen, Recovery Timeline Explained",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/secondfi-hack-update-16-1m-ada-stolen-recovery-timeline-explained/155914",
+      "date": "2026-07-25T11:26:19.189Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SecondFi hack-uppdatering: 16,1 M ADA stulna, återhämtnings tidsplan förklarad",
+      "summary_sv": "",
+      "_title_sha": "37fb8217affa",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155913",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Uppdatering från den 22 juli 2026: Aktivering av hard fork Van Rossem | Val av konstituerande kommitté | Uppdateringar från Cardano Foundation",
       "summary_sv": "",
       "_title_sha": "5eddd48bc613",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155848",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Volver a Poner los Puentes en Marcha | CH 21 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-volver-a-poner-los-puentes-en-marcha-ch-21-jul-2026/155848",
-      "date": "2026-07-22T17:40:58.039Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "ÅTER SÄTTA BROARNA I RÖRELSE | CH 21 jul 2026",
-      "summary_sv": "",
-      "_title_sha": "f0e081f9e91d",
       "_summary_sha": ""
     },
     {
