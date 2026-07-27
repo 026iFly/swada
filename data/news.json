@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-27T17:50:13.174Z",
+  "fetched_at": "2026-07-27T19:47:44.316Z",
   "items": [
+    {
+      "id": "forum:155950",
+      "source": "Cardano Forum",
+      "title_en": "Builder Season: An experiment in long-form hackathons, Piece of Pie by Gimbalabs",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/builder-season-an-experiment-in-long-form-hackathons-piece-of-pie-by-gimbalabs/155950",
+      "date": "2026-07-27T18:05:53.077Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Byggarsäsongen: Ett experiment i långformat hackathons, Piece of Pie av Gimbalabs",
+      "summary_sv": "",
+      "_title_sha": "f5eb81eb8ffc",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155949",
       "source": "Cardano Forum",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/workshop-recap-improving-cardano-governance-efficiency-tokyo-14-july-2026/155897",
       "date": "2026-07-27T07:15:03.160Z",
-      "score": 2,
+      "score": 3,
       "comments": 1,
       "title_sv": "Workshop-sammanfattning: Förbättra effektivitén i Cardano-styrningen (Tokyo, 14 juli 2026)",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Wanchain-broddens hacking: vad var problemet?",
       "summary_sv": "",
       "_title_sha": "54a6ae8fbbe6",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155914",
-      "source": "Cardano Forum",
-      "title_en": "SecondFi Hack Update: 16.1M ADA Stolen, Recovery Timeline Explained",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi-hack-update-16-1m-ada-stolen-recovery-timeline-explained/155914",
-      "date": "2026-07-25T11:26:19.189Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "SecondFi hack-uppdatering: 16,1 M ADA stulna, återhämtnings tidsplan förklarad",
-      "summary_sv": "",
-      "_title_sha": "37fb8217affa",
       "_summary_sha": ""
     },
     {
