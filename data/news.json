@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-27T23:14:47.085Z",
+  "fetched_at": "2026-07-28T03:27:31.720Z",
   "items": [
+    {
+      "id": "forum:155954",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Sobre Gareth | CH 27 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-sobre-gareth-ch-27-jul-2026/155954",
+      "date": "2026-07-27T23:50:43.203Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Över Gareth | CH 27 jul 2026",
+      "summary_sv": "",
+      "_title_sha": "c04894065073",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155950",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-a-practical-guide-to-cardano-staking/155949",
       "date": "2026-07-27T14:39:02.328Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Låt inte din ADA sova: En praktisk guide till Cardano-staking",
       "summary_sv": "",
       "_title_sha": "bb870d96502a",
@@ -97,20 +111,6 @@
       "title_sv": "Senaste utvecklingen och hela förloppet i SecondFi-stölderna",
       "summary_sv": "",
       "_title_sha": "7cc45fa14418",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155942",
-      "source": "Cardano Forum",
-      "title_en": "Wanchain 브릿지 해킹, 무엇이 문제였나",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/wanchain/155942",
-      "date": "2026-07-27T02:30:13.370Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Wanchain-broddens hacking: vad var problemet?",
-      "summary_sv": "",
-      "_title_sha": "54a6ae8fbbe6",
       "_summary_sha": ""
     },
     {
