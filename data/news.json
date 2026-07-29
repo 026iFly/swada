@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-29T00:05:58.916Z",
+  "fetched_at": "2026-07-29T03:32:50.225Z",
   "items": [
+    {
+      "id": "forum:155971",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Blockfrost. | CH 28 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-blockfrost-ch-28-jul-2026/155971",
+      "date": "2026-07-29T00:21:42.773Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": ":es: SPANSKA DUBB Blockfrost. | CH 28 Jul 2026",
+      "summary_sv": "",
+      "_title_sha": "6d772d5c8eb6",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155969",
       "source": "Cardano Forum",
@@ -37,7 +51,7 @@
       "url": "https://forum.cardano.org/t/spanish-dubbing-sobre-gareth-ch-27-jul-2026/155954",
       "date": "2026-07-27T23:50:43.203Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Över Gareth | CH 27 jul 2026",
       "summary_sv": "",
       "_title_sha": "c04894065073",
@@ -65,7 +79,7 @@
       "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-a-practical-guide-to-cardano-staking/155949",
       "date": "2026-07-27T14:39:02.328Z",
       "score": 3,
-      "comments": 3,
+      "comments": 4,
       "title_sv": "Låt inte din ADA sova: En praktisk guide till Cardano-staking",
       "summary_sv": "",
       "_title_sha": "bb870d96502a",
@@ -97,20 +111,6 @@
       "title_sv": "Workshop-sammanfattning: Förbättra effektivitén i Cardano-styrningen (Tokyo, 14 juli 2026)",
       "summary_sv": "",
       "_title_sha": "f3283e62bf31",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155945",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Vision 2026 중간 보고서 리뷰",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-vision-2026/155945",
-      "date": "2026-07-27T03:37:49.762Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano Vision 2026 – mellanårsrapport granskning",
-      "summary_sv": "",
-      "_title_sha": "dbcc00e33f31",
       "_summary_sha": ""
     },
     {
