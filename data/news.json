@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-29T09:45:10.695Z",
+  "fetched_at": "2026-07-29T12:10:48.844Z",
   "items": [
+    {
+      "id": "forum:155985",
+      "source": "Cardano Forum",
+      "title_en": "CARDANO DRC COMMUNITY CALL – July 28, 2026: Summary Report",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-drc-community-call-july-28-2026-summary-report/155985",
+      "date": "2026-07-29T11:18:59.436Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "CARDANO DRC COMMUNITY CALL – 28 juli 2026: Sammanfattningsrapport\"",
+      "summary_sv": "",
+      "_title_sha": "c78fc2bb937f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155975",
       "source": "Cardano Forum",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/reminder-intersect-bylaws-vote-cast-your-vote-before-july-29/155969",
       "date": "2026-07-28T18:45:35.049Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Påminnelse: Intersect ByLaws-omröstning – Avge din röst innan den 29 juli",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Låt inte din ADA sova: En praktisk guide till Cardano-staking",
       "summary_sv": "",
       "_title_sha": "bb870d96502a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155900",
-      "source": "Cardano Forum",
-      "title_en": "ワークショップ振り返り：カルダノ・ガバナンスの効率向上（東京、2026年7月14日）",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-7-14/155900",
-      "date": "2026-07-27T07:15:03.163Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Workshop-reflektion: förbättrad effektivitet i Cardano-gemenskapens styrning (Tokyo, 2026-07-14)",
-      "summary_sv": "",
-      "_title_sha": "b5a6fd2cded9",
       "_summary_sha": ""
     },
     {
