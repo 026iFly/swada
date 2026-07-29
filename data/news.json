@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-29T15:16:16.337Z",
+  "fetched_at": "2026-07-29T17:23:44.450Z",
   "items": [
+    {
+      "id": "forum:155993",
+      "source": "Cardano Forum",
+      "title_en": "Simple Monitoring Can Prevent Costly Mistakes",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/simple-monitoring-can-prevent-costly-mistakes/155993",
+      "date": "2026-07-29T16:10:28.168Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Enkelt övervakning kan förhindra kostsamma misstag",
+      "summary_sv": "",
+      "_title_sha": "58e125ec030e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155985",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Byggarsäsongen: Ett experiment i långformat hackathons, Piece of Pie av Gimbalabs",
       "summary_sv": "",
       "_title_sha": "f5eb81eb8ffc",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155949",
-      "source": "Cardano Forum",
-      "title_en": "Don’t Let Your ADA Sleep: A Practical Guide to Cardano Staking",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-a-practical-guide-to-cardano-staking/155949",
-      "date": "2026-07-27T14:39:02.328Z",
-      "score": 5,
-      "comments": 4,
-      "title_sv": "Låt inte din ADA sova: En praktisk guide till Cardano-staking",
-      "summary_sv": "",
-      "_title_sha": "bb870d96502a",
       "_summary_sha": ""
     },
     {

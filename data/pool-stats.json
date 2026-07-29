@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-29T15:16:22.802Z",
+  "fetched_at": "2026-07-29T17:23:49.677Z",
   "summary": {
     "pool_id_bech32": "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc",
     "active_stake": "126182986037",
-    "live_stake": "125982808656",
+    "live_stake": "126180276469",
     "live_pledge": "81316746904",
-    "live_delegators": 6,
+    "live_delegators": 7,
     "live_saturation": 0.16,
     "block_count": 10,
     "op_cert_counter": 1,
