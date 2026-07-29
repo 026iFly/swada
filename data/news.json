@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-29T06:40:48.654Z",
+  "fetched_at": "2026-07-29T09:45:10.695Z",
   "items": [
+    {
+      "id": "forum:155975",
+      "source": "Cardano Forum",
+      "title_en": "Cardano, blockchain sin oráculo nativo",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-blockchain-sin-oraculo-nativo/155975",
+      "date": "2026-07-29T06:41:43.000Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano, blockchain sin oráculo nativo",
+      "summary_sv": "",
+      "_title_sha": "cc0bfd6e4515",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:155971",
       "source": "Cardano Forum",
@@ -78,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-a-practical-guide-to-cardano-staking/155949",
       "date": "2026-07-27T14:39:02.328Z",
-      "score": 4,
+      "score": 5,
       "comments": 4,
       "title_sv": "Låt inte din ADA sova: En praktisk guide till Cardano-staking",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Workshop-reflektion: förbättrad effektivitet i Cardano-gemenskapens styrning (Tokyo, 2026-07-14)",
       "summary_sv": "",
       "_title_sha": "b5a6fd2cded9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155897",
-      "source": "Cardano Forum",
-      "title_en": "Workshop Recap: Improving Cardano Governance Efficiency (Tokyo, 14 July 2026)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/workshop-recap-improving-cardano-governance-efficiency-tokyo-14-july-2026/155897",
-      "date": "2026-07-27T07:15:03.160Z",
-      "score": 3,
-      "comments": 1,
-      "title_sv": "Workshop-sammanfattning: Förbättra effektivitén i Cardano-styrningen (Tokyo, 14 juli 2026)",
-      "summary_sv": "",
-      "_title_sha": "f3283e62bf31",
       "_summary_sha": ""
     },
     {
