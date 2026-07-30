@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-30T11:59:24.811Z",
+  "fetched_at": "2026-07-30T14:26:01.373Z",
   "items": [
+    {
+      "id": "forum:156004",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Por qué las Empresas Deberían Hablar de Confianza, y No de Tecnología | CF 14 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-por-que-las-empresas-deberian-hablar-de-confianza-y-no-de-tecnologia-cf-14-jul-2026/156004",
+      "date": "2026-07-30T13:38:49.581Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Varför företag borde prata om förtroende, och inte om teknik | CF 14 jul 2026",
+      "summary_sv": "",
+      "_title_sha": "46db2092e368",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156001",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/guest-lecture-at-tamale-technical-university/156001",
       "date": "2026-07-29T22:13:38.084Z",
-      "score": 0,
-      "comments": 1,
+      "score": 2,
+      "comments": 4,
       "title_sv": "Gästföreläsning vid Tamale Technical University",
       "summary_sv": "",
       "_title_sha": "b8c9c2e1ef95",
@@ -37,7 +51,7 @@
       "url": "https://forum.cardano.org/t/simple-monitoring-can-prevent-costly-mistakes/155993",
       "date": "2026-07-29T16:10:28.168Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Enkelt övervakning kan förhindra kostsamma misstag",
       "summary_sv": "",
       "_title_sha": "58e125ec030e",
@@ -97,20 +111,6 @@
       "title_sv": "Påminnelse: Intersect ByLaws-omröstning – Avge din röst innan den 29 juli",
       "summary_sv": "",
       "_title_sha": "71b8e567d5af",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155961",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #71 - Java Ecosystem Update (31 July)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-71-java-ecosystem-update-31-july/155961",
-      "date": "2026-07-28T08:14:58.287Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Utvecklarnas kontorstid #71 - Java-ekosystemuppdatering (31 juli)",
-      "summary_sv": "",
-      "_title_sha": "60ac768c2249",
       "_summary_sha": ""
     },
     {
