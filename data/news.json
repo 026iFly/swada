@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-30T14:26:01.373Z",
+  "fetched_at": "2026-07-30T16:42:49.467Z",
   "items": [
+    {
+      "id": "forum:156005",
+      "source": "Cardano Forum",
+      "title_en": "Five years of Cardano smart-contract audits: a retrospective",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/five-years-of-cardano-smart-contract-audits-a-retrospective/156005",
+      "date": "2026-07-30T15:04:00.025Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Fem år av Cardano smart-contract-revisioner: en tillbakablick",
+      "summary_sv": "",
+      "_title_sha": "38869b01d4cb",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156004",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/guest-lecture-at-tamale-technical-university/156001",
       "date": "2026-07-29T22:13:38.084Z",
-      "score": 2,
-      "comments": 4,
+      "score": 10,
+      "comments": 8,
       "title_sv": "Gästföreläsning vid Tamale Technical University",
       "summary_sv": "",
       "_title_sha": "b8c9c2e1ef95",
@@ -92,25 +106,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/spanish-dubbing-blockfrost-ch-28-jul-2026/155971",
       "date": "2026-07-29T00:21:42.773Z",
-      "score": 1,
+      "score": 3,
       "comments": 1,
       "title_sv": ":es: SPANSKA DUBB Blockfrost. | CH 28 Jul 2026",
       "summary_sv": "",
       "_title_sha": "6d772d5c8eb6",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155969",
-      "source": "Cardano Forum",
-      "title_en": "Reminder: Intersect ByLaws Vote – Cast Your Vote Before July 29",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/reminder-intersect-bylaws-vote-cast-your-vote-before-july-29/155969",
-      "date": "2026-07-28T18:45:35.049Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Påminnelse: Intersect ByLaws-omröstning – Avge din röst innan den 29 juli",
-      "summary_sv": "",
-      "_title_sha": "71b8e567d5af",
       "_summary_sha": ""
     },
     {
