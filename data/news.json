@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T21:16:15.222Z",
+  "fetched_at": "2026-07-31T23:12:17.910Z",
   "items": [
     {
       "id": "forum:156037",
@@ -22,25 +22,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ouroboros-peras-july-update/156036",
       "date": "2026-07-31T17:23:50.005Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Ouroboros Peras: Juli-uppdatering",
       "summary_sv": "",
       "_title_sha": "2828c67902f5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156035",
-      "source": "Cardano Forum",
-      "title_en": "Ouroboros Peras - July update",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ouroboros-peras-july-update/156035",
-      "date": "2026-07-31T16:55:01.074Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Ouroboros Peras – juliuppdatering",
-      "summary_sv": "",
-      "_title_sha": "d5cccffcb3d9",
       "_summary_sha": ""
     },
     {
@@ -111,6 +97,20 @@
       "title_sv": "Enkelt övervakning kan förhindra kostsamma misstag",
       "summary_sv": "",
       "_title_sha": "58e125ec030e",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:155985",
+      "source": "Cardano Forum",
+      "title_en": "DRC Cardano Community Call #3: Governance, Innovation and Web3 Developments",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/drc-cardano-community-call-3-governance-innovation-and-web3-developments/155985",
+      "date": "2026-07-29T11:18:59.436Z",
+      "score": 3,
+      "comments": 1,
+      "title_sv": "DRC Cardano Community Call #3: Governance, Innovation and Web3 Developments",
+      "summary_sv": "",
+      "_title_sha": "3ffbd2fab9e7",
       "_summary_sha": ""
     },
     {
