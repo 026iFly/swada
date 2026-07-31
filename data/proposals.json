@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-07-31T15:27:11.852Z",
+  "fetched_at": "2026-07-31T17:48:05.134Z",
   "items": [
+    {
+      "id": "gov:gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
+      "proposal_id": "gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
+      "type": "NewCommittee",
+      "proposed_epoch": 646,
+      "expiration_epoch": 653,
+      "title_en": "Update Constitutional Committee 2026",
+      "summary_en": "This governance action updates the four Constitutional Committee seats whose terms expire at the end of Epoch 653 by appointing the candidates elected through the 2026 Constitutional Committee election. The successful candidates will serve new terms ending at Epoch 799, in accordance with the current committeeMaxTermLength protocol parameter.",
+      "url": "https://gov.tools/governance_actions/gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
+      "block_time": "2026-07-31T17:34:42.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Uppdatering av Konstitutionella Kommittén 2026",
+      "summary_sv": "Denna governance action uppdaterar de fyra platserna i Constitutional Committee vars mandatperioder löper ut i slutet av Epoch 653 genom att utse kandidaterna som valdes genom Constitutional Committee-valet 2026. De antagna kandidaterna kommer att inneha nya mandatperioder som slutar i Epoch 799, i enlighet med nuvarande protocol parameter committeeMaxTermLength.",
+      "_title_sha": "20f8f6ce433a",
+      "_summary_sha": "d4c2eca15945"
+    },
     {
       "id": "gov:gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
       "proposal_id": "gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
@@ -112,22 +128,6 @@
       "summary_sv": "Denna proposition begär **3 333 000 ADA** (3 300 000 ADA för leverans och 33 000 ADA för 1% budgetadministrationsavgift) för Dano Finance för att accelerera **DeFi Kernel** som en öppen standard för delad likviditet, on-chain finansiella avsikter och global orderbok-koordination på Cardano.\n\nCardano DeFi är fortfarande fragmenterad. DEX:er, utlåningsprotokoll, optionsprotokoll, marknadsplatser och framtida syntetiska tillgångssystem fungerar ofta som separata likviditets-silos. DeFi Kernel adresserar detta genom att definiera en gemensam standard där kompatibla smarta kontrakt är permissionless, samarbetsbara och upptäckbara.",
       "_title_sha": "64c2a1bf1d1c",
       "_summary_sha": "239e7cf6f192"
-    },
-    {
-      "id": "gov:gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "proposal_id": "gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 640,
-      "expiration_epoch": 647,
-      "title_en": "Scalus 2026: Maintenance, Dijkstra Readiness, Interoperability & Application Runtime",
-      "summary_en": "**Scalus** is an established, open-source Cardano development platform, built by **Lantr Engineering** over three years of continuous delivery. \n\nIt is the integrated, JVM-native toolset for complex protocols and mission-critical applications, such as **Gummiworm L2, Bifrost bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentralised identity**, that build on it.\n\nIts components are already reused inside Cardano's most widely used developer tooling: **MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib, and YaciDevKit**. Many teams depend on Scalus without ever integrating it di",
-      "url": "https://gov.tools/governance_actions/gov_action1xg69v73lfzkwyhhuz583x6geyc2ewn3r96sxuqj3wqvrrk0yfpksqqa63yc",
-      "block_time": "2026-06-29T14:02:41.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Scalus 2026: Underhåll, Dijkstra-beredskap, interoperabilitet och applikationskörning",
-      "summary_sv": "Scalus är en etablerad öppen källkod-plattform för Cardano-utveckling, byggd av Lantr Engineering under tre års kontinuerlig leverans.\n\nDen är det integrerade, JVM-native verktygssättet för komplexa protokoll och kritiska applikationer, såsom Gummiworm L2, Bifrost-bridge, SugarRush DEX, Vela stablecoin, DID / DIDComm decentraliserad identitet, som byggs ovanpå den.\n\nDess komponenter används redan igen i Cardanos mest använda utvecklarverktyg: MeshJS, Evolution SDK, Lucid Evolution, Cardano Client Lib och YaciDevKit. Många team är beroende av Scalus utan att någonsin integrera det di",
-      "_title_sha": "acde6d0a0105",
-      "_summary_sha": "8b99a752b37f"
     }
   ]
 }
