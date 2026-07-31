@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T00:11:39.867Z",
+  "fetched_at": "2026-07-31T04:31:56.402Z",
   "items": [
     {
       "id": "forum:156005",
@@ -9,7 +9,7 @@
       "url": "https://forum.cardano.org/t/five-years-of-cardano-smart-contract-audits-a-retrospective/156005",
       "date": "2026-07-30T15:04:00.025Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Fem år av Cardano smart-contract-revisioner: en tillbakablick",
       "summary_sv": "",
       "_title_sha": "38869b01d4cb",
@@ -64,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/simple-monitoring-can-prevent-costly-mistakes/155993",
       "date": "2026-07-29T16:10:28.168Z",
-      "score": 0,
-      "comments": 2,
+      "score": 1,
+      "comments": 3,
       "title_sv": "Enkelt övervakning kan förhindra kostsamma misstag",
       "summary_sv": "",
       "_title_sha": "58e125ec030e",
