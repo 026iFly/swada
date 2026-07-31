@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-07-31T17:48:01.348Z",
+  "fetched_at": "2026-07-31T19:46:39.565Z",
   "items": [
+    {
+      "id": "forum:156037",
+      "source": "Cardano Forum",
+      "title_en": "Reverse split!",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/reverse-split/156037",
+      "date": "2026-07-31T19:27:36.977Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Omvänd split!",
+      "summary_sv": "",
+      "_title_sha": "4c7ed96fe9a5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156036",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Enkelt övervakning kan förhindra kostsamma misstag",
       "summary_sv": "",
       "_title_sha": "58e125ec030e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155985",
-      "source": "Cardano Forum",
-      "title_en": "DRC Cardano Community Call #3: Governance, Innovation and Web3 Developments",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/drc-cardano-community-call-3-governance-innovation-and-web3-developments/155985",
-      "date": "2026-07-29T11:18:59.436Z",
-      "score": 3,
-      "comments": 1,
-      "title_sv": "DRC Cardano Community Call #3: Governance, Innovation and Web3 Developments",
-      "summary_sv": "",
-      "_title_sha": "3ffbd2fab9e7",
       "_summary_sha": ""
     },
     {
