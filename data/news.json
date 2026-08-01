@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-01T06:37:36.190Z",
+  "fetched_at": "2026-08-01T09:13:59.915Z",
   "items": [
+    {
+      "id": "forum:156049",
+      "source": "Cardano Forum",
+      "title_en": "Traducción al español de la Constitución del Ecosistema Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/traduccion-al-espanol-de-la-constitucion-del-ecosistema-cardano/156049",
+      "date": "2026-08-01T08:25:24.012Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Spansk översättning av Cardano-ekosystemets konstitution",
+      "summary_sv": "",
+      "_title_sha": "bb96bb18d6e1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156037",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/reverse-split/156037",
       "date": "2026-07-31T19:27:36.977Z",
-      "score": 0,
+      "score": 1,
       "comments": 2,
       "title_sv": "Omvänd split!",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Enkelt övervakning kan förhindra kostsamma misstag",
       "summary_sv": "",
       "_title_sha": "58e125ec030e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:155985",
-      "source": "Cardano Forum",
-      "title_en": "DRC Cardano Community Call #3: Governance, Innovation and Web3 Developments",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/drc-cardano-community-call-3-governance-innovation-and-web3-developments/155985",
-      "date": "2026-07-29T11:18:59.436Z",
-      "score": 3,
-      "comments": 1,
-      "title_sv": "DRC Cardano Community Call #3: Governance, Innovation and Web3 Developments",
-      "summary_sv": "",
-      "_title_sha": "3ffbd2fab9e7",
       "_summary_sha": ""
     },
     {
