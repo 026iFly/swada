@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-03T21:15:19.892Z",
+  "fetched_at": "2026-08-03T23:14:29.795Z",
   "items": [
+    {
+      "id": "forum:156094",
+      "source": "Cardano Forum",
+      "title_en": "Trouble redeem night",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/trouble-redeem-night/156094",
+      "date": "2026-08-03T21:19:25.654Z",
+      "score": 0,
+      "comments": 2,
+      "title_sv": "Problem att lösen natt",
+      "summary_sv": "",
+      "_title_sha": "a4c5d6da4579",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156092",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "2026 juli Cardano-nyheter: säkerhetsproblem",
       "summary_sv": "",
       "_title_sha": "468c35b24924",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156068",
-      "source": "Cardano Forum",
-      "title_en": "2026년 7월 카르다노 소식: 디파이 생태계와 RealFi",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-7-realfi/156068",
-      "date": "2026-08-03T03:03:33.544Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Jul 2026 Cardano-nyheter: DeFi-ekosystemet och RealFi",
-      "summary_sv": "",
-      "_title_sha": "dcf8783957d1",
       "_summary_sha": ""
     },
     {
