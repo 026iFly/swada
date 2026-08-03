@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "EN — iFly (SWADA) votes YES. Cardano PRIME targets Cardano's biggest adoption bottleneck: thin DeFi liquidity, which is self-reinforcing — poor trading conditions deter users, which deters builders, which keeps liquidity thin. Three features make the 120,000,000 ADA size acceptable to me: (1) it is phased — the large ~90,000,000 ADA incentive tranche deploys only after a Month-4 release gate and otherwise stays in the treasury; (2) it is ada-denominated, so the treasury bears no USD price risk; and (3) funds sit in an Intersect-administered reserve contract on independently-audited tooling, not paid directly to the operator.\nReservations: ~30,000,000 ADA for the early phases and the fixed fee is committed up front regardless of results; the performance fee can trigger on liquidity retained only 30 days; and the independent assurance provider was unnamed before the vote. I vote YES expecting these controls to be tightened during execution, and I support the return-to-treasury and sunset mechanisms if milestones are missed. My concern is execution quality, not intent.\nSV — iFly (SWADA) röstar JA. Cardano PRIME angriper Cardanos största adoptionshinder: tunn DeFi-likviditet, som är självförstärkande — dåliga handelsvillkor avskräcker användare, vilket avskräcker byggare, vilket håller likviditeten tunn. Tre egenskaper gör storleken 120 000 000 ADA acceptabel för mig: (1) den är fasindelad — den stora incitamentsdelen på ~90 000 000 ADA betalas ut först efter en beslutspunkt i månad 4 och stannar annars i statskassan; (2) den är denominerad i ada, så statskassan bär ingen dollarkursrisk; och (3) medlen förvaras i ett Intersect-administrerat reservkontrakt på oberoende granskade verktyg, inte direkt till operatören.\nInvändningar: ~30 000 000 ADA för de tidiga faserna och den fasta avgiften är bundna i förväg oavsett resultat; prestationsavgiften kan utlösas av likviditet som behållits i endast 30 dagar; och den oberoende granskaren namngavs inte före omröstningen. Jag röstar JA i förväntan att dessa kontroller skärps under genomförandet, och jag stödjer mekanismerna för återföring och avveckling om delmål missas. Min farhåga gäller genomförandet, inte avsikten."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
