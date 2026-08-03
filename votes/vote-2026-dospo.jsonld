@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote",
+            "againstVote": "CIP136:againstVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "[EN] iFly (SWADA DRep) votes YES on the 4,094,000 ADA dOSPO/OMF programme, which funds maintenance of the open-source tooling Cardano builders depend on. I disclose a direct interest: my own project builds on exactly this category of tooling.\n\n[SV] iFly (SWADA DRep) röstar JA på programmet dOSPO/OMF på 4 094 000 ADA, som finansierar underhåll av de öppna källkodsverktyg som Cardanos byggare är beroende av. Jag redovisar ett eget intresse: mitt eget projekt bygger på just denna typ av verktyg.",
+    "rationaleStatement": "[EN] My second priority as a DRep is a healthy, decentralised builder ecosystem. Cardano — like most software ecosystems — depends on open-source libraries, SDKs, indexers and tooling maintained by very few people; when that layer is under-funded it becomes a systemic single point of failure. The dOSPO/OMF programme funds sustained maintenance of exactly this layer, scaled down from an earlier, larger request to a 4,094,000 ADA twelve-month pilot with sunset clauses and an administrator who can be replaced on-chain.\n\n[SV] Min andra prioritet som DRep är ett sunt och decentraliserat ekosystem för byggare. Cardano — liksom de flesta mjukvaruekosystem — är beroende av bibliotek med öppen källkod, SDK:er, indexerare och verktyg som underhålls av mycket få personer; när det lagret är underfinansierat blir det en systemisk sårbarhet. dOSPO/OMF-programmet finansierar långsiktigt underhåll av just detta lager, nedskalat från en tidigare större begäran till ett tolvmånaderspilotprojekt på 4 094 000 ADA med avvecklingsklausuler och en administratör som kan bytas ut on-chain.",
+    "precedentDiscussion": "[EN] Disclosure of interest: in keeping with the transparency I promised in my DRep profile, I note that my own company's project (Intellishares / Clastenium) is built directly on community open-source tooling of the kind this programme would support — for example Ogmios, Kupo and Lucid. I judge the network-wide benefit to be real independently of that interest, but I disclose it so my vote can be weighed accordingly.\n\n[SV] Redovisning av intresse: i enlighet med den transparens jag utlovat i min DRep-profil noterar jag att mitt eget företags projekt (Intellishares / Clastenium) är byggt direkt på öppen källkod av det slag som detta program skulle stödja — till exempel Ogmios, Kupo och Lucid. Jag bedömer att nyttan för hela nätverket är verklig oberoende av det intresset, men jag redovisar det så att min röst kan vägas därefter.",
+    "counterargumentDiscussion": "[EN] My main reservation is custody: funds are released to a single-key stake address rather than an escrow or script-enforced treasury, and the consultancy holds sole allocation authority for roughly the first six months before the advisory councils and legal entity exist. There is also some overlap with Intersect's existing open-source funding process. I would prefer an escrowed, milestone-released custody model, and I will support the on-chain replaceability and sunset mechanisms if oversight lags.\n\n[SV] Min främsta invändning gäller förvaringen: medlen betalas ut till en stakeadress med en enda nyckel i stället för en spärrad (escrow) eller skript-styrd lösning, och konsultbolaget har ensam beslutanderätt de första cirka sex månaderna innan råden och den juridiska enheten finns. Det finns även viss överlappning med Intersects befintliga finansieringsprocess för öppen källkod. Jag hade föredragit en spärrad, delmålsstyrd förvaringsmodell, och jag stödjer mekanismerna för utbyte och avveckling on-chain om tillsynen brister.",
+    "conclusion": "[EN] The benefit to the builder foundation, the modest size and the thoughtful governance design outweigh the custody concern for me. I vote YES, and encourage a move to escrowed custody. I disclose the interest noted above.\n\n[SV] Nyttan för byggarnas grundinfrastruktur, den blygsamma storleken och den genomtänkta styrningsdesignen väger för mig tyngre än förvaringsinvändningen. Jag röstar JA och uppmuntrar en övergång till spärrad förvaring. Jag redovisar det intresse som nämns ovan.",
+    "references": [
+      {
+        "@type": "Other",
+        "label": "Governance action on GovTool",
+        "uri": "https://gov.tools/governance_actions/gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t"
+      },
+      {
+        "@type": "Other",
+        "label": "SWADA / iFly DRep",
+        "uri": "https://swada.se"
+      }
+    ]
+  }
+}
