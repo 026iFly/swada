@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP136": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0136/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP136:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri"
+          }
+        },
+        "summary": "CIP136:summary",
+        "rationaleStatement": "CIP136:rationaleStatement",
+        "precedentDiscussion": "CIP136:precedentDiscussion",
+        "counterargumentDiscussion": "CIP136:counterargumentDiscussion",
+        "conclusion": "CIP136:conclusion",
+        "internalVote": {
+          "@id": "CIP136:internalVote",
+          "@context": {
+            "constitutional": "CIP136:constitutional",
+            "unconstitutional": "CIP136:unconstitutional",
+            "abstain": "CIP136:abstain",
+            "didNotVote": "CIP136:didNotVote",
+            "againstVote": "CIP136:againstVote"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "summary": "[EN] iFly (SWADA DRep) votes YES on the 120,000,000 ADA Cardano PRIME treasury withdrawal. It targets Cardano's biggest adoption bottleneck — thin DeFi liquidity — and the large incentive tranche is milestone-gated and returns to the treasury if it is not activated.\n\n[SV] iFly (SWADA DRep) röstar JA på uttaget av 120 000 000 ADA för Cardano PRIME. Förslaget angriper Cardanos största adoptionshinder — tunn DeFi-likviditet — och den stora incitamentsdelen är villkorad av delmål och återförs till statskassan om den inte aktiveras.",
+    "rationaleStatement": "[EN] As the iFly DRep I prioritise proposals that move Cardano toward concrete, real-world adoption. Cardano's on-chain DeFi liquidity and stablecoin float remain very small relative to comparable networks, and thin liquidity is a self-reinforcing barrier: poor trading conditions deter users, which deters builders, which keeps liquidity thin. Cardano PRIME is a direct attempt to break that cycle through ecosystem grants, liquidity incentives and market development.\nThree features make the size acceptable to me: (1) the programme is phased, and the large ~90,000,000 ADA incentive tranche deploys only after a Month-4 release gate — if it is not approved, that ada remains in the treasury; (2) the withdrawal is ada-denominated, so the treasury carries no dollar price risk; and (3) funds are held in an Intersect-administered reserve contract built on independently-audited tooling rather than paid directly to the operator.\n\n[SV] Som iFly-DRep prioriterar jag förslag som för Cardano närmare konkret adoption i verkligheten. Cardanos DeFi-likviditet och stablecoin-volym är fortfarande mycket små jämfört med liknande nätverk, och tunn likviditet är ett självförstärkande hinder: dåliga handelsvillkor avskräcker användare, vilket avskräcker byggare, vilket håller likviditeten tunn. Cardano PRIME är ett direkt försök att bryta den cykeln genom ekosystembidrag, likviditetsincitament och marknadsutveckling.\nTre egenskaper gör storleken acceptabel för mig: (1) programmet är fasindelat, och den stora incitamentsdelen på ~90 000 000 ADA betalas ut först efter en beslutspunkt i månad 4 — godkänns den inte stannar dessa ada i statskassan; (2) uttaget är denominerat i ada, så statskassan bär ingen dollarkursrisk; och (3) medlen förvaras i ett Intersect-administrerat reservkontrakt byggt på oberoende granskade verktyg i stället för att betalas direkt till operatören.",
+    "counterargumentDiscussion": "[EN] I do not consider this risk-free. Roughly 30,000,000 ADA for the early phases and the operator's fixed fee is committed up front regardless of results, so the 'reversible' framing applies to the majority, not the whole. The performance fee can trigger on liquidity retained for only 30 days, which risks rewarding transient capital rather than durable adoption. The independent assurance provider was not named before the vote and some custody details are deferred to after approval. I vote YES on the expectation that these controls are tightened during execution, and I will support the return-to-treasury and sunset mechanisms if milestones are not met.\n\n[SV] Jag betraktar inte detta som riskfritt. Cirka 30 000 000 ADA för de tidiga faserna och operatörens fasta avgift är bundna i förväg oavsett resultat, så beskrivningen 'återförbar' gäller merparten, inte helheten. Prestationsavgiften kan utlösas av likviditet som behållits i endast 30 dagar, vilket riskerar att belöna kortsiktigt kapital snarare än varaktig adoption. Den oberoende granskaren namngavs inte före omröstningen och vissa förvaringsdetaljer skjuts upp till efter godkännande. Jag röstar JA i förväntan att dessa kontroller skärps under genomförandet, och jag stödjer mekanismerna för återföring och avveckling om delmålen inte nås.",
+    "conclusion": "[EN] On balance, the adoption upside and the reversibility of the largest tranche outweigh my reservations. My concerns are about execution quality, not the intent or the recipient. I vote YES.\n\n[SV] Sammantaget väger adoptionsnyttan och återförbarheten för den största delen tyngre än mina invändningar. Mina farhågor gäller genomförandets kvalitet, inte avsikten eller mottagaren. Jag röstar JA.",
+    "references": [
+      {
+        "@type": "Other",
+        "label": "Governance action on GovTool",
+        "uri": "https://gov.tools/governance_actions/gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7"
+      },
+      {
+        "@type": "Other",
+        "label": "SWADA / iFly DRep",
+        "uri": "https://swada.se"
+      }
+    ]
+  }
+}
