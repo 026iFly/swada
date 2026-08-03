@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-03T11:37:54.650Z",
+  "fetched_at": "2026-08-03T15:10:11.406Z",
   "items": [
+    {
+      "id": "forum:156088",
+      "source": "Cardano Forum",
+      "title_en": "The Economic Web of Trust: Adaptive Sybil Resistance",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-economic-web-of-trust-adaptive-sybil-resistance/156088",
+      "date": "2026-08-03T14:40:45.956Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Den ekonomiska tillitswebben: adaptiv Sybil-resistens",
+      "summary_sv": "",
+      "_title_sha": "832c5798d3db",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156078",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "2026 juli Cardano-nyheter: Konstitutionella kommittén (Constitutional Committee) val",
       "summary_sv": "",
       "_title_sha": "2212cacbc50b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156062",
-      "source": "Cardano Forum",
-      "title_en": "2026년 7월 카르다노 소식: 거버넌스 시대의 첫 시험대",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-7/156062",
-      "date": "2026-08-03T02:25:44.036Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "2026 juli Cardano-nyheter: Första prövningen i styrelsens tidiga era",
-      "summary_sv": "",
-      "_title_sha": "3d95ccbb5489",
       "_summary_sha": ""
     },
     {
