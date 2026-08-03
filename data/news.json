@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-03T18:00:19.150Z",
+  "fetched_at": "2026-08-03T19:50:45.770Z",
   "items": [
+    {
+      "id": "forum:156092",
+      "source": "Cardano Forum",
+      "title_en": "Cardano and Injective Are Becoming Interoperable: What Does It Really Mean?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-and-injective-are-becoming-interoperable-what-does-it-really-mean/156092",
+      "date": "2026-08-03T19:13:28.438Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano och Injective blir interoperabla: vad betyder det egentligen?",
+      "summary_sv": "",
+      "_title_sha": "974ae86a7378",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156091",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Jul 2026 Cardano-nyheter: DeFi-ekosystemet och RealFi",
       "summary_sv": "",
       "_title_sha": "dcf8783957d1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156067",
-      "source": "Cardano Forum",
-      "title_en": "Is It Time to Reduce Cardano's Minimum Stake Pool Fee to 75 ADA?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/is-it-time-to-reduce-cardanos-minimum-stake-pool-fee-to-75-ada/156067",
-      "date": "2026-08-03T02:57:09.813Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Är det dags att sänka Cardanos minsta stake pool-avgift till 75 ADA?",
-      "summary_sv": "",
-      "_title_sha": "f0cc19c2255f",
       "_summary_sha": ""
     },
     {
