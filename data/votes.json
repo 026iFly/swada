@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T18:01:00.773Z",
+  "fetched_at": "2026-08-04T19:51:19.071Z",
   "items": [
     {
       "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
@@ -129,7 +129,7 @@
         "rationale_sv": ""
       },
       "title_sv": "5am.earth Trust Layer Målbild Vision 2030 KPI:er",
-      "summary_sv": "",
+      "summary_sv": "5am.earth Foundation begär 10 000 000 ADA (hard cap) för att bygga ett öppet, Cardano-anknutet förvarslager (trust layer) för globala livsmedelsförsörjningskedjor. Förvarslagret kombinerar Veridian själv­sovrant identitet för bönder och Agri-Entrepreneurs (AEs) med ett Cardano on-chain satellit-Oracle som levererar verifierade uppgifter om gårdar och grödor. Det 18-månaders programmet (M1 Stand-Up vid månad 6, M2 Closed Loop vid månad 12, M3 Self-Sustaining vid månad 18) levererar i Indien, Kambodja och Kenya, når 500 000 registrerade bönder och driver tre namngivna applikationsvägar under den finansierade perioden: AE-certifiering med Andamio (WP3), spårbarhet och efterlevnad med Zengate Global (WP4) samt finans och kredit med Seedstars SIGMA (WP5). Foundations funktion är den neutrala förvaltaren av det öppna förvarslagret; kommersiella partners bygger ovanpå det. Förslaget administreras av Intersect på standardvillkor via den standardiserade Treasury Reserve Smart Contract / Project-Specific Smart Contract-ramverket utvecklat av Sundae Labs, med en oberoende Översynskommitté av fem externa enheter som verifierar nyckeladministrativa åtgärder. Betalningsstruktur: 5 000 000 / 2 000 000 / 3 000 000 ADA, milstolpe-styrd, fördelad i förväg vid godkännandet och begränsad till observerbara bevis vid M1 och M2. Project Swaminathan drivs på Cardano Mainnet idag med 10 500 kumulativa bönder-/gårdsregistreringar per den 5 maj 2026 — och erbjuder live ope",
       "_title_sha": "dbb01b862f09",
       "_summary_sha": "16cfc7d2f136"
     },
@@ -150,7 +150,7 @@
         "block_time": "2026-05-24T20:43:51.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
+      "title_sv": "Reviderad Cardano Summit 2026 Singapore",
       "summary_sv": "Detta förslag som [PDF](https://ipnso-com.ipns.dweb.link/?cid=QmagzPnHcrRPC5MKpp3fHSJjz7xbTzEmfQq8Z697suYjq2).\n\nDetta är ett reviderat och 22% reducerat budgetförslag för nuvarande Cardano Summit 2026 i Singapore. Efter omfattande samtal med gemenskapen har Stiftelsen reviderat förslaget enligt följande:\n\n* Detta förslag är frikopplat från EMURGO:s TOKEN2049-sponsorförslag.\n* Budgeten har minskat med 22% eller 550 000 USD samtidigt som man behåller den förstklassiga upplevelsen för att visa upp en L1-blockkedja som Cardano, vilket uppnås genom att minska från tre faser till två och därmed sänka produktions-, teknik- och on-site-logistikostnaderna.\n* Den uppskattade interna resursbidraget från CF har ökats till 380 000 USD från 250 000 USD för att minska externa leverantörskostnader.\n\nVi tackar gemenskapen för deras ärliga återkoppling och vi respekterar budgetbekymren med tanke på den nuvarande nedgångsmarknaden. Återkopplingen var konsekvent positiv när det gäller Summitens strategiska vision och värde. Vi förstår den breda enigheten om att ett reducerat budget-Singapore Summit bör genomföras utan att kompromissa kvalitet eller renommé. Vi fortsätter att tro att detta förslag kommer att ge Cardano viktiga fördelar.\n\n2026 är ett avgörande år för att accelerera Cardanos antagande. Cardano har ökat sin interoperabilitet och institutionella beredskap (USDCx, Pyth, Dune, CME Group, LayerZero). I linje med strategin erbjuder Summiten p",
       "_title_sha": "4243b4210893",
       "_summary_sha": "392fe466b994"
@@ -216,8 +216,8 @@
         "block_time": "2026-05-24T20:36:08.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "IO & VacuumLabs: Förbättrar Plutus - Prestanda, Korrekthet och Användbarhet",
+      "summary_sv": "Denna proposal stärker Cardano:s smart contract-plattform över tre kritiska och nära sammankopplade områden: språkförmågor, formell korrekthet och utvecklarupplevelse. Den finansierar målmedveten utökning av Plutus-språket med nya syntaktiska former och nya primitiva för att minska skriptkostnader, förbättra uttrycksfullhet och låsa upp mer effektiva kontraktsmönster; formell specifikation, överensstämmelseprovning och strukturerad säkerhetsgranskning för att stödja korrekthet när nod-diversiteten ökar; samt en bättre kompilator och verktygsupplevelse som sänker uppstartsförhinder, förbättrar felrapportering och gör utveckling av smart contracts mer tillgänglig. Tillsammans gör dessa arbetsströmmar Plutus billigare att använda, mer pålitlig att bygga på och enklare för utvecklare att anpassa sig till, vilket hjälper Cardano att stödja ett bredare spektrum av tillämpningar samtidigt som de ger starkare fundament för alternativa nodimplementationer och annan ekosystemverktyg.\n\nDetta är ett tekniskt samarbete med Input Output och VacuumLabs, som fördelar Plutus-styrning över expertteam. Intersect förvaltar medel via milestone-baserade smart contracts med oberoende övervakning. All ofrånade medel återlämnas till Treasury.\n\n**Treasury-ansökan:** ₳",
       "_title_sha": "034418ee4af0",
       "_summary_sha": "c1ffe3c1c15c"
     },
@@ -238,7 +238,7 @@
         "block_time": "2026-05-24T20:32:39.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
+      "title_sv": "IO: Cardano hög säkerhet teknisk samarbete",
       "summary_sv": "",
       "_title_sha": "2dad633f3cd1",
       "_summary_sha": "c9651ae227a8"
