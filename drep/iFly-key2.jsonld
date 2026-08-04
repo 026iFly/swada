@@ -1,0 +1,102 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject",
+            "contentUrl": "CIP119:contentUrl",
+            "sha256": "CIP119:sha256"
+          }
+        },
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "givenName": "iFly",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://raw.githubusercontent.com/026iFly/swada/main/assets/iFly.png",
+      "sha256": "bb9ade5d049213bb6a4bd3455a318ba51397baca407f4f1f2a6c7108f72d5067"
+    },
+    "motivations": "KEY MIGRATION (August 2026) — this is the current DRep key for iFly, succeeding drep1dk4vjsku5yzf8xzzx6ysaxk8l2pypjkza8xq86dvcpaccdwje5r. Voting has moved from a hardware-wallet-only setup to an automated, monitored signing service so that governance actions receive timely votes with published bilingual rationales. The previous DRep publishes a matching attestation naming this key, so the handover can be verified. Delegation is being migrated; see https://swada.se\n\nNYCKELMIGRERING (augusti 2026) — detta är den aktuella DRep-nyckeln för iFly och efterträder drep1dk4vjsku5yzf8xzzx6ysaxk8l2pypjkza8xq86dvcpaccdwje5r. Röstningen har flyttats från en lösning med endast hårdvaruplånbok till en automatiserad och övervakad signeringstjänst, så att styrningsförslag får röster i tid med publicerade tvåspråkiga motiveringar. Den tidigare DRep:en publicerar en matchande attestering som namnger denna nyckel, så att överlämningen kan verifieras. Delegeringen migreras; se https://swada.se\n\n— — —\n\nCardano's on-chain governance is one of the more serious attempts I've seen to translate decentralization from a slogan into a working institution. Institutions like that only succeed when people with real-world skin in the game show up to maintain them.\n\nMy perspective comes from three disciplines that share one rule: complex systems only work when you trust the data, the procedures, and the people maintaining them. I'm a commercial pilot for ten years (line + instructor) — so I think about safety culture, redundancy, and how unchecked drift becomes a big problem later. I'm co-founder of Intellishares SA, where we tokenize green-energy assets and deploy blockchain in regulated, real-world contexts. And I serve on volunteer boards (AOPA Sweden, Gävle Sjöscouter, Gävlebygdens Flygklubb), where I've learned what consensus-building feels like when there's no fork option.\n\nI want to help Cardano governance succeed — pragmatically, transparently, and with a long horizon.",
+    "objectives": "My priorities as a DRep:\n\nReal-world utility first. I vote for proposals that move Cardano toward concrete adoption — tokenized real-world assets, programmable settlement, identity that ordinary people can use, infrastructure for green-energy investment.\n\nValidator decentralization. A healthy long tail of small, independent stake pools (SWADA among them) makes the network resilient. I oppose proposals that incidentally concentrate stake.\n\nSustainability. Cardano's energy footprint is already an advantage; I want governance that compounds that through verifiable climate work.\n\nTransparent reasoning. I'll publish a written rationale alongside every meaningful vote.\n\nCross-disciplinary evaluation. I evaluate proposals through aviation safety thinking, energy-engineering pragmatism, and product sense. One-axis reasoning is how bad decisions get made.",
+    "paymentAddress": "addr1q856gtlurau0wnrz8nzap22cww32wa77p5mu3vdpywgcshl64zph7c4yajs044l004zhdmutkdgnutqkj3q79my7y9vs948aw5",
+    "qualifications": "Ten years as a commercial pilot (line + flight instructor). Aviation trained me in continuous risk assessment, procedural discipline, and operating where casual decisions have permanent consequences — directly applicable to governance work.\n\nCo-founder of Intellishares SA, a blockchain-based green-energy tokenization project. I've personally designed and installed solar systems, tested inverters and batteries, prototyped circuit boards, and integrated all of it with on-chain settlement.\n\nBoard service in three Swedish organizations: AOPA Sweden, Gävle Sjöscouter (Vice President), Gävlebygdens Flygklubb (Chair). Each has taught me to balance competing interests, build consensus, and be accountable over multi-year horizons.\n\nLanguages: Swedish, English (fluent), Italian (learning). I operate the SWADA Cardano stake pool — my own ADA is pledged into the network whose governance I help shape.",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "Key migration notice — SWADA",
+        "uri": "https://swada.se"
+      },
+      {
+        "@type": "Link",
+        "label": "SWADA Cardano stake pool",
+        "uri": "https://swada.se"
+      },
+      {
+        "@type": "Link",
+        "label": "Intellishares — green-energy blockchain project",
+        "uri": "https://intellishares.io"
+      },
+      {
+        "@type": "Identity",
+        "label": "LinkedIn — Pelle Stensson",
+        "uri": "https://www.linkedin.com/in/pelle-stensson-ab31b65b/"
+      },
+      {
+        "@type": "Identity",
+        "label": "Facebook — Pelle Stensson",
+        "uri": "https://www.facebook.com/pelle.stenson/"
+      }
+    ]
+  }
+}
