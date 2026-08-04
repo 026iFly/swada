@@ -192,7 +192,93 @@ async function fetchPoolStats() {
   if (!histResp.ok) throw new Error(`pool_history: ${histResp.status}`);
   const epochs = await histResp.json();
 
-  return { summary, epochs };
+  // Current epoch + the pool's most recent blocks. pool_history excludes the
+  // in-progress epoch and rewards lag two epochs, so these let the site show
+  // "block minted, rewards pending" instead of misleading zeros.
+  let current_epoch = null;
+  let recent_blocks = [];
+  try {
+    const tipResp = await fetch("https://api.koios.rest/api/v1/tip", {
+      headers: { "User-Agent": UA },
+    });
+    if (tipResp.ok) current_epoch = (await tipResp.json())[0]?.epoch_no ?? null;
+
+    const blocksResp = await fetch(
+      `https://api.koios.rest/api/v1/blocks?pool=eq.${POOL_ID_BECH32}&order=block_height.desc&limit=5`,
+      { headers: { "User-Agent": UA } },
+    );
+    if (blocksResp.ok) {
+      recent_blocks = (await blocksResp.json()).map((b) => ({
+        epoch_no: b.epoch_no,
+        block_height: b.block_height,
+        block_time: b.block_time,
+        hash: b.hash,
+      }));
+    }
+  } catch (e) {
+    console.error(`  tip/blocks failed (non-fatal): ${e.message}`);
+  }
+
+  return { summary, current_epoch, recent_blocks, epochs };
+}
+
+// --- iFly DRep votes (Koios vote_list) --------------------------------------
+const DREP_IDS = [
+  "drep1yfk64j2zmjssfyucggmgjr56clagysx2ct5ucqlf4nq8hrqp23kfa", // CIP-129
+  "drep1dk4vjsku5yzf8xzzx6ysaxk8l2pypjkza8xq86dvcpaccdwje5r",  // CIP-105
+];
+
+// Pull the Swedish part out of a bilingual vote rationale. Recognizes an
+// explicit "SV:"/"Svenska:" marker; otherwise accepts the whole text only if
+// it plainly reads as Swedish. Returns "" when nothing Swedish is found —
+// the site then falls back to data/proposal-notes.json.
+function extractSwedish(text) {
+  if (!text || !text.trim()) return "";
+  const marked = text.match(
+    /(?:^|\n)\s*(?:SV|Svenska|På svenska)\s*[:\-–—]\s*([\s\S]*?)(?=(?:^|\n)\s*(?:EN|English|Engelska)\s*[:\-–—]|$)/i,
+  );
+  if (marked) return marked[1].trim();
+  const hasSwedishChars = (text.match(/[åäöÅÄÖ]/g) || []).length >= 2;
+  const hasSwedishWords = /(^|\s)(och|att|för|inte|som|därför|eftersom)(\s|[.,])/i.test(text);
+  if (hasSwedishChars && hasSwedishWords) return text.trim();
+  return "";
+}
+
+async function fetchDrepVotes() {
+  for (const drepId of DREP_IDS) {
+    const resp = await fetch(
+      `https://api.koios.rest/api/v1/vote_list?voter_role=eq.DRep&voter_id=eq.${drepId}&order=block_time.desc&limit=100`,
+      { headers: { "User-Agent": UA } },
+    );
+    if (!resp.ok) {
+      console.error(`  vote_list (${drepId.slice(0, 16)}…): ${resp.status}`);
+      continue;
+    }
+    const votes = await resp.json();
+    if (!votes.length) continue;
+    const byProposal = {};
+    for (const v of votes) {
+      if (byProposal[v.proposal_id]) continue; // newest vote per proposal wins
+      let rationaleRaw =
+        v.meta_json?.body?.comment || v.meta_json?.body?.rationale || "";
+      if (!rationaleRaw && /^https?:\/\//.test(v.meta_url || "")) {
+        try {
+          const metaResp = await fetch(v.meta_url, { headers: { "User-Agent": UA } });
+          if (metaResp.ok) {
+            const meta = await metaResp.json();
+            rationaleRaw = meta?.body?.comment || meta?.body?.rationale || "";
+          }
+        } catch { /* anchor unreachable — vote still shown without rationale */ }
+      }
+      byProposal[v.proposal_id] = {
+        vote: v.vote, // Yes | No | Abstain
+        block_time: v.block_time ? new Date(v.block_time * 1000).toISOString() : null,
+        rationale_sv: extractSwedish(rationaleRaw),
+      };
+    }
+    return byProposal;
+  }
+  return {};
 }
 
 // --- governance proposals from Koios ---------------------------------------
@@ -290,6 +376,19 @@ async function main() {
     console.log(`  fetched ${props.length} active proposals`);
   } catch (e) {
     console.error(`  Koios failed: ${e.message}`);
+  }
+  try {
+    const votes = await fetchDrepVotes();
+    let matched = 0;
+    for (const p of props) {
+      if (votes[p.proposal_id]) {
+        p.ifly_vote = votes[p.proposal_id];
+        matched++;
+      }
+    }
+    console.log(`  iFly votes: ${Object.keys(votes).length} on-chain, ${matched} on active proposals`);
+  } catch (e) {
+    console.error(`  drep votes failed (non-fatal): ${e.message}`);
   }
   props = mergeItems(existingProps, props);
   await translateItems(props, "proposals");

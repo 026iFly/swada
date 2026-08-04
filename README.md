@@ -12,6 +12,7 @@ The pool operator is also active in Cardano governance as the **iFly** DRep.
 |---|---|
 | [`drep/iFly.jsonld`](drep/iFly.jsonld) | DRep metadata for iFly (CIP-119), referenced by the on-chain DRep anchor |
 | [`pool/poolmeta.json`](pool/poolmeta.json) | On-chain pool metadata (CIP-006), referenced by the pool registration |
+| [`data/proposal-notes.json`](data/proposal-notes.json) | Hand-written Swedish explanations (and optional vote-rationale overrides) per governance proposal, shown on swada.se. Never touched by the hourly refresh — edit freely |
 | `assets/iFly.png` | DRep & pool logo (512×512) |
 | `website/` | Source for [swada.se](https://swada.se) (coming soon) |
 

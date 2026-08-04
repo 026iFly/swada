@@ -522,6 +522,101 @@ footer {
   background: var(--bg);
 }
 
+/* ===== PROPOSAL ACCORDION ===== */
+details.proposal-card { padding: 0; }
+details.proposal-card > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+details.proposal-card > summary::-webkit-details-marker { display: none; }
+.proposal-expand {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--cardano-blue);
+  margin-top: 2px;
+}
+details.proposal-card[open] .proposal-expand { display: none; }
+.proposal-body {
+  padding: 0 22px 20px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.proposal-body h4 {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin: 16px 0 6px;
+}
+.swada-note p, .ifly-vote p {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  margin: 0;
+}
+.swada-note {
+  border-left: 3px solid var(--swedish-yellow);
+  padding-left: 14px;
+}
+.vote-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 6px;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+.vote-yes { background: rgba(22, 145, 72, 0.12); color: #157347; }
+.vote-no { background: rgba(190, 40, 40, 0.1); color: #B02A2A; }
+.vote-abstain { background: rgba(107, 114, 128, 0.12); color: var(--muted); }
+.vote-line { display: flex; align-items: center; gap: 10px; }
+.vote-rationale {
+  margin-top: 8px !important;
+  font-style: italic;
+  color: #404757;
+}
+.proposal-link {
+  margin-left: auto;
+  font-weight: 600;
+  font-size: 0.86rem;
+}
+
+/* Epoch table states */
+.reward-pending {
+  background: rgba(254, 204, 2, 0.18);
+  color: #8a6d00;
+  padding: 2px 10px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.block-badge {
+  display: inline-block;
+  min-width: 22px;
+  text-align: center;
+  background: rgba(22, 145, 72, 0.12);
+  color: #157347;
+  border-radius: 6px;
+  font-weight: 700;
+}
+.row-current td { color: var(--muted); }
+.epoch-live {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: rgba(0, 51, 173, 0.08);
+  color: var(--cardano-blue);
+  padding: 1px 7px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
 /* ===== POOL PERFORMANCE (stats + epoch table) ===== */
 .perf-grid {
   margin-top: 28px;
