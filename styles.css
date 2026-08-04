@@ -338,8 +338,9 @@ a:hover { color: var(--accent-deep); }
 .step h3 { margin-top: 0; margin-bottom: 8px; color: var(--cardano-deep); }
 .step p { margin: 0; }
 .step pre {
-  background: #0F1626;
-  color: #D9E4F2;
+  background: #E9EDF4;
+  border: 1px solid var(--border);
+  color: #1E2633;
   padding: 12px 16px;
   border-radius: 8px;
   font-size: 0.84rem;
