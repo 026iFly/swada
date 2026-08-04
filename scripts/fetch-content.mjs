@@ -245,9 +245,15 @@ async function fetchPoolStats() {
 }
 
 // --- iFly DRep votes (Koios vote_list) --------------------------------------
+// iFly has had two on-chain DRep registrations: the current one and the
+// retired 2026 original. We query all IDs (in both bech32 formats, since
+// Koios accepts one or the other depending on endpoint version) so the
+// voting history keeps the old votes while new votes come from the new DRep.
 const DREP_IDS = [
-  "drep1yfk64j2zmjssfyucggmgjr56clagysx2ct5ucqlf4nq8hrqp23kfa", // CIP-129
-  "drep1dk4vjsku5yzf8xzzx6ysaxk8l2pypjkza8xq86dvcpaccdwje5r",  // CIP-105
+  "drep1yg228a8u4jc5qnqmerhs4e29jyyjac3g39z399kt8gr8vfc0ylw7s", // current, CIP-129
+  "drep1zj3lfl9vk9qycx7gau9w23v3pyhwy2yfg5ffdje6qemzwkl36au",  // current, CIP-105
+  "drep1yfk64j2zmjssfyucggmgjr56clagysx2ct5ucqlf4nq8hrqp23kfa", // retired, CIP-129
+  "drep1dk4vjsku5yzf8xzzx6ysaxk8l2pypjkza8xq86dvcpaccdwje5r",  // retired, CIP-105
 ];
 
 // Pull the Swedish part out of a bilingual vote rationale. Recognizes an
@@ -267,40 +273,47 @@ function extractSwedish(text) {
 }
 
 async function fetchDrepVotes() {
+  // Aggregate votes from every registration; a bech32 variant that Koios
+  // doesn't recognize just returns an empty list, and duplicates from
+  // querying both formats of the same DRep collapse in the dedupe below.
+  const all = [];
   for (const drepId of DREP_IDS) {
-    const resp = await fetchT(
-      `https://api.koios.rest/api/v1/vote_list?voter_role=eq.DRep&voter_id=eq.${drepId}&order=block_time.desc&limit=100`,
-      { headers: { "User-Agent": UA } },
-    );
-    if (!resp.ok) {
-      console.error(`  vote_list (${drepId.slice(0, 16)}…): ${resp.status}`);
-      continue;
-    }
-    const votes = await resp.json();
-    if (!votes.length) continue;
-    const byProposal = {};
-    for (const v of votes) {
-      if (byProposal[v.proposal_id]) continue; // newest vote per proposal wins
-      let rationaleRaw =
-        v.meta_json?.body?.comment || v.meta_json?.body?.rationale || "";
-      if (!rationaleRaw && /^https?:\/\//.test(v.meta_url || "")) {
-        try {
-          const metaResp = await fetchT(v.meta_url, { headers: { "User-Agent": UA } }, 10_000);
-          if (metaResp.ok) {
-            const meta = await metaResp.json();
-            rationaleRaw = meta?.body?.comment || meta?.body?.rationale || "";
-          }
-        } catch { /* anchor unreachable — vote still shown without rationale */ }
+    try {
+      const resp = await fetchT(
+        `https://api.koios.rest/api/v1/vote_list?voter_role=eq.DRep&voter_id=eq.${drepId}&order=block_time.desc&limit=100`,
+        { headers: { "User-Agent": UA } },
+      );
+      if (!resp.ok) {
+        console.error(`  vote_list (${drepId.slice(0, 16)}…): ${resp.status}`);
+        continue;
       }
-      byProposal[v.proposal_id] = {
-        vote: v.vote, // Yes | No | Abstain
-        block_time: v.block_time ? new Date(v.block_time * 1000).toISOString() : null,
-        rationale_sv: extractSwedish(rationaleRaw),
-      };
+      all.push(...await resp.json());
+    } catch (e) {
+      console.error(`  vote_list (${drepId.slice(0, 16)}…): ${e.message}`);
     }
-    return byProposal;
   }
-  return {};
+  all.sort((a, b) => (b.block_time || 0) - (a.block_time || 0));
+  const byProposal = {};
+  for (const v of all) {
+    if (byProposal[v.proposal_id]) continue; // newest vote per proposal wins
+    let rationaleRaw =
+      v.meta_json?.body?.comment || v.meta_json?.body?.rationale || "";
+    if (!rationaleRaw && /^https?:\/\//.test(v.meta_url || "")) {
+      try {
+        const metaResp = await fetchT(v.meta_url, { headers: { "User-Agent": UA } }, 10_000);
+        if (metaResp.ok) {
+          const meta = await metaResp.json();
+          rationaleRaw = meta?.body?.comment || meta?.body?.rationale || "";
+        }
+      } catch { /* anchor unreachable — vote still shown without rationale */ }
+    }
+    byProposal[v.proposal_id] = {
+      vote: v.vote, // Yes | No | Abstain
+      block_time: v.block_time ? new Date(v.block_time * 1000).toISOString() : null,
+      rationale_sv: extractSwedish(rationaleRaw),
+    };
+  }
+  return byProposal;
 }
 
 // --- governance proposals from Koios ---------------------------------------
@@ -452,6 +465,13 @@ async function main() {
   }
   if (votedItems.length) {
     votedItems = mergeItems(existingVotes, votedItems);
+    // The archive is a union: items that stop appearing in the fetch (e.g.
+    // votes of a retired DRep no longer indexed) are kept from last time.
+    const freshIds = new Set(votedItems.map((v) => v.proposal_id));
+    const carried = existingVotes.filter((v) => !freshIds.has(v.proposal_id));
+    if (carried.length) console.log(`  carrying ${carried.length} archived items no longer returned by Koios`);
+    votedItems = votedItems.concat(carried).sort((a, b) =>
+      ((a.ifly_vote?.block_time || "") < (b.ifly_vote?.block_time || "") ? 1 : -1));
     await translateItems(votedItems, "votes");
     saveJSON(votesFile, { fetched_at: new Date().toISOString(), items: votedItems });
   } else {

@@ -28,8 +28,9 @@ The pool operator is also active in Cardano governance as the **iFly** DRep.
 
 ## DRep iFly
 
-- **DRep ID (CIP-105)**: `drep1dk4vjsku5yzf8xzzx6ysaxk8l2pypjkza8xq86dvcpaccdwje5r`
-- **DRep ID (CIP-129)**: `drep1yfk64j2zmjssfyucggmgjr56clagysx2ct5ucqlf4nq8hrqp23kfa`
+- **DRep ID (CIP-105)**: `drep1zj3lfl9vk9qycx7gau9w23v3pyhwy2yfg5ffdje6qemzwkl36au`
+- **DRep ID (CIP-129)**: `drep1yg228a8u4jc5qnqmerhs4e29jyyjac3g39z399kt8gr8vfc0ylw7s`
+- **Retired 2026 registration** (votes preserved in the swada.se history): CIP-105 `drep1dk4vjsku5yzf8xzzx6ysaxk8l2pypjkza8xq86dvcpaccdwje5r`, CIP-129 `drep1yfk64j2zmjssfyucggmgjr56clagysx2ct5ucqlf4nq8hrqp23kfa`
 - **Voting power**: pledge stake delegated to self-DRep
 
 ## How to use this metadata
