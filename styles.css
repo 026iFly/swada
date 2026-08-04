@@ -280,7 +280,7 @@ a:hover { color: var(--accent-deep); }
   color: var(--swedish-yellow);
   margin-bottom: 8px;
 }
-.drep-id {
+.drep-card .drep-id {
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
   font-size: 0.78rem;
   color: #FFFFFF;
