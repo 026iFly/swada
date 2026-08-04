@@ -282,27 +282,49 @@ async function fetchDrepVotes() {
 }
 
 // --- governance proposals from Koios ---------------------------------------
+function shapeProposal(p) {
+  const meta = p.meta_json?.body || {};
+  return {
+    id: `gov:${p.proposal_id}`,
+    proposal_id: p.proposal_id,
+    type: p.proposal_type,
+    proposed_epoch: p.proposed_epoch,
+    expiration_epoch: p.expiration,
+    title_en: (meta.title || "").trim() || `${p.proposal_type} proposal`,
+    // Long enough for the /forslag detail page; the index card trims further.
+    summary_en: (meta.abstract || "").trim().slice(0, 1400),
+    url: `https://gov.tools/governance_actions/${p.proposal_id}`,
+    block_time: p.block_time ? new Date(p.block_time * 1000).toISOString() : null,
+    deposit_ada: p.deposit ? Number(p.deposit) / 1_000_000 : null,
+  };
+}
+
 async function fetchProposals(limit = 8) {
   const url = `https://api.koios.rest/api/v1/proposal_list?dropped_epoch=is.null&expired_epoch=is.null&enacted_epoch=is.null&order=expiration.desc&limit=${limit}`;
   const resp = await fetch(url, { headers: { "User-Agent": UA } });
   if (!resp.ok) throw new Error(`Koios proposals: ${resp.status}`);
   const list = await resp.json();
-  return list.map((p) => {
-    const meta = p.meta_json?.body || {};
-    return {
-      id: `gov:${p.proposal_id}`,
-      proposal_id: p.proposal_id,
-      type: p.proposal_type,
-      proposed_epoch: p.proposed_epoch,
-      expiration_epoch: p.expiration,
-      title_en: (meta.title || "").trim() || `${p.proposal_type} proposal`,
-      // Long enough for the /forslag detail page; the index card trims further.
-      summary_en: (meta.abstract || "").trim().slice(0, 1400),
-      url: `https://gov.tools/governance_actions/${p.proposal_id}`,
-      block_time: p.block_time ? new Date(p.block_time * 1000).toISOString() : null,
-      deposit_ada: p.deposit ? Number(p.deposit) / 1_000_000 : null,
-    };
-  });
+  return list.map(shapeProposal);
+}
+
+// Every proposal iFly has voted on — regardless of whether it is still
+// active — for the /rostningar voting-history page.
+async function fetchVotedProposals(votesByProposal) {
+  const ids = Object.keys(votesByProposal);
+  if (!ids.length) return [];
+  const url = `https://api.koios.rest/api/v1/proposal_list?proposal_id=in.(${ids.join(",")})&limit=${ids.length}`;
+  const resp = await fetch(url, { headers: { "User-Agent": UA } });
+  if (!resp.ok) throw new Error(`Koios voted proposals: ${resp.status}`);
+  const list = await resp.json();
+  const statusOf = (p) =>
+    p.enacted_epoch != null ? "enacted"
+    : p.ratified_epoch != null ? "ratified"
+    : p.expired_epoch != null ? "expired"
+    : p.dropped_epoch != null ? "dropped"
+    : "active";
+  return list
+    .map((p) => ({ ...shapeProposal(p), status: statusOf(p), ifly_vote: votesByProposal[p.proposal_id] }))
+    .sort((a, b) => ((a.ifly_vote?.block_time || "") < (b.ifly_vote?.block_time || "") ? 1 : -1));
 }
 
 function mergeItems(existing, fresh, key = "id") {
@@ -378,8 +400,9 @@ async function main() {
   } catch (e) {
     console.error(`  Koios failed: ${e.message}`);
   }
+  let votes = {};
   try {
-    const votes = await fetchDrepVotes();
+    votes = await fetchDrepVotes();
     let matched = 0;
     for (const p of props) {
       if (votes[p.proposal_id]) {
@@ -394,6 +417,25 @@ async function main() {
   props = mergeItems(existingProps, props);
   await translateItems(props, "proposals");
   saveJSON(propsFile, { fetched_at: new Date().toISOString(), items: props });
+
+  console.log("\n=== Voting history ===");
+  const votesFile = path.join(DATA_DIR, "votes.json");
+  const existingVotes = loadJSON(votesFile)?.items || [];
+  let votedItems = [];
+  try {
+    votedItems = await fetchVotedProposals(votes);
+    console.log(`  fetched ${votedItems.length} voted proposals`);
+  } catch (e) {
+    console.error(`  Koios failed: ${e.message}`);
+  }
+  if (votedItems.length) {
+    votedItems = mergeItems(existingVotes, votedItems);
+    await translateItems(votedItems, "votes");
+    saveJSON(votesFile, { fetched_at: new Date().toISOString(), items: votedItems });
+  } else {
+    // A failed fetch must not wipe the archive.
+    console.log(`  keeping existing votes.json (${existingVotes.length} items)`);
+  }
 
   console.log("\n=== Pool stats ===");
   const statsFile = path.join(DATA_DIR, "pool-stats.json");

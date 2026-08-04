@@ -29,7 +29,10 @@
 
 <section class="section proposal-page">
   <div class="container proposal-container">
-    <a href="/#proposals" class="breadcrumb">← Alla aktuella förslag</a>
+    <p class="breadcrumb-row">
+      <a href="/#proposals" class="breadcrumb">← Aktuella förslag</a>
+      <a href="/rostningar" class="breadcrumb">Röstningshistorik</a>
+    </p>
     <div id="proposal-detail">
       <p class="muted feed-loading">Laddar förslag…</p>
     </div>
@@ -87,6 +90,12 @@
     "NoConfidence": "Misstroende",
     "NewCommittee": "Ny kommitté",
   };
+  const statusLabels = {
+    "ratified": ["status-done", "Ratificerad"],
+    "enacted": ["status-done", "Antagen"],
+    "expired": ["status-closed", "Löpte ut"],
+    "dropped": ["status-closed", "Tillbakadragen"],
+  };
 
   function renderDetail(p, note) {
     const title = p.title_sv || p.title_en;
@@ -97,7 +106,9 @@
     return `
       <div class="feed-card-meta proposal-head-meta">
         <span class="feed-source proposal-type">${escape(typeLabels[p.type] || p.type)}</span>
-        <span class="feed-date">Löper ut epok ${escape(p.expiration_epoch)}</span>
+        ${statusLabels[p.status]
+          ? `<span class="status-chip ${statusLabels[p.status][0]}">${statusLabels[p.status][1]}</span>`
+          : `<span class="feed-date">Löper ut epok ${escape(p.expiration_epoch)}</span>`}
         ${p.deposit_ada ? `<span class="feed-date">Deposit: ${p.deposit_ada.toLocaleString("sv-SE")} ₳</span>` : ""}
       </div>
       <h1 class="proposal-title">${escape(title)}</h1>
@@ -153,12 +164,22 @@
       if (!propsResp.ok) throw new Error(`HTTP ${propsResp.status}`);
       const items = (await propsResp.json()).items || [];
       const notes = notesResp?.ok ? await notesResp.json() : {};
-      const p = items.find((x) => x.proposal_id === id);
+      let p = items.find((x) => x.proposal_id === id);
+      if (!p) {
+        // Not an active proposal — check the voting-history archive.
+        try {
+          const votesResp = await fetch("/data/votes.json", { cache: "no-cache" });
+          if (votesResp.ok) {
+            p = ((await votesResp.json()).items || []).find((x) => x.proposal_id === id);
+          }
+        } catch { /* archive optional */ }
+      }
       if (!p) {
         el.innerHTML = `<h1 class="proposal-title">Förslaget hittades inte</h1>
-          <p>Det kan ha avslutats, dragits tillbaka eller trätt i kraft — endast pågående förslag visas här.
+          <p>Endast pågående förslag och förslag som iFly röstat på visas här.
           Se <a href="https://gov.tools" target="_blank" rel="noopener">gov.tools</a> för hela historiken,
-          eller gå tillbaka till <a href="/#proposals">aktuella förslag</a>.</p>`;
+          gå till <a href="/rostningar">röstningshistoriken</a>
+          eller tillbaka till <a href="/#proposals">aktuella förslag</a>.</p>`;
         return;
       }
       el.innerHTML = renderDetail(p, notes[p.proposal_id]);

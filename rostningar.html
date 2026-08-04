@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Röstningshistorik — SWADA</title>
+  <meta name="description" content="Alla styrningsförslag som DRep iFly har röstat på — med förklaring och motivering på svenska.">
+  <link rel="icon" type="image/png" href="/assets/iFly.png">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">
+      <img src="/assets/iFly.png" alt="SWADA-logotyp" width="40" height="40">
+      <span>SWADA</span>
+    </a>
+    <nav>
+      <a href="/#stakepool">Stakingpool</a>
+      <a href="/#drep">DRep</a>
+      <a href="/#performance">Statistik</a>
+      <a href="/#proposals">Förslag</a>
+      <a href="/#delegera">Delegera</a>
+    </nav>
+  </div>
+</header>
+
+<section class="section proposal-page">
+  <div class="container proposal-container">
+    <a href="/#proposals" class="breadcrumb">← Aktuella förslag</a>
+    <h1 class="proposal-title">Röstningshistorik</h1>
+    <p>Alla governance-förslag som DRep <strong>iFly</strong> har röstat på, nyast först.
+    Klicka på ett förslag för vår förklaring och motivering. Rösterna hämtas direkt från
+    Cardanos huvudkedja och uppdateras varje timme.</p>
+    <div id="votes-list">
+      <p class="muted feed-loading">Laddar röstningshistorik…</p>
+    </div>
+    <p class="feed-meta">Senast uppdaterat <span id="votes-updated">—</span>.
+    Alla röster kan verifieras på kedjan via <a href="https://gov.tools" target="_blank" rel="noopener">gov.tools</a>.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="container footer-inner">
+    <div class="footer-col">
+      <strong>SWADA</strong>
+      <p>Säker staking i norr.</p>
+      <p class="muted">© 2026 Pelle Stensson</p>
+    </div>
+    <div class="footer-col">
+      <strong>Cardano</strong>
+      <ul>
+        <li><a href="https://cardano.org" target="_blank" rel="noopener">cardano.org</a></li>
+        <li><a href="https://gov.tools" target="_blank" rel="noopener">gov.tools</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <strong>Mer av oss</strong>
+      <ul>
+        <li><a href="https://intellishares.io" target="_blank" rel="noopener">Intellishares</a></li>
+        <li><a href="https://github.com/026iFly/swada" target="_blank" rel="noopener">GitHub</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const escape = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const fmtDate = (iso) => {
+    if (!iso) return "";
+    return new Date(iso).toLocaleDateString("sv-SE", { day: "numeric", month: "short", year: "numeric" });
+  };
+  const voteBadge = (vote) => {
+    const map = {
+      "Yes": ["vote-yes", "JA"],
+      "No": ["vote-no", "NEJ"],
+      "Abstain": ["vote-abstain", "AVSTOD"],
+    };
+    const [cls, label] = map[vote] || ["vote-abstain", escape(vote)];
+    return `<span class="vote-badge ${cls}">${label}</span>`;
+  };
+  const typeLabels = {
+    "TreasuryWithdrawals": "Treasury-uttag",
+    "ParameterChange": "Parameterändring",
+    "HardForkInitiation": "Hard fork",
+    "InfoAction": "Informationsåtgärd",
+    "NewConstitution": "Ny konstitution",
+    "NoConfidence": "Misstroende",
+    "NewCommittee": "Ny kommitté",
+  };
+  const statusLabels = {
+    "active": ["status-active", "Pågår"],
+    "ratified": ["status-done", "Ratificerad"],
+    "enacted": ["status-done", "Antagen"],
+    "expired": ["status-closed", "Löpte ut"],
+    "dropped": ["status-closed", "Tillbakadragen"],
+  };
+  const statusChip = (status) => {
+    const [cls, label] = statusLabels[status] || ["status-closed", escape(status || "")];
+    return status ? `<span class="status-chip ${cls}">${label}</span>` : "";
+  };
+
+  async function load() {
+    const el = document.getElementById("votes-list");
+    try {
+      const r = await fetch("/data/votes.json", { cache: "no-cache" });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const j = await r.json();
+      const items = j.items || [];
+      if (!items.length) {
+        el.innerHTML = '<p class="muted">Inga röster registrerade ännu.</p>';
+        return;
+      }
+      el.innerHTML = `<ul class="vote-rows">` + items.map((p) => `
+        <li>
+          <a class="vote-row" href="/forslag?id=${encodeURIComponent(p.proposal_id)}">
+            <div class="vote-row-badge">${p.ifly_vote ? voteBadge(p.ifly_vote.vote) : ""}</div>
+            <div class="vote-row-main">
+              <span class="vote-row-title">${escape(p.title_sv || p.title_en)}</span>
+              <span class="vote-row-meta">
+                ${escape(typeLabels[p.type] || p.type)}
+                ${p.ifly_vote?.block_time ? ` · röstade ${escape(fmtDate(p.ifly_vote.block_time))}` : ""}
+              </span>
+            </div>
+            ${statusChip(p.status)}
+          </a>
+        </li>`).join("") + `</ul>`;
+      if (j.fetched_at) {
+        document.getElementById("votes-updated").textContent =
+          new Date(j.fetched_at).toLocaleString("sv-SE", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" });
+      }
+    } catch (e) {
+      el.innerHTML = `<p class="muted">Kunde inte ladda röstningshistoriken (${escape(e.message)}).</p>`;
+    }
+  }
+  load();
+</script>
+
+</body>
+</html>
