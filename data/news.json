@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-04T06:36:19.023Z",
+  "fetched_at": "2026-08-04T09:44:58.977Z",
   "items": [
+    {
+      "id": "forum:156103",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #72 - IBC on Cardano: Connecting to Injective (7 August)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-72-ibc-on-cardano-connecting-to-injective-7-august/156103",
+      "date": "2026-08-04T09:27:06.651Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Utvecklarnas kontorstid #72 - IBC på Cardano: Anslutning till Injective (7 augusti)",
+      "summary_sv": "",
+      "_title_sha": "177a3bdcde16",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156102",
+      "source": "Cardano Forum",
+      "title_en": "The Hi-Tech City With No Walls: Social Mercenaries and the Failure of Token Enforcement",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-hi-tech-city-with-no-walls-social-mercenaries-and-the-failure-of-token-enforcement/156102",
+      "date": "2026-08-04T08:54:37.379Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Den högteknologiska staden utan väggar: sociala legosoldater och misslyckandet med token-verkställighet",
+      "summary_sv": "",
+      "_title_sha": "8c6b3f06df28",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156099",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Project Catalyst: Ny standard",
       "summary_sv": "",
       "_title_sha": "a82ccf072626",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156088",
-      "source": "Cardano Forum",
-      "title_en": "The Economic Web of Trust: Adaptive Sybil Resistance",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-economic-web-of-trust-adaptive-sybil-resistance/156088",
-      "date": "2026-08-03T14:40:45.956Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Den ekonomiska tillitswebben: adaptiv Sybil-resistens",
-      "summary_sv": "",
-      "_title_sha": "832c5798d3db",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156078",
-      "source": "Cardano Forum",
-      "title_en": "Cardano解説漫画「ことりびより第49話~Cardanoの今を知ろう！~」",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-49-cardano/156078",
-      "date": "2026-08-03T04:25:03.178Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano-förklaringsmanga „Kotori-biyori” avsnitt 49 ~ Lär känna Cardanos nuvarande läge! ~",
-      "summary_sv": "",
-      "_title_sha": "cc53216af533",
       "_summary_sha": ""
     },
     {
