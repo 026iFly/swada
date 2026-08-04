@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T19:51:19.071Z",
+  "fetched_at": "2026-08-04T21:23:21.755Z",
   "items": [
     {
       "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
@@ -239,7 +239,7 @@
         "rationale_sv": ""
       },
       "title_sv": "IO: Cardano hög säkerhet teknisk samarbete",
-      "summary_sv": "",
+      "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmQBhjELHaMKhYZjwuskHS9NRyvUdiGv69aK8C1H787c5A](https://ipnso-com.ipns.dweb.link/?cid=QmQBhjELHaMKhYZjwuskHS9NRyvUdiGv69aK8C1H787c5A)\n\nCardanos starkaste differentiera är fokus på säkerhet och korrekthet, men verktygen som uppfyller löftet har hittills varit domänen för revisorer och experter på formella metoder. Detta förslag sänker barriären: det tar automatiserad formell verifiering och hela högsäkerhetsverktyget inom räckhåll för varje Cardano-utvecklare.\n\nTvå arbetsströmmar levererar detta. Den första utökar Blaster, IO:s öppen källkod-verktyg för automatiserad formell verifiering, från verifikation av enskilda skript till full verifikation på DApp-nivå. Blaster har redan använts för att bevisa korrekthets-egenskaper hos produktions-DApps inklusive Djed och USDCx, och har fått stark återkoppling från Cardano-utvecklargemenskapen. Idag kräver utbyggnaden av dessa resultat till en hel DApp manuell uppdelning av egenskaper och verifiering av varje skript i isolering. Detta förslag tar bort det manuella arbetet genom att automatisera verifiering på DApp-nivå. Det ansluter också Blaster till fyra smarta kontrakt-språk (Aiken, Pebble, Scalus och Futura), så att utvecklare kan kalla verifiering direkt från sin inbyggda verktygskedja. Det levererar en VS Code-tillägg med visuell felregel-sökning (counterexample exploration) och inline verifieringsfeedback, och skapar en Common V",
       "_title_sha": "2dad633f3cd1",
       "_summary_sha": "c9651ae227a8"
     },
@@ -260,8 +260,8 @@
         "block_time": "2026-05-24T20:29:16.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "IO & Midgard Labs: L2 Scalability Initiative",
+      "summary_sv": "Förslag i pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmYfHrmfTKYGK9YR95ewXSwEruEfGPAtpnp1qwoEUekJa7](https://ipnso-com.ipns.dweb.link/?cid=QmYfHrmfTKYGK9YR95ewXSwEruEfGPAtpnp1qwoEUekJa7)\n\nCardanos nuvarande L1-infrastruktur — tvåtimmars finalitet, cirka $0,17 per transaktion och cirka 7–10 TPS, utesluter systematiskt högpresterande vertikaler som DeFi, AI-agentmikbetalningar, spel och konsumentbetalningar innan en teknisk utvärdering ens börjar. Kommande L1-uppgraderingar (Leios, Peras) kommer att stärka baslagret men ensamma uppfyller de krav som zero-fee eller undersekundens användningsfall ställer. Layer 2-infrastruktur är den enda vägen att stänga denna klyfta i nuvarande cykel.\n\nDetta förslag, lett av Input Output i partnerskap med Midgard Labs, levererar tre kompletterande arbetsströmmar: delad L2-agnostisk infrastruktur (en data tillgänglighetslösning som gynnar alla nuvarande och framtida Cardano L2s); produktionstätning av Hydra, inklusive prestandaoptimering, operativ verktygslåda och DeFi-referensimplementationer för att stödja live-användare Delta DeFi och Masumi; samt lansering av mainnet för Midgard, Cardanos första tillståndsfria optimistiska rollup, med målet att nå 10 000+ TPS och under $0,01 i avgifter för öppet deltagande applikationer. Hydra och Midgard är inte konkurrerande lösningar — de adresserar olika tillitsmodeller och tillsammans täcker de ett mycket bredare spektrum av användningsfall än vad någon av dem skulle göra själva.",
       "_title_sha": "ed97116803ed",
       "_summary_sha": "758ba11cbb54"
     },
@@ -282,8 +282,8 @@
         "block_time": "2026-05-24T20:21:26.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "IO & Ensurable Systems: Cardano Maintenace Initiative",
+      "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmYKV7vbX9pwNxst2qWpmtM2k6LRJB4NKKNFJSQyh7zojz](https://ipnso-com.ipns.dweb.link/?cid=QmYKV7vbX9pwNxst2qWpmtM2k6LRJB4NKKNFJSQyh7zojz)\n\nVarje funktion, uppgradering och innovation som föreslås för Cardano beror på en stabil, säker och välunderhållen plattform underliggande. Detta förslag finansierar den grunden — kontinuerligt kärnunderhåll och operativt stöd från Q3 2026 till Q1 2027.\n\nUnderhåll är inte diskretionärt. Det täcker nio funktionella områden som tillsammans utgör det fullständiga stödsåttet för Cardano: buggfixering och säkerhetsgranskningar, CI/CD och infrastrukturdrift (inklusive katastrofåterställning enligt CIP-135), mainnet- och mempoolövervakning, Cardano Blueprint-dokumentationsprojektet, öppen-källkods-community-stöd, systematisk prestationsanalys och optimering, kvalitetssäkring och release-sign-off, full node-releasehantering med L1/L2/L3-incidentrespons, samt komponentunderhåll över Plutus Core, DB-Sync, guardrails-skript, APIs och CLI-verktyg.\n\nVärdet är både skyddande och möjliggörande. På den skyddande sidan säkerställer arbetet nätverksdrift, snabb incidentlösning och proaktiv säkerhetsförstärkning genom samarbete med Intersect Security Council. På den möjliggörande sidan levererar det Cardano Blueprint — implementationsoberoende specifikationer som sänker tröskeln för alternativa...",
       "_title_sha": "548a3f820523",
       "_summary_sha": "ee640fa40e22"
     },
@@ -381,8 +381,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 607,
       "expiration_epoch": 614,
-      "title_en": "Cardano DeFi Liquidity Budget - Withdrawal 1",
-      "summary_en": "As outline in the DeFi Liquidity Budget Info Action, this first withdrawal action requests 500,000 ADA from the Cardano Treasury to establish the legal framework and smart contract infrastructure required for the Stablecoin DeFi Liquidity Budget as approved by the Cardano Community. This withdrawal covers three critical components: (1) establishment of a Cayman Islands Foundation Company as the legal vehicle for fund management, (2) development of the administrating smart contract and user interfaces, and (3) comprehensive security audit of the smart contract system.\n\nAll funds will be initially received by an Amaru contract administered by the 9-person Interim Committee with a 5-of-9 multisignature requirement. Funds will be disbursed to service providers upon completion of agreed milestones as detailed in this proposal.",
+      "title_en": "TreasuryWithdrawals proposal",
+      "summary_en": "",
       "url": "https://gov.tools/governance_actions/gov_action1fvgw27fjpr9c7g582mszzyez0jgkqgjgatzdnyngrg8wwc9kcn3qqxtz8r7",
       "block_time": "2026-01-15T03:32:00.000Z",
       "deposit_ada": 100000,
@@ -394,7 +394,7 @@
       },
       "title_sv": "",
       "summary_sv": "",
-      "_title_sha": "254b4b7ec8c2",
+      "_title_sha": "e881a7cf9210",
       "_summary_sha": "07c202332723"
     },
     {
