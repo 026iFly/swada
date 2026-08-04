@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-03T23:14:29.795Z",
+  "fetched_at": "2026-08-04T03:30:13.179Z",
   "items": [
+    {
+      "id": "forum:156099",
+      "source": "Cardano Forum",
+      "title_en": "Renforcer l'adoption de Cardano en Afrique francophone : recherche scientifique, innovation et engagement communautaire au cœur de notre mission",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/renforcer-ladoption-de-cardano-en-afrique-francophone-recherche-scientifique-innovation-et-engagement-communautaire-au-coeur-de-notre-mission/156099",
+      "date": "2026-08-04T00:53:43.273Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Stärka adoptionen av Cardano i franskspråkiga Afrika: vetenskaplig forskning, innovation och samhällsengagemang i hjärtat av vår mission",
+      "summary_sv": "",
+      "_title_sha": "e77105013b02",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156094",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano-förklaringsmanga „Kotori-biyori” avsnitt 49 ~ Lär känna Cardanos nuvarande läge! ~",
       "summary_sv": "",
       "_title_sha": "cc53216af533",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156069",
-      "source": "Cardano Forum",
-      "title_en": "2026년 7월 카르다노 소식: 보안 이슈",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-7/156069",
-      "date": "2026-08-03T03:10:16.636Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "2026 juli Cardano-nyheter: säkerhetsproblem",
-      "summary_sv": "",
-      "_title_sha": "468c35b24924",
       "_summary_sha": ""
     },
     {
