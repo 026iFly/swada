@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-04T16:09:01.278Z",
+  "fetched_at": "2026-08-04T17:59:36.523Z",
   "items": [
+    {
+      "id": "forum:156113",
+      "source": "Cardano Forum",
+      "title_en": "Transformasi Besar Ekosistem Cardano: Mengatasi Kendala Pendanaan Infrastruktur",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/transformasi-besar-ekosistem-cardano-mengatasi-kendala-pendanaan-infrastruktur/156113",
+      "date": "2026-08-04T16:49:46.985Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Transformering av Cardano-ekosystemet: Att övervinna finansieringshinder för infrastruktur",
+      "summary_sv": "",
+      "_title_sha": "18d101683f97",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156112",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Billeteras en 2026 | CH 3 Ago 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-billeteras-en-2026-ch-3-ago-2026/156112",
+      "date": "2026-08-04T16:24:19.885Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANISH DUBBING Billeteras en 2026 | CH 3 Ago 2026",
+      "summary_sv": "",
+      "_title_sha": "20f951c02335",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156105",
       "source": "Cardano Forum",
@@ -65,7 +93,7 @@
       "url": "https://forum.cardano.org/t/trouble-redeem-night/156094",
       "date": "2026-08-03T21:19:25.654Z",
       "score": 0,
-      "comments": 2,
+      "comments": 4,
       "title_sv": "Problem att lösen natt",
       "summary_sv": "",
       "_title_sha": "a4c5d6da4579",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano och Injective blir interoperabla: vad betyder det egentligen?",
       "summary_sv": "",
       "_title_sha": "974ae86a7378",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156091",
-      "source": "Cardano Forum",
-      "title_en": "Constitutional Committee: AACC Pave the Road to Governance till Now",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/constitutional-committee-aacc-pave-the-road-to-governance-till-now/156091",
-      "date": "2026-08-03T16:15:37.703Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Konstitutionell kommitté: AACC banar vägen till governance tills nu",
-      "summary_sv": "",
-      "_title_sha": "ca40a22c6a0a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156090",
-      "source": "Cardano Forum",
-      "title_en": "Constitutional Committee Result: New Heights",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/constitutional-committee-result-new-heights/156090",
-      "date": "2026-08-03T16:03:12.299Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Konstitutionell kommittés resultat: Nya höjder",
-      "summary_sv": "",
-      "_title_sha": "b1a73f7985ce",
       "_summary_sha": ""
     },
     {
