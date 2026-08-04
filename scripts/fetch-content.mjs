@@ -30,6 +30,12 @@ const TRANSLATE_ENDPOINT = "https://ai-gateway.vercel.sh/v1/chat/completions";
 
 const UA = "swada-bot/1.0 (+https://swada.se)";
 
+// Every network call gets a deadline — the job runs under a 10-minute CI
+// timeout, and one unresponsive host (e.g. a dead vote-anchor URL) must not
+// hang the whole refresh.
+const fetchT = (url, opts = {}, ms = 20_000) =>
+  fetch(url, { ...opts, signal: AbortSignal.timeout(ms) });
+
 const sha = (s) => crypto.createHash("sha256").update(s).digest("hex").slice(0, 12);
 const loadJSON = (f) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch { return null; } };
 const saveJSON = (f, d) => fs.writeFileSync(f, JSON.stringify(d, null, 2) + "\n");
@@ -63,14 +69,14 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
     // Retry with backoff on 429 (rate limit) and 5xx (transient)
     let resp;
     for (let attempt = 0; attempt < 4; attempt++) {
-      resp = await fetch(TRANSLATE_ENDPOINT, {
+      resp = await fetchT(TRANSLATE_ENDPOINT, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
           "Authorization": `Bearer ${AI_KEY}`,
         },
         body: JSON.stringify(body),
-      });
+      }, 90_000);
       if (resp.ok) break;
       if (resp.status !== 429 && resp.status < 500) break;
       const wait = 1500 * (2 ** attempt) + Math.floor(Math.random() * 500);
@@ -100,7 +106,7 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
 // --- news source 1: Cardano Forum (Discourse JSON API) ---------------------
 async function fetchCardanoForum(limit = 8) {
   const url = "https://forum.cardano.org/latest.json?order=created";
-  const resp = await fetch(url, {
+  const resp = await fetchT(url, {
     headers: { "User-Agent": UA, "Accept": "application/json" },
   });
   if (!resp.ok) throw new Error(`forum.cardano.org: ${resp.status}`);
@@ -119,7 +125,7 @@ async function fetchCardanoForum(limit = 8) {
 
 // --- news source 2: AdaPulse RSS ------------------------------------------
 async function fetchAdaPulse(limit = 5) {
-  const resp = await fetch("https://adapulse.io/feed/", {
+  const resp = await fetchT("https://adapulse.io/feed/", {
     headers: { "User-Agent": UA, "Accept": "application/rss+xml" },
   });
   if (!resp.ok) throw new Error(`adapulse: ${resp.status}`);
@@ -164,7 +170,7 @@ async function fetchAdaPulse(limit = 5) {
 const POOL_ID_BECH32 = "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc";
 
 async function fetchPoolStats() {
-  const infoResp = await fetch("https://api.koios.rest/api/v1/pool_info", {
+  const infoResp = await fetchT("https://api.koios.rest/api/v1/pool_info", {
     method: "POST",
     headers: { "Content-Type": "application/json", "User-Agent": UA },
     body: JSON.stringify({ _pool_bech32_ids: [POOL_ID_BECH32] }),
@@ -185,7 +191,7 @@ async function fetchPoolStats() {
     pool_status: i.pool_status,
   };
 
-  const histResp = await fetch(
+  const histResp = await fetchT(
     `https://api.koios.rest/api/v1/pool_history?_pool_bech32=${POOL_ID_BECH32}&order=epoch_no.desc&limit=10`,
     { headers: { "User-Agent": UA } },
   );
@@ -198,12 +204,12 @@ async function fetchPoolStats() {
   let current_epoch = null;
   let recent_blocks = [];
   try {
-    const tipResp = await fetch("https://api.koios.rest/api/v1/tip", {
+    const tipResp = await fetchT("https://api.koios.rest/api/v1/tip", {
       headers: { "User-Agent": UA },
     });
     if (tipResp.ok) current_epoch = (await tipResp.json())[0]?.epoch_no ?? null;
 
-    const blocksResp = await fetch(
+    const blocksResp = await fetchT(
       `https://api.koios.rest/api/v1/blocks?pool=eq.${POOL_ID_BECH32}&order=block_height.desc&limit=5`,
       { headers: { "User-Agent": UA } },
     );
@@ -246,7 +252,7 @@ function extractSwedish(text) {
 
 async function fetchDrepVotes() {
   for (const drepId of DREP_IDS) {
-    const resp = await fetch(
+    const resp = await fetchT(
       `https://api.koios.rest/api/v1/vote_list?voter_role=eq.DRep&voter_id=eq.${drepId}&order=block_time.desc&limit=100`,
       { headers: { "User-Agent": UA } },
     );
@@ -263,7 +269,7 @@ async function fetchDrepVotes() {
         v.meta_json?.body?.comment || v.meta_json?.body?.rationale || "";
       if (!rationaleRaw && /^https?:\/\//.test(v.meta_url || "")) {
         try {
-          const metaResp = await fetch(v.meta_url, { headers: { "User-Agent": UA } });
+          const metaResp = await fetchT(v.meta_url, { headers: { "User-Agent": UA } }, 10_000);
           if (metaResp.ok) {
             const meta = await metaResp.json();
             rationaleRaw = meta?.body?.comment || meta?.body?.rationale || "";
@@ -301,7 +307,7 @@ function shapeProposal(p) {
 
 async function fetchProposals(limit = 8) {
   const url = `https://api.koios.rest/api/v1/proposal_list?dropped_epoch=is.null&expired_epoch=is.null&enacted_epoch=is.null&order=expiration.desc&limit=${limit}`;
-  const resp = await fetch(url, { headers: { "User-Agent": UA } });
+  const resp = await fetchT(url, { headers: { "User-Agent": UA } });
   if (!resp.ok) throw new Error(`Koios proposals: ${resp.status}`);
   const list = await resp.json();
   return list.map(shapeProposal);
@@ -313,7 +319,7 @@ async function fetchVotedProposals(votesByProposal) {
   const ids = Object.keys(votesByProposal);
   if (!ids.length) return [];
   const url = `https://api.koios.rest/api/v1/proposal_list?proposal_id=in.(${ids.join(",")})&limit=${ids.length}`;
-  const resp = await fetch(url, { headers: { "User-Agent": UA } });
+  const resp = await fetchT(url, { headers: { "User-Agent": UA } });
   if (!resp.ok) throw new Error(`Koios voted proposals: ${resp.status}`);
   const list = await resp.json();
   const statusOf = (p) =>
