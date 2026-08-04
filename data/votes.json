@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T15:41:52.469Z",
+  "fetched_at": "2026-08-04T16:10:40.474Z",
   "items": [
     {
       "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
@@ -41,7 +41,7 @@
         "rationale_sv": "iFly (SWADA) röstar JA. Cardano PRIME angriper Cardanos största adoptionshinder: tunn DeFi-likviditet, som är självförstärkande — dåliga handelsvillkor avskräcker användare, vilket avskräcker byggare, vilket håller likviditeten tunn. Tre egenskaper gör storleken 120 000 000 ADA acceptabel för mig: (1) den är fasindelad — den stora incitamentsdelen på ~90 000 000 ADA betalas ut först efter en beslutspunkt i månad 4 och stannar annars i statskassan; (2) den är denominerad i ada, så statskassan bär ingen dollarkursrisk; och (3) medlen förvaras i ett Intersect-administrerat reservkontrakt på oberoende granskade verktyg, inte direkt till operatören.\nInvändningar: ~30 000 000 ADA för de tidiga faserna och den fasta avgiften är bundna i förväg oavsett resultat; prestationsavgiften kan utlösas av likviditet som behållits i endast 30 dagar; och den oberoende granskaren namngavs inte före omröstningen. Jag röstar JA i förväntan att dessa kontroller skärps under genomförandet, och jag stödjer mekanismerna för återföring och avveckling om delmål missas. Min farhåga gäller genomförandet, inte avsikten."
       },
       "title_sv": "Ta ut 120 000 000 ada för AlphaGrowths Cardano PRIME",
-      "summary_sv": "",
+      "summary_sv": "Denna treasury-uttag finansierar Cardano PRIME, ett 12-månader långt program övervakat av samhället för att förbättra DeFi-protokollberedskap, ansvarsfullt aktivera incitament och öka hållbar likviditet över Cardano-marknader. Uttaget uppgår till ₳120,000,000, med USD-siffror inkluderade endast som planeringsreferenser vid antagandet $0.16/ADA.\n\nPRIME genomförs av AlphaGrowth under insyn av Operating Group. Intersect fungerar som Constitutional Administrator och förvaltar de utburna medlen direkt. Programmedel frigörs genom milstolpe- och åtgärdsstyrda processer, inklusive en Month 4 Phase 3-utgåttsgrind, publicerade rekommendationer och utbetalningsregister, oberoende revision eller säkerställningsfinansiering, ett separat auditerbart konto, abstain-delegation medan medlen hålls före utbetalning, samt återkallande till treasury vid oanvända, oförtjänta eller oreleased medel.\n\nDetta uttag är villkorat av att ett tillämpligt Net Change Limit har överenskommits enligt TREASURY-01a och att det finns tillräcklig återstående kapacitet att täcka uttaget i sin helhet vid ikraftträdandet.",
       "_title_sha": "bd1fea21e0c0",
       "_summary_sha": "472979604398"
     },
@@ -62,8 +62,8 @@
         "block_time": "2026-08-03T07:54:15.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Namnge protokollversion 12-hårdförgreningen “von Bergen”",
+      "summary_sv": "Denna informationsåtgärd föreslår att Protocol Version 12-hard fork namnges ”von Bergen” som en hyllning och erkännande till Fabian von Bergen, även känd som Zyroxa.\n\nFabian har varit en Cardano-samhällsmedlem sedan ITN, en alltid kritisk, ärlig och sansad röst i Cardanos historia som introducerade och vägledde många genom Cardano-ekosystemet, en välkänd person på Cardano Forum, även SPO för Tempus Stake Pool och Cardano-ambassadör sedan programmets tidiga dagar.",
       "_title_sha": "06f6be44b3b7",
       "_summary_sha": "b799cf6838c0"
     },
@@ -84,8 +84,8 @@
         "block_time": "2026-08-03T07:52:13.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Minska minPoolCost till 75 ada och öka Plutus Memory Limits (Del 2)",
+      "summary_sv": "Intersect's Parameter Committee föreslår en enda Parameter Update governance action som bundler två oberoende, tidigare rekommenderade protokollparameterändringar:\n\n1. minPoolCost: sänk `minPoolCost` från 170,000,000 Lovelace (170 ada) till 75,000,000 Lovelace (75 ada), en minskning med cirka 55,9%.\n2. Plutus memory unit limits (Part 2 of 2): öka maxTxExecutionUnits[memory] från 16,500,000 till 17,500,000 enheter (+6,1%) och maxBlockExecutionUnits[memory] från 72,000,000 till 77,500,000 enheter (+7,6%), vilket avslutar den tvåstegiga, kumulativa 25% ökning av båda parametrarna som påbörjades i den länkade Part 1-åtgärden.\n\nDessa två förändringar är i övrigt orelaterade: en sänker fixed-fee-floors för stake pool, den andra ökar Plutus-skriptkörningskapaciteten. Förändringarna är bundna här för effektiva inlämningar och för att tillåta SPOs att lämna synpunkter på `minPoolCost`. Inga andra protokollparameterar eller Plutus-kostnadsmodellinställningar ändras av denna åtgärd.",
       "_title_sha": "512f3bbd2435",
       "_summary_sha": "34cd96c7b50b"
     },
@@ -381,8 +381,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 607,
       "expiration_epoch": 614,
-      "title_en": "Cardano DeFi Liquidity Budget - Withdrawal 1",
-      "summary_en": "As outline in the DeFi Liquidity Budget Info Action, this first withdrawal action requests 500,000 ADA from the Cardano Treasury to establish the legal framework and smart contract infrastructure required for the Stablecoin DeFi Liquidity Budget as approved by the Cardano Community. This withdrawal covers three critical components: (1) establishment of a Cayman Islands Foundation Company as the legal vehicle for fund management, (2) development of the administrating smart contract and user interfaces, and (3) comprehensive security audit of the smart contract system.\n\nAll funds will be initially received by an Amaru contract administered by the 9-person Interim Committee with a 5-of-9 multisignature requirement. Funds will be disbursed to service providers upon completion of agreed milestones as detailed in this proposal.",
+      "title_en": "TreasuryWithdrawals proposal",
+      "summary_en": "",
       "url": "https://gov.tools/governance_actions/gov_action1fvgw27fjpr9c7g582mszzyez0jgkqgjgatzdnyngrg8wwc9kcn3qqxtz8r7",
       "block_time": "2026-01-15T03:32:00.000Z",
       "deposit_ada": 100000,
@@ -394,7 +394,7 @@
       },
       "title_sv": "",
       "summary_sv": "",
-      "_title_sha": "254b4b7ec8c2",
+      "_title_sha": "e881a7cf9210",
       "_summary_sha": "07c202332723"
     },
     {
