@@ -41,6 +41,12 @@ const loadJSON = (f) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); }
 const saveJSON = (f, d) => fs.writeFileSync(f, JSON.stringify(d, null, 2) + "\n");
 
 // --- translation via AI Gateway --------------------------------------------
+// Circuit breaker: when the gateway is hard rate-limited (free-tier quota
+// exhausted), every call 429s and the per-text retries would stall the job
+// for minutes. After 3 consecutive rate-limited texts we stop calling the
+// gateway for the rest of the run; untranslated items retry next run.
+let consecutiveRateLimits = 0;
+
 async function translateToSwedish(text, prevTranslation, prevHash) {
   if (!text || !text.trim()) return { sv: "", hash: "" };
   const inputHash = sha(text);
@@ -48,6 +54,9 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
     return { sv: prevTranslation, hash: inputHash };
   }
   if (!AI_KEY) {
+    return { sv: "", hash: inputHash, untranslated: true };
+  }
+  if (consecutiveRateLimits >= 3) {
     return { sv: "", hash: inputHash, untranslated: true };
   }
   const sys = "Du är en professionell översättare som översätter Cardano-blockchain-innehåll från engelska till svenska. Behåll tekniska termer (DRep, stake, pool, ADA, Cardano, smart contract, blockchain, treasury, governance action, m.fl.) på engelska där de är vedertagna. Översätt kortfattat, sakligt och korrekt. Returnera ENDAST den svenska översättningen, ingen kommentar, ingen formatering.";
@@ -85,8 +94,15 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
     if (!resp.ok) {
       const err = await resp.text().catch(() => "");
       console.error(`  translate failed (${resp.status}): ${err.slice(0,200)}`);
+      if (resp.status === 429) {
+        consecutiveRateLimits++;
+        if (consecutiveRateLimits === 3) {
+          console.error("  gateway hard rate-limited — skipping remaining translations this run");
+        }
+      }
       return { sv: "", hash: inputHash, untranslated: true };
     }
+    consecutiveRateLimits = 0;
     // Small inter-call pacing to be a good citizen on shared free tier.
     await new Promise((r) => setTimeout(r, 300));
     const data = await resp.json();
