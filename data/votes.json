@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T21:23:21.755Z",
+  "fetched_at": "2026-08-04T23:15:05.800Z",
   "items": [
     {
       "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
@@ -304,8 +304,8 @@
         "block_time": "2026-05-24T20:19:13.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "IO: Konsensusinitiativet",
+      "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmPdBp8QjKaPdYdvwLxzDiCxX85hGx8H6rxbSvTTuLkcx2](https://ipnso-com.ipns.dweb.link/?cid=QmPdBp8QjKaPdYdvwLxzDiCxX85hGx8H6rxbSvTTuLkcx2)\n\nCardano behöver ett betydande genomslag i genomströmning för att uppnå sina 2030-års ambitioner, och Leios är vägen dit. Detta förslag finansierar vägen från offentliga testnät till en mainnet‑klar release candidate – och levererar en ökning i transaktionskapacitet på 10–65×.\n\nVarför denna skala är viktig: Cardanos 2030-strategi siktar på tillväxt från ungefär 800 000 månatliga transaktioner till över 27 miljoner. Vid hållbara nyttjandegrader krävs minst 6× nuvarande kapacitet. Leios levererar 10× eller mer – vilket ger betydande utrymme att växa. Den fungerar genom att förbättra Cardanos befintliga Ouroboros Praos‑konsensus med Endorser Blocks och kommittébaserad validering, vilket ökar genomströmningen utan att kompromissa med decentralisering eller göra stake pool‑verksamheten ohållbar.\n\nDen nuvarande budgetcykeln (som slutar juni 2026) levererar ett tidigt offentligt testnät. Detta förslag fortsätter därifrån och fokuserar på tre mål. Först, en release candidate: mogna implementeringen genom avsevärd ingenjörskonst, överensstämmelseprovning mot formella specifikationer och integration i primära noden. För det andra, hög tillförlitlighet: systematisk validering genom parametrarutforskning, belastningstestning och adversarial red‑teaming på det offentliga testnätet. Detta…",
       "_title_sha": "1456058feac6",
       "_summary_sha": "b06bf5bee4e4"
     },
@@ -326,7 +326,7 @@
         "block_time": "2026-05-24T20:12:08.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
+      "title_sv": "IO: Cardano-uppgraderingar",
       "summary_sv": "Föreslagna som pdf:[https://ipnso-com.ipns.dweb.link/?cid=QmXD6eoaFWrRoubFfvB2vSmLGbhVa66DbM9xw2dH1htRYK](https://ipnso-com.ipns.dweb.link/?cid=QmXD6eoaFWrRoubFfvB2vSmLGbhVa66DbM9xw2dH1htRYK)\n\nDetta förslag levererar tre samordnade initiativ som tillsammans utökar Cardanos ekonomiska modeller, stärker långsiktig Treasury-resiliens och tar bort en av de största hindren för bred användning, nämligen kravet på att inneha ADA innan transaktion.\n\nVarje arbetsflöde riktar sig mot en annan dimension av denna möjlighet. Först uppgraden CIP-159 Account Address Enhancement hur Cardano hanterar kontoadresser. Detta gör att plånböcker kan samla in mikrosavgifter (för närvarande blockerade av ett minimikrav på insättning), gör DeFi-applikationer billigare för slutanvändare och ger byggstenar för Layer 2-skalningslösningar för att hantera användarfonder. För det andra börjar Multi-Asset Treasury designsarbetet för att låta Cardano Treasury hålla stablecoins och andra inhemska tillgångar bredvid ADA, vilket skyddar finansieringsprocessen från prisvolatilitet och öppnar nya finansiella modeller för ekosystemet. Slutligen låter Babel Fees användare betala transaktionsavgifter i vilken Cardano-inhemsk tillgång som helst (såsom USDC eller förbundna BTC) istället för att kräva ADA, vilket tar bort en nyckelfrictionpunkt för nya användare som går in i ekosystemet.\n\nTillsammans frigör dessa initiativ nya plånboks- och DeFi-innovatörer, stärker Treasury:s finansiella position.",
       "_title_sha": "dcc929c89b43",
       "_summary_sha": "5818f584e236"
@@ -381,8 +381,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 607,
       "expiration_epoch": 614,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Cardano DeFi Liquidity Budget - Withdrawal 1",
+      "summary_en": "As outline in the DeFi Liquidity Budget Info Action, this first withdrawal action requests 500,000 ADA from the Cardano Treasury to establish the legal framework and smart contract infrastructure required for the Stablecoin DeFi Liquidity Budget as approved by the Cardano Community. This withdrawal covers three critical components: (1) establishment of a Cayman Islands Foundation Company as the legal vehicle for fund management, (2) development of the administrating smart contract and user interfaces, and (3) comprehensive security audit of the smart contract system.\n\nAll funds will be initially received by an Amaru contract administered by the 9-person Interim Committee with a 5-of-9 multisignature requirement. Funds will be disbursed to service providers upon completion of agreed milestones as detailed in this proposal.",
       "url": "https://gov.tools/governance_actions/gov_action1fvgw27fjpr9c7g582mszzyez0jgkqgjgatzdnyngrg8wwc9kcn3qqxtz8r7",
       "block_time": "2026-01-15T03:32:00.000Z",
       "deposit_ada": 100000,
@@ -392,9 +392,9 @@
         "block_time": "2026-02-10T17:39:54.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
-      "_title_sha": "e881a7cf9210",
+      "title_sv": "Cardano DeFi-likviditetsbudget – Uttag 1",
+      "summary_sv": "Som framställs i DeFi Liquidity Budget Info Action begär denna första uttagsåtgärd 500 000 ADA från Cardano Treasury för att etablera rättslig ram och smart contract-infrastruktur som krävs för Stablecoin DeFi Liquidity Budget, som godkänts av Cardano Community. Detta uttag täcker tre kritiska komponenter: (1) upprättande av en Cayman Islands Foundation Company som det juridiska fordonet för fondsförvaltning, (2) utveckling av den administrerande smart contracten och användargränssnitten, och (3) omfattande säkerhetsrevision av smart contract-systemet.\n\nAlla medel kommer initialt att mottas av ett Amaru-kontrakt som administreras av Interim Committee med 9 personer och en multisignatur-uppsättning 5 av 9. Medlen kommer att utbetalas till tjänsteleverantörer vid slutförande av överenskomna milstolpar enligt detaljerna i detta förslag.",
+      "_title_sha": "254b4b7ec8c2",
       "_summary_sha": "07c202332723"
     },
     {
