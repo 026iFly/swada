@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T12:09:27.496Z",
+  "fetched_at": "2026-08-04T15:01:41.569Z",
   "summary": {
     "pool_id_bech32": "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc",
     "active_stake": "126180276469",
@@ -12,6 +12,39 @@
     "sigma": 0.000005888415801045588,
     "pool_status": "registered"
   },
+  "current_epoch": 647,
+  "recent_blocks": [
+    {
+      "epoch_no": 643,
+      "block_height": 13695479,
+      "block_time": 1784405067,
+      "hash": "b50994a56af6d063b40b2d8d9bc30323feaa553ae27ff7ddf6d52bda74f6c883"
+    },
+    {
+      "epoch_no": 638,
+      "block_height": 13585466,
+      "block_time": 1782185725,
+      "hash": "4cc1ed788295092888ce766aabc203c55f21eab95a71658eafdc81acb0322bd5"
+    },
+    {
+      "epoch_no": 284,
+      "block_height": 6122077,
+      "block_time": 1629164976,
+      "hash": "448a13064077a1076568875d0bddde72facffe0c156c8a71c482ea0f1d796e3f"
+    },
+    {
+      "epoch_no": 284,
+      "block_height": 6115423,
+      "block_time": 1629031141,
+      "hash": "7aaf47d3c6f74b0faec6532166b14f7d0236e9684c76b3662fe9598cd614a240"
+    },
+    {
+      "epoch_no": 283,
+      "block_height": 6092833,
+      "block_time": 1628578625,
+      "hash": "77b0c532487666d54248749bfb2eed54957f6236816dc979b22538c4b7974356"
+    }
+  ],
   "epochs": [
     {
       "epoch_no": 645,
@@ -50,10 +83,10 @@
       "delegator_cnt": 6,
       "margin": 0.01,
       "fixed_cost": "170000000",
-      "pool_fees": null,
-      "deleg_rewards": null,
-      "member_rewards": null,
-      "epoch_ros": 0
+      "pool_fees": "171249747",
+      "deleg_rewards": "123724912",
+      "member_rewards": "44052018",
+      "epoch_ros": 7.434419879
     },
     {
       "epoch_no": 642,
