@@ -147,7 +147,7 @@
       </div>
     </div>
 
-    <p class="note"><strong>SWADA:s roll:</strong> Vår pool stakar och säkrar Cardanos huvudkedja. Midnight förlitar sig på samma säkerhetsbasis genom <em>partner-chain</em>-mekanismen, vilket innebär att vår staking även stödjer Midnights säkerhet.</p>
+    <p class="note"><strong>SWADA:s roll:</strong> Vår pool stakar och säkrar Cardanos huvudkedja. Midnight byggs som en <em>partner chain</em> som rekryterar sina validatorer bland Cardanos pool-operatörer — men bara pooler som aktivt väljer att köra en Midnight-nod deltar i valideringen. SWADA driver i dag ingen Midnight-validator; vi följer utvecklingen och kan ansluta när det blir aktuellt.</p>
   </div>
 </section>
 
@@ -223,10 +223,12 @@
     <div id="perf-summary" class="stat-grid perf-grid">
       <p class="muted feed-loading" style="grid-column: 1 / -1;">Laddar pool-data…</p>
     </div>
-    <h3 class="subhdr">Senaste epokerna</h3>
-    <div id="perf-epochs" class="perf-table-wrap">
-      <p class="muted feed-loading">Laddar epokhistorik…</p>
-    </div>
+    <details class="epochs-toggle">
+      <summary><span class="subhdr">Senaste epokerna</span><span class="toggle-hint">Visa tabell ▾</span></summary>
+      <div id="perf-epochs" class="perf-table-wrap">
+        <p class="muted feed-loading">Laddar epokhistorik…</p>
+      </div>
+    </details>
     <p class="feed-meta">Belöningar för block i en epok beräknas under nästa epok och betalas ut vid starten av epoken därpå — därför visas de senaste epokerna som <em>beräknas</em>. Epoker utan block ger inga belöningar (visas som —). Senast uppdaterat <span id="perf-updated">—</span>.</p>
   </div>
 </section>
@@ -365,8 +367,6 @@
     }).join("");
   }
 
-  const nl2br = (s) => escape(s).replace(/\n/g, "<br>");
-
   const voteBadge = (vote) => {
     const map = {
       "Yes": ["vote-yes", "Röstade JA"],
@@ -377,7 +377,7 @@
     return `<span class="vote-badge ${cls}">${label}</span>`;
   };
 
-  function renderProposals(items, notes) {
+  function renderProposals(items) {
     if (!items?.length) return '<p class="muted">Inga aktiva förslag.</p>';
     const typeLabels = {
       "TreasuryWithdrawals": "Treasury-uttag",
@@ -393,41 +393,21 @@
       const lang = p.title_sv ? "sv" : "en";
       const summary = trimTo(p.summary_sv || p.summary_en || "", 260);
       const typeLabel = typeLabels[p.type] || p.type;
-      const note = notes?.[p.proposal_id] || {};
       const vote = p.ifly_vote;
-      const rationale = note.rationale_sv || vote?.rationale_sv || "";
       return `
-        <details class="feed-card proposal-card">
-          <summary>
-            <div class="feed-card-meta">
-              <span class="feed-source proposal-type">${escape(typeLabel)}</span>
-              <span class="feed-date">Löper ut e${escape(p.expiration_epoch)}</span>
-              ${vote ? voteBadge(vote.vote) : ""}
-              ${lang === "en" ? '<span class="feed-lang">EN</span>' : ""}
-            </div>
-            <h3 class="feed-title">${escape(title)}</h3>
-            ${summary ? `<p class="feed-summary">${escape(summary)}</p>` : ""}
-            <span class="proposal-expand" aria-hidden="true">Läs mer ▾</span>
-          </summary>
-          <div class="proposal-body">
-            ${note.explain_sv ? `
-              <div class="swada-note">
-                <h4>SWADA förklarar</h4>
-                <p>${nl2br(note.explain_sv)}</p>
-              </div>` : ""}
-            <div class="ifly-vote">
-              <h4>Så röstade iFly</h4>
-              ${vote ? `
-                <p class="vote-line">${voteBadge(vote.vote)}${vote.block_time ? ` <span class="muted">${escape(fmtDate(vote.block_time))}</span>` : ""}</p>
-                ${rationale ? `<p class="vote-rationale">${nl2br(rationale)}</p>` : ""}
-              ` : '<p class="muted">iFly har inte röstat på det här förslaget ännu.</p>'}
-            </div>
-            <div class="feed-stats">
-              ${p.deposit_ada ? `<span>Deposit: ${p.deposit_ada.toLocaleString("sv-SE")} ₳</span>` : ""}
-              <a href="${escape(p.url)}" target="_blank" rel="noopener" class="proposal-link">Läs hela förslaget på gov.tools →</a>
-            </div>
+        <a class="feed-card proposal-card" href="/forslag?id=${encodeURIComponent(p.proposal_id)}">
+          <div class="feed-card-meta">
+            <span class="feed-source proposal-type">${escape(typeLabel)}</span>
+            <span class="feed-date">Löper ut e${escape(p.expiration_epoch)}</span>
+            ${vote ? voteBadge(vote.vote) : ""}
+            ${lang === "en" ? '<span class="feed-lang">EN</span>' : ""}
           </div>
-        </details>`;
+          <h3 class="feed-title">${escape(title)}</h3>
+          ${summary ? `<p class="feed-summary">${escape(summary)}</p>` : ""}
+          <div class="feed-stats">
+            <span class="proposal-link">Vår förklaring & iFly:s röst →</span>
+          </div>
+        </a>`;
     }).join("");
   }
 
@@ -569,18 +549,8 @@
     }
   }
 
-  async function loadProposals() {
-    let notes = {};
-    try {
-      const r = await fetch("/data/proposal-notes.json", { cache: "no-cache" });
-      if (r.ok) notes = await r.json();
-    } catch { /* notes are optional */ }
-    loadFeed("/data/proposals.json", "proposals-list", "proposals-updated",
-      (items) => renderProposals(items, notes));
-  }
-
   loadPerf();
-  loadProposals();
+  loadFeed("/data/proposals.json", "proposals-list", "proposals-updated", renderProposals);
   loadFeed("/data/news.json", "news-list", "news-updated", renderNews);
 </script>
 

@@ -296,7 +296,8 @@ async function fetchProposals(limit = 8) {
       proposed_epoch: p.proposed_epoch,
       expiration_epoch: p.expiration,
       title_en: (meta.title || "").trim() || `${p.proposal_type} proposal`,
-      summary_en: (meta.abstract || "").trim().slice(0, 600),
+      // Long enough for the /forslag detail page; the index card trims further.
+      summary_en: (meta.abstract || "").trim().slice(0, 1400),
       url: `https://gov.tools/governance_actions/${p.proposal_id}`,
       block_time: p.block_time ? new Date(p.block_time * 1000).toISOString() : null,
       deposit_ada: p.deposit ? Number(p.deposit) / 1_000_000 : null,

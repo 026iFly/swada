@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Styrningsförslag — SWADA</title>
+  <meta name="description" content="SWADA förklarar Cardanos aktuella styrningsförslag på enkel svenska — och visar hur DRep iFly har röstat.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" type="image/png" href="/assets/iFly.png">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">
+      <img src="/assets/iFly.png" alt="SWADA-logotyp" width="40" height="40">
+      <span>SWADA</span>
+    </a>
+    <nav>
+      <a href="/#stakepool">Stakingpool</a>
+      <a href="/#drep">DRep</a>
+      <a href="/#performance">Statistik</a>
+      <a href="/#proposals">Förslag</a>
+      <a href="/#delegera">Delegera</a>
+    </nav>
+  </div>
+</header>
+
+<section class="section proposal-page">
+  <div class="container proposal-container">
+    <a href="/#proposals" class="breadcrumb">← Alla aktuella förslag</a>
+    <div id="proposal-detail">
+      <p class="muted feed-loading">Laddar förslag…</p>
+    </div>
+    <div id="proposal-more"></div>
+  </div>
+</section>
+
+<footer>
+  <div class="container footer-inner">
+    <div class="footer-col">
+      <strong>SWADA</strong>
+      <p>Säker staking i norr.</p>
+      <p class="muted">© 2026 Pelle Stensson</p>
+    </div>
+    <div class="footer-col">
+      <strong>Cardano</strong>
+      <ul>
+        <li><a href="https://cardano.org" target="_blank" rel="noopener">cardano.org</a></li>
+        <li><a href="https://gov.tools" target="_blank" rel="noopener">gov.tools</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <strong>Mer av oss</strong>
+      <ul>
+        <li><a href="https://intellishares.io" target="_blank" rel="noopener">Intellishares</a></li>
+        <li><a href="https://github.com/026iFly/swada" target="_blank" rel="noopener">GitHub</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const escape = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const paras = (s) => String(s ?? "").trim().split(/\n{2,}/)
+    .map((p) => `<p>${escape(p).replace(/\n/g, "<br>")}</p>`).join("");
+  const fmtDate = (iso) => {
+    if (!iso) return "";
+    return new Date(iso).toLocaleString("sv-SE", { day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit" });
+  };
+  const voteBadge = (vote) => {
+    const map = {
+      "Yes": ["vote-yes", "Röstade JA"],
+      "No": ["vote-no", "Röstade NEJ"],
+      "Abstain": ["vote-abstain", "AVSTOD"],
+    };
+    const [cls, label] = map[vote] || ["vote-abstain", escape(vote)];
+    return `<span class="vote-badge ${cls}">${label}</span>`;
+  };
+  const typeLabels = {
+    "TreasuryWithdrawals": "Treasury-uttag",
+    "ParameterChange": "Parameterändring",
+    "HardForkInitiation": "Hard fork",
+    "InfoAction": "Informationsåtgärd",
+    "NewConstitution": "Ny konstitution",
+    "NoConfidence": "Misstroende",
+    "NewCommittee": "Ny kommitté",
+  };
+
+  function renderDetail(p, note) {
+    const title = p.title_sv || p.title_en;
+    const summary = p.summary_sv || p.summary_en || "";
+    const vote = p.ifly_vote;
+    const rationale = note?.rationale_sv || vote?.rationale_sv || "";
+    document.title = `${title} — SWADA`;
+    return `
+      <div class="feed-card-meta proposal-head-meta">
+        <span class="feed-source proposal-type">${escape(typeLabels[p.type] || p.type)}</span>
+        <span class="feed-date">Löper ut epok ${escape(p.expiration_epoch)}</span>
+        ${p.deposit_ada ? `<span class="feed-date">Deposit: ${p.deposit_ada.toLocaleString("sv-SE")} ₳</span>` : ""}
+      </div>
+      <h1 class="proposal-title">${escape(title)}</h1>
+
+      ${note?.explain_sv ? `
+        <div class="swada-note detail-block">
+          <h4>SWADA förklarar</h4>
+          ${paras(note.explain_sv)}
+        </div>` : ""}
+
+      <div class="ifly-vote detail-block">
+        <h4>Så röstade iFly</h4>
+        ${vote ? `
+          <p class="vote-line">${voteBadge(vote.vote)}${vote.block_time ? ` <span class="muted">${escape(fmtDate(vote.block_time))}</span>` : ""}</p>
+          ${rationale ? `<div class="vote-rationale">${paras(rationale)}</div>` : '<p class="muted">Ingen skriven motivering ännu.</p>'}
+        ` : '<p class="muted">iFly har inte röstat på det här förslaget ännu. Rösten visas här automatiskt när den registrerats på kedjan.</p>'}
+      </div>
+
+      ${summary ? `
+        <div class="detail-block">
+          <h4>Förslagets egen sammanfattning${p.summary_sv ? " (maskinöversatt)" : ""}</h4>
+          ${paras(summary)}
+        </div>` : ""}
+
+      <div class="proposal-actions">
+        <a href="${escape(p.url)}" target="_blank" rel="noopener" class="btn btn-primary">Läs hela förslaget på gov.tools →</a>
+      </div>
+      <p class="muted small proposal-id-line">${escape(p.proposal_id)}</p>`;
+  }
+
+  function renderMore(items, currentId) {
+    const others = items.filter((p) => p.proposal_id !== currentId);
+    if (!others.length) return "";
+    return `
+      <h3 class="subhdr">Fler aktuella förslag</h3>
+      <ul class="more-proposals">
+        ${others.map((p) => `
+          <li>
+            <a href="/forslag?id=${encodeURIComponent(p.proposal_id)}">${escape(p.title_sv || p.title_en)}</a>
+            ${p.ifly_vote ? voteBadge(p.ifly_vote.vote) : ""}
+          </li>`).join("")}
+      </ul>`;
+  }
+
+  async function load() {
+    const id = new URLSearchParams(location.search).get("id");
+    const el = document.getElementById("proposal-detail");
+    try {
+      const [propsResp, notesResp] = await Promise.all([
+        fetch("/data/proposals.json", { cache: "no-cache" }),
+        fetch("/data/proposal-notes.json", { cache: "no-cache" }).catch(() => null),
+      ]);
+      if (!propsResp.ok) throw new Error(`HTTP ${propsResp.status}`);
+      const items = (await propsResp.json()).items || [];
+      const notes = notesResp?.ok ? await notesResp.json() : {};
+      const p = items.find((x) => x.proposal_id === id);
+      if (!p) {
+        el.innerHTML = `<h1 class="proposal-title">Förslaget hittades inte</h1>
+          <p>Det kan ha avslutats, dragits tillbaka eller trätt i kraft — endast pågående förslag visas här.
+          Se <a href="https://gov.tools" target="_blank" rel="noopener">gov.tools</a> för hela historiken,
+          eller gå tillbaka till <a href="/#proposals">aktuella förslag</a>.</p>`;
+        return;
+      }
+      el.innerHTML = renderDetail(p, notes[p.proposal_id]);
+      document.getElementById("proposal-more").innerHTML = renderMore(items, id);
+    } catch (e) {
+      el.innerHTML = `<p class="muted">Kunde inte ladda förslaget (${escape(e.message)}).</p>`;
+    }
+  }
+  load();
+</script>
+
+</body>
+</html>
