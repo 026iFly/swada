@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "EN — iFly (SWADA) votes YES. This is a non-binding sentiment vote on naming the Protocol Version 12 hard fork \"von Bergen\", in memory of Fabian von Bergen (Zyroxa) — a Cardano Ambassador since the Incentivized Testnet era and operator of the Tempus (TMS) stake pool, who died in January 2026.\nHonouring a long-standing contributor costs the network nothing and is a decent thing to do. Two caveats I record openly: the vote is non-binding, so the name is ultimately set by the binding hard-fork initiation action; and Intersect's current intention is to name PV12 after Alexander Esgen, consistent with the convention of naming forks after computer scientists. If the community settles on that instead, I would not object — an \"In Memoriam\" recognition would serve the same purpose. I vote YES to register support for the tribute.\nSV — iFly (SWADA) röstar JA. Detta är en icke-bindande opinionsröst om att namnge hard forken Protocol Version 12 \"von Bergen\", till minne av Fabian von Bergen (Zyroxa) — Cardano-ambassadör sedan Incentivized Testnet-tiden och operatör av stakepoolen Tempus (TMS), som avled i januari 2026.\nAtt hedra en långvarig bidragsgivare kostar nätverket ingenting och är det anständiga att göra. Två förbehåll som jag redovisar öppet: rösten är icke-bindande, så namnet fastställs slutligen av den bindande hard fork-åtgärden; och Intersects nuvarande avsikt är att namnge PV12 efter Alexander Esgen, i linje med konventionen att namnge forkar efter datavetare. Om communityn i stället landar där har jag inga invändningar — ett \"In Memoriam\"-erkännande skulle tjäna samma syfte. Jag röstar JA för att registrera stöd för hyllningen."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
