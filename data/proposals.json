@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T12:07:15.380Z",
+  "fetched_at": "2026-08-05T15:22:45.483Z",
   "items": [
     {
       "id": "gov:gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
@@ -14,8 +14,8 @@
       "deposit_ada": 100000,
       "ifly_vote": {
         "vote": "Yes",
-        "block_time": "2026-08-03T07:45:24.000Z",
-        "rationale_sv": ""
+        "block_time": "2026-08-05T12:32:58.000Z",
+        "rationale_sv": "iFly (SWADA) röstar JA. Konstitutionsutskottet måste förnyas innan de fyra platserna som löper ut vid epok 653 upphör, annars riskerar utskottet att hamna under committeeMinSize och den konstitutionella granskningen stannar av. Valet följde konstitutionen (artikel III §3), var öppet för alla ada-innehavare, genomfördes on-chain via Ekklesia och granskades oberoende av DQuadrant. De fyra tillsatta ledamöterna är de fyra främsta enligt DRep-viktad röstning.\nInvändning: endast omkring 38 DReps (~2,3 miljarder ada) deltog i valet, vilket är en tunn legitimitetsgrund, och Asia Africa Cardano Coalition kom på femte plats — därmed förlorar APAC och Afrika direkt representation. Jag vill se både valdeltagande och regional balans åtgärdade före nästa omgång. Ett fungerande utskott är ändå bättre än ett som står stilla. Jag röstar JA."
       },
       "title_sv": "Uppdatering av Konstitutionella Kommittén 2026",
       "summary_sv": "Denna governance action uppdaterar de fyra platserna i Constitutional Committee vars mandatperioder löper ut i slutet av Epoch 653 genom att utse kandidaterna som valdes genom Constitutional Committee-valet 2026. De antagna kandidaterna kommer att inneha nya mandatperioder som slutar i Epoch 799, i enlighet med nuvarande protocol parameter committeeMaxTermLength.",
@@ -35,8 +35,8 @@
       "deposit_ada": 100000,
       "ifly_vote": {
         "vote": "Yes",
-        "block_time": "2026-08-03T07:52:13.000Z",
-        "rationale_sv": ""
+        "block_time": "2026-08-05T12:25:30.000Z",
+        "rationale_sv": "iFly (SWADA) röstar JA på att sänka minPoolCost från 170 till 75 ada och höja Plutus-minnesgränserna.\nREDOVISAT INTRESSE: Jag driver stakepoolen SWADA, som ligger på minPoolCost-golvet. Ändringen sänker direkt min egen pools fasta kostnad. Jag redovisar detta i stället för att lämna det osagt, och läsare bör väga min röst därefter.\nI sak: när de reservfinansierade belöningarna minskar tar en fast avgift på 170 ada en orimligt stor andel av en liten pools belöningar — straffet för delegerare i en pool som gör ett block är redan runt 53% och beräknas nå 100% omkring epok 758. IO Research har ändrat sin tidigare hållning och menar nu att ett högt golv hjälper stora operatörer att splittra stake i Sybil-pooler snarare än att avskräcka dem. En sund lång svans av små, oberoende pooler är en av mina uttalade prioriteringar som DRep, och denna ändring stödjer den.\nInvändningar: förslaget paketerar två orelaterade ändringar i en enda ja/nej-röst, och ett lägre golv borde rimligen kombineras med en minPoolMargin och en höjning av k för att förhindra en priskrig nedåt. Jag skulle stödja detta som uppföljning. Jag röstar JA."
       },
       "title_sv": "Sänk minPoolCost till 75 ada och öka Plutus Memory Limits (Del 2)",
       "summary_sv": "Intersect's Parameter Committee föreslår en enda Parameter Update governance action som bundlar två oberoende, tidigare rekommenderade protokollparametrar:\n\n1. minPoolCost: sänka minPoolCost från 170 000 000 Lovelace (170 ada) till 75 000 000 Lovelace (75 ada), en nedgång på cirka 55,9%.\n\n2. Plutus memory unit limits (del 2 av 2): öka maxTxExecutionUnits[memory] från 16 500 000 till 17 500 000 enheter (+6,1%) och maxBlockExecutionUnits[memory] från 72 000 000 till 77 500 000 enheter (+7,6%), vilket slutför den tvåstegs, kumulativa 25%-ökningen till båda parametrarna som påbörjats i den länkade del 1-åtgärden.\n\nDessa två ändringar är i övrigt orelaterade: en sänker fast avgiftsgolvet för stake pool, den andra ökar Plutus-skriptets exekveringskapacitet. Ändringarna är sammanslagna här för effektiv inlämning och för att tillåta SPOs att ge input på minPoolCost. Inga andra protokollparametrar eller Plutus kostnadsmodell-inställningar ändras av denna åtgärd.",
@@ -56,8 +56,8 @@
       "deposit_ada": 100000,
       "ifly_vote": {
         "vote": "Yes",
-        "block_time": "2026-08-03T07:54:15.000Z",
-        "rationale_sv": ""
+        "block_time": "2026-08-05T12:23:45.000Z",
+        "rationale_sv": "iFly (SWADA) röstar JA. Detta är en icke-bindande opinionsröst om att namnge hard forken Protocol Version 12 \"von Bergen\", till minne av Fabian von Bergen (Zyroxa) — Cardano-ambassadör sedan Incentivized Testnet-tiden och operatör av stakepoolen Tempus (TMS), som avled i januari 2026.\nAtt hedra en långvarig bidragsgivare kostar nätverket ingenting och är det anständiga att göra. Två förbehåll som jag redovisar öppet: rösten är icke-bindande, så namnet fastställs slutligen av den bindande hard fork-åtgärden; och Intersects nuvarande avsikt är att namnge PV12 efter Alexander Esgen, i linje med konventionen att namnge forkar efter datavetare. Om communityn i stället landar där har jag inga invändningar — ett \"In Memoriam\"-erkännande skulle tjäna samma syfte. Jag röstar JA för att registrera stöd för hyllningen."
       },
       "title_sv": "Namnge Protocol Version 12-hard forken “von Bergen”",
       "summary_sv": "Denna informationsåtgärd föreslår att namnge Protocol Version 12-hårdskiftet “von Bergen” som en hyllning och erkännande till Fabian von Bergen, även känd som Zyroxa.\n\nFabian har varit medlem i Cardano-samhället sedan ITN, en alltid kritisk, ärlig och sund röst i Cardanos förflutna som introducerade och vägledde många genom Cardano-ekosystemet, en välkänd person på Cardano Forum, även SPO för Tempus Stake Pool och Cardano-ambassadör sedan programmets tidigaste dagar.",
@@ -77,7 +77,7 @@
       "deposit_ada": 100000,
       "ifly_vote": {
         "vote": "Yes",
-        "block_time": "2026-08-03T08:33:52.000Z",
+        "block_time": "2026-08-05T12:21:53.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA. Cardano PRIME angriper Cardanos största adoptionshinder: tunn DeFi-likviditet, som är självförstärkande — dåliga handelsvillkor avskräcker användare, vilket avskräcker byggare, vilket håller likviditeten tunn. Tre egenskaper gör storleken 120 000 000 ADA acceptabel för mig: (1) den är fasindelad — den stora incitamentsdelen på ~90 000 000 ADA betalas ut först efter en beslutspunkt i månad 4 och stannar annars i statskassan; (2) den är denominerad i ada, så statskassan bär ingen dollarkursrisk; och (3) medlen förvaras i ett Intersect-administrerat reservkontrakt på oberoende granskade verktyg, inte direkt till operatören.\nInvändningar: ~30 000 000 ADA för de tidiga faserna och den fasta avgiften är bundna i förväg oavsett resultat; prestationsavgiften kan utlösas av likviditet som behållits i endast 30 dagar; och den oberoende granskaren namngavs inte före omröstningen. Jag röstar JA i förväntan att dessa kontroller skärps under genomförandet, och jag stödjer mekanismerna för återföring och avveckling om delmål missas. Min farhåga gäller genomförandet, inte avsikten."
       },
       "title_sv": "Ta ut 120,000,000 ada för AlphaGrowths Cardano PRIME",
@@ -98,7 +98,7 @@
       "deposit_ada": 100000,
       "ifly_vote": {
         "vote": "Yes",
-        "block_time": "2026-08-03T08:36:24.000Z",
+        "block_time": "2026-08-05T12:20:32.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA. Programmet finansierar långsiktigt underhåll av de bibliotek, SDK:er, indexerare och verktyg med öppen källkod som Cardanos byggare är beroende av — ett underfinansierat lager som annars är en systemisk sårbarhet. Det är ett nedskalat tolvmånaderspilotprojekt (4 094 000 ADA) med avvecklingsklausuler och en administratör som kan bytas ut on-chain.\nRedovisning av intresse: i enlighet med den transparens jag utlovat i min DRep-profil är mitt eget projekt (Intellishares / Clastenium) byggt direkt på öppen källkod av just detta slag — till exempel Ogmios, Kupo och Lucid. Jag bedömer att nyttan för hela nätverket är verklig oberoende av det intresset, men redovisar det så att min röst kan vägas därefter.\nInvändning: medlen betalas ut till en stakeadress med en enda nyckel i stället för escrow, med ensam beslutanderätt de första cirka sex månaderna. Jag hade föredragit en spärrad, delmålsstyrd förvaring, och jag stödjer mekanismerna för utbyte och avveckling on-chain om tillsynen brister. Sammantaget väger nyttan för byggarnas grundinfrastruktur och den blygsamma storleken tyngre än denna oro. Jag röstar JA."
       },
       "title_sv": "Reviderad Cardano dOSPO- och OMF-programförslag",
