@@ -1,0 +1,20 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://026ifly.github.io/swada/assets/iFly-64.png",
+    "url_png_logo": "https://026ifly.github.io/swada/assets/iFly.png",
+    "location": "Gävle, Sweden",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "github_handle": "026iFly",
+      "youtube_handle": "",
+      "discord_handle": ""
+    },
+    "about": {
+      "me": "Operated by Pelle Stensson (iFly) — commercial pilot, co-founder of Intellishares, clean-energy engineer. Also active in Cardano governance as the iFly DRep.",
+      "server": "Self-hosted on owned hardware in a Swedish colocation facility: dedicated block producer plus two relays, monitored 24/7.",
+      "company": "Independent single-operator pool. Pledge is self-funded and delegated to the iFly DRep."
+    }
+  }
+}
