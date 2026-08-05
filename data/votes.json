@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T23:15:05.800Z",
+  "fetched_at": "2026-08-05T03:26:25.981Z",
   "items": [
     {
       "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
@@ -414,8 +414,8 @@
         "block_time": "2026-02-10T17:37:34.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Öka transaktions- och blockminnesenheter (del 1 av 2)",
+      "summary_sv": "Intersect's Parameter Committee föreslår den första av två Parameter Update governance actions. Följande förändring föreslås tillsammans i denna rational, men kommer att kräva två separata, länkade governance actions enligt guardrail MTEU-M-04.\n\n1) öka Plutus-skriptets minnesenhetbegränsningar per transaktion med 25% för att ge större flexibilitet för DApp-utvecklare.\n2) öka Plutus-skriptets minnesenhetbegränsningar per block med 25% för att förbli konsekvent med nuvarande blockminnesbegränsningar.\n\nInga andra protokollparametrar eller Plutus-kostnadsmodellinställningar kommer att ändras.",
       "_title_sha": "5d3bf2713355",
       "_summary_sha": "6aa3007a7531"
     },
@@ -436,8 +436,8 @@
         "block_time": "2026-02-10T17:36:50.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Namnet Version 11 hårdförgrening - van Rossem",
+      "summary_sv": "Intersect’s Hard Fork Working Group föreslår att namnge nästa Cardano hard fork, till Protocol Version 11, “van Rossem Hard Fork” till minne av Cardano-gemenskapsbidragsgivaren Max van Rossem.",
       "_title_sha": "99f81bc57e93",
       "_summary_sha": "4d3c53b947af"
     },
