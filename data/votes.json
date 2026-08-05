@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T03:26:25.981Z",
+  "fetched_at": "2026-08-05T06:37:08.086Z",
   "items": [
     {
       "id": "gov:gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
@@ -458,8 +458,8 @@
         "block_time": "2025-03-19T00:01:18.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "",
-      "summary_sv": "",
+      "title_sv": "Definiera Cardano-visionen och färdplanen för 2025 och framåt",
+      "summary_sv": "Denna Info Action uppmanar till röstning bland Cardano Delegate Representatives (DReps) om den föreslagna framtida färdplanen för Cardano. Denna färdplan, framtagen av Cardano Product Committee of Intersect med samråd från nyckelaktörer inom teknik, skisserar centrala utvecklingsprioriteringar, tekniska framsteg och strategiska mål för Cardano-ekosystemet. DRep-omröstningen kommer att lämna avgörande input för strategisk inriktning och informera framtida budgetförslag, inklusive nuvarande budgetdiskussioner.",
       "_title_sha": "d54a1065ffc1",
       "_summary_sha": "efbff1d87774"
     }
