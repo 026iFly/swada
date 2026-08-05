@@ -1,0 +1,7 @@
+{
+    "name": "SWADA \u2014 Swedish Cardano Stake Pool",
+    "ticker": "SWADA",
+    "description": "Swedish stake pool operated by iFly DRep \u2014 commercial pilot, Intellishares co-founder, clean-energy entrepreneur. Pool pledge votes through the iFly DRep, contributing to Cardano governance from a real-world adoption perspective.",
+    "homepage": "https://swada.se",
+    "extended": "https://026ifly.github.io/swada/pool/extended.json"
+}
