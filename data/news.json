@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-05T06:37:02.294Z",
+  "fetched_at": "2026-08-05T09:43:12.452Z",
   "items": [
+    {
+      "id": "forum:156123",
+      "source": "Cardano Forum",
+      "title_en": "Digest August 5, 2026: Cardano and Injective Connected via IBC on Testnet | Constitutional Committee Election Concludes | Musashi Dojo Prepares for Water Phase | Cardano Foundation Updates | Cardano Improvement Proposals (CIP) Updates",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-august-5-2026-cardano-and-injective-connected-via-ibc-on-testnet-constitutional-committee-election-concludes-musashi-dojo-prepares-for-water-phase-cardano-foundation-updates-cardano-improvement-proposals-cip-updates/156123",
+      "date": "2026-08-05T08:16:45.312Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Digest Augusti 5, 2026: Cardano och Injective ansluter via IBC på Testnet | Constitutional Committee Election avslutas | Musashi Dojo förbereder vattenfas | Cardano Foundation-uppdateringar | Cardano Improvement Proposals (CIP) uppdateringar",
+      "summary_sv": "",
+      "_title_sha": "c36a748a9394",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156121",
+      "source": "Cardano Forum",
+      "title_en": "Un guide pratique pour les nouveaux membres de l'écosystème Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/un-guide-pratique-pour-les-nouveaux-membres-de-lecosysteme-cardano/156121",
+      "date": "2026-08-05T06:56:20.358Z",
+      "score": 2,
+      "comments": 2,
+      "title_sv": "En praktisk guide för nya medlemmar i Cardano-ekosystemet",
+      "summary_sv": "",
+      "_title_sha": "5f61715cb419",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156118",
       "source": "Cardano Forum",
@@ -8,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/what-do-you-value-most-in-a-mobile-wallet-for-cardano/156118",
       "date": "2026-08-05T01:08:17.232Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 2,
       "title_sv": "Vad värdesätter du mest i en mobilplånbok för Cardano?",
       "summary_sv": "",
       "_title_sha": "808fd9a7746e",
@@ -83,34 +111,6 @@
       "title_sv": "Den högteknologiska staden utan väggar: sociala legosoldater och misslyckandet med token-verkställighet",
       "summary_sv": "",
       "_title_sha": "8c6b3f06df28",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156099",
-      "source": "Cardano Forum",
-      "title_en": "Renforcer l'adoption de Cardano en Afrique francophone : recherche scientifique, innovation et engagement communautaire au cœur de notre mission",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/renforcer-ladoption-de-cardano-en-afrique-francophone-recherche-scientifique-innovation-et-engagement-communautaire-au-coeur-de-notre-mission/156099",
-      "date": "2026-08-04T00:53:43.273Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Stärka adoptionen av Cardano i franskspråkiga Afrika: vetenskaplig forskning, innovation och samhällsengagemang i hjärtat av vår mission",
-      "summary_sv": "",
-      "_title_sha": "e77105013b02",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156094",
-      "source": "Cardano Forum",
-      "title_en": "Trouble redeem night",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/trouble-redeem-night/156094",
-      "date": "2026-08-03T21:19:25.654Z",
-      "score": 1,
-      "comments": 4,
-      "title_sv": "Problem att lösen natt",
-      "summary_sv": "",
-      "_title_sha": "a4c5d6da4579",
       "_summary_sha": ""
     },
     {
