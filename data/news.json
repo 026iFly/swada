@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-06T03:28:42.280Z",
+  "fetched_at": "2026-08-06T06:40:24.817Z",
   "items": [
+    {
+      "id": "forum:156142",
+      "source": "Cardano Forum",
+      "title_en": "Meetup Recap – Cardano University Meetup: Venture Capital & Startup Fundraising - Cardano Vietnam x Hub Network x Inntech - 19.7.2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/meetup-recap-cardano-university-meetup-venture-capital-startup-fundraising-cardano-vietnam-x-hub-network-x-inntech-19-7-2026/156142",
+      "date": "2026-08-06T05:50:48.996Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Meetup-sammanfattning – Cardano University Meetup: Venture Capital & Startup Fundraising - Cardano Vietnam x Hub Network x Inntech - 19.7.2026",
+      "summary_sv": "",
+      "_title_sha": "4e9d3f2a72e0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156123",
       "source": "Cardano Forum",
@@ -9,7 +23,7 @@
       "url": "https://forum.cardano.org/t/digest-august-5-2026-cardano-and-injective-connected-via-ibc-on-testnet-constitutional-committee-election-concludes-musashi-dojo-prepares-for-water-phase-cardano-foundation-updates-cardano-improvement-proposals-cip-updates/156123",
       "date": "2026-08-05T08:16:45.312Z",
       "score": 1,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Digest Augusti 5, 2026: Cardano och Injective ansluter via IBC på Testnet | Constitutional Committee Election avslutas | Musashi Dojo förbereder vattenfas | Cardano Foundation-uppdateringar | Cardano Improvement Proposals (CIP) uppdateringar",
       "summary_sv": "",
       "_title_sha": "c36a748a9394",
@@ -97,20 +111,6 @@
       "title_sv": "Utvecklarnas kontorstid #72 - IBC på Cardano: Anslutning till Injective (7 augusti)",
       "summary_sv": "",
       "_title_sha": "177a3bdcde16",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156102",
-      "source": "Cardano Forum",
-      "title_en": "The Hi-Tech City With No Walls: Social Mercenaries and the Failure of Token Enforcement",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-hi-tech-city-with-no-walls-social-mercenaries-and-the-failure-of-token-enforcement/156102",
-      "date": "2026-08-04T08:54:37.379Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Den högteknologiska staden utan väggar: sociala legosoldater och misslyckandet med token-verkställighet",
-      "summary_sv": "",
-      "_title_sha": "8c6b3f06df28",
       "_summary_sha": ""
     },
     {
