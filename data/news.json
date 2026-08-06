@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-06T06:40:24.817Z",
+  "fetched_at": "2026-08-06T09:46:06.614Z",
   "items": [
+    {
+      "id": "forum:156144",
+      "source": "Cardano Forum",
+      "title_en": "Built a live block ticker - adapools.xyz",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/built-a-live-block-ticker-adapools-xyz/156144",
+      "date": "2026-08-06T09:04:56.957Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Byggt ett live block-ticker – adapools.xyz",
+      "summary_sv": "",
+      "_title_sha": "e079a8a5cf73",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156142",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Närvaron av Midnight Indonesia, mitt personliga perspektiv",
       "summary_sv": "",
       "_title_sha": "b3f6f05f8b44",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156103",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #72 - IBC on Cardano: Connecting to Injective (7 August)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-72-ibc-on-cardano-connecting-to-injective-7-august/156103",
-      "date": "2026-08-04T09:27:06.651Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Utvecklarnas kontorstid #72 - IBC på Cardano: Anslutning till Injective (7 augusti)",
-      "summary_sv": "",
-      "_title_sha": "177a3bdcde16",
       "_summary_sha": ""
     },
     {
