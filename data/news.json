@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-06T09:46:06.614Z",
+  "fetched_at": "2026-08-06T12:10:04.894Z",
   "items": [
+    {
+      "id": "forum:156145",
+      "source": "Cardano Forum",
+      "title_en": "Résumé du 5 août 2026 : Cardano et Injective connectés via IBC sur le réseau de test | Clôture des élections du Comité constitutionnel,",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/resume-du-5-aout-2026-cardano-et-injective-connectes-via-ibc-sur-le-reseau-de-test-cloture-des-elections-du-comite-constitutionnel/156145",
+      "date": "2026-08-06T09:54:47.831Z",
+      "score": 2,
+      "comments": 0,
+      "title_sv": "Sammanfattning den 5 augusti 2026: Cardano och Injective anslutna via IBC på testnätet | Avslutning av valen till konstituerande kommitté",
+      "summary_sv": "",
+      "_title_sha": "ab7fff62b57b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156144",
       "source": "Cardano Forum",
@@ -9,7 +23,7 @@
       "url": "https://forum.cardano.org/t/built-a-live-block-ticker-adapools-xyz/156144",
       "date": "2026-08-06T09:04:56.957Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Byggt ett live block-ticker – adapools.xyz",
       "summary_sv": "",
       "_title_sha": "e079a8a5cf73",
@@ -64,8 +78,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/what-do-you-value-most-in-a-mobile-wallet-for-cardano/156118",
       "date": "2026-08-05T01:08:17.232Z",
-      "score": 2,
-      "comments": 3,
+      "score": 3,
+      "comments": 4,
       "title_sv": "Vad värdesätter du mest i en mobilplånbok för Cardano?",
       "summary_sv": "",
       "_title_sha": "808fd9a7746e",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANISH DUBBING Billeteras en 2026 | CH 3 Ago 2026",
       "summary_sv": "",
       "_title_sha": "20f951c02335",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156105",
-      "source": "Cardano Forum",
-      "title_en": "Kehadiran Midnight Indonesia, my Personal POV",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/kehadiran-midnight-indonesia-my-personal-pov/156105",
-      "date": "2026-08-04T13:00:33.047Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Närvaron av Midnight Indonesia, mitt personliga perspektiv",
-      "summary_sv": "",
-      "_title_sha": "b3f6f05f8b44",
       "_summary_sha": ""
     },
     {
