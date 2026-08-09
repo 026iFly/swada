@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-09T08:55:17.662Z",
+  "fetched_at": "2026-08-09T09:50:49.032Z",
   "items": [
+    {
+      "id": "forum:156180",
+      "source": "Cardano Forum",
+      "title_en": "It's open: apply to the Catalyst Pilot or join Decision Panel",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/its-open-apply-to-the-catalyst-pilot-or-join-decision-panel/156180",
+      "date": "2026-08-09T09:16:08.552Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Det är öppet: ansök till Catalyst Pilot eller gå med i Decision Panel",
+      "summary_sv": "",
+      "_title_sha": "f8cb188a5bbd",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156145",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Transformering av Cardano-ekosystemet: Att övervinna finansieringshinder för infrastruktur",
       "summary_sv": "",
       "_title_sha": "18d101683f97",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156112",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Billeteras en 2026 | CH 3 Ago 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-billeteras-en-2026-ch-3-ago-2026/156112",
-      "date": "2026-08-04T16:24:19.885Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANISH DUBBING Billeteras en 2026 | CH 3 Ago 2026",
-      "summary_sv": "",
-      "_title_sha": "20f951c02335",
       "_summary_sha": ""
     },
     {
