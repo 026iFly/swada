@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-09T17:39:49.886Z",
+  "fetched_at": "2026-08-09T18:54:34.003Z",
   "items": [
+    {
+      "id": "forum:156183",
+      "source": "Cardano Forum",
+      "title_en": "IoListWallet (WIP)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/iolistwallet-wip/156183",
+      "date": "2026-08-09T17:41:37.449Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "IoListWallet (WIP)",
+      "summary_sv": "",
+      "_title_sha": "6f64015f681e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156180",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Vad värdesätter du mest i en mobilplånbok för Cardano?",
       "summary_sv": "",
       "_title_sha": "808fd9a7746e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156113",
-      "source": "Cardano Forum",
-      "title_en": "Transformasi Besar Ekosistem Cardano: Mengatasi Kendala Pendanaan Infrastruktur",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/transformasi-besar-ekosistem-cardano-mengatasi-kendala-pendanaan-infrastruktur/156113",
-      "date": "2026-08-04T16:49:46.985Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Transformering av Cardano-ekosystemet: Att övervinna finansieringshinder för infrastruktur",
-      "summary_sv": "",
-      "_title_sha": "18d101683f97",
       "_summary_sha": ""
     },
     {
