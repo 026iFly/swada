@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-10T20:55:22.456Z",
+  "fetched_at": "2026-08-10T21:52:23.972Z",
   "items": [
+    {
+      "id": "forum:156210",
+      "source": "Cardano Forum",
+      "title_en": "Cardano First Steps in North-Kivu, Ituri et Katanga",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-first-steps-in-north-kivu-ituri-et-katanga/156210",
+      "date": "2026-08-10T21:04:20.614Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano första stegen i Nord-Kivu, Ituri och Katanga",
+      "summary_sv": "",
+      "_title_sha": "36bc2d0aa2d0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156200",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Digest Augusti 5, 2026: Cardano och Injective ansluter via IBC på Testnet | Constitutional Committee Election avslutas | Musashi Dojo förbereder vattenfas | Cardano Foundation-uppdateringar | Cardano Improvement Proposals (CIP) uppdateringar",
       "summary_sv": "",
       "_title_sha": "c36a748a9394",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156121",
-      "source": "Cardano Forum",
-      "title_en": "Un guide pratique pour les nouveaux membres de l'écosystème Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/un-guide-pratique-pour-les-nouveaux-membres-de-lecosysteme-cardano/156121",
-      "date": "2026-08-05T06:56:20.358Z",
-      "score": 2,
-      "comments": 2,
-      "title_sv": "En praktisk guide för nya medlemmar i Cardano-ekosystemet",
-      "summary_sv": "",
-      "_title_sha": "5f61715cb419",
       "_summary_sha": ""
     },
     {
