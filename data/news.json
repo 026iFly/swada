@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-11T07:21:47.365Z",
+  "fetched_at": "2026-08-11T09:10:24.768Z",
   "items": [
+    {
+      "id": "forum:156223",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #73 - Cardano Lightning (14 August)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-73-cardano-lightning-14-august/156223",
+      "date": "2026-08-11T08:57:56.143Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Utvecklarnas kontorstid #73 - Cardano Lightning (14 augusti)",
+      "summary_sv": "",
+      "_title_sha": "91d5d36e3cfd",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156210",
       "source": "Cardano Forum",
@@ -37,7 +51,7 @@
       "url": "https://forum.cardano.org/t/iolistwallet-wip/156183",
       "date": "2026-08-09T17:41:37.449Z",
       "score": 3,
-      "comments": 3,
+      "comments": 4,
       "title_sv": "IoListWallet (WIP)",
       "summary_sv": "",
       "_title_sha": "6f64015f681e",
@@ -97,20 +111,6 @@
       "title_sv": "Meetup-sammanfattning – Cardano University Meetup: Venture Capital & Startup Fundraising - Cardano Vietnam x Hub Network x Inntech - 19.7.2026",
       "summary_sv": "",
       "_title_sha": "4e9d3f2a72e0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156123",
-      "source": "Cardano Forum",
-      "title_en": "Digest August 5, 2026: Cardano and Injective Connected via IBC on Testnet | Constitutional Committee Election Concludes | Musashi Dojo Prepares for Water Phase | Cardano Foundation Updates | Cardano Improvement Proposals (CIP) Updates",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-august-5-2026-cardano-and-injective-connected-via-ibc-on-testnet-constitutional-committee-election-concludes-musashi-dojo-prepares-for-water-phase-cardano-foundation-updates-cardano-improvement-proposals-cip-updates/156123",
-      "date": "2026-08-05T08:16:45.312Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Digest Augusti 5, 2026: Cardano och Injective ansluter via IBC på Testnet | Constitutional Committee Election avslutas | Musashi Dojo förbereder vattenfas | Cardano Foundation-uppdateringar | Cardano Improvement Proposals (CIP) uppdateringar",
-      "summary_sv": "",
-      "_title_sha": "c36a748a9394",
       "_summary_sha": ""
     },
     {
