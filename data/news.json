@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T10:59:43.331Z",
+  "fetched_at": "2026-08-11T11:51:57.522Z",
   "items": [
     {
       "id": "forum:156223",
@@ -22,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-first-steps-in-north-kivu-ituri-et-katanga/156210",
       "date": "2026-08-10T21:04:20.614Z",
-      "score": 1,
-      "comments": 1,
+      "score": 2,
+      "comments": 2,
       "title_sv": "Cardano första stegen i Nord-Kivu, Ituri och Katanga",
       "summary_sv": "",
       "_title_sha": "36bc2d0aa2d0",
@@ -51,7 +51,7 @@
       "url": "https://forum.cardano.org/t/iolistwallet-wip/156183",
       "date": "2026-08-09T17:41:37.449Z",
       "score": 3,
-      "comments": 4,
+      "comments": 5,
       "title_sv": "IoListWallet (WIP)",
       "summary_sv": "",
       "_title_sha": "6f64015f681e",
