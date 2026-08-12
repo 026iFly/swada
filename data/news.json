@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-12T06:22:28.780Z",
+  "fetched_at": "2026-08-12T08:36:06.530Z",
   "items": [
+    {
+      "id": "forum:156231",
+      "source": "Cardano Forum",
+      "title_en": "Scaling Global Adoption: Orion Fund Progress Update and Q&A (17 August)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/scaling-global-adoption-orion-fund-progress-update-and-q-a-17-august/156231",
+      "date": "2026-08-12T08:33:19.127Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Skalning av global adoptions? Wait, the user text: \"Scaling Global Adoption: Orion Fund Progress Update and Q&A (17 August)\". Swedish: \"Skalning av global adoption: Orion Fund - utvecklingsuppdatering och Q&A (17 augusti)\". But prefer \"global adoption\" usually \"globalt bruk\" or \"global adoption\" as term. They asked to keep terms English where used. They said keep technical terms in English where established. \"Orion Fund\" is a proper name. \"Progress Update\" -> \"uppdatering om framsteg\" or \"framstegsuppdatering\". Q&A -> \"Q&A\" maybe keep as \"Q&A\". They want concise. We'll translate: \"Skalning av global adoption\" better \"Skalning av global adoption\" but Swedish would be \"Global adoption\" is odd. Could be \"Skalning av global adoption\" yes. \"Orion Fund Progress Update and Q&A (17 August)\" -> \"Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Use dash. Also date format: \"17 August\" -> \"17 augusti\". Let's craft: \"Skalning av global adoption: Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Could also hyphen vs colon. The original uses colon. We'll produce: \"Skalning av global adoption: Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Ensure only translation.",
+      "summary_sv": "",
+      "_title_sha": "b04981d9a7f3",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156230",
       "source": "Cardano Forum",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-first-steps-in-north-kivu-ituri-et-katanga/156210",
       "date": "2026-08-10T21:04:20.614Z",
-      "score": 4,
+      "score": 5,
       "comments": 4,
       "title_sv": "Cardano första stegen i Nord-Kivu, Ituri och Katanga",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning den 5 augusti 2026: Cardano och Injective anslutna via IBC på testnätet | Avslutning av valen till konstituerande kommitté",
       "summary_sv": "",
       "_title_sha": "ab7fff62b57b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156144",
-      "source": "Cardano Forum",
-      "title_en": "Built a live block ticker - adapools.xyz",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/built-a-live-block-ticker-adapools-xyz/156144",
-      "date": "2026-08-06T09:04:56.957Z",
-      "score": 2,
-      "comments": 3,
-      "title_sv": "Byggt ett live block-ticker – adapools.xyz",
-      "summary_sv": "",
-      "_title_sha": "e079a8a5cf73",
       "_summary_sha": ""
     },
     {
