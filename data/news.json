@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-14T15:01:58.535Z",
+  "fetched_at": "2026-08-14T16:00:20.776Z",
   "items": [
+    {
+      "id": "forum:156264",
+      "source": "Cardano Forum",
+      "title_en": "Arouet Holdings: Community Director Applications Close",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/arouet-holdings-community-director-applications-close/156264",
+      "date": "2026-08-14T15:54:12.384Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Arouet Holdings: Ansökan till community director stänger",
+      "summary_sv": "",
+      "_title_sha": "6e6c5b1742ca",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156231",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Det är öppet: ansök till Catalyst Pilot eller gå med i Decision Panel",
       "summary_sv": "",
       "_title_sha": "f8cb188a5bbd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156145",
-      "source": "Cardano Forum",
-      "title_en": "Résumé du 5 août 2026 : Cardano et Injective connectés via IBC sur le réseau de test | Clôture des élections du Comité constitutionnel,",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/resume-du-5-aout-2026-cardano-et-injective-connectes-via-ibc-sur-le-reseau-de-test-cloture-des-elections-du-comite-constitutionnel/156145",
-      "date": "2026-08-06T09:54:47.831Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Sammanfattning den 5 augusti 2026: Cardano och Injective anslutna via IBC på testnätet | Avslutning av valen till konstituerande kommitté",
-      "summary_sv": "",
-      "_title_sha": "ab7fff62b57b",
       "_summary_sha": ""
     },
     {
