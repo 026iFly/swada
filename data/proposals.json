@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-08-14T17:59:57.359Z",
+  "fetched_at": "2026-08-14T19:06:58.083Z",
   "items": [
+    {
+      "id": "gov:gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
+      "proposal_id": "gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 649,
+      "expiration_epoch": 656,
+      "title_en": "Governance Incentives Framework 2026",
+      "summary_en": "Cardano is approaching consequential decisions about governance incentives without a shared evidence base for determining which mechanisms work, what they cost, or who should remain accountable for their outcomes. The project separates evidence-based validation from governance legitimacy: candidate incentive mechanisms will first be evaluated through research, data, modeling, and evidence, and then presented to governance for a decision on adoption.\n\nSignificant work already exists across Cardano on governance compensation, participation, rationale incentives, reward distribution, voting-power concentration, and governance reward design. The Governance Incentives Working Group has already created a mapping document identifying 49 relevant efforts, proposals, research papers, tools, and related initiatives across this space [1]. This includes work developed through CPS-0020 [2], as well as CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formal reward-scheme research [7], process-first DRep compensation research [8], and Input Output Research’s Cardano Vision 2026 work [9]. The project will consider these existing ideas and approaches, examine their assumptions, advantages, disadvantages, and potential unintended effects, and combine them with further research, governance data, modeling, controlled testing, and community input to build research-backed community consensus around the m",
+      "url": "https://gov.tools/governance_actions/gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
+      "block_time": "2026-08-14T18:47:38.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Governance Incentives Framework 2026",
+      "summary_sv": "Cardano närmar sig avgörande beslut om styrningsincitament utan en gemensam evidensbas för att avgöra vilka mekanismer som fungerar, vad de kostar eller vem som bör hållas ansvarig för deras resultat. Projektet separerar evidensbaserad validering från styrningslegitimitet: kandidatincitamentmekanismer kommer först att utvärderas genom forskning, data, modellering och evidens, och sedan presenteras för styrningen för beslut om adoption.\n\nBetydande arbete finns redan inom Cardano kring styrningsersättning, deltagande, orsakssambandsincitament, belöningsfördelning, koncentration av röstkraft och utformning av styrningsbelöningar. Governance Incentives Working Group har redan skapat ett kartläggningsdokument som identifierar 49 relevanta insatser, förslag, forskningspapper, verktyg och relaterade initiativ inom detta område [1]. Detta inkluderar arbete som utvecklats genom CPS-0020 [2], såväl som CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formell belöningssystemforskning [7], process-först DRep-ERSÄTTNING forskning [8], och Input Output Research:s Cardano Vision 2026-arbete [9]. Projektet kommer att överväga dessa befintliga idéer och tillvägagångssätt, granska sina antaganden, fördelar, nackdelar och potentiella oavsedda effekter, och kombinera dem med ytterligare forskning, styrningsdata, modellering, kontrollerade tester och samhällsinflytande för att bygga forskningsbaserad gemenskapskonsensus kring m",
+      "_title_sha": "5ec6c73bc88a",
+      "_summary_sha": "dc549b1ec632"
+    },
     {
       "id": "gov:gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
       "proposal_id": "gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
