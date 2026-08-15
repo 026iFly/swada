@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP100:body",
+      "@context": {
+        "references": {
+          "@id": "CIP100:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP100:referenceHash",
+              "@context": {
+                "hashDigest": "CIP100:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:uri"
+          }
+        }
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "body": {
+    "comment": "EN — iFly (SWADA) votes YES on the Governance Incentives Framework 2026.\nDECLARED INTEREST: I am an active DRep and a stake pool operator. Any DRep compensation scheme that results from this work could pay me. I disclose that rather than leave it unstated, and readers should weigh my vote accordingly.\nWHY I SUPPORT IT: my second stated priority as a DRep is a decentralised validator and representative base. The data here is not speculative — active DReps declined in every 12-epoch period of the first year, DRep stake concentration rose (Gini 0.92 to 0.94), roughly 11-16 DReps now hold 51% of voting power, and at least one Constitutional Committee consortium retired citing lack of compensation. Governance-power concentration is now worse than stake concentration, which is the metric the ecosystem actually watches. Serving conscientiously as a DRep costs real time; the direct ada cost (locked deposit plus fees) is minor by comparison. If only the well-resourced can afford to participate, representation consolidates by default. That is a decentralisation problem, and it deserves rigorous study rather than a hastily written CIP.\nDESIGN CONSTRAINTS I EXPECT THE RESULTING FRAMEWORK TO MEET — offered as a concrete contribution, not a condition of this vote:\n1. Anchor compensation to DELEGATED STAKE, which is scarce and cannot be duplicated. A flat per-DRep payment is a direct invitation to Sybil attack: register N DReps, collect N payments.\n2. Apply BOTH A FLOOR AND A CEILING. A minimum delegation to qualify raises the cost of bot DReps, because each one must attract real stake. Earnings that flatten beyond a saturation point remove the incentive to accumulate delegation purely for income; past the cap, further delegation buys influence but not revenue. This is structurally the same problem stake pools already solve with k and saturation, and the same answer — which makes it legible to every operator in the ecosystem.\n3. Address the tension explicitly. Purely regressive rates — paying small DReps more per ada — look attractive but invite FRAGMENTATION: a large holder splits stake across many small DReps under their control to sit in the high-rate band. That is Sybil behaviour in a different form. Favouring small representatives and resisting Sybil attack pull against each other unless payment is anchored to something scarce. Any framework that does not confront this directly is incomplete.\n4. Do not treat published rationales as sufficient proof of effort. Automated text generation is now cheap, so a rationale requirement alone is weak evidence of genuine work. It is useful only on top of a stake floor.\n5. Some competition for delegation is healthy — a good representative should attract stake. What must be removed is the incentive to chase delegation purely as income, decoupled from the quality of representation.\nRESERVATIONS: I would have preferred a different disbursement structure. The withdrawal pays a lump sum to a plain key-controlled account with no on-chain escrow, tranching or multisig; the refund conditions are prose commitments rather than enforceable mechanisms. The detailed line-item budget is deliberately private, so representatives vote on aggregate workstream figures. Administration and conceptualisation are roughly 22% of the total before any research output, while the independent audit is 3% and the auditor is unnamed and paid from the grant itself. I also note the proposers are themselves governance insiders designing a scheme under which people in their position would be paid.\nI vote YES because the problem is real, well-evidenced, and central to keeping Cardano governance decentralised, and because the design questions are genuinely hard — as the tension above shows — and deserve proper research. My concerns are about disbursement structure and transparency, not intent. I encourage escrowed, milestone-released custody, publication of the line-item budget, and a named independent auditor, and I will support return-to-treasury and sunset mechanisms if milestones are not met.\nSV — iFly (SWADA) röstar JA på Governance Incentives Framework 2026.\nREDOVISAT INTRESSE: Jag är aktiv DRep och stakepooloperatör. Varje ersättningsmodell för DReps som följer av detta arbete skulle kunna betala mig. Jag redovisar detta i stället för att lämna det osagt, och läsare bör väga min röst därefter.\nVARFÖR JAG STÖDJER DET: min andra uttalade prioritering som DRep är en decentraliserad bas av validerare och representanter. Underlaget här är inte spekulativt — antalet aktiva DReps minskade under varje tolvepoksperiod under det första året, koncentrationen av DRep-stake ökade (Gini 0,92 till 0,94), ungefär 11-16 DReps innehar nu 51 % av röststyrkan, och minst ett konsortium i konstitutionsutskottet avgick med hänvisning till utebliven ersättning. Koncentrationen av styrningsmakt är nu värre än koncentrationen av stake, som är det mått ekosystemet faktiskt följer. Att tjäna samvetsgrant som DRep kostar verklig tid; den direkta ada-kostnaden (låst deposition plus avgifter) är liten i jämförelse. Om bara den som redan har resurser har råd att delta konsolideras representationen som standard. Det är ett decentraliseringsproblem och förtjänar noggrann undersökning snarare än en hastigt skriven CIP.\nDESIGNKRAV JAG FÖRVÄNTAR MIG ATT DET RESULTERANDE RAMVERKET UPPFYLLER — framfört som ett konkret bidrag, inte som villkor för denna röst:\n1. Förankra ersättningen i DELEGERAD STAKE, som är knapp och inte kan dupliceras. En fast ersättning per DRep är en direkt inbjudan till Sybil-attack: registrera N DReps, hämta ut N ersättningar.\n2. Tillämpa BÅDE ETT GOLV OCH ETT TAK. Ett krav på minsta delegering för att kvalificera sig höjer kostnaden för bot-DReps, eftersom var och en måste attrahera verklig stake. En ersättning som planar ut bortom en mättnadspunkt tar bort incitamentet att samla delegering enbart för inkomst; bortom taket ger ytterligare delegering inflytande men inte intäkt. Detta är strukturellt samma problem som stakepooler redan löser med k och mättnad, och samma lösning — vilket gör det begripligt för varje operatör i ekosystemet.\n3. Hantera målkonflikten uttryckligt. Rent regressiva nivåer — att betala små DReps mer per ada — ser tilltalande ut men inbjuder till FRAGMENTERING: en stor innehavare delar upp sin stake på många små DReps under eget inflytande för att hamna i det högt betalda intervallet. Det är Sybil-beteende i annan form. Att gynna små representanter och att motverka Sybil-attacker drar åt olika håll om inte ersättningen förankras i något knappt. Ett ramverk som inte tar itu med detta direkt är ofullständigt.\n4. Betrakta inte publicerade motiveringar som tillräckligt bevis på arbetsinsats. Automatiserad textgenerering är numera billig, så enbart ett krav på motivering är svagt bevis på verkligt arbete. Det är användbart först ovanpå ett stake-golv.\n5. Viss konkurrens om delegering är sund — en bra representant bör attrahera stake. Det som måste bort är incitamentet att jaga delegering enbart som inkomst, frikopplat från kvaliteten i representationen.\nINVÄNDNINGAR: Jag hade föredragit en annan utbetalningsstruktur. Uttaget betalar en klumpsumma till ett vanligt nyckelstyrt konto utan spärr (escrow), delutbetalningar eller multisig; återbetalningsvillkoren är utfästelser i text snarare än verkställbara mekanismer. Den detaljerade budgeten hålls medvetet privat, så representanter röstar på aggregerade siffror per arbetsområde. Administration och konceptualisering utgör ungefär 22 % av totalen innan något forskningsresultat föreligger, medan den oberoende granskningen är 3 % och granskaren är namnlös och betalas ur anslaget självt. Jag noterar också att förslagsställarna själva är aktörer inom styrningen och utformar en modell där personer i deras position skulle få betalt.\nJag röstar JA därför att problemet är verkligt, väl underbyggt och centralt för att hålla Cardanos styrning decentraliserad, och därför att designfrågorna är genuint svåra — som målkonflikten ovan visar — och förtjänar ordentlig forskning. Mina farhågor gäller utbetalningsstruktur och transparens, inte avsikten. Jag uppmuntrar spärrad, delmålsstyrd förvaring, publicering av den detaljerade budgeten och en namngiven oberoende granskare, och jag stödjer mekanismer för återföring till statskassan och avveckling om delmål inte nås."
+  },
+  "hashAlgorithm": "blake2b-256"
+}
