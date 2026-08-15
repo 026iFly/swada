@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-15T09:34:28.173Z",
+  "fetched_at": "2026-08-15T10:32:35.103Z",
   "items": [
+    {
+      "id": "forum:156275",
+      "source": "Cardano Forum",
+      "title_en": "This Week in Cardano: Opportunities to Get Involved",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/this-week-in-cardano-opportunities-to-get-involved/156275",
+      "date": "2026-08-15T09:36:07.271Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Denna vecka i Cardano: Möjligheter att engagera sig",
+      "summary_sv": "",
+      "_title_sha": "275955df0972",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156264",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "IoListWallet (WIP)",
       "summary_sv": "",
       "_title_sha": "6f64015f681e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156180",
-      "source": "Cardano Forum",
-      "title_en": "It's open: apply to the Catalyst Pilot or join Decision Panel",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/its-open-apply-to-the-catalyst-pilot-or-join-decision-panel/156180",
-      "date": "2026-08-09T09:16:08.552Z",
-      "score": 6,
-      "comments": 3,
-      "title_sv": "Det är öppet: ansök till Catalyst Pilot eller gå med i Decision Panel",
-      "summary_sv": "",
-      "_title_sha": "f8cb188a5bbd",
       "_summary_sha": ""
     },
     {
