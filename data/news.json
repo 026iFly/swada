@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-15T10:32:35.103Z",
+  "fetched_at": "2026-08-15T11:29:30.760Z",
   "items": [
+    {
+      "id": "forum:156277",
+      "source": "Cardano Forum",
+      "title_en": "왜 인젝티브인가, 그리고 실제로 무엇이 달라지는가",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/topic/156277",
+      "date": "2026-08-15T10:44:47.876Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Varför injektiv, och vad som faktiskt förändras?",
+      "summary_sv": "",
+      "_title_sha": "a1c7d0ee0cef",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156276",
+      "source": "Cardano Forum",
+      "title_en": "카르다노, 인젝티브와 IBC로 첫 온체인 연결",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ibc/156276",
+      "date": "2026-08-15T10:37:06.036Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano, Injective och IBC för första on-chain-anslutningen",
+      "summary_sv": "",
+      "_title_sha": "e6ad72d8dc20",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156275",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano första stegen i Nord-Kivu, Ituri och Katanga",
       "summary_sv": "",
       "_title_sha": "36bc2d0aa2d0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156200",
-      "source": "Cardano Forum",
-      "title_en": "Introducing Hexcore V2 Beta — Making Hydra Heads Easier to Run, Operate and Build On",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/introducing-hexcore-v2-beta-making-hydra-heads-easier-to-run-operate-and-build-on/156200",
-      "date": "2026-08-10T09:49:47.585Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Introducerar Hexcore V2 Beta — Gör Hydra Heads enklare att köra, driva och bygga på",
-      "summary_sv": "",
-      "_title_sha": "414165c44e7e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156183",
-      "source": "Cardano Forum",
-      "title_en": "IoListWallet (WIP)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/iolistwallet-wip/156183",
-      "date": "2026-08-09T17:41:37.449Z",
-      "score": 3,
-      "comments": 6,
-      "title_sv": "IoListWallet (WIP)",
-      "summary_sv": "",
-      "_title_sha": "6f64015f681e",
       "_summary_sha": ""
     },
     {
