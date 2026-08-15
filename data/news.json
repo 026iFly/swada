@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-15T14:32:14.640Z",
+  "fetched_at": "2026-08-15T15:30:16.779Z",
   "items": [
+    {
+      "id": "forum:156282",
+      "source": "Cardano Forum",
+      "title_en": "AI agents will need on-chain infrastructure — why Cardano fits, and a testnet project to try (nft_api)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ai-agents-will-need-on-chain-infrastructure-why-cardano-fits-and-a-testnet-project-to-try-nft-api/156282",
+      "date": "2026-08-15T15:26:28.613Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "AI-agenter kommer att behöva on-chain-infrastruktur — varför Cardano passar, och ett testnätprojekt att prova (nft_api)",
+      "summary_sv": "",
+      "_title_sha": "e0e7779ed06b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156277",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Utvecklarnas kontorstid #73 - Cardano Lightning (14 augusti)",
       "summary_sv": "",
       "_title_sha": "91d5d36e3cfd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156210",
-      "source": "Cardano Forum",
-      "title_en": "Cardano First Steps in North-Kivu, Ituri et Katanga",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-first-steps-in-north-kivu-ituri-et-katanga/156210",
-      "date": "2026-08-10T21:04:20.614Z",
-      "score": 5,
-      "comments": 4,
-      "title_sv": "Cardano första stegen i Nord-Kivu, Ituri och Katanga",
-      "summary_sv": "",
-      "_title_sha": "36bc2d0aa2d0",
       "_summary_sha": ""
     },
     {
