@@ -26,6 +26,11 @@ jobs:
 
       - name: Run fetch + translate
         env:
+          # Pelles processor (OpenAI-compatible). Used when the secret is set;
+          # otherwise the script falls back to the Vercel AI Gateway below.
+          TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
+          TRANSLATE_ENDPOINT: https://api.pellesprocessor.se/v1/chat/completions
+          TRANSLATE_MODEL: local-llm
           AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
         run: node scripts/fetch-content.mjs
 

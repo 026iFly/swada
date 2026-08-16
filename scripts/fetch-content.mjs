@@ -8,9 +8,14 @@
  * changes. Existing translations carry over across runs.
  *
  * Environment:
- *   AI_GATEWAY_API_KEY  — Vercel AI Gateway key. Optional. If absent,
- *                         items are stored with raw English text only.
- *   TRANSLATE_MODEL     — Override model. Default openai/gpt-5-nano.
+ *   TRANSLATE_API_KEY   — Key for a custom OpenAI-compatible endpoint
+ *                         (Pelles processor). When set, TRANSLATE_ENDPOINT
+ *                         and TRANSLATE_MODEL take effect.
+ *   TRANSLATE_ENDPOINT  — Chat-completions URL for the custom endpoint.
+ *   TRANSLATE_MODEL     — Model name for the custom endpoint.
+ *   AI_GATEWAY_API_KEY  — Fallback: Vercel AI Gateway key (openai/gpt-5-nano),
+ *                         used only when TRANSLATE_API_KEY is absent.
+ *                         If no key at all, items keep raw English text.
  *
  * Usage:
  *   node scripts/fetch-content.mjs
@@ -24,9 +29,13 @@ const ROOT = path.resolve(import.meta.dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
 fs.mkdirSync(DATA_DIR, { recursive: true });
 
-const AI_KEY = process.env.AI_GATEWAY_API_KEY || "";
-const TRANSLATE_MODEL = process.env.TRANSLATE_MODEL || "openai/gpt-5-nano";
-const TRANSLATE_ENDPOINT = "https://ai-gateway.vercel.sh/v1/chat/completions";
+// Custom endpoint (Pelles processor) wins when its key is present; otherwise
+// fall back to the Vercel AI Gateway so a missing secret degrades gracefully.
+const CUSTOM = Boolean(process.env.TRANSLATE_API_KEY);
+const AI_KEY = process.env.TRANSLATE_API_KEY || process.env.AI_GATEWAY_API_KEY || "";
+const TRANSLATE_MODEL = (CUSTOM && process.env.TRANSLATE_MODEL) || "openai/gpt-5-nano";
+const TRANSLATE_ENDPOINT = (CUSTOM && process.env.TRANSLATE_ENDPOINT)
+  || "https://ai-gateway.vercel.sh/v1/chat/completions";
 
 const UA = "swada-bot/1.0 (+https://swada.se)";
 
@@ -397,8 +406,8 @@ async function translateItems(items, label) {
 }
 
 async function main() {
-  console.log(`fetch-content @ ${new Date().toISOString()} model=${TRANSLATE_MODEL}`);
-  console.log(`AI Gateway key: ${AI_KEY ? "present" : "ABSENT (English only)"}`);
+  console.log(`fetch-content @ ${new Date().toISOString()} model=${TRANSLATE_MODEL} endpoint=${new URL(TRANSLATE_ENDPOINT).host}`);
+  console.log(`translate key: ${AI_KEY ? (CUSTOM ? "custom (TRANSLATE_API_KEY)" : "gateway fallback") : "ABSENT (English only)"}`);
 
   console.log("\n=== News ===");
   const newsFile = path.join(DATA_DIR, "news.json");
