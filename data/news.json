@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T10:32:45.615Z",
+  "fetched_at": "2026-08-16T11:29:13.054Z",
   "items": [
     {
       "id": "forum:156294",
@@ -92,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/scaling-global-adoption-orion-fund-progress-update-and-q-a-17-august/156231",
       "date": "2026-08-12T08:33:19.127Z",
-      "score": 3,
+      "score": 4,
       "comments": 1,
       "title_sv": "Skalning av global adoptions? Wait, the user text: \"Scaling Global Adoption: Orion Fund Progress Update and Q&A (17 August)\". Swedish: \"Skalning av global adoption: Orion Fund - utvecklingsuppdatering och Q&A (17 augusti)\". But prefer \"global adoption\" usually \"globalt bruk\" or \"global adoption\" as term. They asked to keep terms English where used. They said keep technical terms in English where established. \"Orion Fund\" is a proper name. \"Progress Update\" -> \"uppdatering om framsteg\" or \"framstegsuppdatering\". Q&A -> \"Q&A\" maybe keep as \"Q&A\". They want concise. We'll translate: \"Skalning av global adoption\" better \"Skalning av global adoption\" but Swedish would be \"Global adoption\" is odd. Could be \"Skalning av global adoption\" yes. \"Orion Fund Progress Update and Q&A (17 August)\" -> \"Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Use dash. Also date format: \"17 August\" -> \"17 augusti\". Let's craft: \"Skalning av global adoption: Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Could also hyphen vs colon. The original uses colon. We'll produce: \"Skalning av global adoption: Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Ensure only translation.",
       "summary_sv": "",
