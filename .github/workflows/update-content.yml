@@ -26,15 +26,12 @@ jobs:
 
       - name: Run fetch + translate
         env:
-          # Pelles processor (OpenAI-compatible). PARKED until the rig is
-          # ready — the current Mac lane needs ~80s per translation, far too
-          # slow for this job. Uncomment TRANSLATE_API_KEY to switch over;
-          # the secret is already stored in the repo. Verified working
-          # end-to-end 2026-08-16.
-          # TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
+          # Pelles processor (OpenAI-compatible) — the only translation lane.
+          # Slow calls and host downtime are handled in the script: per-run
+          # translation budget, consecutive-failure breaker, hourly catch-up.
+          TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
           TRANSLATE_ENDPOINT: https://api.pellesprocessor.se/v1/chat/completions
           TRANSLATE_MODEL: local-llm
-          AI_GATEWAY_API_KEY: ${{ secrets.AI_GATEWAY_API_KEY }}
         run: node scripts/fetch-content.mjs
 
       - name: Commit if data changed

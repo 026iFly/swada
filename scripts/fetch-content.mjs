@@ -8,14 +8,16 @@
  * changes. Existing translations carry over across runs.
  *
  * Environment:
- *   TRANSLATE_API_KEY   — Key for a custom OpenAI-compatible endpoint
- *                         (Pelles processor). When set, TRANSLATE_ENDPOINT
- *                         and TRANSLATE_MODEL take effect.
- *   TRANSLATE_ENDPOINT  — Chat-completions URL for the custom endpoint.
- *   TRANSLATE_MODEL     — Model name for the custom endpoint.
- *   AI_GATEWAY_API_KEY  — Fallback: Vercel AI Gateway key (openai/gpt-5-nano),
- *                         used only when TRANSLATE_API_KEY is absent.
- *                         If no key at all, items keep raw English text.
+ *   TRANSLATE_API_KEY   — Key for Pelles processor (OpenAI-compatible).
+ *                         Absent key = items keep raw English text and are
+ *                         retried on later runs.
+ *   TRANSLATE_ENDPOINT  — Chat-completions URL.
+ *   TRANSLATE_MODEL     — Model name.
+ *
+ * The lane may be slow (local model) or down (host asleep). Design: every
+ * run finishes and commits regardless — a per-run translation budget stops
+ * new attempts near the 7-minute mark, and untranslated items catch up on
+ * subsequent hourly runs.
  *
  * Usage:
  *   node scripts/fetch-content.mjs
@@ -29,13 +31,15 @@ const ROOT = path.resolve(import.meta.dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
 fs.mkdirSync(DATA_DIR, { recursive: true });
 
-// Custom endpoint (Pelles processor) wins when its key is present; otherwise
-// fall back to the Vercel AI Gateway so a missing secret degrades gracefully.
-const CUSTOM = Boolean(process.env.TRANSLATE_API_KEY);
-const AI_KEY = process.env.TRANSLATE_API_KEY || process.env.AI_GATEWAY_API_KEY || "";
-const TRANSLATE_MODEL = (CUSTOM && process.env.TRANSLATE_MODEL) || "openai/gpt-5-nano";
-const TRANSLATE_ENDPOINT = (CUSTOM && process.env.TRANSLATE_ENDPOINT)
-  || "https://ai-gateway.vercel.sh/v1/chat/completions";
+const AI_KEY = process.env.TRANSLATE_API_KEY || "";
+const TRANSLATE_MODEL = process.env.TRANSLATE_MODEL || "local-llm";
+const TRANSLATE_ENDPOINT = process.env.TRANSLATE_ENDPOINT
+  || "https://api.pellesprocessor.se/v1/chat/completions";
+// Local models are slow — allow up to 4 min per call, but cap the total time
+// spent translating per run so the job always finishes and commits.
+const TRANSLATE_CALL_TIMEOUT_MS = 240_000;
+const TRANSLATE_RUN_BUDGET_MS = 7 * 60_000;
+const runStart = Date.now();
 
 const UA = "swada-bot/1.0 (+https://swada.se)";
 
@@ -49,12 +53,16 @@ const sha = (s) => crypto.createHash("sha256").update(s).digest("hex").slice(0, 
 const loadJSON = (f) => { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch { return null; } };
 const saveJSON = (f, d) => fs.writeFileSync(f, JSON.stringify(d, null, 2) + "\n");
 
-// --- translation via AI Gateway --------------------------------------------
-// Circuit breaker: when the gateway is hard rate-limited (free-tier quota
-// exhausted), every call 429s and the per-text retries would stall the job
-// for minutes. After 3 consecutive rate-limited texts we stop calling the
-// gateway for the rest of the run; untranslated items retry next run.
-let consecutiveRateLimits = 0;
+// --- translation via Pelles processor ---------------------------------------
+// Circuit breaker: after 3 consecutive failed texts (timeouts when the host
+// is asleep, connection errors, or hard rate limits) we stop calling the
+// endpoint for the rest of the run; untranslated items retry next run.
+let consecutiveFailures = 0;
+
+// Reasoning models often prepend their chain-of-thought in <think> blocks —
+// keep only the actual translation.
+const stripThinking = (s) =>
+  s.replace(/<think>[\s\S]*?<\/think>/gi, "").replace(/^<think>[\s\S]*/i, "").trim();
 
 async function translateToSwedish(text, prevTranslation, prevHash) {
   if (!text || !text.trim()) return { sv: "", hash: "" };
@@ -65,7 +73,10 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
   if (!AI_KEY) {
     return { sv: "", hash: inputHash, untranslated: true };
   }
-  if (consecutiveRateLimits >= 3) {
+  if (consecutiveFailures >= 3) {
+    return { sv: "", hash: inputHash, untranslated: true };
+  }
+  if (Date.now() - runStart > TRANSLATE_RUN_BUDGET_MS) {
     return { sv: "", hash: inputHash, untranslated: true };
   }
   const sys = "Du är en professionell översättare som översätter Cardano-blockchain-innehåll från engelska till svenska. Behåll tekniska termer (DRep, stake, pool, ADA, Cardano, smart contract, blockchain, treasury, governance action, m.fl.) på engelska där de är vedertagna. Översätt kortfattat, sakligt och korrekt. Returnera ENDAST den svenska översättningen, ingen kommentar, ingen formatering.";
@@ -94,7 +105,7 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
           "Authorization": `Bearer ${AI_KEY}`,
         },
         body: JSON.stringify(body),
-      }, 90_000);
+      }, TRANSLATE_CALL_TIMEOUT_MS);
       if (resp.ok) break;
       if (resp.status !== 429 && resp.status < 500) break;
       const wait = 1500 * (2 ** attempt) + Math.floor(Math.random() * 500);
@@ -103,19 +114,17 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
     if (!resp.ok) {
       const err = await resp.text().catch(() => "");
       console.error(`  translate failed (${resp.status}): ${err.slice(0,200)}`);
-      if (resp.status === 429) {
-        consecutiveRateLimits++;
-        if (consecutiveRateLimits === 3) {
-          console.error("  gateway hard rate-limited — skipping remaining translations this run");
-        }
+      consecutiveFailures++;
+      if (consecutiveFailures === 3) {
+        console.error("  endpoint failing repeatedly — skipping remaining translations this run");
       }
       return { sv: "", hash: inputHash, untranslated: true };
     }
-    consecutiveRateLimits = 0;
+    consecutiveFailures = 0;
     // Small inter-call pacing to be a good citizen on shared free tier.
     await new Promise((r) => setTimeout(r, 300));
     const data = await resp.json();
-    const sv = (data.choices?.[0]?.message?.content || "").trim();
+    const sv = stripThinking((data.choices?.[0]?.message?.content || "").trim());
     if (!sv) {
       const fr = data.choices?.[0]?.finish_reason || "?";
       const u = data.usage || {};
@@ -124,6 +133,10 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
     return { sv, hash: inputHash };
   } catch (e) {
     console.error(`  translate error: ${e.message}`);
+    consecutiveFailures++;
+    if (consecutiveFailures === 3) {
+      console.error("  endpoint unreachable — skipping remaining translations this run");
+    }
     return { sv: "", hash: inputHash, untranslated: true };
   }
 }
@@ -407,7 +420,7 @@ async function translateItems(items, label) {
 
 async function main() {
   console.log(`fetch-content @ ${new Date().toISOString()} model=${TRANSLATE_MODEL} endpoint=${new URL(TRANSLATE_ENDPOINT).host}`);
-  console.log(`translate key: ${AI_KEY ? (CUSTOM ? "custom (TRANSLATE_API_KEY)" : "gateway fallback") : "ABSENT (English only)"}`);
+  console.log(`translate key: ${AI_KEY ? "present" : "ABSENT (English only)"}`);
 
   console.log("\n=== News ===");
   const newsFile = path.join(DATA_DIR, "news.json");
