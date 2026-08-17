@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-08-17T07:11:02.045Z",
+  "fetched_at": "2026-08-17T09:00:09.833Z",
   "items": [
+    {
+      "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
+      "proposal_id": "gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 649,
+      "expiration_epoch": 656,
+      "title_en": "Reimburse Ikigai Info Governance Action Deposit.",
+      "summary_en": "In September 2024, only weeks after the Chang hard fork to introduce on-chain governance, an Info governance action titled Cardanoの生きがい - Ikigai - was submitted. This was only a symbolic governance action, as it simply asked the community whether they agreed with a statement thanking those that helped get Cardano to this point and expressing a sense of hope for the future.\n\nUnfortunately, due to a bug in the code of the Cardano node that permitted an unregistered stake key to be used in the governance action, the submitter was unable to recover their deposit of 100K ADA. While the community expressed at the time the importance of reimbursing this deposit via a treasury withdrawal; once the ability to do so became available, following the Plomin hard fork; unfortunately none of the entity based budget submissions included it.\n\nThe Cardano in Oceania initiative did include the deposit reimbursement in their budget Info governance action, however their governance action was not approved. This governance action therefore aims to resolve this outstanding issue.",
+      "url": "https://gov.tools/governance_actions/gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
+      "block_time": "2026-08-17T08:18:17.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Återbädda Ikigai Info Governance Action Deposit.",
+      "summary_sv": "",
+      "_title_sha": "2fe74606c997",
+      "_summary_sha": "70ae82146842"
+    },
     {
       "id": "gov:gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
       "proposal_id": "gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
