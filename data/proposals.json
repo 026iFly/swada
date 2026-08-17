@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T21:34:39.905Z",
+  "fetched_at": "2026-08-17T22:34:20.019Z",
   "items": [
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
@@ -100,27 +100,6 @@
       "summary_sv": "Denna informationsåtgärd föreslår att namnge Protocol Version 12-hard forken “von Bergen” som en hälsning och erkännande till Fabian von Bergen, även känd som Zyroxa.\n\nFabian har varit en Cardano-gemenskapssmed sedan ITN, en alltid kritisk, ärlig och sund röst i Cardanos tidigare skede som introducerade och guidade många genom Cardano-ekosystemet, en välkänd person på Cardano Forum, även SPO för Tempus Stake Pool och Cardano-ambassadör sedan programmets tidigaste dagar.",
       "_title_sha": "06f6be44b3b7",
       "_summary_sha": "b799cf6838c0"
-    },
-    {
-      "id": "gov:gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
-      "proposal_id": "gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 642,
-      "expiration_epoch": 649,
-      "title_en": "Withdraw 120,000,000 ada for AlphaGrowth’s Cardano PRIME",
-      "summary_en": "This Treasury Withdrawal funds Cardano PRIME, a 12-month community-overseen program to improve DeFi protocol readiness, responsibly activate incentives, and grow durable liquidity across Cardano markets. The withdrawal requests ₳120,000,000, with USD figures included only as planning references at the $0.16/ADA assumption.\n\nPRIME is executed by AlphaGrowth under Operating Group oversight. Intersect acts as Constitutional Administrator and manages the withdrawn funds directly. Program funds are released through milestone-gated and action-gated processes, including a Month 4 Phase 3 release gate, published recommendations and disbursement records, independent audit or assurance funding, a separate auditable account, abstain delegation while funds are held before disbursement, and return-to-treasury triggers for unused, unearned, or unreleased funds.\n\nThis withdrawal is conditional on an applicable Net Change Limit having been agreed under TREASURY-01a and having enough remaining capacity to cover the withdrawal in full at enactment.",
-      "url": "https://gov.tools/governance_actions/gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
-      "block_time": "2026-07-09T16:30:25.000Z",
-      "deposit_ada": 100000,
-      "ifly_vote": {
-        "vote": "Yes",
-        "block_time": "2026-08-05T12:21:53.000Z",
-        "rationale_sv": "iFly (SWADA) röstar JA. Cardano PRIME angriper Cardanos största adoptionshinder: tunn DeFi-likviditet, som är självförstärkande — dåliga handelsvillkor avskräcker användare, vilket avskräcker byggare, vilket håller likviditeten tunn. Tre egenskaper gör storleken 120 000 000 ADA acceptabel för mig: (1) den är fasindelad — den stora incitamentsdelen på ~90 000 000 ADA betalas ut först efter en beslutspunkt i månad 4 och stannar annars i statskassan; (2) den är denominerad i ada, så statskassan bär ingen dollarkursrisk; och (3) medlen förvaras i ett Intersect-administrerat reservkontrakt på oberoende granskade verktyg, inte direkt till operatören.\nInvändningar: ~30 000 000 ADA för de tidiga faserna och den fasta avgiften är bundna i förväg oavsett resultat; prestationsavgiften kan utlösas av likviditet som behållits i endast 30 dagar; och den oberoende granskaren namngavs inte före omröstningen. Jag röstar JA i förväntan att dessa kontroller skärps under genomförandet, och jag stödjer mekanismerna för återföring och avveckling om delmål missas. Min farhåga gäller genomförandet, inte avsikten."
-      },
-      "title_sv": "Ta ut 120 000 000 ada för AlphaGrowth:s Cardano PRIME",
-      "summary_sv": "Denna Treasury-uttag finansierar Cardano PRIME, ett 12-månaders program övervakat av gemenskapen för att förbättra DeFi-protokollberedskap, ansvarsfull aktivering av incitament och främja hållbar likviditet över Cardano-marknaderna. Uttaget uppgår till ₳120 000 000, där USD-siffror endast inkluderas som planeringsreferenser vid antagandet $0,16/ADA.\n\nPRIME genomförs av AlphaGrowth under driftgruppens övervakning. Intersect agerar Konstitutionell administratör och förvaltar de uttagna medlen direkt. Programfonderna frigörs genom färdighets- och åtgärdsreglerade processer, inklusive ett release-gate för månad 4 fas 3, publicerade rekommendationer och utbetalningsregister, oberoende revision- eller tillförlitlighetsfinansiering, ett separat revisionsbart konto, abstention-delandering medan medlen hålls före utbetalning, samt återföring till treasury-signal när oanvända, förtjänade eller ouppnådda medel finns.\n\nDetta uttag är villkorat av att ett tillämpligt Net Change Limit har överenskommits enligt TREASURY-01a och att tillräcklig kvarvarande kapacitet finns för att täcka uttaget i sin helhet vid ikraftträdandet.",
-      "_title_sha": "bd1fea21e0c0",
-      "_summary_sha": "472979604398"
     }
   ]
 }
