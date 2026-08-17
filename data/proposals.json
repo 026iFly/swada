@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T10:44:05.019Z",
+  "fetched_at": "2026-08-17T11:34:53.901Z",
   "items": [
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
@@ -13,7 +13,7 @@
       "block_time": "2026-08-17T08:18:17.000Z",
       "deposit_ada": 100000,
       "title_sv": "Återbädda Ikigai Info Governance Action Deposit.",
-      "summary_sv": "",
+      "summary_sv": "I september 2024, bara veckor efter Chang hard forken för att introducera on-chain governance, skickades en Info governance action med titeln Cardanoの生きがい - Ikigai - in. Detta var endast en symbolisk governance action, då den helt enkelt frågade communityt om de höll med om ett uttalande som tackade de som hjälpt Cardano att nå denna punkt och uttryckte en känsla av hopp inför framtiden. Olyckligtvis, Medan community vid tidpunkten uttryckte vikten av att ersätta denna deposition via en treasury withdrawal; när möjligheten att göra det blev tillgänglig, efter Plomin hard fork; inkluderade tyvärr inget av de",
       "_title_sha": "2fe74606c997",
       "_summary_sha": "70ae82146842"
     },
