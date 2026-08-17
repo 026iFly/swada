@@ -113,7 +113,9 @@ async function translateChunk(text) {
   try {
     const body = {
       model: TRANSLATE_MODEL,
-      max_tokens: 4096,
+      // Chunks are ≤700 chars, so ~1200 tokens is ample for the translation
+      // while bounding runaway generations on the local model.
+      max_tokens: 1200,
       messages: [
         { role: "system", content: sys },
         { role: "user", content: user },
