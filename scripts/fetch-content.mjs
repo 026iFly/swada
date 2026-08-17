@@ -68,21 +68,46 @@ let servedModelLogged = false;
 const stripThinking = (s) =>
   s.replace(/<think>[\s\S]*?<\/think>/gi, "").replace(/^<think>[\s\S]*/i, "").trim();
 
+// Long texts make the local model generate for minutes and blow the call
+// timeout (a 1400-char proposal abstract repeatedly hit 240s). Translate in
+// sentence-boundary chunks so each call's output stays bounded.
+const CHUNK_LIMIT = 700;
+function chunkText(text) {
+  if (text.length <= CHUNK_LIMIT) return [text];
+  const parts = [];
+  let rest = text;
+  while (rest.length > CHUNK_LIMIT) {
+    let cut = rest.lastIndexOf(". ", CHUNK_LIMIT);
+    if (cut < CHUNK_LIMIT * 0.4) cut = rest.lastIndexOf(" ", CHUNK_LIMIT);
+    if (cut < 1) cut = CHUNK_LIMIT;
+    parts.push(rest.slice(0, cut + 1).trim());
+    rest = rest.slice(cut + 1).trim();
+  }
+  if (rest) parts.push(rest);
+  return parts;
+}
+
 async function translateToSwedish(text, prevTranslation, prevHash) {
   if (!text || !text.trim()) return { sv: "", hash: "" };
   const inputHash = sha(text);
   if (prevTranslation && prevHash === inputHash) {
     return { sv: prevTranslation, hash: inputHash };
   }
-  if (!AI_KEY) {
-    return { sv: "", hash: inputHash, untranslated: true };
+  const blocked = () =>
+    !AI_KEY || consecutiveFailures >= 3 || Date.now() - runStart > TRANSLATE_RUN_BUDGET_MS;
+  if (blocked()) return { sv: "", hash: inputHash, untranslated: true };
+  const out = [];
+  for (const part of chunkText(text)) {
+    if (blocked()) return { sv: "", hash: inputHash, untranslated: true };
+    const sv = await translateChunk(part);
+    if (!sv) return { sv: "", hash: inputHash, untranslated: true };
+    out.push(sv);
   }
-  if (consecutiveFailures >= 3) {
-    return { sv: "", hash: inputHash, untranslated: true };
-  }
-  if (Date.now() - runStart > TRANSLATE_RUN_BUDGET_MS) {
-    return { sv: "", hash: inputHash, untranslated: true };
-  }
+  return { sv: out.join(" "), hash: inputHash };
+}
+
+// One bounded call to the gateway; returns "" on any failure.
+async function translateChunk(text) {
   const sys = "Du är en professionell översättare som översätter Cardano-blockchain-innehåll från engelska till svenska. Behåll tekniska termer (DRep, stake, pool, ADA, Cardano, smart contract, blockchain, treasury, governance action, m.fl.) på engelska där de är vedertagna. Översätt kortfattat, sakligt och korrekt. Returnera ENDAST den svenska översättningen, ingen kommentar, ingen formatering.";
   const user = `Översätt följande text till svenska:\n\n${text}`;
   try {
@@ -122,7 +147,7 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
       if (consecutiveFailures === 3) {
         console.error("  endpoint failing repeatedly — skipping remaining translations this run");
       }
-      return { sv: "", hash: inputHash, untranslated: true };
+      return "";
     }
     consecutiveFailures = 0;
     // Small inter-call pacing to be a good citizen on shared free tier.
@@ -138,14 +163,14 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
       const u = data.usage || {};
       console.error(`  translate empty: finish=${fr} prompt=${u.prompt_tokens} completion=${u.completion_tokens} reasoning=${u.completion_tokens_details?.reasoning_tokens}`);
     }
-    return { sv, hash: inputHash };
+    return sv;
   } catch (e) {
     console.error(`  translate error: ${e.message}`);
     consecutiveFailures++;
     if (consecutiveFailures === 3) {
       console.error("  endpoint unreachable — skipping remaining translations this run");
     }
-    return { sv: "", hash: inputHash, untranslated: true };
+    return "";
   }
 }
 
