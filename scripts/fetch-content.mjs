@@ -59,6 +59,10 @@ const saveJSON = (f, d) => fs.writeFileSync(f, JSON.stringify(d, null, 2) + "\n"
 // endpoint for the rest of the run; untranslated items retry next run.
 let consecutiveFailures = 0;
 
+// The workflow requests an alias (local-llm); log once per run which
+// concrete model the gateway reports serving it.
+let servedModelLogged = false;
+
 // Reasoning models often prepend their chain-of-thought in <think> blocks —
 // keep only the actual translation.
 const stripThinking = (s) =>
@@ -124,6 +128,10 @@ async function translateToSwedish(text, prevTranslation, prevHash) {
     // Small inter-call pacing to be a good citizen on shared free tier.
     await new Promise((r) => setTimeout(r, 300));
     const data = await resp.json();
+    if (!servedModelLogged && data.model) {
+      console.log(`  served by model: ${data.model}`);
+      servedModelLogged = true;
+    }
     const sv = stripThinking((data.choices?.[0]?.message?.content || "").trim());
     if (!sv) {
       const fr = data.choices?.[0]?.finish_reason || "?";
