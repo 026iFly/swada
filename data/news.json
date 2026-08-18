@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-18T13:02:12.838Z",
+  "fetched_at": "2026-08-18T13:50:28.472Z",
   "items": [
+    {
+      "id": "forum:156319",
+      "source": "Cardano Forum",
+      "title_en": "CARDANO FIRST STEPS IN NORTH-KIVU POUR LES FRANCOPHONES: Rapport de la session du 17 août 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-first-steps-in-north-kivu-pour-les-francophones-rapport-de-la-session-du-17-aout-2026/156319",
+      "date": "2026-08-18T10:51:15.119Z",
+      "score": 2,
+      "comments": 0,
+      "title_sv": "Cardano första steg i Nordkivu för fransktalande: Rapport från sessionen den 17 augusti 2026",
+      "summary_sv": "",
+      "_title_sha": "6df330b4ef50",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156294",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Skalning av global adoptions? Wait, the user text: \"Scaling Global Adoption: Orion Fund Progress Update and Q&A (17 August)\". Swedish: \"Skalning av global adoption: Orion Fund - utvecklingsuppdatering och Q&A (17 augusti)\". But prefer \"global adoption\" usually \"globalt bruk\" or \"global adoption\" as term. They asked to keep terms English where used. They said keep technical terms in English where established. \"Orion Fund\" is a proper name. \"Progress Update\" -> \"uppdatering om framsteg\" or \"framstegsuppdatering\". Q&A -> \"Q&A\" maybe keep as \"Q&A\". They want concise. We'll translate: \"Skalning av global adoption\" better \"Skalning av global adoption\" but Swedish would be \"Global adoption\" is odd. Could be \"Skalning av global adoption\" yes. \"Orion Fund Progress Update and Q&A (17 August)\" -> \"Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Use dash. Also date format: \"17 August\" -> \"17 augusti\". Let's craft: \"Skalning av global adoption: Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Could also hyphen vs colon. The original uses colon. We'll produce: \"Skalning av global adoption: Orion Fund – framstegsuppdatering och Q&A (17 augusti)\". Ensure only translation.",
       "summary_sv": "",
       "_title_sha": "b04981d9a7f3",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156230",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Claude está cruzando el Rubicón | CH 11 Ago 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-claude-esta-cruzando-el-rubicon-ch-11-ago-2026/156230",
-      "date": "2026-08-12T01:13:15.362Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "Claude korsar Rubicon | CH 11 Aug 2026",
-      "summary_sv": "",
-      "_title_sha": "620376441907",
       "_summary_sha": ""
     },
     {
