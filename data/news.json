@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-19T10:38:33.482Z",
+  "fetched_at": "2026-08-19T11:35:49.403Z",
   "items": [
+    {
+      "id": "forum:156342",
+      "source": "Cardano Forum",
+      "title_en": "Digest August 19, 2026: Cardano at TOKEN2049, Rare Evo 2026 Recap, Urgent Governance Call to Action, Rethinking Catalyst Funding, Real-World Impact & Tech Wins, CIP Updates, and more",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-august-19-2026-cardano-at-token2049-rare-evo-2026-recap-urgent-governance-call-to-action-rethinking-catalyst-funding-real-world-impact-tech-wins-cip-updates-and-more/156342",
+      "date": "2026-08-19T11:29:20.645Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "5a7033209db3",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156340",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano, Injective och IBC för första on-chain-anslutningen",
       "summary_sv": "",
       "_title_sha": "e6ad72d8dc20",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156275",
-      "source": "Cardano Forum",
-      "title_en": "This Week in Cardano: Opportunities to Get Involved",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/this-week-in-cardano-opportunities-to-get-involved/156275",
-      "date": "2026-08-15T09:36:07.271Z",
-      "score": 3,
-      "comments": 4,
-      "title_sv": "Denna vecka i Cardano: Möjligheter att engagera sig",
-      "summary_sv": "",
-      "_title_sha": "275955df0972",
       "_summary_sha": ""
     },
     {
