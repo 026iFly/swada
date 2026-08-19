@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T13:05:20.760Z",
+  "fetched_at": "2026-08-19T13:54:16.651Z",
   "items": [
     {
       "id": "forum:156342",
@@ -23,7 +23,7 @@
       "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-4-rejoignez-nous-le-25-aout/156340",
       "date": "2026-08-19T09:05:06.038Z",
       "score": 1,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "DR Kongo Cardano Community Call #4 – Gå med oss den 25 augusti!",
       "summary_sv": "",
       "_title_sha": "c0405e81e10b",
@@ -36,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-first-steps-in-north-kivu-pour-les-francophones-rapport-de-la-session-du-17-aout-2026/156319",
       "date": "2026-08-18T10:51:15.119Z",
-      "score": 2,
-      "comments": 0,
+      "score": 3,
+      "comments": 1,
       "title_sv": "Cardano första steg i Nordkivu för fransktalande: Rapport från sessionen den 17 augusti 2026",
       "summary_sv": "",
       "_title_sha": "6df330b4ef50",
