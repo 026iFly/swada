@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-19T19:33:21.440Z",
+  "fetched_at": "2026-08-19T20:38:16.092Z",
   "items": [
+    {
+      "id": "forum:156347",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #74 - Building on Cardano: Connecting to the Real World (21 August)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-74-building-on-cardano-connecting-to-the-real-world-21-august/156347",
+      "date": "2026-08-19T20:11:30.625Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Developers Office Hours #74 - Bygga på Cardano: Ansluta till den verkliga världen (21 augusti)",
+      "summary_sv": "",
+      "_title_sha": "3e73cb3b272d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156344",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Reflektioner kring ekosystemets komplexitet och utmaningarna för adoption i fransktalande Afrika.",
       "summary_sv": "",
       "_title_sha": "abceb796ff5d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156277",
-      "source": "Cardano Forum",
-      "title_en": "왜 인젝티브인가, 그리고 실제로 무엇이 달라지는가",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/156277",
-      "date": "2026-08-15T10:44:47.876Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Varför injektiv, och vad som faktiskt förändras?",
-      "summary_sv": "",
-      "_title_sha": "a1c7d0ee0cef",
       "_summary_sha": ""
     },
     {
