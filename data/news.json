@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-19T15:41:39.831Z",
+  "fetched_at": "2026-08-19T16:44:40.696Z",
   "items": [
+    {
+      "id": "forum:156344",
+      "source": "Cardano Forum",
+      "title_en": "Digest du 19 août 2026 : Cardano à TOKEN2049, récapitulatif de Rare Evo 2026, appel urgent à l’action en matière de gouvernance, repenser le financement de Catalyst, impact concret et avancées technologiques, mises à jour des CIP, et bien plus encore",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-du-19-aout-2026-cardano-a-token2049-recapitulatif-de-rare-evo-2026-appel-urgent-a-l-action-en-matiere-de-gouvernance-repenser-le-financement-de-catalyst-impact-concret-et-avancees-technologiques-mises-a-jour-des-cip-et-bien-plus-encore/156344",
+      "date": "2026-08-19T16:12:45.217Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "7405b9f60ab0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156342",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-august-19-2026-cardano-at-token2049-rare-evo-2026-recap-urgent-governance-call-to-action-rethinking-catalyst-funding-real-world-impact-tech-wins-cip-updates-and-more/156342",
       "date": "2026-08-19T11:29:20.645Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "",
       "summary_sv": "",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-4-rejoignez-nous-le-25-aout/156340",
       "date": "2026-08-19T09:05:06.038Z",
-      "score": 1,
-      "comments": 1,
+      "score": 2,
+      "comments": 2,
       "title_sv": "DR Kongo Cardano Community Call #4 – Gå med oss den 25 augusti!",
       "summary_sv": "",
       "_title_sha": "c0405e81e10b",
@@ -97,20 +111,6 @@
       "title_sv": "Varför injektiv, och vad som faktiskt förändras?",
       "summary_sv": "",
       "_title_sha": "a1c7d0ee0cef",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156276",
-      "source": "Cardano Forum",
-      "title_en": "카르다노, 인젝티브와 IBC로 첫 온체인 연결",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ibc/156276",
-      "date": "2026-08-15T10:37:06.036Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano, Injective och IBC för första on-chain-anslutningen",
-      "summary_sv": "",
-      "_title_sha": "e6ad72d8dc20",
       "_summary_sha": ""
     },
     {
