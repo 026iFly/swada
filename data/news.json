@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-21T03:11:18.844Z",
+  "fetched_at": "2026-08-21T04:49:23.276Z",
   "items": [
+    {
+      "id": "forum:156379",
+      "source": "Cardano Forum",
+      "title_en": "Transparansi adalah Pedang Bermata Dua: Mengapa Blockchain Butuh Privasi?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/transparansi-adalah-pedang-bermata-dua-mengapa-blockchain-butuh-privasi/156379",
+      "date": "2026-08-21T04:04:34.862Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Transparens är ett tveeggat svärd: Varför behöver blockchain integritet?",
+      "summary_sv": "",
+      "_title_sha": "3b4e73160c9e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156347",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "AI-agenter kommer att behöva on-chain-infrastruktur – varför Cardano passar, och ett testnet-projekt att prova (nft_api)",
       "summary_sv": "",
       "_title_sha": "e0e7779ed06b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156281",
-      "source": "Cardano Forum",
-      "title_en": "Réflexions sur la complexité de l’écosystème et les défis de l’adoption en Afrique francophone",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/reflexions-sur-la-complexite-de-l-ecosysteme-et-les-defis-de-l-adoption-en-afrique-francophone/156281",
-      "date": "2026-08-15T11:13:20.416Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Reflektioner över ekosystemets komplexitet och utmaningarna med adoption i franskspråkiga Afrika.",
-      "summary_sv": "",
-      "_title_sha": "abceb796ff5d",
       "_summary_sha": ""
     },
     {
