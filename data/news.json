@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-21T16:47:10.327Z",
+  "fetched_at": "2026-08-21T17:39:34.019Z",
   "items": [
+    {
+      "id": "forum:156386",
+      "source": "Cardano Forum",
+      "title_en": "Ouroboros Peras weekly update: 21 August 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-21-august-2026/156386",
+      "date": "2026-08-21T17:13:17.935Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ouroboros Peras veckouppdatering: 21 augusti 2026",
+      "summary_sv": "",
+      "_title_sha": "4072daa6d142",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156379",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Forskningsuppdatering och anrop om deltagare: L2 adoption och efterfrågan på interoperability på afrikanska marknader (CPC-26-0015)",
       "summary_sv": "",
       "_title_sha": "b980e443b26c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156282",
-      "source": "Cardano Forum",
-      "title_en": "AI agents will need on-chain infrastructure — why Cardano fits, and a testnet project to try (nft_api)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ai-agents-will-need-on-chain-infrastructure-why-cardano-fits-and-a-testnet-project-to-try-nft-api/156282",
-      "date": "2026-08-15T15:26:28.613Z",
-      "score": 13,
-      "comments": 5,
-      "title_sv": "AI-agenter kommer att behöva on-chain infrastruktur — varför Cardano passar och ett testnet-projekt att testa (nft_api)",
-      "summary_sv": "",
-      "_title_sha": "e0e7779ed06b",
       "_summary_sha": ""
     },
     {
