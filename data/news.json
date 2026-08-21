@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-21T22:36:15.566Z",
+  "fetched_at": "2026-08-21T23:34:32.068Z",
   "items": [
+    {
+      "id": "forum:156391",
+      "source": "Cardano Forum",
+      "title_en": "Navigating Cardano as a Newcomer: My Journey, Insights & Community Q&A",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/navigating-cardano-as-a-newcomer-my-journey-insights-community-q-a/156391",
+      "date": "2026-08-21T23:05:40.409Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Navigera Cardano som nybörjare: Min resa, insikter & Community Q&A",
+      "summary_sv": "",
+      "_title_sha": "5d8b3197bc4b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156386",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "CARDANO: Första stegen i norra Kivu för franskspråkiga: Rapport från sessionen den 17 augusti 2026",
       "summary_sv": "",
       "_title_sha": "6df330b4ef50",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156294",
-      "source": "Cardano Forum",
-      "title_en": "Research update and call for participants: L2 adoption and interoperability demand in African markets (CPC-26-0015)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/research-update-and-call-for-participants-l2-adoption-and-interoperability-demand-in-african-markets-cpc-26-0015/156294",
-      "date": "2026-08-16T07:55:17.556Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Forskningsuppdatering och anrop om deltagare: L2 adoption och efterfrågan på interoperability på afrikanska marknader (CPC-26-0015)",
-      "summary_sv": "",
-      "_title_sha": "b980e443b26c",
       "_summary_sha": ""
     },
     {
