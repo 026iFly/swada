@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-22T17:32:24.076Z",
+  "fetched_at": "2026-08-22T18:47:22.719Z",
   "items": [
+    {
+      "id": "forum:156404",
+      "source": "Cardano Forum",
+      "title_en": "Upgrade Bulletin #30 : Dijkstra avance, la qualité du release reste prioritaire",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/upgrade-bulletin-30-dijkstra-avance-la-qualite-du-release-reste-prioritaire/156404",
+      "date": "2026-08-22T18:06:41.534Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Upgrade Bulletin #30: Dijkstra går framåt, releasens kvalitet förblir prioriterad.",
+      "summary_sv": "",
+      "_title_sha": "f7d88a7ac881",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156403",
+      "source": "Cardano Forum",
+      "title_en": "ME ha tocado con secondfi?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/me-ha-tocado-con-secondfi/156403",
+      "date": "2026-08-22T18:03:23.335Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "8edc680dad78",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156402",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Developers Office Hours #74 - Bygga på Cardano: Koppla till den verkliga världen (21 augusti)",
       "summary_sv": "",
       "_title_sha": "3e73cb3b272d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156344",
-      "source": "Cardano Forum",
-      "title_en": "Digest du 19 août 2026 : Cardano à TOKEN2049, récapitulatif de Rare Evo 2026, appel urgent à l’action en matière de gouvernance, repenser le financement de Catalyst, impact concret et avancées technologiques, mises à jour des CIP, et bien plus encore",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-du-19-aout-2026-cardano-a-token2049-recapitulatif-de-rare-evo-2026-appel-urgent-a-l-action-en-matiere-de-gouvernance-repenser-le-financement-de-catalyst-impact-concret-et-avancees-technologiques-mises-a-jour-des-cip-et-bien-plus-encore/156344",
-      "date": "2026-08-19T16:12:45.217Z",
-      "score": 2,
-      "comments": 2,
-      "title_sv": "Digest 19 augusti 2026: Cardano på TOKEN2049, sammanfattning av Rare Evo 2026, brådande upprop om governance action, omvärdering av Catalyst-finansiering, konkret påverkan och tekniska framsteg, uppdateringar av CIP och mycket mer.",
-      "summary_sv": "",
-      "_title_sha": "7405b9f60ab0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156342",
-      "source": "Cardano Forum",
-      "title_en": "Digest August 19, 2026: Cardano at TOKEN2049, Rare Evo 2026 Recap, Urgent Governance Call to Action, Rethinking Catalyst Funding, Real-World Impact & Tech Wins, CIP Updates, and more",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-august-19-2026-cardano-at-token2049-rare-evo-2026-recap-urgent-governance-call-to-action-rethinking-catalyst-funding-real-world-impact-tech-wins-cip-updates-and-more/156342",
-      "date": "2026-08-19T11:29:20.645Z",
-      "score": 4,
-      "comments": 1,
-      "title_sv": "",
-      "summary_sv": "",
-      "_title_sha": "5a7033209db3",
       "_summary_sha": ""
     },
     {
