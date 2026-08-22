@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-22T08:42:10.491Z",
+  "fetched_at": "2026-08-22T09:38:22.190Z",
   "items": [
+    {
+      "id": "forum:156398",
+      "source": "Cardano Forum",
+      "title_en": "🚀 [RA MẮT KHÓA HỌC] BUILDING WITH AIKEN — Lập Trình DApp Cardano Thực Chiến",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ra-m-t-khoa-h-c-building-with-aiken-l-p-trinh-dapp-cardano-th-c-chi-n/156398",
+      "date": "2026-08-22T08:45:28.356Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "🚀 [LANCERING AV KURSEN] BUILDING WITH AIKEN — Praktisk DApp-programmering på Cardano",
+      "summary_sv": "",
+      "_title_sha": "735d74c3e071",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156391",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "DR Kongo Cardano Community Call #4 – Gå med oss den 25 augusti!",
       "summary_sv": "",
       "_title_sha": "c0405e81e10b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156319",
-      "source": "Cardano Forum",
-      "title_en": "CARDANO FIRST STEPS IN NORTH-KIVU POUR LES FRANCOPHONES: Rapport de la session du 17 août 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-first-steps-in-north-kivu-pour-les-francophones-rapport-de-la-session-du-17-aout-2026/156319",
-      "date": "2026-08-18T10:51:15.119Z",
-      "score": 4,
-      "comments": 2,
-      "title_sv": "CARDANO: Första stegen i norra Kivu för franskspråkiga: Rapport från sessionen den 17 augusti 2026",
-      "summary_sv": "",
-      "_title_sha": "6df330b4ef50",
       "_summary_sha": ""
     },
     {
