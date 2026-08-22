@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-22T15:31:38.132Z",
+  "fetched_at": "2026-08-22T16:37:51.385Z",
   "items": [
+    {
+      "id": "forum:156402",
+      "source": "Cardano Forum",
+      "title_en": "Night redeem error with lace",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/night-redeem-error-with-lace/156402",
+      "date": "2026-08-22T16:31:24.599Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "d68c0df2690a",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156398",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "",
       "summary_sv": "",
       "_title_sha": "5a7033209db3",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156340",
-      "source": "Cardano Forum",
-      "title_en": "DR Congo Cardano Community Call #4– Rejoignez-nous le 25 août!",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-4-rejoignez-nous-le-25-aout/156340",
-      "date": "2026-08-19T09:05:06.038Z",
-      "score": 6,
-      "comments": 4,
-      "title_sv": "DR Kongo Cardano Community Call #4 – Gå med oss den 25 augusti!",
-      "summary_sv": "",
-      "_title_sha": "c0405e81e10b",
       "_summary_sha": ""
     },
     {
