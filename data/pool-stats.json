@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-08-22T21:37:33.334Z",
+  "fetched_at": "2026-08-22T22:32:38.017Z",
   "summary": {
     "pool_id_bech32": "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc",
-    "active_stake": "126118118989",
+    "active_stake": "126117908388",
     "live_stake": "126117908388",
     "live_pledge": "81316154965",
     "live_delegators": 7,
     "live_saturation": 0.16,
     "block_count": 10,
     "op_cert_counter": 1,
-    "sigma": 0.000005862725735510795,
+    "sigma": 0.0000058475417796508715,
     "pool_status": "registered"
   },
-  "current_epoch": 650,
+  "current_epoch": 651,
   "recent_blocks": [
     {
       "epoch_no": 643,
@@ -46,6 +46,20 @@
     }
   ],
   "epochs": [
+    {
+      "epoch_no": 649,
+      "active_stake": "126118118989",
+      "active_stake_pct": 0.0005859259954533064,
+      "saturation_pct": 0.16,
+      "block_cnt": 0,
+      "delegator_cnt": 7,
+      "margin": 0.01,
+      "fixed_cost": "170000000",
+      "pool_fees": "0",
+      "deleg_rewards": "0",
+      "member_rewards": "0",
+      "epoch_ros": 0
+    },
     {
       "epoch_no": 648,
       "active_stake": "126180276469",
@@ -162,20 +176,6 @@
       "epoch_no": 640,
       "active_stake": "125587452307",
       "active_stake_pct": 0.000586071458732615,
-      "saturation_pct": 0.16,
-      "block_cnt": 0,
-      "delegator_cnt": 6,
-      "margin": 0.01,
-      "fixed_cost": "170000000",
-      "pool_fees": "0",
-      "deleg_rewards": "0",
-      "member_rewards": "0",
-      "epoch_ros": 0
-    },
-    {
-      "epoch_no": 639,
-      "active_stake": "125587625464",
-      "active_stake_pct": 0.0005801059527280129,
       "saturation_pct": 0.16,
       "block_cnt": 0,
       "delegator_cnt": 6,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T21:36:50.792Z",
+  "fetched_at": "2026-08-22T22:32:27.018Z",
   "items": [
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
@@ -79,27 +79,6 @@
       "summary_sv": "Intersects Parameter Committee föreslår en enda Parameter Update governance action som samlar två oberoende, tidigare rekommenderade protocol parameter-förändringar:\n\n1. **minPoolCost:** sänka `minPoolCost` från 170 000 000 Lovelace (170 ADA) till 75 000 000 Lovelace (75 ADA), en minskning på cirka 55,9 %. Gränser för Plutus minnesenheter (del 2 av 2): öka maxTxExecutionUnits[memory] från 16 500 000 till 17 500 00",
       "_title_sha": "512f3bbd2435",
       "_summary_sha": "34cd96c7b50b"
-    },
-    {
-      "id": "gov:gov_action1fzatpjn3e3r09mjzzfptznef9wxg8q4a5uraq04xvfjyhmfzhzfsqqgfc9h",
-      "proposal_id": "gov_action1fzatpjn3e3r09mjzzfptznef9wxg8q4a5uraq04xvfjyhmfzhzfsqqgfc9h",
-      "type": "InfoAction",
-      "proposed_epoch": 644,
-      "expiration_epoch": 651,
-      "title_en": "Name the Protocol Version 12 hard fork “von Bergen“",
-      "summary_en": "This info action proposes naming the Protocol Version 12 hard fork “von Bergen” as a salute and recognition to Fabian von Bergen, also known as Zyroxa.\n\nFabian has been a Cardano community member since the ITN, an always critical, honest and sound voice in Cardano's past who introduced and guided many through the Cardano ecosystem, a well known person on the Cardano Forum, also SPO of the Tempus Stake Pool and a Cardano Ambassador since the earliest days of the program.",
-      "url": "https://gov.tools/governance_actions/gov_action1fzatpjn3e3r09mjzzfptznef9wxg8q4a5uraq04xvfjyhmfzhzfsqqgfc9h",
-      "block_time": "2026-07-23T15:57:02.000Z",
-      "deposit_ada": 100000,
-      "ifly_vote": {
-        "vote": "Yes",
-        "block_time": "2026-08-05T12:23:45.000Z",
-        "rationale_sv": "iFly (SWADA) röstar JA. Detta är en icke-bindande opinionsröst om att namnge hard forken Protocol Version 12 \"von Bergen\", till minne av Fabian von Bergen (Zyroxa) — Cardano-ambassadör sedan Incentivized Testnet-tiden och operatör av stakepoolen Tempus (TMS), som avled i januari 2026.\nAtt hedra en långvarig bidragsgivare kostar nätverket ingenting och är det anständiga att göra. Två förbehåll som jag redovisar öppet: rösten är icke-bindande, så namnet fastställs slutligen av den bindande hard fork-åtgärden; och Intersects nuvarande avsikt är att namnge PV12 efter Alexander Esgen, i linje med konventionen att namnge forkar efter datavetare. Om communityn i stället landar där har jag inga invändningar — ett \"In Memoriam\"-erkännande skulle tjäna samma syfte. Jag röstar JA för att registrera stöd för hyllningen."
-      },
-      "title_sv": "Döp Protokollversion 12 hard fork till “von Bergen“",
-      "summary_sv": "Denna informationsåtgärd föreslår att döpa Protocol Version 12 hard forken “von Bergen” som en hyllning och ett erkännande till Fabian von Bergen, även känd som Zyroxa.\n\nFabian har varit en del av Cardano-communityt sedan ITN, en alltid kritisk, ärlig och sund röst i Cardanos historia som introducerade och vägledde många genom Cardano-ecosystemet, en välkänd person på Cardano Forum, även SPO för Tempus Stake Pool och en Cardano Ambassador sedan programmets tidigaste dagar.",
-      "_title_sha": "06f6be44b3b7",
-      "_summary_sha": "b799cf6838c0"
     }
   ]
 }
