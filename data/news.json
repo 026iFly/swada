@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-24T09:59:19.910Z",
+  "fetched_at": "2026-08-24T10:48:19.140Z",
   "items": [
+    {
+      "id": "forum:156431",
+      "source": "Cardano Forum",
+      "title_en": "Any \"send all\" function in wallets?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/any-send-all-function-in-wallets/156431",
+      "date": "2026-08-24T10:36:20.029Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Finns det någon \"send all\"-funktion i wallets?",
+      "summary_sv": "",
+      "_title_sha": "eda6b1074a6e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156420",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Ouroboros Peras veckouppdatering: 21 augusti 2026",
       "summary_sv": "",
       "_title_sha": "4072daa6d142",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156379",
-      "source": "Cardano Forum",
-      "title_en": "Transparansi adalah Pedang Bermata Dua: Mengapa Blockchain Butuh Privasi?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/transparansi-adalah-pedang-bermata-dua-mengapa-blockchain-butuh-privasi/156379",
-      "date": "2026-08-21T04:04:34.862Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Transparens är ett tveeggat svärd: Varför behöver blockchain integritet?",
-      "summary_sv": "",
-      "_title_sha": "3b4e73160c9e",
       "_summary_sha": ""
     },
     {
