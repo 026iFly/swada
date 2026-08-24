@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-24T11:37:20.177Z",
+  "fetched_at": "2026-08-24T13:07:44.607Z",
   "items": [
+    {
+      "id": "forum:156437",
+      "source": "Cardano Forum",
+      "title_en": "Débuter avec Cardano : les ressources essentielles pour trouver son chemin dans l’écosystème",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/debuter-avec-cardano-les-ressources-essentielles-pour-trouver-son-chemin-dans-l-ecosysteme/156437",
+      "date": "2026-08-24T12:23:25.638Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Börja med Cardano: viktiga resurser för att hitta din väg i ekosystemet",
+      "summary_sv": "",
+      "_title_sha": "c66ae14de6ed",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156431",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/bridging-the-gap-a-newcomers-analysis-on-cardano-onboarding-growth/156420",
       "date": "2026-08-23T22:05:46.599Z",
-      "score": 2,
-      "comments": 3,
+      "score": 3,
+      "comments": 4,
       "title_sv": "Att överbrygga gapet: En nykommares analys av Cardano Onboarding & tillväxt",
       "summary_sv": "",
       "_title_sha": "c4ed29579dd0",
@@ -97,20 +111,6 @@
       "title_sv": "Navigera Cardano som nybörjare: Min resa, insikter & Community Q&A",
       "summary_sv": "",
       "_title_sha": "5d8b3197bc4b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156386",
-      "source": "Cardano Forum",
-      "title_en": "Ouroboros Peras weekly update: 21 August 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-21-august-2026/156386",
-      "date": "2026-08-21T17:13:17.935Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Ouroboros Peras veckouppdatering: 21 augusti 2026",
-      "summary_sv": "",
-      "_title_sha": "4072daa6d142",
       "_summary_sha": ""
     },
     {
