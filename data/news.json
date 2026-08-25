@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-25T11:36:24.070Z",
+  "fetched_at": "2026-08-25T13:06:45.294Z",
   "items": [
+    {
+      "id": "forum:156460",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #75 - Masumi Updates: A packed session with fresh updates, new ideas, and plenty of innovation (28 August)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-75-masumi-updates-a-packed-session-with-fresh-updates-new-ideas-and-plenty-of-innovation-28-august/156460",
+      "date": "2026-08-25T11:55:57.536Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "ae55f11b94f4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156453",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Har jag blivit utvald med secondfi?",
       "summary_sv": "",
       "_title_sha": "8edc680dad78",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156402",
-      "source": "Cardano Forum",
-      "title_en": "Night redeem error with lace",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/night-redeem-error-with-lace/156402",
-      "date": "2026-08-22T16:31:24.599Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Night redeem-fel med lace",
-      "summary_sv": "",
-      "_title_sha": "d68c0df2690a",
       "_summary_sha": ""
     },
     {
