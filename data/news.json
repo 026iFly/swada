@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-25T21:37:10.412Z",
+  "fetched_at": "2026-08-25T22:38:15.655Z",
   "items": [
+    {
+      "id": "forum:156462",
+      "source": "Cardano Forum",
+      "title_en": "DR Congo Cardano & Web3 Community Call #4 — Recap",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-web3-community-call-4-recap/156462",
+      "date": "2026-08-25T21:48:52.110Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "DR Kongo Cardano & Web3 Community Call #4 — Sammanfattning",
+      "summary_sv": "",
+      "_title_sha": "abb522b29eec",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156460",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Upgrade Bulletin #30: Dijkstra framåt, kvaliteten på releasen förblir prioriterad.",
       "summary_sv": "",
       "_title_sha": "f7d88a7ac881",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156403",
-      "source": "Cardano Forum",
-      "title_en": "ME ha tocado con secondfi?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/me-ha-tocado-con-secondfi/156403",
-      "date": "2026-08-22T18:03:23.335Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Har jag blivit utvald med secondfi?",
-      "summary_sv": "",
-      "_title_sha": "8edc680dad78",
       "_summary_sha": ""
     },
     {
