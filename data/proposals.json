@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T19:47:00.199Z",
+  "fetched_at": "2026-08-25T20:42:55.377Z",
   "items": [
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
@@ -7,14 +7,14 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 649,
       "expiration_epoch": 656,
-      "title_en": "Reimburse Ikigai Info Governance Action Deposit.",
-      "summary_en": "In September 2024, only weeks after the Chang hard fork to introduce on-chain governance, an Info governance action titled Cardanoの生きがい - Ikigai - was submitted. This was only a symbolic governance action, as it simply asked the community whether they agreed with a statement thanking those that helped get Cardano to this point and expressing a sense of hope for the future.\n\nUnfortunately, due to a bug in the code of the Cardano node that permitted an unregistered stake key to be used in the governance action, the submitter was unable to recover their deposit of 100K ADA. While the community expressed at the time the importance of reimbursing this deposit via a treasury withdrawal; once the ability to do so became available, following the Plomin hard fork; unfortunately none of the entity based budget submissions included it.\n\nThe Cardano in Oceania initiative did include the deposit reimbursement in their budget Info governance action, however their governance action was not approved. This governance action therefore aims to resolve this outstanding issue.",
+      "title_en": "TreasuryWithdrawals proposal",
+      "summary_en": "",
       "url": "https://gov.tools/governance_actions/gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
       "block_time": "2026-08-17T08:18:17.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Återbetala Ikigai Info Governance Action Deposit.",
+      "title_sv": "Förslag om TreasuryWithdrawals",
       "summary_sv": "",
-      "_title_sha": "2fe74606c997",
+      "_title_sha": "e881a7cf9210",
       "_summary_sha": "70ae82146842"
     },
     {
@@ -23,8 +23,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 649,
       "expiration_epoch": 656,
-      "title_en": "Governance Incentives Framework 2026",
-      "summary_en": "Cardano is approaching consequential decisions about governance incentives without a shared evidence base for determining which mechanisms work, what they cost, or who should remain accountable for their outcomes. The project separates evidence-based validation from governance legitimacy: candidate incentive mechanisms will first be evaluated through research, data, modeling, and evidence, and then presented to governance for a decision on adoption.\n\nSignificant work already exists across Cardano on governance compensation, participation, rationale incentives, reward distribution, voting-power concentration, and governance reward design. The Governance Incentives Working Group has already created a mapping document identifying 49 relevant efforts, proposals, research papers, tools, and related initiatives across this space [1]. This includes work developed through CPS-0020 [2], as well as CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formal reward-scheme research [7], process-first DRep compensation research [8], and Input Output Research’s Cardano Vision 2026 work [9]. The project will consider these existing ideas and approaches, examine their assumptions, advantages, disadvantages, and potential unintended effects, and combine them with further research, governance data, modeling, controlled testing, and community input to build research-backed community consensus around the m",
+      "title_en": "TreasuryWithdrawals proposal",
+      "summary_en": "",
       "url": "https://gov.tools/governance_actions/gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
       "block_time": "2026-08-14T18:47:38.000Z",
       "deposit_ada": 100000,
@@ -33,9 +33,9 @@
         "block_time": "2026-08-16T14:20:22.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA.\nFörst mitt intresse: jag är aktiv DRep och driver en stakepool. Om det här arbetet leder till ersättning för DReps kan jag komma att få betalt. Det säger jag rakt ut.\nVarför jag vill att forskningen görs: vi håller på att tappa decentraliseringen bland DReps, snabbt. Antalet aktiva DReps sjönk under varje tolvepoksperiod under det första året. Koncentrationen ökade i stället för att minska (Gini 0,92 till 0,94). Ungefär 11-16 DReps kontrollerar nu 51 % av röststyrkan. Ett konsortium i konstitutionsutskottet hoppade av för att ingen betalade dem. Styrningsmakten är nu mer koncentrerad än vad staken är — och det är stake-koncentrationen alla håller ögonen på. Samtidigt kostar det att vara DRep: en låst deposition på 500 ada som inte ger något, transaktionsavgifter, och framför allt timmar av verkligt arbete per förslag. Just nu betalar man för att delta. Det är precis bakvänt, och det sållar tyst fram dem som har råd.\nVAD JAG VILL FÅ UT AV DET HÄR — och jag säger det rakt:\nMålet är FLER DReps. Inte bättre betalda stora DReps. Om forskningen kommer tillbaka och rekommenderar ersättning rakt proportionell mot delegering har den gjort koncentrationen värre och slösat bort 4,2 miljoner ada. Måttet på framgång är om antalet oberoende, verkligt aktiva DReps ÖKAR.\nSå hitta ett sätt att betala små DReps proportionellt mer. Någon med några tusen ada delegerat till sig, som läser förslagen och skriver riktiga motiveringar, ska inte förlora på det. Det är den personen ramverket måste nå. Att sänka den tröskeln är hur man får fler representanter, och fler representanter är hur man löser koncentrationen.\nNu det svåra, och snälla, smit inte från det: att betala små DReps mer per ada inbjuder till utnyttjande. En stor innehavare kan dela upp sin stake på många små DReps under eget inflytande och håva in den högre ersättningen. Det är en Sybil-attack i annan skepnad. Jag vet att det gör designen svårare. Gör det ändå. Låt INTE 'vi kunde inte lösa Sybil-problemet' bli ursäkten för en trygg proportionell modell som bara betalar dem som redan sitter där — det utfallet är sämre än att inte göra något alls, för då används statskassans pengar till att cementera precis det problem vi försöker lösa.\nNågra riktningar jag tycker är värda att testa:\nFörankra allt i delegerad stake, för stake är knappt och kan inte dupliceras. En fast ersättning per DRep är en öppen inbjudan att starta bottar.\nAnvänd ett golv och ett tak. Ett krav på minsta delegering gör bot-DReps dyra, eftersom var och en måste attrahera verklig stake. En ersättning som planar ut efter en mättnadspunkt gör att ingen jagar delegering bara för pengarna. Det är samma form som k och mättnad för stakepooler — en mekanism varje operatör redan förstår, och den fungerar.\nBetrakta inte 'publicerade en motivering' som bevis på arbete. Text är billig att generera nu. Det betyder något först ovanpå ett verkligt stake-golv.\nOch kom ihåg att viss konkurrens om delegering är sund. En bra representant ska attrahera stake. Det som måste bort är att jaga delegering enbart som inkomst, frikopplat från om man gör jobbet bra.\nVAD JAG INTE GILLAR MED FÖRSLAGET: pengarna går som en klumpsumma till en vanlig nyckelstyrd plånbok. Ingen spärr, inga delutbetalningar mot delmål, ingen multisig. Återbetalningslöftena är ord, inte mekanismer. Den detaljerade budgeten hålls medvetet privat, så vi röstar på elva sammanfattande siffror. Administration och konceptualisering är omkring 22 % av totalen innan något forskningsresultat kommit fram, medan den oberoende granskningen är 3 % — och granskaren är inte namngiven och betalas ur anslaget.\nJag röstar JA ändå, för problemet är verkligt och brådskande och designfrågorna är svåra nog att förtjäna ordentlig forskning. Men jag vill se spärrad finansiering som betalas ut mot delmål, hela budgeten publicerad och en namngiven granskare. Nås inte delmålen stödjer jag att pengarna går tillbaka till statskassan."
       },
-      "title_sv": "Ramverk för Governance Incentives 2026",
+      "title_sv": "TreasuryWithdrawals-förslag",
       "summary_sv": "",
-      "_title_sha": "5ec6c73bc88a",
+      "_title_sha": "e881a7cf9210",
       "_summary_sha": "dc549b1ec632"
     },
     {
@@ -44,8 +44,8 @@
       "type": "NewCommittee",
       "proposed_epoch": 646,
       "expiration_epoch": 653,
-      "title_en": "Update Constitutional Committee 2026",
-      "summary_en": "This governance action updates the four Constitutional Committee seats whose terms expire at the end of Epoch 653 by appointing the candidates elected through the 2026 Constitutional Committee election. The successful candidates will serve new terms ending at Epoch 799, in accordance with the current committeeMaxTermLength protocol parameter.",
+      "title_en": "NewCommittee proposal",
+      "summary_en": "",
       "url": "https://gov.tools/governance_actions/gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
       "block_time": "2026-07-31T17:34:42.000Z",
       "deposit_ada": 100000,
@@ -54,9 +54,9 @@
         "block_time": "2026-08-05T12:32:58.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA. Konstitutionsutskottet måste förnyas innan de fyra platserna som löper ut vid epok 653 upphör, annars riskerar utskottet att hamna under committeeMinSize och den konstitutionella granskningen stannar av. Valet följde konstitutionen (artikel III §3), var öppet för alla ada-innehavare, genomfördes on-chain via Ekklesia och granskades oberoende av DQuadrant. De fyra tillsatta ledamöterna är de fyra främsta enligt DRep-viktad röstning.\nInvändning: endast omkring 38 DReps (~2,3 miljarder ada) deltog i valet, vilket är en tunn legitimitetsgrund, och Asia Africa Cardano Coalition kom på femte plats — därmed förlorar APAC och Afrika direkt representation. Jag vill se både valdeltagande och regional balans åtgärdade före nästa omgång. Ett fungerande utskott är ändå bättre än ett som står stilla. Jag röstar JA."
       },
-      "title_sv": "Uppdatering av Constitutional Committee 2026",
+      "title_sv": "NewCommittee-förslag",
       "summary_sv": "",
-      "_title_sha": "20f8f6ce433a",
+      "_title_sha": "b7a6abfe0b96",
       "_summary_sha": "d4c2eca15945"
     },
     {
@@ -65,8 +65,8 @@
       "type": "ParameterChange",
       "proposed_epoch": 646,
       "expiration_epoch": 653,
-      "title_en": "Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2)",
-      "summary_en": "Intersect's Parameter Committee proposes a single Parameter Update governance action bundling two independent, previously recommended protocol parameter changes:\n\n1. **minPoolCost:** decrease `minPoolCost` from 170,000,000 Lovelace (170 ada) to 75,000,000 Lovelace (75 ada), a decrease of approximately 55.9%.  \n2. **Plutus memory unit limits (Part 2 of 2):** increase maxTxExecutionUnits[memory] from 16,500,000 to 17,500,000 units (+6.1%) and maxBlockExecutionUnits[memory] from 72,000,000 to 77,500,000 units (+7.6%), completing the two-step, cumulative 25% increase to both parameters begun in the linked Part 1 action.\n\nThese two changes are otherwise unrelated: one lowers the stake pool fixed-fee floor, the other increases Plutus script execution headroom. The changes are bundled here for submission efficiency and to allow SPOs to give input on `minPoolCost`. No other protocol parameters or Plutus cost model settings are changed by this action.",
+      "title_en": "ParameterChange proposal",
+      "summary_en": "",
       "url": "https://gov.tools/governance_actions/gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
       "block_time": "2026-07-30T17:21:01.000Z",
       "deposit_ada": 100000,
@@ -77,7 +77,7 @@
       },
       "title_sv": "Sänk minPoolCost till 75 ada och öka Plutus Memory Limits (Del 2)",
       "summary_sv": "",
-      "_title_sha": "512f3bbd2435",
+      "_title_sha": "7101b46f7439",
       "_summary_sha": "34cd96c7b50b"
     }
   ]
