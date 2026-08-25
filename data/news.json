@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-25T05:39:57.680Z",
+  "fetched_at": "2026-08-25T07:02:14.644Z",
   "items": [
+    {
+      "id": "forum:156453",
+      "source": "Cardano Forum",
+      "title_en": "Rapport de la séance hebdomadaire: Lundi 24/08/2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/rapport-de-la-seance-hebdomadaire-lundi-24-08-2026/156453",
+      "date": "2026-08-25T06:58:15.242Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Rapport från veckomötet: Måndag 24/08/2026",
+      "summary_sv": "",
+      "_title_sha": "09857d80aa10",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156445",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/debuter-avec-cardano-les-ressources-essentielles-pour-trouver-son-chemin-dans-l-ecosysteme/156437",
       "date": "2026-08-24T12:23:25.638Z",
-      "score": 1,
-      "comments": 1,
+      "score": 2,
+      "comments": 2,
       "title_sv": "Börja med Cardano: viktiga resurser för att hitta din väg i ekosystemet",
       "summary_sv": "",
       "_title_sha": "c66ae14de6ed",
@@ -97,20 +111,6 @@
       "title_sv": "Night redeem-fel med lace",
       "summary_sv": "",
       "_title_sha": "d68c0df2690a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156398",
-      "source": "Cardano Forum",
-      "title_en": "🚀 [RA MẮT KHÓA HỌC] BUILDING WITH AIKEN — Lập Trình DApp Cardano Thực Chiến",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ra-m-t-khoa-h-c-building-with-aiken-l-p-trinh-dapp-cardano-th-c-chi-n/156398",
-      "date": "2026-08-22T08:45:28.356Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "🚀 [LANSERING AV KURS] BUILDING WITH AIKEN — Praktisk programmering av Cardano DApp",
-      "summary_sv": "",
-      "_title_sha": "735d74c3e071",
       "_summary_sha": ""
     },
     {
