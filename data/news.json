@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T19:14:48.558Z",
+  "fetched_at": "2026-08-26T23:22:16.697Z",
   "items": [
     {
       "id": "forum:156473",
@@ -9,7 +9,7 @@
       "url": "https://forum.cardano.org/t/trying-to-find-lost-cardano/156473",
       "date": "2026-08-26T19:01:21.049Z",
       "score": 0,
-      "comments": 0,
+      "comments": 2,
       "title_sv": "Försöker hitta borttappad Cardano",
       "summary_sv": "",
       "_title_sha": "61fc92ebb330",
@@ -22,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/45bs-cardano-design-centre-join-the-q-a-x-space/156469",
       "date": "2026-08-26T14:01:32.224Z",
-      "score": 1,
+      "score": 2,
       "comments": 1,
       "title_sv": "45B:s Cardano Design Centre, delta i Q&A X space!",
       "summary_sv": "",
