@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T09:57:17.238Z",
+  "fetched_at": "2026-08-26T10:51:07.758Z",
   "items": [
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
@@ -7,14 +7,14 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 649,
       "expiration_epoch": 656,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Reimburse Ikigai Info Governance Action Deposit.",
+      "summary_en": "In September 2024, only weeks after the Chang hard fork to introduce on-chain governance, an Info governance action titled Cardanoの生きがい - Ikigai - was submitted. This was only a symbolic governance action, as it simply asked the community whether they agreed with a statement thanking those that helped get Cardano to this point and expressing a sense of hope for the future.\n\nUnfortunately, due to a bug in the code of the Cardano node that permitted an unregistered stake key to be used in the governance action, the submitter was unable to recover their deposit of 100K ADA. While the community expressed at the time the importance of reimbursing this deposit via a treasury withdrawal; once the ability to do so became available, following the Plomin hard fork; unfortunately none of the entity based budget submissions included it.\n\nThe Cardano in Oceania initiative did include the deposit reimbursement in their budget Info governance action, however their governance action was not approved. This governance action therefore aims to resolve this outstanding issue.",
       "url": "https://gov.tools/governance_actions/gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
       "block_time": "2026-08-17T08:18:17.000Z",
       "deposit_ada": 100000,
-      "title_sv": "Återbetala Ikigai Info Governance Action Deposit.",
+      "title_sv": "Återbetal Ikigai Info Governance Action Deposit.",
       "summary_sv": "I september 2024, bara veckor efter Chang hard fork för att introducera on-chain governance, lämnades en Info governance action in, med titeln Cardanoの生きがい - Ikigai -. Detta var endast en symbolisk governance action, eftersom den bara frågade communityt om de höll med om ett uttalande som tackade dem som hjälpt Cardano att nå denna punkt och uttryckte en känsla av hopp för framtiden.\n\nTyvärr, på grund av en bugg i Cardano nodes kod som tillät en oregistrerad stake key att användas i governance action, kunde inlämnaren inte återfå sin insättning på 100K ADA. Även om communityn vid den tidpunkten uttryckte vikten av att ersätta denna deposition via ett uttag från treasury, så inkluderade tyvärr inget av de entitetsbaserade budgetförslagen den när möjligheten att göra så blev tillgänglig, efter Plomin hard fork. Cardano in Oceania-initiativet inkluderade ersättningen av",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "2fe74606c997",
       "_summary_sha": "70ae82146842"
     },
     {
@@ -23,8 +23,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 649,
       "expiration_epoch": 656,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Governance Incentives Framework 2026",
+      "summary_en": "Cardano is approaching consequential decisions about governance incentives without a shared evidence base for determining which mechanisms work, what they cost, or who should remain accountable for their outcomes. The project separates evidence-based validation from governance legitimacy: candidate incentive mechanisms will first be evaluated through research, data, modeling, and evidence, and then presented to governance for a decision on adoption.\n\nSignificant work already exists across Cardano on governance compensation, participation, rationale incentives, reward distribution, voting-power concentration, and governance reward design. The Governance Incentives Working Group has already created a mapping document identifying 49 relevant efforts, proposals, research papers, tools, and related initiatives across this space [1]. This includes work developed through CPS-0020 [2], as well as CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formal reward-scheme research [7], process-first DRep compensation research [8], and Input Output Research’s Cardano Vision 2026 work [9]. The project will consider these existing ideas and approaches, examine their assumptions, advantages, disadvantages, and potential unintended effects, and combine them with further research, governance data, modeling, controlled testing, and community input to build research-backed community consensus around the m",
       "url": "https://gov.tools/governance_actions/gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
       "block_time": "2026-08-14T18:47:38.000Z",
       "deposit_ada": 100000,
@@ -35,7 +35,7 @@
       },
       "title_sv": "Förslag om TreasuryWithdrawals",
       "summary_sv": "Cardano närmar sig viktiga beslut om governance-incitament utan en gemensam evidensbas för att avgöra vilka mekanismer som fungerar, vad de kostar, eller vem som bör hållas ansvarig för deras resultat. Projektet skiljer evidensbaserad validering från governance-legitimitet: kandidat-incitamentsmekanismer kommer först att utvärderas genom forskning, data, modellering och evidens, och sedan presenteras för governance för ett beslut om antagande.\n\nBetydande arbete finns redan inom Cardano kring governance-kompensation, deltagande, rationale-incitament, reward-distribution, voting-power-koncentration och design av governance-rewards. Governance Incentives Working Group har redan skapat ett kartläggningsdokument som identifierar 49 relevanta ansträngningar, förslag, forskningsrapporter, verktyg och relaterade initiativ inom detta område [1]. Detta inkluderar arbete som utvecklats genom CPS-0020 [2], samt CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formell forskning om belöningssystem [7], process-först DRep-kompensationsforskning [8], och Input Output Researchs Cardano Vision 2026-arbete [9]. Projektet kommer att beakta dessa befintliga idéer och metoder, undersöka deras antaganden, fördelar, nackdelar och potentiella oavsiktliga effekter, och kombinera dem med ytterligare forskning, styrningsdata, modellering, kontrollerade tester och input från communityn för att bygga ett forskningsbaserat samförstånd inom communityn kring m",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "5ec6c73bc88a",
       "_summary_sha": "dc549b1ec632"
     },
     {
@@ -44,8 +44,8 @@
       "type": "NewCommittee",
       "proposed_epoch": 646,
       "expiration_epoch": 653,
-      "title_en": "NewCommittee proposal",
-      "summary_en": "",
+      "title_en": "Update Constitutional Committee 2026",
+      "summary_en": "This governance action updates the four Constitutional Committee seats whose terms expire at the end of Epoch 653 by appointing the candidates elected through the 2026 Constitutional Committee election. The successful candidates will serve new terms ending at Epoch 799, in accordance with the current committeeMaxTermLength protocol parameter.",
       "url": "https://gov.tools/governance_actions/gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
       "block_time": "2026-07-31T17:34:42.000Z",
       "deposit_ada": 100000,
@@ -54,9 +54,9 @@
         "block_time": "2026-08-05T12:32:58.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA. Konstitutionsutskottet måste förnyas innan de fyra platserna som löper ut vid epok 653 upphör, annars riskerar utskottet att hamna under committeeMinSize och den konstitutionella granskningen stannar av. Valet följde konstitutionen (artikel III §3), var öppet för alla ada-innehavare, genomfördes on-chain via Ekklesia och granskades oberoende av DQuadrant. De fyra tillsatta ledamöterna är de fyra främsta enligt DRep-viktad röstning.\nInvändning: endast omkring 38 DReps (~2,3 miljarder ada) deltog i valet, vilket är en tunn legitimitetsgrund, och Asia Africa Cardano Coalition kom på femte plats — därmed förlorar APAC och Afrika direkt representation. Jag vill se både valdeltagande och regional balans åtgärdade före nästa omgång. Ett fungerande utskott är ändå bättre än ett som står stilla. Jag röstar JA."
       },
-      "title_sv": "NewCommittee-förslag",
+      "title_sv": "Uppdatering Konstitutionell Kommitté 2026",
       "summary_sv": "Denna governance action uppdaterar de fyra platserna i Constitutional Committee vars mandat löper ut i slutet av Epoch 653 genom att utse de kandidater som valts i 2026 Constitutional Committee election. De valda kandidaterna kommer att inneha nya mandat fram till Epoch 799, i enlighet med den nuvarande committeeMaxTermLength-protokollparametern.",
-      "_title_sha": "b7a6abfe0b96",
+      "_title_sha": "20f8f6ce433a",
       "_summary_sha": "d4c2eca15945"
     },
     {
@@ -65,8 +65,8 @@
       "type": "ParameterChange",
       "proposed_epoch": 646,
       "expiration_epoch": 653,
-      "title_en": "ParameterChange proposal",
-      "summary_en": "",
+      "title_en": "Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2)",
+      "summary_en": "Intersect's Parameter Committee proposes a single Parameter Update governance action bundling two independent, previously recommended protocol parameter changes:\n\n1. **minPoolCost:** decrease `minPoolCost` from 170,000,000 Lovelace (170 ada) to 75,000,000 Lovelace (75 ada), a decrease of approximately 55.9%.  \n2. **Plutus memory unit limits (Part 2 of 2):** increase maxTxExecutionUnits[memory] from 16,500,000 to 17,500,000 units (+6.1%) and maxBlockExecutionUnits[memory] from 72,000,000 to 77,500,000 units (+7.6%), completing the two-step, cumulative 25% increase to both parameters begun in the linked Part 1 action.\n\nThese two changes are otherwise unrelated: one lowers the stake pool fixed-fee floor, the other increases Plutus script execution headroom. The changes are bundled here for submission efficiency and to allow SPOs to give input on `minPoolCost`. No other protocol parameters or Plutus cost model settings are changed by this action.",
       "url": "https://gov.tools/governance_actions/gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
       "block_time": "2026-07-30T17:21:01.000Z",
       "deposit_ada": 100000,
@@ -75,9 +75,9 @@
         "block_time": "2026-08-05T12:25:30.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA på att sänka minPoolCost från 170 till 75 ada och höja Plutus-minnesgränserna.\nREDOVISAT INTRESSE: Jag driver stakepoolen SWADA, som ligger på minPoolCost-golvet. Ändringen sänker direkt min egen pools fasta kostnad. Jag redovisar detta i stället för att lämna det osagt, och läsare bör väga min röst därefter.\nI sak: när de reservfinansierade belöningarna minskar tar en fast avgift på 170 ada en orimligt stor andel av en liten pools belöningar — straffet för delegerare i en pool som gör ett block är redan runt 53% och beräknas nå 100% omkring epok 758. IO Research har ändrat sin tidigare hållning och menar nu att ett högt golv hjälper stora operatörer att splittra stake i Sybil-pooler snarare än att avskräcka dem. En sund lång svans av små, oberoende pooler är en av mina uttalade prioriteringar som DRep, och denna ändring stödjer den.\nInvändningar: förslaget paketerar två orelaterade ändringar i en enda ja/nej-röst, och ett lägre golv borde rimligen kombineras med en minPoolMargin och en höjning av k för att förhindra en priskrig nedåt. Jag skulle stödja detta som uppföljning. Jag röstar JA."
       },
-      "title_sv": "Förslag om ParameterChange",
+      "title_sv": "Sänk minPoolCost till 75 ada och öka Plutus Memory Limits (Del 2)",
       "summary_sv": "Intersects Parameter Committee föreslår en enskild Parameter Update governance action som samlar två oberoende, tidigare rekommenderade ändringar av protokollparametrar:\n\n1. **minPoolCost:** minska `minPoolCost` från 170 000 000 Lovelace (170 ADA) till 75 000 000 Lovelace (75 ADA), en minskning på cirka 55,9%. Ökning av Plutus memory unit-gränser (Del 2 av 2): öka maxTxExecutionUnits[memory] från 16 500 000 till 17",
-      "_title_sha": "7101b46f7439",
+      "_title_sha": "512f3bbd2435",
       "_summary_sha": "34cd96c7b50b"
     }
   ]
