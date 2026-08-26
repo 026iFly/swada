@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T23:38:36.612Z",
+  "fetched_at": "2026-08-26T01:56:51.501Z",
   "items": [
     {
       "id": "gov:gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
@@ -403,8 +403,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 607,
       "expiration_epoch": 614,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Cardano DeFi Liquidity Budget - Withdrawal 1",
+      "summary_en": "As outline in the DeFi Liquidity Budget Info Action, this first withdrawal action requests 500,000 ADA from the Cardano Treasury to establish the legal framework and smart contract infrastructure required for the Stablecoin DeFi Liquidity Budget as approved by the Cardano Community. This withdrawal covers three critical components: (1) establishment of a Cayman Islands Foundation Company as the legal vehicle for fund management, (2) development of the administrating smart contract and user interfaces, and (3) comprehensive security audit of the smart contract system.\n\nAll funds will be initially received by an Amaru contract administered by the 9-person Interim Committee with a 5-of-9 multisignature requirement. Funds will be disbursed to service providers upon completion of agreed milestones as detailed in this proposal.",
       "url": "https://gov.tools/governance_actions/gov_action1fvgw27fjpr9c7g582mszzyez0jgkqgjgatzdnyngrg8wwc9kcn3qqxtz8r7",
       "block_time": "2026-01-15T03:32:00.000Z",
       "deposit_ada": 100000,
@@ -416,7 +416,7 @@
       },
       "title_sv": "Treasury-uttagsförslag",
       "summary_sv": "Som framställs i DeFi Liquidity Budget Info Action begär denna första uttagsåtgärd 500 000 ADA från Cardano Treasury för att etablera rättslig ram och smart contract-infrastruktur som krävs för Stablecoin DeFi Liquidity Budget, som godkänts av Cardano Community. Detta uttag täcker tre kritiska komponenter: (1) upprättande av en Cayman Islands Foundation Company som det juridiska fordonet för fondsförvaltning, (2) utveckling av den administrerande smart contracten och användargränssnitten, och (3) omfattande säkerhetsrevision av smart contract-systemet.\n\nAlla medel kommer initialt att mottas av ett Amaru-kontrakt som administreras av Interim Committee med 9 personer och en multisignatur-uppsättning 5 av 9. Medlen kommer att utbetalas till tjänsteleverantörer vid slutförande av överenskomna milstolpar enligt detaljerna i detta förslag.",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "254b4b7ec8c2",
       "_summary_sha": "07c202332723"
     },
     {
