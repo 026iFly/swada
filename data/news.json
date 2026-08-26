@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-26T16:24:50.175Z",
+  "fetched_at": "2026-08-26T19:14:48.558Z",
   "items": [
+    {
+      "id": "forum:156473",
+      "source": "Cardano Forum",
+      "title_en": "Trying To Find Lost Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/trying-to-find-lost-cardano/156473",
+      "date": "2026-08-26T19:01:21.049Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Försöker hitta borttappad Cardano",
+      "summary_sv": "",
+      "_title_sha": "61fc92ebb330",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156469",
       "source": "Cardano Forum",
@@ -9,7 +23,7 @@
       "url": "https://forum.cardano.org/t/45bs-cardano-design-centre-join-the-q-a-x-space/156469",
       "date": "2026-08-26T14:01:32.224Z",
       "score": 1,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "45B:s Cardano Design Centre, delta i Q&A X space!",
       "summary_sv": "",
       "_title_sha": "be24c2072937",
@@ -97,20 +111,6 @@
       "title_sv": "Finns det någon \"send all\"-funktion i wallets?",
       "summary_sv": "",
       "_title_sha": "eda6b1074a6e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156420",
-      "source": "Cardano Forum",
-      "title_en": "Bridging the Gap: A Newcomer's Analysis on Cardano Onboarding & Growth",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/bridging-the-gap-a-newcomers-analysis-on-cardano-onboarding-growth/156420",
-      "date": "2026-08-23T22:05:46.599Z",
-      "score": 4,
-      "comments": 5,
-      "title_sv": "Att överbrygga gapet: En nykommares analys av Cardano Onboarding & tillväxt",
-      "summary_sv": "",
-      "_title_sha": "c4ed29579dd0",
       "_summary_sha": ""
     },
     {
