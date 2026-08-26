@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T01:52:06.563Z",
+  "fetched_at": "2026-08-26T03:13:56.443Z",
   "items": [
     {
       "id": "forum:156462",
@@ -79,7 +79,7 @@
       "url": "https://forum.cardano.org/t/any-send-all-function-in-wallets/156431",
       "date": "2026-08-24T10:36:20.029Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Finns det någon \"send all\"-funktion i wallets?",
       "summary_sv": "",
       "_title_sha": "eda6b1074a6e",
