@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-26T13:10:02.552Z",
+  "fetched_at": "2026-08-26T14:55:06.367Z",
   "items": [
+    {
+      "id": "forum:156469",
+      "source": "Cardano Forum",
+      "title_en": "45B's Cardano Design Centre, join the Q&A X space!",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/45bs-cardano-design-centre-join-the-q-a-x-space/156469",
+      "date": "2026-08-26T14:01:32.224Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "45B:s Cardano Design Centre, delta i Q&A X space!",
+      "summary_sv": "",
+      "_title_sha": "be24c2072937",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156462",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Att överbrygga gapet: En nykommares analys av Cardano Onboarding & tillväxt",
       "summary_sv": "",
       "_title_sha": "c4ed29579dd0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156404",
-      "source": "Cardano Forum",
-      "title_en": "Upgrade Bulletin #30 : Dijkstra avance, la qualité du release reste prioritaire",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/upgrade-bulletin-30-dijkstra-avance-la-qualite-du-release-reste-prioritaire/156404",
-      "date": "2026-08-22T18:06:41.534Z",
-      "score": 1,
-      "comments": 2,
-      "title_sv": "Upgrade Bulletin #30: Dijkstra framåt, kvaliteten på releasen förblir prioriterad.",
-      "summary_sv": "",
-      "_title_sha": "f7d88a7ac881",
       "_summary_sha": ""
     },
     {
