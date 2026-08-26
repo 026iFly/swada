@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T08:55:33.935Z",
+  "fetched_at": "2026-08-26T09:52:05.822Z",
   "items": [
     {
       "id": "forum:156462",
@@ -8,8 +8,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/dr-congo-cardano-web3-community-call-4-recap/156462",
       "date": "2026-08-25T21:48:52.110Z",
-      "score": 1,
-      "comments": 1,
+      "score": 2,
+      "comments": 3,
       "title_sv": "DR Kongo Cardano & Web3 Community Call #4 — Sammanfattning",
       "summary_sv": "",
       "_title_sha": "abb522b29eec",
@@ -79,7 +79,7 @@
       "url": "https://forum.cardano.org/t/any-send-all-function-in-wallets/156431",
       "date": "2026-08-24T10:36:20.029Z",
       "score": 0,
-      "comments": 1,
+      "comments": 2,
       "title_sv": "Finns det någon \"send all\"-funktion i wallets?",
       "summary_sv": "",
       "_title_sha": "eda6b1074a6e",
