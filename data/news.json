@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-27T09:31:16.043Z",
+  "fetched_at": "2026-08-27T20:21:02.812Z",
   "items": [
+    {
+      "id": "forum:156492",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Block//45 - Entrevista sobre Masumi a Patrick Tobler | IOG 21 Ago 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-block-45-entrevista-sobre-masumi-a-patrick-tobler-iog-21-ago-2026/156492",
+      "date": "2026-08-27T14:41:32.678Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSKT DUBB Block//45 - Intervju med Patrick Tobler om Masumi | IOG 21 aug 2026",
+      "summary_sv": "",
+      "_title_sha": "0f63f763dd31",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156482",
       "source": "Cardano Forum",
@@ -78,8 +92,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/45bs-cardano-design-centre-join-the-q-a-x-space/156469",
       "date": "2026-08-26T14:01:32.224Z",
-      "score": 3,
-      "comments": 1,
+      "score": 5,
+      "comments": 2,
       "title_sv": "45B:s Cardano Design Centre, delta i Q&A X space!",
       "summary_sv": "",
       "_title_sha": "be24c2072937",
@@ -97,20 +111,6 @@
       "title_sv": "DR Kongo Cardano & Web3 Community Call #4 — Sammanfattning",
       "summary_sv": "",
       "_title_sha": "abb522b29eec",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156460",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #75 - Masumi Updates: A packed session with fresh updates, new ideas, and plenty of innovation (28 August)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-75-masumi-updates-a-packed-session-with-fresh-updates-new-ideas-and-plenty-of-innovation-28-august/156460",
-      "date": "2026-08-25T11:55:57.536Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Developers Office Hours #75 - Masumi Uppdateringar: En innehållsrik session med nya uppdateringar, nya idéer och mycket innovation (28 augusti)",
-      "summary_sv": "",
-      "_title_sha": "ae55f11b94f4",
       "_summary_sha": ""
     },
     {
