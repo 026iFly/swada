@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-08-28T05:18:26.573Z",
+  "fetched_at": "2026-08-28T18:34:36.111Z",
   "items": [
+    {
+      "id": "forum:156507",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Charles Hoskinson sobre El Amanecer de las Finanzas de Agentes | SALT 26 Ago 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-charles-hoskinson-sobre-el-amanecer-de-las-finanzas-de-agentes-salt-26-ago-2026/156507",
+      "date": "2026-08-28T16:47:52.491Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SPANSK DUBBNING Charles Hoskinson om Agentfinansernas Gryning | SALT 26 aug 2026",
+      "summary_sv": "",
+      "_title_sha": "8a6cf4169d91",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156504",
+      "source": "Cardano Forum",
+      "title_en": "Empowering Regional Communities: Why Local Language Content is Key to Cardano’s Growth",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/empowering-regional-communities-why-local-language-content-is-key-to-cardano-s-growth/156504",
+      "date": "2026-08-28T12:55:03.862Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Stärka regionala gemenskaper: Varför innehåll på lokala språk är nyckeln till Cardanos tillväxt",
+      "summary_sv": "",
+      "_title_sha": "1d1ccba9abbb",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156503",
+      "source": "Cardano Forum",
+      "title_en": "Recap Cardano Indonesian Townhall 2026 - #7",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503",
+      "date": "2026-08-28T06:48:11.002Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Sammanfattning Cardano indonesiska Townhall 2026 - #7",
+      "summary_sv": "",
+      "_title_sha": "4e4eaf3bec70",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156501",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "CANS Protocol introducerar Bitcoin-likviditet till Cardano.",
       "summary_sv": "",
       "_title_sha": "b571412b1f58",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156480",
-      "source": "Cardano Forum",
-      "title_en": "Cardano의 2026년 상반기 리뷰",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-2026/156480",
-      "date": "2026-08-27T02:27:20.419Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano review för första halvåret 2026",
-      "summary_sv": "",
-      "_title_sha": "f55cbc94fba9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156479",
-      "source": "Cardano Forum",
-      "title_en": "How to move NIGHT off yoroi to ledger",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/how-to-move-night-off-yoroi-to-ledger/156479",
-      "date": "2026-08-27T02:04:20.498Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Hur man flyttar NIGHT från yoroi till ledger",
-      "summary_sv": "",
-      "_title_sha": "b7ee4449aa31",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156473",
-      "source": "Cardano Forum",
-      "title_en": "Trying To Find Lost Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/trying-to-find-lost-cardano/156473",
-      "date": "2026-08-26T19:01:21.049Z",
-      "score": 0,
-      "comments": 3,
-      "title_sv": "Försöker hitta borttappad Cardano",
-      "summary_sv": "",
-      "_title_sha": "61fc92ebb330",
       "_summary_sha": ""
     },
     {
