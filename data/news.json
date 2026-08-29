@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-29T08:58:17.997Z",
+  "fetched_at": "2026-08-29T14:24:42.306Z",
   "items": [
+    {
+      "id": "forum:156523",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Block//45 - Entrevista a Eric Coley de Indigo | IOG 2 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-block-45-entrevista-a-eric-coley-de-indigo-iog-2-jul-2026/156523",
+      "date": "2026-08-29T13:26:55.706Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SPANSK DUBBNING Block//45 - Intervju med Eric Coley från Indigo | IOG 2 juli 2026",
+      "summary_sv": "",
+      "_title_sha": "e2913b327146",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156519",
+      "source": "Cardano Forum",
+      "title_en": "Meetup Recap & Recording: SecondFi Asset Migration & Safety Guide",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/meetup-recap-recording-secondfi-asset-migration-safety-guide/156519",
+      "date": "2026-08-29T09:16:55.049Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Meetup Sammanfattning & Inspelning: SecondFi Tillgångsmigrering & Säkerhetsguide",
+      "summary_sv": "",
+      "_title_sha": "16d87b319368",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156512",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Senaste utvecklingen för SecondFi",
       "summary_sv": "",
       "_title_sha": "00f987375913",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156492",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Block//45 - Entrevista sobre Masumi a Patrick Tobler | IOG 21 Ago 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-block-45-entrevista-sobre-masumi-a-patrick-tobler-iog-21-ago-2026/156492",
-      "date": "2026-08-27T14:41:32.678Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSKT DUBB Block//45 - Intervju med Patrick Tobler om Masumi | IOG 21 aug 2026",
-      "summary_sv": "",
-      "_title_sha": "0f63f763dd31",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156482",
-      "source": "Cardano Forum",
-      "title_en": "Καλή μας Σεζόν!",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/156482",
-      "date": "2026-08-27T05:34:39.350Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "God säsong!",
-      "summary_sv": "",
-      "_title_sha": "cf0a298fa145",
       "_summary_sha": ""
     },
     {
