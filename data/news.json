@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-30T12:47:26.974Z",
+  "fetched_at": "2026-08-30T17:21:52.679Z",
   "items": [
+    {
+      "id": "forum:156538",
+      "source": "Cardano Forum",
+      "title_en": "Framework Proposal: Performance-Based B2B Capital Allocation for Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/framework-proposal-performance-based-b2b-capital-allocation-for-cardano/156538",
+      "date": "2026-08-30T13:19:30.408Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ramverksförslag: Prestationsbaserad B2B Kapitalallokering för Cardano",
+      "summary_sv": "",
+      "_title_sha": "b391230f9d16",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156537",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Charles Hoskinson: Revolución DeFi Bitcoin valorada en 10 billones de dólares | DraperTV 27 Jun 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-charles-hoskinson-revolucion-defi-bitcoin-valorada-en-10-billones-de-dolares-drapertv-27-jun-2026/156537",
+      "date": "2026-08-30T13:08:03.057Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Spansk dubbning Charles Hoskinson: DeFi Bitcoin-revolution värderad till 10 biljoner dollar | DraperTV 27 juni 2026",
+      "summary_sv": "",
+      "_title_sha": "acb8e7306462",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156527",
       "source": "Cardano Forum",
@@ -37,7 +65,7 @@
       "url": "https://forum.cardano.org/t/meetup-recap-recording-secondfi-asset-migration-safety-guide/156519",
       "date": "2026-08-29T09:16:55.049Z",
       "score": 1,
-      "comments": 2,
+      "comments": 3,
       "title_sv": "Meetup Sammanfattning & Inspelning: SecondFi Tillgångsmigrering & Säkerhetsguide",
       "summary_sv": "",
       "_title_sha": "16d87b319368",
@@ -83,34 +111,6 @@
       "title_sv": "Stärka regionala gemenskaper: Varför innehåll på lokala språk är nyckeln till Cardanos tillväxt",
       "summary_sv": "",
       "_title_sha": "1d1ccba9abbb",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156503",
-      "source": "Cardano Forum",
-      "title_en": "Recap Cardano Indonesian Townhall 2026 - #7",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503",
-      "date": "2026-08-28T06:48:11.002Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Sammanfattning Cardano indonesiska Townhall 2026 - #7",
-      "summary_sv": "",
-      "_title_sha": "4e4eaf3bec70",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156501",
-      "source": "Cardano Forum",
-      "title_en": "SecondFi资产迁移操作指南",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi/156501",
-      "date": "2026-08-28T02:04:43.290Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Instruktionsguide för migrering av SecondFi-tillgångar",
-      "summary_sv": "",
-      "_title_sha": "cfe967463bcd",
       "_summary_sha": ""
     },
     {
