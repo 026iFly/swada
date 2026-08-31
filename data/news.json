@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-31T05:21:54.351Z",
+  "fetched_at": "2026-08-31T13:34:29.220Z",
   "items": [
+    {
+      "id": "forum:156549",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING La Constitución de Cardano y la creación de un Poder Ejecutivo | alphagrowth 26 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-la-constitucion-de-cardano-y-la-creacion-de-un-poder-ejecutivo-alphagrowth-26-jul-2026/156549",
+      "date": "2026-08-31T12:26:52.642Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "3b3e9bd0c558",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156538",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "SPANSK DUBBNING Charles Hoskinson om Agentfinansernas Gryning | SALT 26 aug 2026",
       "summary_sv": "",
       "_title_sha": "8a6cf4169d91",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156504",
-      "source": "Cardano Forum",
-      "title_en": "Empowering Regional Communities: Why Local Language Content is Key to Cardano’s Growth",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/empowering-regional-communities-why-local-language-content-is-key-to-cardano-s-growth/156504",
-      "date": "2026-08-28T12:55:03.862Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Stärka regionala gemenskaper: Varför innehåll på lokala språk är nyckeln till Cardanos tillväxt",
-      "summary_sv": "",
-      "_title_sha": "1d1ccba9abbb",
       "_summary_sha": ""
     },
     {
