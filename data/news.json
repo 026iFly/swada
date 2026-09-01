@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-08-31T23:49:51.046Z",
+  "fetched_at": "2026-09-01T04:58:26.471Z",
   "items": [
+    {
+      "id": "forum:156559",
+      "source": "Cardano Forum",
+      "title_en": "Rapport pour la séance du 31/08/2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/rapport-pour-la-seance-du-31-08-2026/156559",
+      "date": "2026-09-01T02:20:52.576Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Rapport för mötet den 31/08/2026",
+      "summary_sv": "",
+      "_title_sha": "dc543732cb4d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156556",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Ramverksförslag: Prestationsbaserad B2B Kapitalallokering för Cardano",
       "summary_sv": "",
       "_title_sha": "b391230f9d16",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156537",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Charles Hoskinson: Revolución DeFi Bitcoin valorada en 10 billones de dólares | DraperTV 27 Jun 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-charles-hoskinson-revolucion-defi-bitcoin-valorada-en-10-billones-de-dolares-drapertv-27-jun-2026/156537",
-      "date": "2026-08-30T13:08:03.057Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Spansk dubbning Charles Hoskinson: DeFi Bitcoin-revolution värderad till 10 biljoner dollar | DraperTV 27 juni 2026",
-      "summary_sv": "",
-      "_title_sha": "acb8e7306462",
       "_summary_sha": ""
     },
     {
