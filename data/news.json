@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-01T18:27:18.752Z",
+  "fetched_at": "2026-09-01T21:44:54.675Z",
   "items": [
+    {
+      "id": "forum:156587",
+      "source": "Cardano Forum",
+      "title_en": "Honored to Receive 'New User of the Month' for August 2026! 🏆 Reflection & Next Steps",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/honored-to-receive-new-user-of-the-month-for-august-2026-reflection-next-steps/156587",
+      "date": "2026-09-01T20:51:07.590Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Hedrad att få 'New User of the Month' för augusti 2026! 🏆 Reflektion & Nästa steg",
+      "summary_sv": "",
+      "_title_sha": "2c5a049893e2",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156580",
       "source": "Cardano Forum",
@@ -37,7 +51,7 @@
       "url": "https://forum.cardano.org/t/ambassador-stories-journal-50-ayomide-osemene/156578",
       "date": "2026-09-01T15:40:00.844Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Ambassadörberättelser, Journal #50: Ayomide Osemene",
       "summary_sv": "",
       "_title_sha": "8370b51c38e3",
@@ -66,7 +80,7 @@
       "date": "2026-09-01T14:10:44.426Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": "SPANSK DUBBING Leios - Välkomna till Dojo med Carlos López de Lara | IOG 1 Sep 2026",
       "summary_sv": "",
       "_title_sha": "9fb82291e8b4",
       "_summary_sha": ""
@@ -97,20 +111,6 @@
       "title_sv": "Rapport för mötet den 31/08/2026",
       "summary_sv": "",
       "_title_sha": "dc543732cb4d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156556",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Actualización sobre Votación | CH 31 Ago 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-actualizacion-sobre-votacion-ch-31-ago-2026/156556",
-      "date": "2026-08-31T19:53:48.248Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": ":es: SPANSK DUBBING Uppdatering om omröstning | CH 31 Aug 2026",
-      "summary_sv": "",
-      "_title_sha": "6041b076d3c5",
       "_summary_sha": ""
     },
     {
