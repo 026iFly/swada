@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-01T10:00:04.679Z",
+  "fetched_at": "2026-09-01T14:46:50.278Z",
   "items": [
+    {
+      "id": "forum:156573",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Leios - Bienvenidos al Dojo con Carlos López de Lara | IOG 1 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-leios-bienvenidos-al-dojo-con-carlos-lopez-de-lara-iog-1-sep-2026/156573",
+      "date": "2026-09-01T14:10:44.426Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "9fb82291e8b4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156560",
       "source": "Cardano Forum",
@@ -93,24 +107,10 @@
       "url": "https://forum.cardano.org/t/cardano-for-beginners-workshop-recap-from-learning-cardano-to-using-it-in-goma-dr-congo/156552",
       "date": "2026-08-31T14:43:39.393Z",
       "score": 2,
-      "comments": 3,
+      "comments": 4,
       "title_sv": "Sammanfattning av workshopen Cardano för nybörjare: Från att lära sig Cardano till att använda det i Goma, DR Kongo",
       "summary_sv": "",
       "_title_sha": "f126767773dd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156549",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING La Constitución de Cardano y la creación de un Poder Ejecutivo | alphagrowth 26 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-la-constitucion-de-cardano-y-la-creacion-de-un-poder-ejecutivo-alphagrowth-26-jul-2026/156549",
-      "date": "2026-08-31T12:26:52.642Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SPANSKT DUBB Cardanos konstitution och skapandet av en exekutiv makt | alphagrowth 26 jul 2026",
-      "summary_sv": "",
-      "_title_sha": "3b3e9bd0c558",
       "_summary_sha": ""
     },
     {
