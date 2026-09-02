@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-02T14:24:15.133Z",
+  "fetched_at": "2026-09-02T18:38:25.763Z",
   "items": [
+    {
+      "id": "forum:156600",
+      "source": "Cardano Forum",
+      "title_en": "Digest du 2 septembre 2026 : Élections 2026 du conseil d’administration d’Intersect | Portail des amendements constitutionnels | Mise à jour des scripts pour les opérateurs de stake pools | Daedalus 11.3.0, etc",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-du-2-septembre-2026-elections-2026-du-conseil-d-administration-d-intersect-portail-des-amendements-constitutionnels-mise-a-jour-des-scripts-pour-les-operateurs-de-stake-pools-daedalus-11-3-0-etc/156600",
+      "date": "2026-09-02T17:23:04.304Z",
+      "score": 2,
+      "comments": 2,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "880f00a0139f",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156599",
+      "source": "Cardano Forum",
+      "title_en": "Digest September 02, 2026: Intersect Board Elections 2026 | Constitutional Amendment Portal | Stake Pool Operator Scripts Update | Daedalus 11.3.0 | Ambassador Stories – Ayomide Osemene",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-september-02-2026-intersect-board-elections-2026-constitutional-amendment-portal-stake-pool-operator-scripts-update-daedalus-11-3-0-ambassador-stories-ayomide-osemene/156599",
+      "date": "2026-09-02T14:32:11.825Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "cf335887292e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156597",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano samarbetar med Hamburg, ansluter till Injective via IBC | Nyhetssammanfattning, augusti 2026",
       "summary_sv": "",
       "_title_sha": "828cf233a65f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156591",
-      "source": "Cardano Forum",
-      "title_en": "ADA 스팟 ETF, 요건은 채웠는데 신청자가 사라졌다 | 2026년 8월 소식 요약",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ada-etf-2026-8/156591",
-      "date": "2026-09-02T04:37:57.440Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "ADA spot ETF, kraven är uppfyllda men ansökande har försvunnit | Nyhetsöversikt augusti 2026",
-      "summary_sv": "",
-      "_title_sha": "52bb389c7ffc",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156590",
-      "source": "Cardano Forum",
-      "title_en": "지갑과 노드가 조용히 단단해진 8월: Lace, Hydra, Amaru | 2026년 8월 소식 요약",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/8-lace-hydra-amaru-2026-8/156590",
-      "date": "2026-09-02T02:44:25.754Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "",
-      "summary_sv": "",
-      "_title_sha": "a17a6de2d6f2",
       "_summary_sha": ""
     },
     {
