@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T21:44:56.255Z",
+  "fetched_at": "2026-09-02T00:01:08.022Z",
   "items": [
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
@@ -58,27 +58,6 @@
       "summary_sv": "Denna governance action uppdaterar de fyra platserna i Constitutional Committee vars mandat löper ut i slutet av Epoch 653 genom att utse de kandidater som valts i 2026 Constitutional Committee election. De valda kandidaterna kommer att inneha nya mandat fram till Epoch 799, i enlighet med den nuvarande committeeMaxTermLength-protokollparametern.",
       "_title_sha": "20f8f6ce433a",
       "_summary_sha": "d4c2eca15945"
-    },
-    {
-      "id": "gov:gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
-      "proposal_id": "gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
-      "type": "ParameterChange",
-      "proposed_epoch": 646,
-      "expiration_epoch": 653,
-      "title_en": "Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2)",
-      "summary_en": "Intersect's Parameter Committee proposes a single Parameter Update governance action bundling two independent, previously recommended protocol parameter changes:\n\n1. **minPoolCost:** decrease `minPoolCost` from 170,000,000 Lovelace (170 ada) to 75,000,000 Lovelace (75 ada), a decrease of approximately 55.9%.  \n2. **Plutus memory unit limits (Part 2 of 2):** increase maxTxExecutionUnits[memory] from 16,500,000 to 17,500,000 units (+6.1%) and maxBlockExecutionUnits[memory] from 72,000,000 to 77,500,000 units (+7.6%), completing the two-step, cumulative 25% increase to both parameters begun in the linked Part 1 action.\n\nThese two changes are otherwise unrelated: one lowers the stake pool fixed-fee floor, the other increases Plutus script execution headroom. The changes are bundled here for submission efficiency and to allow SPOs to give input on `minPoolCost`. No other protocol parameters or Plutus cost model settings are changed by this action.",
-      "url": "https://gov.tools/governance_actions/gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
-      "block_time": "2026-07-30T17:21:01.000Z",
-      "deposit_ada": 100000,
-      "ifly_vote": {
-        "vote": "Yes",
-        "block_time": "2026-08-05T12:25:30.000Z",
-        "rationale_sv": "iFly (SWADA) röstar JA på att sänka minPoolCost från 170 till 75 ada och höja Plutus-minnesgränserna.\nREDOVISAT INTRESSE: Jag driver stakepoolen SWADA, som ligger på minPoolCost-golvet. Ändringen sänker direkt min egen pools fasta kostnad. Jag redovisar detta i stället för att lämna det osagt, och läsare bör väga min röst därefter.\nI sak: när de reservfinansierade belöningarna minskar tar en fast avgift på 170 ada en orimligt stor andel av en liten pools belöningar — straffet för delegerare i en pool som gör ett block är redan runt 53% och beräknas nå 100% omkring epok 758. IO Research har ändrat sin tidigare hållning och menar nu att ett högt golv hjälper stora operatörer att splittra stake i Sybil-pooler snarare än att avskräcka dem. En sund lång svans av små, oberoende pooler är en av mina uttalade prioriteringar som DRep, och denna ändring stödjer den.\nInvändningar: förslaget paketerar två orelaterade ändringar i en enda ja/nej-röst, och ett lägre golv borde rimligen kombineras med en minPoolMargin och en höjning av k för att förhindra en priskrig nedåt. Jag skulle stödja detta som uppföljning. Jag röstar JA."
-      },
-      "title_sv": "Sänk minPoolCost till 75 ada och öka Plutus Memory Limits (Del 2)",
-      "summary_sv": "Intersects Parameter Committee föreslår en enskild Parameter Update governance action som samlar två oberoende, tidigare rekommenderade ändringar av protokollparametrar:\n\n1. **minPoolCost:** minska `minPoolCost` från 170 000 000 Lovelace (170 ADA) till 75 000 000 Lovelace (75 ADA), en minskning på cirka 55,9%. Ökning av Plutus memory unit-gränser (Del 2 av 2): öka maxTxExecutionUnits[memory] från 16 500 000 till 17",
-      "_title_sha": "512f3bbd2435",
-      "_summary_sha": "34cd96c7b50b"
     }
   ]
 }
