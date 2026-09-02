@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-02T09:37:34.267Z",
+  "fetched_at": "2026-09-02T14:24:15.133Z",
   "items": [
+    {
+      "id": "forum:156597",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Ambassadors Impact Pot Cardano Grassroots Events August 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-ambassadors-impact-pot-cardano-grassroots-events-august-2026/156597",
+      "date": "2026-09-02T09:34:01.291Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Cardano Ambassadors Impact Pot Cardano Grassroots evenemang augusti 2026",
+      "summary_sv": "",
+      "_title_sha": "ad71e086ba7e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156596",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "",
       "summary_sv": "",
       "_title_sha": "a17a6de2d6f2",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156589",
-      "source": "Cardano Forum",
-      "title_en": "카르다노 헌법위원회 선거는 끝났다, 그런데 갱신투표는? | 2026년 8월 소식 요약",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/2026-8/156589",
-      "date": "2026-09-02T02:34:44.363Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "",
-      "summary_sv": "",
-      "_title_sha": "20b195e32761",
       "_summary_sha": ""
     },
     {
