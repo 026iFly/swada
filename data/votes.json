@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T14:27:22.961Z",
+  "fetched_at": "2026-09-03T18:34:48.194Z",
   "items": [
     {
       "id": "gov:gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
@@ -7,8 +7,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 649,
       "expiration_epoch": 656,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Governance Incentives Framework 2026",
+      "summary_en": "Cardano is approaching consequential decisions about governance incentives without a shared evidence base for determining which mechanisms work, what they cost, or who should remain accountable for their outcomes. The project separates evidence-based validation from governance legitimacy: candidate incentive mechanisms will first be evaluated through research, data, modeling, and evidence, and then presented to governance for a decision on adoption.\n\nSignificant work already exists across Cardano on governance compensation, participation, rationale incentives, reward distribution, voting-power concentration, and governance reward design. The Governance Incentives Working Group has already created a mapping document identifying 49 relevant efforts, proposals, research papers, tools, and related initiatives across this space [1]. This includes work developed through CPS-0020 [2], as well as CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formal reward-scheme research [7], process-first DRep compensation research [8], and Input Output Research’s Cardano Vision 2026 work [9]. The project will consider these existing ideas and approaches, examine their assumptions, advantages, disadvantages, and potential unintended effects, and combine them with further research, governance data, modeling, controlled testing, and community input to build research-backed community consensus around the m",
       "url": "https://gov.tools/governance_actions/gov_action174lclj6wswk3km6chl755vp24ja44yy8fjput7z20795hdpuax7qq67pvcp",
       "block_time": "2026-08-14T18:47:38.000Z",
       "deposit_ada": 100000,
@@ -18,9 +18,9 @@
         "block_time": "2026-08-16T14:20:22.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA.\nFörst mitt intresse: jag är aktiv DRep och driver en stakepool. Om det här arbetet leder till ersättning för DReps kan jag komma att få betalt. Det säger jag rakt ut.\nVarför jag vill att forskningen görs: vi håller på att tappa decentraliseringen bland DReps, snabbt. Antalet aktiva DReps sjönk under varje tolvepoksperiod under det första året. Koncentrationen ökade i stället för att minska (Gini 0,92 till 0,94). Ungefär 11-16 DReps kontrollerar nu 51 % av röststyrkan. Ett konsortium i konstitutionsutskottet hoppade av för att ingen betalade dem. Styrningsmakten är nu mer koncentrerad än vad staken är — och det är stake-koncentrationen alla håller ögonen på. Samtidigt kostar det att vara DRep: en låst deposition på 500 ada som inte ger något, transaktionsavgifter, och framför allt timmar av verkligt arbete per förslag. Just nu betalar man för att delta. Det är precis bakvänt, och det sållar tyst fram dem som har råd.\nVAD JAG VILL FÅ UT AV DET HÄR — och jag säger det rakt:\nMålet är FLER DReps. Inte bättre betalda stora DReps. Om forskningen kommer tillbaka och rekommenderar ersättning rakt proportionell mot delegering har den gjort koncentrationen värre och slösat bort 4,2 miljoner ada. Måttet på framgång är om antalet oberoende, verkligt aktiva DReps ÖKAR.\nSå hitta ett sätt att betala små DReps proportionellt mer. Någon med några tusen ada delegerat till sig, som läser förslagen och skriver riktiga motiveringar, ska inte förlora på det. Det är den personen ramverket måste nå. Att sänka den tröskeln är hur man får fler representanter, och fler representanter är hur man löser koncentrationen.\nNu det svåra, och snälla, smit inte från det: att betala små DReps mer per ada inbjuder till utnyttjande. En stor innehavare kan dela upp sin stake på många små DReps under eget inflytande och håva in den högre ersättningen. Det är en Sybil-attack i annan skepnad. Jag vet att det gör designen svårare. Gör det ändå. Låt INTE 'vi kunde inte lösa Sybil-problemet' bli ursäkten för en trygg proportionell modell som bara betalar dem som redan sitter där — det utfallet är sämre än att inte göra något alls, för då används statskassans pengar till att cementera precis det problem vi försöker lösa.\nNågra riktningar jag tycker är värda att testa:\nFörankra allt i delegerad stake, för stake är knappt och kan inte dupliceras. En fast ersättning per DRep är en öppen inbjudan att starta bottar.\nAnvänd ett golv och ett tak. Ett krav på minsta delegering gör bot-DReps dyra, eftersom var och en måste attrahera verklig stake. En ersättning som planar ut efter en mättnadspunkt gör att ingen jagar delegering bara för pengarna. Det är samma form som k och mättnad för stakepooler — en mekanism varje operatör redan förstår, och den fungerar.\nBetrakta inte 'publicerade en motivering' som bevis på arbete. Text är billig att generera nu. Det betyder något först ovanpå ett verkligt stake-golv.\nOch kom ihåg att viss konkurrens om delegering är sund. En bra representant ska attrahera stake. Det som måste bort är att jaga delegering enbart som inkomst, frikopplat från om man gör jobbet bra.\nVAD JAG INTE GILLAR MED FÖRSLAGET: pengarna går som en klumpsumma till en vanlig nyckelstyrd plånbok. Ingen spärr, inga delutbetalningar mot delmål, ingen multisig. Återbetalningslöftena är ord, inte mekanismer. Den detaljerade budgeten hålls medvetet privat, så vi röstar på elva sammanfattande siffror. Administration och konceptualisering är omkring 22 % av totalen innan något forskningsresultat kommit fram, medan den oberoende granskningen är 3 % — och granskaren är inte namngiven och betalas ur anslaget.\nJag röstar JA ändå, för problemet är verkligt och brådskande och designfrågorna är svåra nog att förtjäna ordentlig forskning. Men jag vill se spärrad finansiering som betalas ut mot delmål, hela budgeten publicerad och en namngiven granskare. Nås inte delmålen stödjer jag att pengarna går tillbaka till statskassan."
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "Governance Incentives Framework 2026",
       "summary_sv": "Cardano närmar sig konsekvensrika beslut om styrningsincitament utan en gemensam evidensbas för att avgöra vilka mekanismer som fungerar, vad de kostar eller vem som bör hållas ansvarig för deras resultat. Projektet separerar evidensbaserad validering från styrningslegitimitet: kandidatincentivmekanismer kommer först att utvärderas genom forskning, data, modellering och bevis, och därefter presenteras för styrningen för ett beslut om antagande.\n\nBetydande arbete finns redan inom Cardano när det gäller styrningsersättning, deltagande, rationale-incitament, belöningsfördelning, koncentration av röstkraft och utformning av styrningsbelöningar. Governance Incentives Working Group har redan skapat ett kartläggningsdokument som identifierar 49 relevanta insatser, förslag, forskningspapper, verktyg och relaterade initiativ inom detta område [1]. Detta inkluderar arbete som utvecklats genom CPS-0020 [2], samt CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formell belöningssystems-forskning [7], process-först DRep-ersättningsforskning [8], och Input Output Research:s Cardano Vision 2026-arbete [9]. Projektet kommer att överväga dessa befintliga idéer och tillvägagångssätt, granska deras antaganden, fördelar, nackdelar och potentiella oavsiktliga effekter, och kombinera dem med ytterligare forskning, styrningsdata, modellering, kontrollerade tester och samhällsinspill för att bygga forskningsunderbyggd samhällskonensus kring m",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "5ec6c73bc88a",
       "_summary_sha": "dc549b1ec632"
     },
     {
@@ -29,8 +29,8 @@
       "type": "NewCommittee",
       "proposed_epoch": 646,
       "expiration_epoch": 653,
-      "title_en": "NewCommittee proposal",
-      "summary_en": "",
+      "title_en": "Update Constitutional Committee 2026",
+      "summary_en": "This governance action updates the four Constitutional Committee seats whose terms expire at the end of Epoch 653 by appointing the candidates elected through the 2026 Constitutional Committee election. The successful candidates will serve new terms ending at Epoch 799, in accordance with the current committeeMaxTermLength protocol parameter.",
       "url": "https://gov.tools/governance_actions/gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
       "block_time": "2026-07-31T17:34:42.000Z",
       "deposit_ada": 100000,
@@ -40,9 +40,9 @@
         "block_time": "2026-08-05T12:32:58.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA. Konstitutionsutskottet måste förnyas innan de fyra platserna som löper ut vid epok 653 upphör, annars riskerar utskottet att hamna under committeeMinSize och den konstitutionella granskningen stannar av. Valet följde konstitutionen (artikel III §3), var öppet för alla ada-innehavare, genomfördes on-chain via Ekklesia och granskades oberoende av DQuadrant. De fyra tillsatta ledamöterna är de fyra främsta enligt DRep-viktad röstning.\nInvändning: endast omkring 38 DReps (~2,3 miljarder ada) deltog i valet, vilket är en tunn legitimitetsgrund, och Asia Africa Cardano Coalition kom på femte plats — därmed förlorar APAC och Afrika direkt representation. Jag vill se både valdeltagande och regional balans åtgärdade före nästa omgång. Ett fungerande utskott är ändå bättre än ett som står stilla. Jag röstar JA."
       },
-      "title_sv": "Förslag från ny kommitté",
+      "title_sv": "Uppdatering Constitutional Committee 2026",
       "summary_sv": "Denna governance action uppdaterar de fyra ledamöterna i Constitutional Committee vars mandat löper ut i slutet av Epoch 653 genom att utse de kandidater som valdes genom 2026 års Constitutional Committee-val. De framgångsrika kandidaterna kommer att inneha nya mandat som avslutas vid Epoch 799, i enlighet med den aktuella protocol parametern committeeMaxTermLength.",
-      "_title_sha": "b7a6abfe0b96",
+      "_title_sha": "20f8f6ce433a",
       "_summary_sha": "d4c2eca15945"
     },
     {
@@ -51,8 +51,8 @@
       "type": "ParameterChange",
       "proposed_epoch": 646,
       "expiration_epoch": 653,
-      "title_en": "ParameterChange proposal",
-      "summary_en": "",
+      "title_en": "Reduce minPoolCost to 75 ada and increase Plutus Memory Limits (Part 2)",
+      "summary_en": "Intersect's Parameter Committee proposes a single Parameter Update governance action bundling two independent, previously recommended protocol parameter changes:\n\n1. **minPoolCost:** decrease `minPoolCost` from 170,000,000 Lovelace (170 ada) to 75,000,000 Lovelace (75 ada), a decrease of approximately 55.9%.  \n2. **Plutus memory unit limits (Part 2 of 2):** increase maxTxExecutionUnits[memory] from 16,500,000 to 17,500,000 units (+6.1%) and maxBlockExecutionUnits[memory] from 72,000,000 to 77,500,000 units (+7.6%), completing the two-step, cumulative 25% increase to both parameters begun in the linked Part 1 action.\n\nThese two changes are otherwise unrelated: one lowers the stake pool fixed-fee floor, the other increases Plutus script execution headroom. The changes are bundled here for submission efficiency and to allow SPOs to give input on `minPoolCost`. No other protocol parameters or Plutus cost model settings are changed by this action.",
       "url": "https://gov.tools/governance_actions/gov_action14dr5yg75pchr2sz42djtuflpvx5qnsek29qg7s7cft8lzrqt5vrqqtqntpk",
       "block_time": "2026-07-30T17:21:01.000Z",
       "deposit_ada": 100000,
@@ -62,9 +62,9 @@
         "block_time": "2026-08-05T12:25:30.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA på att sänka minPoolCost från 170 till 75 ada och höja Plutus-minnesgränserna.\nREDOVISAT INTRESSE: Jag driver stakepoolen SWADA, som ligger på minPoolCost-golvet. Ändringen sänker direkt min egen pools fasta kostnad. Jag redovisar detta i stället för att lämna det osagt, och läsare bör väga min röst därefter.\nI sak: när de reservfinansierade belöningarna minskar tar en fast avgift på 170 ada en orimligt stor andel av en liten pools belöningar — straffet för delegerare i en pool som gör ett block är redan runt 53% och beräknas nå 100% omkring epok 758. IO Research har ändrat sin tidigare hållning och menar nu att ett högt golv hjälper stora operatörer att splittra stake i Sybil-pooler snarare än att avskräcka dem. En sund lång svans av små, oberoende pooler är en av mina uttalade prioriteringar som DRep, och denna ändring stödjer den.\nInvändningar: förslaget paketerar två orelaterade ändringar i en enda ja/nej-röst, och ett lägre golv borde rimligen kombineras med en minPoolMargin och en höjning av k för att förhindra en priskrig nedåt. Jag skulle stödja detta som uppföljning. Jag röstar JA."
       },
-      "title_sv": "Parameterändringsförslag",
+      "title_sv": "Minska minPoolCost till 75 ADA och öka Plutus Memory Limits (Del 2)",
       "summary_sv": "Intersect's Parameter Committee föreslår en enda Parameter Update governance action som bundler två oberoende, tidigare rekommenderade protokollparameterändringar:\n\n1. minPoolCost: sänk `minPoolCost` från 170,000,000 Lovelace (170 ada) till 75,000,000 Lovelace (75 ada), en minskning med cirka 55,9%.\n2. Plutus memory unit limits (Part 2 of 2): öka maxTxExecutionUnits[memory] från 16,500,000 till 17,500,000 enheter (+6,1%) och maxBlockExecutionUnits[memory] från 72,000,000 till 77,500,000 enheter (+7,6%), vilket avslutar den tvåstegiga, kumulativa 25% ökning av båda parametrarna som påbörjades i den länkade Part 1-åtgärden.\n\nDessa två förändringar är i övrigt orelaterade: en sänker fixed-fee-floors för stake pool, den andra ökar Plutus-skriptkörningskapaciteten. Förändringarna är bundna här för effektiva inlämningar och för att tillåta SPOs att lämna synpunkter på `minPoolCost`. Inga andra protokollparameterar eller Plutus-kostnadsmodellinställningar ändras av denna åtgärd.",
-      "_title_sha": "7101b46f7439",
+      "_title_sha": "512f3bbd2435",
       "_summary_sha": "34cd96c7b50b"
     },
     {
@@ -95,8 +95,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 642,
       "expiration_epoch": 649,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Withdraw 120,000,000 ada for AlphaGrowth’s Cardano PRIME",
+      "summary_en": "This Treasury Withdrawal funds Cardano PRIME, a 12-month community-overseen program to improve DeFi protocol readiness, responsibly activate incentives, and grow durable liquidity across Cardano markets. The withdrawal requests ₳120,000,000, with USD figures included only as planning references at the $0.16/ADA assumption.\n\nPRIME is executed by AlphaGrowth under Operating Group oversight. Intersect acts as Constitutional Administrator and manages the withdrawn funds directly. Program funds are released through milestone-gated and action-gated processes, including a Month 4 Phase 3 release gate, published recommendations and disbursement records, independent audit or assurance funding, a separate auditable account, abstain delegation while funds are held before disbursement, and return-to-treasury triggers for unused, unearned, or unreleased funds.\n\nThis withdrawal is conditional on an applicable Net Change Limit having been agreed under TREASURY-01a and having enough remaining capacity to cover the withdrawal in full at enactment.",
       "url": "https://gov.tools/governance_actions/gov_action122wue2k65qq8gmpz795z2axt8apka6ay6xt3pwg8jxj5yfkujmtsqvlfpu7",
       "block_time": "2026-07-09T16:30:25.000Z",
       "deposit_ada": 100000,
@@ -106,9 +106,9 @@
         "block_time": "2026-08-05T12:21:53.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA. Cardano PRIME angriper Cardanos största adoptionshinder: tunn DeFi-likviditet, som är självförstärkande — dåliga handelsvillkor avskräcker användare, vilket avskräcker byggare, vilket håller likviditeten tunn. Tre egenskaper gör storleken 120 000 000 ADA acceptabel för mig: (1) den är fasindelad — den stora incitamentsdelen på ~90 000 000 ADA betalas ut först efter en beslutspunkt i månad 4 och stannar annars i statskassan; (2) den är denominerad i ada, så statskassan bär ingen dollarkursrisk; och (3) medlen förvaras i ett Intersect-administrerat reservkontrakt på oberoende granskade verktyg, inte direkt till operatören.\nInvändningar: ~30 000 000 ADA för de tidiga faserna och den fasta avgiften är bundna i förväg oavsett resultat; prestationsavgiften kan utlösas av likviditet som behållits i endast 30 dagar; och den oberoende granskaren namngavs inte före omröstningen. Jag röstar JA i förväntan att dessa kontroller skärps under genomförandet, och jag stödjer mekanismerna för återföring och avveckling om delmål missas. Min farhåga gäller genomförandet, inte avsikten."
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "Ta ut 120 000 000 ada för AlphaGrowth’s Cardano PRIME",
       "summary_sv": "Denna treasury-uttag finansierar Cardano PRIME, ett 12-månader långt program övervakat av samhället för att förbättra DeFi-protokollberedskap, ansvarsfullt aktivera incitament och öka hållbar likviditet över Cardano-marknader. Uttaget uppgår till ₳120,000,000, med USD-siffror inkluderade endast som planeringsreferenser vid antagandet $0.16/ADA.\n\nPRIME genomförs av AlphaGrowth under insyn av Operating Group. Intersect fungerar som Constitutional Administrator och förvaltar de utburna medlen direkt. Programmedel frigörs genom milstolpe- och åtgärdsstyrda processer, inklusive en Month 4 Phase 3-utgåttsgrind, publicerade rekommendationer och utbetalningsregister, oberoende revision eller säkerställningsfinansiering, ett separat auditerbart konto, abstain-delegation medan medlen hålls före utbetalning, samt återkallande till treasury vid oanvända, oförtjänta eller oreleased medel.\n\nDetta uttag är villkorat av att ett tillämpligt Net Change Limit har överenskommits enligt TREASURY-01a och att det finns tillräcklig återstående kapacitet att täcka uttaget i sin helhet vid ikraftträdandet.",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "bd1fea21e0c0",
       "_summary_sha": "472979604398"
     },
     {
@@ -117,8 +117,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 641,
       "expiration_epoch": 648,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Revised Cardano dOSPO and OMF Program Proposal",
+      "summary_en": "This proposal is to establish an independent entity dedicated to managing open source sustainability funds for the Cardano ecosystem.DAOs and traditional foundations are often too vulnerable to political influence, lack execution speed, and can become centralized in ways that distort outcomes based on internal politics. These issues can undermine priorities and weaken long-term initiatives.   \nTo address these problems, I am proposing a purpose-built independent structure — an execution function, not an executive one. This program has a single, clearly defined purpose set by its charter, and the community can shut it down at any time through governance without having to wait for the funds to run out.I am requesting funding for one year. I left a stable, well-paying job to focus on doing this properly, and I believe my track record in the ecosystem speaks for itself.   \nDuring this period, I will directly manage the fund while deliberately avoiding overlap with existing funding programs.The structure will remain fully accountable to governance. DReps will have the ability to replace me or sunset the entire initiative at any time through an on-chain Info Action. I commit to sponsoring any such Info Action if requested by 15 or more DReps.To ensure proper legal and financial operations, I have already engaged a law firm to establish a public charity through which the majority of f",
       "url": "https://gov.tools/governance_actions/gov_action19apfhh339syqd0gkrxw6zr6pghdfspckr6vagjrpwnr0hx53lxpsq637y3t",
       "block_time": "2026-07-08T03:35:17.000Z",
       "deposit_ada": 100000,
@@ -128,9 +128,9 @@
         "block_time": "2026-08-05T12:20:32.000Z",
         "rationale_sv": "iFly (SWADA) röstar JA. Programmet finansierar långsiktigt underhåll av de bibliotek, SDK:er, indexerare och verktyg med öppen källkod som Cardanos byggare är beroende av — ett underfinansierat lager som annars är en systemisk sårbarhet. Det är ett nedskalat tolvmånaderspilotprojekt (4 094 000 ADA) med avvecklingsklausuler och en administratör som kan bytas ut on-chain.\nRedovisning av intresse: i enlighet med den transparens jag utlovat i min DRep-profil är mitt eget projekt (Intellishares / Clastenium) byggt direkt på öppen källkod av just detta slag — till exempel Ogmios, Kupo och Lucid. Jag bedömer att nyttan för hela nätverket är verklig oberoende av det intresset, men redovisar det så att min röst kan vägas därefter.\nInvändning: medlen betalas ut till en stakeadress med en enda nyckel i stället för escrow, med ensam beslutanderätt de första cirka sex månaderna. Jag hade föredragit en spärrad, delmålsstyrd förvaring, och jag stödjer mekanismerna för utbyte och avveckling on-chain om tillsynen brister. Sammantaget väger nyttan för byggarnas grundinfrastruktur och den blygsamma storleken tyngre än denna oro. Jag röstar JA."
       },
-      "title_sv": "Förslag om Treasury-uttag",
+      "title_sv": "Reviderat Cardano dOSPO- och OMF-programförslag",
       "summary_sv": "Detta förslag är att etablera en oberoende enhet ägnad åt att förvalta öppna källkods-fond för Cardano-ekosystemet. DAOs och traditionella stiftelser är ofta alltför sårbara för politisk påverkan, saknar genomförandekapacitet och kan bli centraliserade på sätt som förvränger utfall baserat på intern politik. Dessa problem kan underminera prioriteringar och försvaga långsiktiga initiativ.\nFör att åtgärda dessa problem föreslår jag en skräddarsydd oberoende struktur — en genomförandefunktion, inte en exekutiv sådan. Detta program har ett enda, tydligt definierat syfte fastställt av dess stadgar, och gemenskapen kan upplösa det när som helst genom styrning utan att behöva vänta på att medlen tar slut. Jag begär finansiering för ett år. Jag lämnade ett stabilt, välbetalt jobb för att fokusera på att göra detta ordentligt, och jag tror att min meritlista i ekosystemet talar för sig själv.\nUnder denna period kommer jag direkt att förvalta fonden medan jag metodiskt undviker överlappningar med befintliga finansieringsprogram. Strukturens fullständiga ansvar ligger hos styrningen. DReps kommer att ha möjlighet att ersätta mig eller avveckla hela initiativet när som helst via en on-chain Info Action. Jag åtar mig att sponsra en sådan Info Action om begäran görs av 15 eller fler DReps.\nFör att säkerställa korrekt juridisk och finansiell verksamhet har jag redan anlitat en advokatbyrå för att upprätta en offentlig välgörenhetsorganisation genom vilken majoriteten av f",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "55d2828307a5",
       "_summary_sha": "e9d658d02702"
     },
     {
@@ -139,8 +139,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 632,
       "expiration_epoch": 639,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "5am.earth Trust Layer Targeting Vision 2030 KPIs",
+      "summary_en": "5am.earth Foundation requests 10,000,000 ADA (hard cap) to build an open, Cardano-anchored trust layer for global agricultural supply chains. The trust layer combines Veridian self-sovereign identity for farmers and Agri-Entrepreneurs (AEs) with a Cardano on-chain satellite oracle delivering verified farm and crop data. The 18-month programme (M1 Stand-Up at Month 6, M2 Closed Loop at Month 12, M3 Self-Sustaining at Month 18) delivers across India, Cambodia, and Kenya, reaching 500,000 registered farmers and operating three named application paths during the funded period: AE certification with Andamio (WP3), traceability and compliance with Zengate Global (WP4), and finance and credit with Seedstars SIGMA (WP5). The Foundation is the neutral steward of the open trust layer; commercial partners build on top of it. The proposal is administered by Intersect on standard terms via the standardized Treasury Reserve Smart Contract / Project-Specific Smart Contract framework developed by Sundae Labs, with an independent Oversight Committee of five external entities verifying key administrative actions. Payment structure: 5,000,000 / 2,000,000 / 3,000,000 ADA, milestone-gated, front-loaded on approval and gated on observable evidence at M1 and M2. Project Swaminathan operates on Cardano Mainnet today with 10,500 cumulative farmer/farm registrations as of 5 May 2026 — providing live ope",
       "url": "https://gov.tools/governance_actions/gov_action142ndnn9hycuuwld5ddemash2l709ln06qjgfeudq77z45nf3fpdqqn7pwux",
       "block_time": "2026-05-21T14:23:23.000Z",
       "deposit_ada": 100000,
@@ -150,9 +150,9 @@
         "block_time": "2026-06-21T08:17:38.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Förslag om Treasury-uttag",
+      "title_sv": "5am.earth Trust Layer Målsätter Vision 2030 KPIs",
       "summary_sv": "5am.earth Foundation begär 10 000 000 ADA (hard cap) för att bygga ett öppet, Cardano-anknutet förvarslager (trust layer) för globala livsmedelsförsörjningskedjor. Förvarslagret kombinerar Veridian själv­sovrant identitet för bönder och Agri-Entrepreneurs (AEs) med ett Cardano on-chain satellit-Oracle som levererar verifierade uppgifter om gårdar och grödor. Det 18-månaders programmet (M1 Stand-Up vid månad 6, M2 Closed Loop vid månad 12, M3 Self-Sustaining vid månad 18) levererar i Indien, Kambodja och Kenya, når 500 000 registrerade bönder och driver tre namngivna applikationsvägar under den finansierade perioden: AE-certifiering med Andamio (WP3), spårbarhet och efterlevnad med Zengate Global (WP4) samt finans och kredit med Seedstars SIGMA (WP5). Foundations funktion är den neutrala förvaltaren av det öppna förvarslagret; kommersiella partners bygger ovanpå det. Förslaget administreras av Intersect på standardvillkor via den standardiserade Treasury Reserve Smart Contract / Project-Specific Smart Contract-ramverket utvecklat av Sundae Labs, med en oberoende Översynskommitté av fem externa enheter som verifierar nyckeladministrativa åtgärder. Betalningsstruktur: 5 000 000 / 2 000 000 / 3 000 000 ADA, milstolpe-styrd, fördelad i förväg vid godkännandet och begränsad till observerbara bevis vid M1 och M2. Project Swaminathan drivs på Cardano Mainnet idag med 10 500 kumulativa bönder-/gårdsregistreringar per den 5 maj 2026 — och erbjuder live ope",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "dbb01b862f09",
       "_summary_sha": "16cfc7d2f136"
     },
     {
@@ -161,8 +161,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 627,
       "expiration_epoch": 634,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Revised Cardano Summit 2026 Singapore",
+      "summary_en": "This proposal as [PDF](https://ipnso-com.ipns.dweb.link/?cid=QmagzPnHcrRPC5MKpp3fHSJjz7xbTzEmfQq8Z697suYjq2). \n\n This is a revised and 22% reduced budget treasury withdrawal proposal for the Cardano Summit 2026 in Singapore. Following extensive discussions with the community the Foundation has revised the proposal as follows: \n\n* This proposal is decoupled from EMURGO’s TOKEN2049 sponsorship proposal.  \n* Budget is reduced by 22% or $550,000 while retaining the tier-one experience to showcase a L1 blockchain like Cardano, achieved through reduction from three stages to two which lowers production, tech and onsite logistics costs.  \n* Increased the CF’s estimated internal resource contributions to $380,000 from $250,000 to reduce external vendor costs.\n\nWe thank the community for their honest feedback and we respect the budgetary concerns given the current bear market. Feedback was consistently positive about the Summit’s strategic vision and value. We understand the broad consensus is that a reduced budget Singapore Summit should happen without sacrificing quality or reputation. We continue to believe this proposal will bring important benefits to Cardano.\n\n2026 is a pivotal year for accelerating Cardano’s adoption. Cardano has increased its interoperability and institutional readiness (USDCx, Pyth, Dune, CME Group, LayerZero). Aligned to the strategy, the Summit provides the p",
       "url": "https://gov.tools/governance_actions/gov_action10dp9wzmgt2nqshyrghufff4sfhcxedhmzluly5k0azguatnsthwqqs84cjf",
       "block_time": "2026-04-29T06:01:08.000Z",
       "deposit_ada": 100000,
@@ -172,9 +172,9 @@
         "block_time": "2026-05-24T20:43:51.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "Reviderad Cardano Summit 2026 Singapore",
       "summary_sv": "Detta förslag som [PDF](https://ipnso-com.ipns.dweb.link/?cid=QmagzPnHcrRPC5MKpp3fHSJjz7xbTzEmfQq8Z697suYjq2).\n\nDetta är ett reviderat och 22% reducerat budgetförslag för nuvarande Cardano Summit 2026 i Singapore. Efter omfattande samtal med gemenskapen har Stiftelsen reviderat förslaget enligt följande:\n\n* Detta förslag är frikopplat från EMURGO:s TOKEN2049-sponsorförslag.\n* Budgeten har minskat med 22% eller 550 000 USD samtidigt som man behåller den förstklassiga upplevelsen för att visa upp en L1-blockkedja som Cardano, vilket uppnås genom att minska från tre faser till två och därmed sänka produktions-, teknik- och on-site-logistikostnaderna.\n* Den uppskattade interna resursbidraget från CF har ökats till 380 000 USD från 250 000 USD för att minska externa leverantörskostnader.\n\nVi tackar gemenskapen för deras ärliga återkoppling och vi respekterar budgetbekymren med tanke på den nuvarande nedgångsmarknaden. Återkopplingen var konsekvent positiv när det gäller Summitens strategiska vision och värde. Vi förstår den breda enigheten om att ett reducerat budget-Singapore Summit bör genomföras utan att kompromissa kvalitet eller renommé. Vi fortsätter att tro att detta förslag kommer att ge Cardano viktiga fördelar.\n\n2026 är ett avgörande år för att accelerera Cardanos antagande. Cardano har ökat sin interoperabilitet och institutionella beredskap (USDCx, Pyth, Dune, CME Group, LayerZero). I linje med strategin erbjuder Summiten p",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "4243b4210893",
       "_summary_sha": "392fe466b994"
     },
     {
@@ -183,8 +183,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Pogun: Capital Without Compromise",
+      "summary_en": "*Proposal as pdf: https://ipnso-com.ipns.dweb.link/?cid=bafybeibbrhuis55rl52hsp5rboooobjg4rvq7q5ly2mern7s7f3xcbjzwi*\n\nBitcoin is a \\$1.5T asset with virtually no native DeFi infrastructure. The race to become the dominant credit and liquidity layer for BTC is the largest open market opportunity in crypto. Pogun is an end-to-end Bitcoin liquidity and credit engine built to position Cardano as the definitive home of Bitcoin DeFi.\n\nDemonstrating our commitment to the proper use of public funds, Pogun will return 20% of EBITDA to the Cardano Treasury until the initial funding is repaid. This will be followed by an ongoing 5% perpetual return.\n\nPogun delivers three integrated components:\n\n* **Credit Market (Q2 2026)** - A non-margin peer-to-peer credit market. A fully on-chain, oracle-free lending protocol where collateral is only at risk upon default, not price fluctuations.\n* **Yield (Q3 2026)** - A deposit-and-earn layer that routes user capital into yield-generating strategies across private credit, RWAs, and structured fixed-income products.\n* **Bridge (Q4 2026)** - BitVM-powered trust-minimized bridge providing 1-of-N security for institutional-grade Bitcoin custody: bridge BTC to Cardano, borrow against it, and earn without surrendering custody of the underlying asset.\nTo execute this roadmap, this treasury withdrawal requests ₳12.29M (equivalent to \\$2.95M USD at a reference",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qsuae57l",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -194,9 +194,9 @@
         "block_time": "2026-05-24T20:40:56.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "Pogun: Kapital Utan Kompromisser",
       "summary_sv": "Förslag som pdf: https://ipnso-com.ipns.dweb.link/?cid=bafybeibbrhuis55rl52hsp5rboooobjg4rvq7q5ly2mern7s7f3xcbjzwi\n\nBitcoin är en tillgång värd 1,5 biljoner dollar med i stort sett ingen inhemsk DeFi-infrastruktur. Rennen att bli den dominerande kredit- och likviditetslagret för BTC är den största öppna marknads­möjligheten inom crypto. Pogun är en end-to-end Bitcoin-likviditets- och kreditmotor byggd för att positionera Cardano som det definitiva hemmet för Bitcoin DeFi.\n\nFör att visa vårt engagemang för riktig användning av offentliga medel kommer Pogun att återlämna 20% av EBITDA till Cardano Treasury tills det initiala finansieringsbeloppet är återbetalat. Detta följas av en fortsatt 5% evig avkastning.\n\nPogun levererar tre integrerade komponenter:\n\n* Kreditmarknad (Q2 2026) – En icke-marginaliserad peer-to-peer-kreditmarknad. En helt on-chain, orakel-fri utlåningsprotokoll där säkerhet endast riskeras vid default, inte prisfluktuationer.\n* Avkastning (Q3 2026) – Ett insättnings- och-avkastningslager som dirigerar användarkapital till avkastningsgenererande strategier över privat kredit, RWAs och strukturerade räntebärande produkter.\n* Bridge (Q4 2026) – BitVM-drivet tjänstebaserat trust-minimerat brygga som ger 1-av-N-säkerhet för institutional-grade Bitcoin-förvaring: brygg BTC till Cardano, låna mot det och tjäna utan att ge upp förvaltningsrätten till underliggande tillgång.\n\nFör att genomföra denna färdplan begärs denna treasury-uttag ₳12.29M (motsvarande \\$2.95M USD vid en referens)",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "c3a30e15de49",
       "_summary_sha": "4d456a49a966"
     },
     {
@@ -205,8 +205,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Blockfrost: Maintenance and Next Generation Indexing",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmUdbgB3eHms52HY4oha5u2V4mrpCZkhBw2AaozeMiz8sL](https://ipnso-com.ipns.dweb.link/?cid=QmUdbgB3eHms52HY4oha5u2V4mrpCZkhBw2AaozeMiz8sL)**\n\nOne of the primary challenges in decentralizing access to data-providing services such as Blockfrost is the substantial amount of resources required to index the entire Cardano blockchain dataset, even when only a fraction of that data is needed in practice.\n\nAs Cardano prepares for Leios, the cost of indexing the full blockchain dataset will grow substantially. Today, participating in data-serving infrastructure requires indexing the entire chain. This prices out smaller operators and concentrates infrastructure around fewer providers.\n\nProject Cayley introduces decentralized slice indexing — allowing SPOs and node operators to choose which portions of the chain they want to index and serve. This lowers the barrier to participation, reduces infrastructure costs across the ecosystem, and keeps data-serving infrastructure decentralized as the chain scales. Its modular multi-chain architecture further enables developers to access data across Cardano, Midnight, and Bitcoin through a unified API.\n\nThis proposal funds two components: Project Cayley ($1,000,000) to build the next-generation indexing architecture, and an operational subsidy ($900,000) to maintain the free-tier infrastructure t",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qwt8k9fx",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -216,9 +216,9 @@
         "block_time": "2026-05-24T20:38:58.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "Blockfrost: Underhåll och Nästa Generations Indexering",
       "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmUdbgB3eHms52HY4oha5u2V4mrpCZkhBw2AaozeMiz8sL](https://ipnso-com.ipns.dweb.link/?cid=QmUdbgB3eHms52HY4oha5u2V4mrpCZkhBw2AaozeMiz8sL)\n\nEn av de största utmaningarna med att decentralisera tillgången till dataförsörjande tjänster som Blockfrost är den betydande mängden resurser som krävs för att indexera hela Cardano-blockkedje­datan, även när endast en del av dessa data behövs i praktiken.\n\nNär Cardano förbereder sig för Leios kommer kostnaden för att indexera hela blockkedjedatatabasen att öka avsevärt. Idag kräver deltagande i dataförsörjande infrastruktur indexering av hela kedjan. Detta gör det svårt för mindre operatörer och koncentrerar infrastrukturen runt färre leverantörer.\n\nProject Cayley introducerar decentraliserad slice-indexering — vilket gör det möjligt för SPOs och nodoperatörer att välja vilka delar av kedjan de vill indexera och leverera. Detta sänker deltagandebarriären, minskar infrastrukturkostnaderna över ekosystemet och håller dataförsörjningsinfrastrukturen decentraliserad när kedjan växer. Dess modulära multi‑chain‑arkitektur gör det dessutom möjligt för utvecklare att få tillgång till data över Cardano, Midnight och Bitcoin via ett enhetligt API.\n\nDetta förslag finansierar två komponenter: Project Cayley (1 000 000 USD) för att bygga nästa generations indexeringsarkitektur, och ett driftstöd (900 000 USD) för att underhålla infrastruktur i free-tier-tjänsten.",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "1b4640de1378",
       "_summary_sha": "a75cfe500cf4"
     },
     {
@@ -227,8 +227,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "IO & VacuumLabs: Enhancing Plutus - Performance, Correctness, and Usability",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.dweb.link/?cid=Qmd7G7L6xinunTLU9JorPLYyFCLGRarXEn7RngdNYgNH3B](https://ipnso-com.ipns.dweb.link/?cid=Qmd7G7L6xinunTLU9JorPLYyFCLGRarXEn7RngdNYgNH3B)**\n\nThis proposal strengthens Cardano’s smart contract platform across three critical and closely connected areas: language capabilities, formal correctness, and developer experience. It funds targeted expansion to the Plutus language with new syntactic forms and new primitives to reduce script costs, improve expressiveness, and unlock more efficient contract patterns; formal specification, conformance testing, and structured security review to support correctness as node diversity grows; and a better compiler and tooling experience that lowers setup friction, improves error reporting, and makes smart contract development more accessible. Together, these workstreams make Plutus cheaper to use, more trustworthy to build on, and easier for developers to adopt, helping Cardano support a broader range of applications while also providing stronger foundations for alternative node implementations and other ecosystem tooling.\n\nThis is a technical collaboration with Input Output and VacuumLabs, distributing Plutus stewardship across expert teams. Intersect administers funds via milestone-based smart contracts with independent oversight. All unspent funds return to the Treasury.\n\n**Treasury Ask:** ₳",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qvczhx6t",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -238,9 +238,9 @@
         "block_time": "2026-05-24T20:36:08.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "IO & VacuumLabs: Förbättrande av Plutus – Prestanda, Korrekthet och Användbarhet",
       "summary_sv": "Denna proposal stärker Cardano:s smart contract-plattform över tre kritiska och nära sammankopplade områden: språkförmågor, formell korrekthet och utvecklarupplevelse. Den finansierar målmedveten utökning av Plutus-språket med nya syntaktiska former och nya primitiva för att minska skriptkostnader, förbättra uttrycksfullhet och låsa upp mer effektiva kontraktsmönster; formell specifikation, överensstämmelseprovning och strukturerad säkerhetsgranskning för att stödja korrekthet när nod-diversiteten ökar; samt en bättre kompilator och verktygsupplevelse som sänker uppstartsförhinder, förbättrar felrapportering och gör utveckling av smart contracts mer tillgänglig. Tillsammans gör dessa arbetsströmmar Plutus billigare att använda, mer pålitlig att bygga på och enklare för utvecklare att anpassa sig till, vilket hjälper Cardano att stödja ett bredare spektrum av tillämpningar samtidigt som de ger starkare fundament för alternativa nodimplementationer och annan ekosystemverktyg.\n\nDetta är ett tekniskt samarbete med Input Output och VacuumLabs, som fördelar Plutus-styrning över expertteam. Intersect förvaltar medel via milestone-baserade smart contracts med oberoende övervakning. All ofrånade medel återlämnas till Treasury.\n\n**Treasury-ansökan:** ₳",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "034418ee4af0",
       "_summary_sha": "c1ffe3c1c15c"
     },
     {
@@ -249,8 +249,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "IO: Cardano High Assurance Technical Collaboration",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmQBhjELHaMKhYZjwuskHS9NRyvUdiGv69aK8C1H787c5A](https://ipnso-com.ipns.dweb.link/?cid=QmQBhjELHaMKhYZjwuskHS9NRyvUdiGv69aK8C1H787c5A)**\n\nCardano's strongest differentiator is its focus on security and correctness, but the tools that deliver on that promise have so far been the domain of auditors and formal methods experts. This proposal lowers the barrier: it brings automated formal verification, and the full high-assurance toolkit, within reach of every Cardano developer.\n\nTwo workstreams deliver this. The first extends Blaster, IO's open-source automated formal verification tool, from single-script verification to full DApp-level verification. Blaster has already been used to prove correctness properties on production DApps including Djed and USDCx, and has received strong feedback from the Cardano developer community. Today, extending those results to an entire DApp requires manually decomposing properties and verifying each script in isolation. This proposal removes that manual work by automating verification at the DApp level. It also connects Blaster to four smart contract languages (Aiken, Pebble, Scalus, and Futura), so developers can invoke verification directly from their native toolchain. It delivers a VS Code extension with visual counterexample exploration and inline verification feedback, creates a Common V",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3q2yd5rxu",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -260,9 +260,9 @@
         "block_time": "2026-05-24T20:32:39.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "TreasuryWithdrawals-förslag",
+      "title_sv": "IO: Cardano Tekniskt Samarbete om Hög Tillförlitlighet",
       "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmQBhjELHaMKhYZjwuskHS9NRyvUdiGv69aK8C1H787c5A](https://ipnso-com.ipns.dweb.link/?cid=QmQBhjELHaMKhYZjwuskHS9NRyvUdiGv69aK8C1H787c5A)\n\nCardanos starkaste differentiera är fokus på säkerhet och korrekthet, men verktygen som uppfyller löftet har hittills varit domänen för revisorer och experter på formella metoder. Detta förslag sänker barriären: det tar automatiserad formell verifiering och hela högsäkerhetsverktyget inom räckhåll för varje Cardano-utvecklare.\n\nTvå arbetsströmmar levererar detta. Den första utökar Blaster, IO:s öppen källkod-verktyg för automatiserad formell verifiering, från verifikation av enskilda skript till full verifikation på DApp-nivå. Blaster har redan använts för att bevisa korrekthets-egenskaper hos produktions-DApps inklusive Djed och USDCx, och har fått stark återkoppling från Cardano-utvecklargemenskapen. Idag kräver utbyggnaden av dessa resultat till en hel DApp manuell uppdelning av egenskaper och verifiering av varje skript i isolering. Detta förslag tar bort det manuella arbetet genom att automatisera verifiering på DApp-nivå. Det ansluter också Blaster till fyra smarta kontrakt-språk (Aiken, Pebble, Scalus och Futura), så att utvecklare kan kalla verifiering direkt från sin inbyggda verktygskedja. Det levererar en VS Code-tillägg med visuell felregel-sökning (counterexample exploration) och inline verifieringsfeedback, och skapar en Common V",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "2dad633f3cd1",
       "_summary_sha": "c9651ae227a8"
     },
     {
@@ -271,8 +271,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "IO & Midgard Labs: L2 Scalability Initiative",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmYfHrmfTKYGK9YR95ewXSwEruEfGPAtpnp1qwoEUekJa7](https://ipnso-com.ipns.dweb.link/?cid=QmYfHrmfTKYGK9YR95ewXSwEruEfGPAtpnp1qwoEUekJa7)**\n\nCardano's current L1 infrastructure — two-hour finality, \\~$0.17 per transaction, and \\~7–10 TPS, systematically disqualifies it from high-performance verticals such as DeFi, AI agent micropayments, gaming, and consumer payments before a technical evaluation even begins. Upcoming L1 upgrades (Leios, Peras) will strengthen the base layer will not alone meet the requirements of zero-fee or sub-second use cases. Layer 2 infrastructure is the only path to closing this gap in the current cycle.\n\nThis proposal, led by Input Output in partnership with Midgard Labs, delivers three complementary workstreams: shared L2-agnostic infrastructure (a data availability solution benefiting all current and future Cardano L2s); production hardening of Hydra, including performance optimization, operational tooling, and DeFi reference implementations to support live adopters Delta DeFi and Masumi; and the mainnet launch of Midgard, Cardano's first permissionless optimistic rollup, targeting 10,000+ TPS and sub-$0.01 fees for open-participation applications. Hydra and Midgard are not competing solutions — they address distinct trust models and together cover a far broader range of use cases than either could",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qghg4q43",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -282,9 +282,9 @@
         "block_time": "2026-05-24T20:29:16.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Förslag om TreasuryWithdrawals",
+      "title_sv": "IO & Midgard Labs: L2 Skalbarhetsinitiativ",
       "summary_sv": "Förslag i pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmYfHrmfTKYGK9YR95ewXSwEruEfGPAtpnp1qwoEUekJa7](https://ipnso-com.ipns.dweb.link/?cid=QmYfHrmfTKYGK9YR95ewXSwEruEfGPAtpnp1qwoEUekJa7)\n\nCardanos nuvarande L1-infrastruktur — tvåtimmars finalitet, cirka $0,17 per transaktion och cirka 7–10 TPS, utesluter systematiskt högpresterande vertikaler som DeFi, AI-agentmikbetalningar, spel och konsumentbetalningar innan en teknisk utvärdering ens börjar. Kommande L1-uppgraderingar (Leios, Peras) kommer att stärka baslagret men ensamma uppfyller de krav som zero-fee eller undersekundens användningsfall ställer. Layer 2-infrastruktur är den enda vägen att stänga denna klyfta i nuvarande cykel.\n\nDetta förslag, lett av Input Output i partnerskap med Midgard Labs, levererar tre kompletterande arbetsströmmar: delad L2-agnostisk infrastruktur (en data tillgänglighetslösning som gynnar alla nuvarande och framtida Cardano L2s); produktionstätning av Hydra, inklusive prestandaoptimering, operativ verktygslåda och DeFi-referensimplementationer för att stödja live-användare Delta DeFi och Masumi; samt lansering av mainnet för Midgard, Cardanos första tillståndsfria optimistiska rollup, med målet att nå 10 000+ TPS och under $0,01 i avgifter för öppet deltagande applikationer. Hydra och Midgard är inte konkurrerande lösningar — de adresserar olika tillitsmodeller och tillsammans täcker de ett mycket bredare spektrum av användningsfall än vad någon av dem skulle göra själva.",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "ed97116803ed",
       "_summary_sha": "758ba11cbb54"
     },
     {
@@ -293,8 +293,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "IO & Ensurable Systems: Cardano Maintenance Initiative",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmYKV7vbX9pwNxst2qWpmtM2k6LRJB4NKKNFJSQyh7zojz](https://ipnso-com.ipns.dweb.link/?cid=QmYKV7vbX9pwNxst2qWpmtM2k6LRJB4NKKNFJSQyh7zojz)**\n\nEvery feature, upgrade, and innovation proposed for Cardano depends on a stable, secure, and well-maintained platform underneath. This proposal funds that foundation — continuous core maintenance and operational support from Q3 2026 through Q1 2027.\n\nMaintenance is not discretionary. It covers nine functional areas that together constitute the full support envelope for Cardano: bug fixing and security reviews, CI/CD and infrastructure operations (including disaster recovery per CIP-135), mainnet and mempool monitoring, the Cardano Blueprint documentation project, open-source community support, systematic performance analysis and optimization, quality assurance and release sign-off, full node release management with L1/L2/L3 incident response, and component maintenance across Plutus Core, DB-Sync, guardrails scripts, APIs, and CLI tools.\n\nThe value is both protective and enabling. On the protective side, this work ensures network uptime, swift incident resolution, and proactive security hardening through collaboration with the Intersect Security Council. On the enabling side, it delivers the Cardano Blueprint — implementation-independent specifications that lower the barrier for alternat",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qx4njfhm",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -304,9 +304,9 @@
         "block_time": "2026-05-24T20:21:26.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "IO & Ensurable Systems: Cardano underhållsinitiativ",
       "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmYKV7vbX9pwNxst2qWpmtM2k6LRJB4NKKNFJSQyh7zojz](https://ipnso-com.ipns.dweb.link/?cid=QmYKV7vbX9pwNxst2qWpmtM2k6LRJB4NKKNFJSQyh7zojz)\n\nVarje funktion, uppgradering och innovation som föreslås för Cardano beror på en stabil, säker och välunderhållen plattform underliggande. Detta förslag finansierar den grunden — kontinuerligt kärnunderhåll och operativt stöd från Q3 2026 till Q1 2027.\n\nUnderhåll är inte diskretionärt. Det täcker nio funktionella områden som tillsammans utgör det fullständiga stödsåttet för Cardano: buggfixering och säkerhetsgranskningar, CI/CD och infrastrukturdrift (inklusive katastrofåterställning enligt CIP-135), mainnet- och mempoolövervakning, Cardano Blueprint-dokumentationsprojektet, öppen-källkods-community-stöd, systematisk prestationsanalys och optimering, kvalitetssäkring och release-sign-off, full node-releasehantering med L1/L2/L3-incidentrespons, samt komponentunderhåll över Plutus Core, DB-Sync, guardrails-skript, APIs och CLI-verktyg.\n\nVärdet är både skyddande och möjliggörande. På den skyddande sidan säkerställer arbetet nätverksdrift, snabb incidentlösning och proaktiv säkerhetsförstärkning genom samarbete med Intersect Security Council. På den möjliggörande sidan levererar det Cardano Blueprint — implementationsoberoende specifikationer som sänker tröskeln för alternativa...",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "548a3f820523",
       "_summary_sha": "ee640fa40e22"
     },
     {
@@ -315,8 +315,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "IO: Consensus Initiative",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmPdBp8QjKaPdYdvwLxzDiCxX85hGx8H6rxbSvTTuLkcx2](https://ipnso-com.ipns.dweb.link/?cid=QmPdBp8QjKaPdYdvwLxzDiCxX85hGx8H6rxbSvTTuLkcx2)**\n\nCardano needs a step change in throughput to meet its 2030 ambitions, and Leios is how it gets there. This proposal funds the path from public testnet to a mainnet-ready release candidate — delivering a 10–65x increase in transaction capacity.\n\nWhy this scale matters: Cardano's 2030 strategy targets growth from roughly 800,000 monthly transactions to over 27 million. At sustainable utilization levels, that requires at least 6x current capacity. Leios delivers 10x or more — giving significant room to grow. It works by enhancing Cardano's existing Ouroboros Praos consensus with Endorser Blocks and committee-based validation, increasing throughput without compromising decentralization or making stake pool operations unviable.\n\nThe current budget cycle (ending June 2026\\) delivers an early public testnet. This proposal picks up from there and focuses on three objectives. First, a release candidate: maturing the implementation through substantial engineering, conformance testing against formal specifications, and integration into the primary node. Second, high confidence: systematic validation through parameter exploration, load testing, and adversarial red-teaming on the public testnet. Thi",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qyxkn2yk",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -326,9 +326,9 @@
         "block_time": "2026-05-24T20:19:13.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "IO: Consensusinitiativ",
       "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmPdBp8QjKaPdYdvwLxzDiCxX85hGx8H6rxbSvTTuLkcx2](https://ipnso-com.ipns.dweb.link/?cid=QmPdBp8QjKaPdYdvwLxzDiCxX85hGx8H6rxbSvTTuLkcx2)\n\nCardano behöver ett betydande genomslag i genomströmning för att uppnå sina 2030-års ambitioner, och Leios är vägen dit. Detta förslag finansierar vägen från offentliga testnät till en mainnet‑klar release candidate – och levererar en ökning i transaktionskapacitet på 10–65×.\n\nVarför denna skala är viktig: Cardanos 2030-strategi siktar på tillväxt från ungefär 800 000 månatliga transaktioner till över 27 miljoner. Vid hållbara nyttjandegrader krävs minst 6× nuvarande kapacitet. Leios levererar 10× eller mer – vilket ger betydande utrymme att växa. Den fungerar genom att förbättra Cardanos befintliga Ouroboros Praos‑konsensus med Endorser Blocks och kommittébaserad validering, vilket ökar genomströmningen utan att kompromissa med decentralisering eller göra stake pool‑verksamheten ohållbar.\n\nDen nuvarande budgetcykeln (som slutar juni 2026) levererar ett tidigt offentligt testnät. Detta förslag fortsätter därifrån och fokuserar på tre mål. Först, en release candidate: mogna implementeringen genom avsevärd ingenjörskonst, överensstämmelseprovning mot formella specifikationer och integration i primära noden. För det andra, hög tillförlitlighet: systematisk validering genom parametrarutforskning, belastningstestning och adversarial red‑teaming på det offentliga testnätet. Detta…",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "1456058feac6",
       "_summary_sha": "b06bf5bee4e4"
     },
     {
@@ -337,8 +337,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "IO: Cardano Upgrades",
+      "summary_en": "**Proposal as pdf:[https://ipnso-com.ipns.dweb.link/?cid=QmXD6eoaFWrRoubFfvB2vSmLGbhVa66DbM9xw2dH1htRYK](https://ipnso-com.ipns.dweb.link/?cid=QmXD6eoaFWrRoubFfvB2vSmLGbhVa66DbM9xw2dH1htRYK)**\n\nThis proposal delivers three coordinated initiatives that together expand Cardano's economic models, strengthen long-term Treasury resilience, and remove one of the biggest barriers to mainstream adoption, the requirement to hold ADA before you can transact.\n\nEach workstream targets a different dimension of this opportunity. First, CIP-159 Account Address Enhancement upgrades how Cardano handles account addresses. This enables wallets to collect micro-fees (currently blocked by a minimum deposit requirement), makes DeFi applications cheaper for end users, and provides building blocks for Layer 2 scaling solutions to manage user funds. Second, Multi-Asset Treasury begins the design work to let the Cardano Treasury hold stablecoins and other native assets alongside ADA, protecting the funding process from price volatility and opening new financial models for the ecosystem. Finally, Babel Fees lets users pay transaction fees in any Cardano native asset (such as USDC or bridged BTC) instead of requiring ADA, removing a key friction point for new users entering the ecosystem.\n\nTogether, these initiatives unlock new wallet and DeFi revenue models, strengthen the Treasury's financial position t",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qz6es0cp",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -348,9 +348,9 @@
         "block_time": "2026-05-24T20:12:08.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "IO: Cardano-uppgraderingar",
       "summary_sv": "Föreslagna som pdf:[https://ipnso-com.ipns.dweb.link/?cid=QmXD6eoaFWrRoubFfvB2vSmLGbhVa66DbM9xw2dH1htRYK](https://ipnso-com.ipns.dweb.link/?cid=QmXD6eoaFWrRoubFfvB2vSmLGbhVa66DbM9xw2dH1htRYK)\n\nDetta förslag levererar tre samordnade initiativ som tillsammans utökar Cardanos ekonomiska modeller, stärker långsiktig Treasury-resiliens och tar bort en av de största hindren för bred användning, nämligen kravet på att inneha ADA innan transaktion.\n\nVarje arbetsflöde riktar sig mot en annan dimension av denna möjlighet. Först uppgraden CIP-159 Account Address Enhancement hur Cardano hanterar kontoadresser. Detta gör att plånböcker kan samla in mikrosavgifter (för närvarande blockerade av ett minimikrav på insättning), gör DeFi-applikationer billigare för slutanvändare och ger byggstenar för Layer 2-skalningslösningar för att hantera användarfonder. För det andra börjar Multi-Asset Treasury designsarbetet för att låta Cardano Treasury hålla stablecoins och andra inhemska tillgångar bredvid ADA, vilket skyddar finansieringsprocessen från prisvolatilitet och öppnar nya finansiella modeller för ekosystemet. Slutligen låter Babel Fees användare betala transaktionsavgifter i vilken Cardano-inhemsk tillgång som helst (såsom USDC eller förbundna BTC) istället för att kräva ADA, vilket tar bort en nyckelfrictionpunkt för nya användare som går in i ekosystemet.\n\nTillsammans frigör dessa initiativ nya plånboks- och DeFi-innovatörer, stärker Treasury:s finansiella position.",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "dcc929c89b43",
       "_summary_sha": "5818f584e236"
     },
     {
@@ -359,8 +359,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 626,
       "expiration_epoch": 633,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "IO: Developer Experience Initiative",
+      "summary_en": "**Proposal as pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmQPLwjTwZeGrzsgs2QiC6crJLcMg64fU2kDYZmPZ9o7wf](https://ipnso-com.ipns.dweb.link/?cid=QmQPLwjTwZeGrzsgs2QiC6crJLcMg64fU2kDYZmPZ9o7wf)**\n\nCardano's long-term utility depends on attracting and retaining developers — and this proposal accelerates that by making it dramatically easier to build on the platform. The target: a 30%+ improvement in developer growth rate within 12 months.\n\nWhy this matters: Cardano currently has roughly 550 active developers, with no signs of growth, whereas Ethereum added nearly 2,000 new developers per year on average over the last 6 years. Survey data from 109 Cardano builders points to a clear set of barriers — fragmented tooling, scattered documentation, lack of coordination, and a steep learning curve. These are solvable issues, and solving them unlocks the ecosystem flywheel: more builders lead to more DApps, which attract more users and generate more protocol revenue, which attracts more builders.\n\nThe initiative delivers five practical outcomes. First, community alignment paired with a bounty program that incentivizes improvements to ecosystem tools and libraries where pain points are greatest. Second, a setup tool (\"cardano-init\") that lets a new developer go from zero to a working project in minutes, regardless of their preferred tech stack. Third, an OpenZeppelin-style collection of re",
       "url": "https://gov.tools/governance_actions/gov_action1w0shrfxqwv95kk0v4cn34wylz25a2cmqkq5jpc0e2yrahhqava3qqfu3vtv",
       "block_time": "2026-04-22T13:11:01.000Z",
       "deposit_ada": 100000,
@@ -370,9 +370,9 @@
         "block_time": "2026-05-17T23:59:28.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "Treasury-uttagsförslag",
+      "title_sv": "IO: Developer Experience Initiativ",
       "summary_sv": "Förslag som pdf: [https://ipnso-com.ipns.dweb.link/?cid=QmQPLwjTwZeGrzsgs2QiC6crJLcMg64fU2kDYZmPZ9o7wf](https://ipnso-com.ipns.dweb.link/?cid=QmQPLwjTwZeGrzsgs2QiC6crJLcMg64fU2kDYZmPZ9o7wf)\n\nCardanos långsiktiga nytta beror på att attrahera och behålla utvecklare — och detta förslag påskyndar det genom att göra det dramatiskt enklare att bygga på plattformen. Målet: en 30%-+ förbättring i utvecklarväxttakt inom 12 månader.\n\nVarför det spelar roll: Cardano har för närvarande cirka 550 aktiva utvecklare, utan tecken till tillväxt, medan Ethereum i genomsnitt har tillfört nästan 2 000 nya utvecklare per år under de senaste sex åren. Enkätdata från 109 Cardano-byggare pekar på ett tydligt set hinder — fragmenterad verktygslåda, spridda dokumentationer, brist på samordning och en brant inlärningskurva. Dessa är lösbara frågor, och att lösa dem frigör ekosystemets snurrhjul: fler byggare leder till fler DApps, som attraherar fler användare och generar mer protokollintäkter, vilket i sin tur attraherar fler byggare.\n\nInitiativet levererar fem praktiska resultat. För det första, samhällsöversyn i kombination med ett belöningsprogram som ger incitament att förbättra ekosystemets verktyg och bibliotek där smärtpunkterna är störst. För det andra, ett installationsverktyg (\"cardano-init\") som låter en ny utvecklare gå från noll till ett fungerande projekt på några minuter, oavsett deras föredragna teknikstack. För det tredje, en OpenZeppelin-liknande samling av re",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "224f4bb5ee04",
       "_summary_sha": "4dd22756a877"
     },
     {
@@ -381,8 +381,8 @@
       "type": "InfoAction",
       "proposed_epoch": 611,
       "expiration_epoch": 618,
-      "title_en": "InfoAction proposal",
-      "summary_en": "",
+      "title_en": "Net Change Limit of 300 Million ADA for Epochs 613–713",
+      "summary_en": "This governance action proposes a Net Change Limit of 300,000,000,000,000 lovelace (300 million ADA) for the period from the start of Epoch 613 (13 February 2026) to the end of Epoch 713 (3 July 2027). Upon approval in accordance with the Constitution, this NCL shall apply to Epochs 613–713 and supersede any previously agreed NCL for the same period.",
       "url": "https://gov.tools/governance_actions/gov_action1wwjwkg2g0qwr0mehey9r8gwn6qz3r28wl6wdl2s75kfmpy8j87tqqtft9tp",
       "block_time": "2026-02-07T03:55:52.000Z",
       "deposit_ada": 100000,
@@ -392,9 +392,9 @@
         "block_time": "2026-02-10T18:36:19.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "InfoAction-förslag",
+      "title_sv": "Nettobeloppsgräns för ändring på 300 miljoner ADA för Epochs 613–713",
       "summary_sv": "Denna governance action föreslår en Net Change Limit på 300 000 000 000 000 lovelace (300 miljoner ADA) för perioden från starten av Epoch 613 (13 februari 2026) till slutet av Epoch 713 (3 juli 2027). Efter godkännande i enlighet med Konstitutionen ska denna NCL gälla för Epochs 613–713 och ersätta eventuellt tidigare överenskommen NCL för samma period.",
-      "_title_sha": "02ddf83a1589",
+      "_title_sha": "d79d5bd2093d",
       "_summary_sha": "e0404bfebdac"
     },
     {
@@ -403,8 +403,8 @@
       "type": "TreasuryWithdrawals",
       "proposed_epoch": 607,
       "expiration_epoch": 614,
-      "title_en": "TreasuryWithdrawals proposal",
-      "summary_en": "",
+      "title_en": "Cardano DeFi Liquidity Budget - Withdrawal 1",
+      "summary_en": "As outline in the DeFi Liquidity Budget Info Action, this first withdrawal action requests 500,000 ADA from the Cardano Treasury to establish the legal framework and smart contract infrastructure required for the Stablecoin DeFi Liquidity Budget as approved by the Cardano Community. This withdrawal covers three critical components: (1) establishment of a Cayman Islands Foundation Company as the legal vehicle for fund management, (2) development of the administrating smart contract and user interfaces, and (3) comprehensive security audit of the smart contract system.\n\nAll funds will be initially received by an Amaru contract administered by the 9-person Interim Committee with a 5-of-9 multisignature requirement. Funds will be disbursed to service providers upon completion of agreed milestones as detailed in this proposal.",
       "url": "https://gov.tools/governance_actions/gov_action1fvgw27fjpr9c7g582mszzyez0jgkqgjgatzdnyngrg8wwc9kcn3qqxtz8r7",
       "block_time": "2026-01-15T03:32:00.000Z",
       "deposit_ada": 100000,
@@ -414,9 +414,9 @@
         "block_time": "2026-02-10T17:39:54.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "TreasuryWithdrawals-förslag",
+      "title_sv": "Cardano DeFi Likviditetsbudget - Uttag 1",
       "summary_sv": "Som framställs i DeFi Liquidity Budget Info Action begär denna första uttagsåtgärd 500 000 ADA från Cardano Treasury för att etablera rättslig ram och smart contract-infrastruktur som krävs för Stablecoin DeFi Liquidity Budget, som godkänts av Cardano Community. Detta uttag täcker tre kritiska komponenter: (1) upprättande av en Cayman Islands Foundation Company som det juridiska fordonet för fondsförvaltning, (2) utveckling av den administrerande smart contracten och användargränssnitten, och (3) omfattande säkerhetsrevision av smart contract-systemet.\n\nAlla medel kommer initialt att mottas av ett Amaru-kontrakt som administreras av Interim Committee med 9 personer och en multisignatur-uppsättning 5 av 9. Medlen kommer att utbetalas till tjänsteleverantörer vid slutförande av överenskomna milstolpar enligt detaljerna i detta förslag.",
-      "_title_sha": "e881a7cf9210",
+      "_title_sha": "254b4b7ec8c2",
       "_summary_sha": "07c202332723"
     },
     {
@@ -425,8 +425,8 @@
       "type": "ParameterChange",
       "proposed_epoch": 606,
       "expiration_epoch": 613,
-      "title_en": "ParameterChange proposal",
-      "summary_en": "",
+      "title_en": "Increase Transaction and Block Memory Units (Part 1 of 2)",
+      "summary_en": "Intersect's Parameter Committee proposes the first of two Parameter Update governance actions. The following change is proposed together in this rationale, but will require two separate, linked governance actions as per guardrail MTEU-M-04.\n\n1) increase Plutus script memory unit limits per transaction by 25% to allow greater flexibility for DApp developers.\n2) increase Plutus script memory unit limits per block by 25% to remain consistent with the current block memory limits.\n\nNo other protocol parameters or Plutus cost model setting will be changed.",
       "url": "https://gov.tools/governance_actions/gov_action1cgdsp7g0rr7wgqp7maptpvx525fxuqwfgm5qe3f5r20ew5x2772sq0m5y83",
       "block_time": "2026-01-14T18:16:48.000Z",
       "deposit_ada": 100000,
@@ -436,9 +436,9 @@
         "block_time": "2026-02-10T17:37:34.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "ParameterChange-förslag",
+      "title_sv": "Öka Transaction- och Block Memory Units (Del 1 av 2)",
       "summary_sv": "Intersect's Parameter Committee föreslår den första av två Parameter Update governance actions. Följande förändring föreslås tillsammans i denna rational, men kommer att kräva två separata, länkade governance actions enligt guardrail MTEU-M-04.\n\n1) öka Plutus-skriptets minnesenhetbegränsningar per transaktion med 25% för att ge större flexibilitet för DApp-utvecklare.\n2) öka Plutus-skriptets minnesenhetbegränsningar per block med 25% för att förbli konsekvent med nuvarande blockminnesbegränsningar.\n\nInga andra protokollparametrar eller Plutus-kostnadsmodellinställningar kommer att ändras.",
-      "_title_sha": "7101b46f7439",
+      "_title_sha": "5d3bf2713355",
       "_summary_sha": "6aa3007a7531"
     },
     {
@@ -447,8 +447,8 @@
       "type": "InfoAction",
       "proposed_epoch": 606,
       "expiration_epoch": 613,
-      "title_en": "InfoAction proposal",
-      "summary_en": "",
+      "title_en": "Name Protocol Version 11 hard fork - van Rossem",
+      "summary_en": "Intersect’s Hard Fork Working Group proposes to name the next Cardano hard fork, to Protocol Version 11, the “van Rossem Hard Fork” in memory of Cardano community contributor Max van Rossem.",
       "url": "https://gov.tools/governance_actions/gov_action13pzmlsmmktmfareqpl3gzj9nm63ugwvmp3y7urkjhd8rf89tn6msq95mp3f",
       "block_time": "2026-01-13T11:44:59.000Z",
       "deposit_ada": 100000,
@@ -458,9 +458,9 @@
         "block_time": "2026-02-10T17:36:50.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "InfoAction-förslag",
+      "title_sv": "Namn: Protocol Version 11 hard fork - van Rossem",
       "summary_sv": "Intersect’s Hard Fork Working Group föreslår att namnge nästa Cardano hard fork, till Protocol Version 11, “van Rossem Hard Fork” till minne av Cardano-gemenskapsbidragsgivaren Max van Rossem.",
-      "_title_sha": "02ddf83a1589",
+      "_title_sha": "99f81bc57e93",
       "_summary_sha": "4d3c53b947af"
     },
     {
@@ -469,8 +469,8 @@
       "type": "InfoAction",
       "proposed_epoch": 542,
       "expiration_epoch": 549,
-      "title_en": "InfoAction proposal",
-      "summary_en": "",
+      "title_en": "Defining the Cardano Vision and Roadmap for 2025 and beyond",
+      "summary_en": "This Info Action calls for a vote by Cardano Delegate Representatives (DReps) on the proposed future roadmap for Cardano. This roadmap, developed by the Cardano Product Committee of Intersect with consultation from key technical stakeholders, outlines key development priorities, technological advancements, and strategic goals for the Cardano ecosystem. The DRep vote will provide crucial input for strategic alignment and inform future budget proposals, including the current budget conversations.",
       "url": "https://gov.tools/governance_actions/gov_action12meeq4r43udremwpm6fzt4nt7fctvt0ah7798x036m2r4nhlccmqqhmr9wx",
       "block_time": "2025-02-28T16:23:20.000Z",
       "deposit_ada": 100000,
@@ -480,9 +480,9 @@
         "block_time": "2025-03-19T00:01:18.000Z",
         "rationale_sv": ""
       },
-      "title_sv": "InfoAction-förslag",
+      "title_sv": "Definiera Cardanos vision och roadmap för 2025 och framåt",
       "summary_sv": "Denna Info Action uppmanar till röstning bland Cardano Delegate Representatives (DReps) om den föreslagna framtida färdplanen för Cardano. Denna färdplan, framtagen av Cardano Product Committee of Intersect med samråd från nyckelaktörer inom teknik, skisserar centrala utvecklingsprioriteringar, tekniska framsteg och strategiska mål för Cardano-ekosystemet. DRep-omröstningen kommer att lämna avgörande input för strategisk inriktning och informera framtida budgetförslag, inklusive nuvarande budgetdiskussioner.",
-      "_title_sha": "02ddf83a1589",
+      "_title_sha": "d54a1065ffc1",
       "_summary_sha": "efbff1d87774"
     }
   ]
