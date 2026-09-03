@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-03T09:44:42.727Z",
+  "fetched_at": "2026-09-03T14:25:22.671Z",
   "items": [
+    {
+      "id": "forum:156614",
+      "source": "Cardano Forum",
+      "title_en": "Security Blind Spot",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/security-blind-spot/156614",
+      "date": "2026-09-03T13:22:10.337Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Säkerhetsblind fläck",
+      "summary_sv": "",
+      "_title_sha": "bf0cf6ccfb51",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156613",
       "source": "Cardano Forum",
@@ -92,25 +106,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-ambassadors-impact-pot-cardano-grassroots-events-august-2026/156597",
       "date": "2026-09-02T09:34:01.291Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Cardano Ambassadors Impact Pot Cardano Grassroots evenemang augusti 2026",
       "summary_sv": "",
       "_title_sha": "ad71e086ba7e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156596",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Woman Indonesia & Cardano Hub Indonesia — Meetup Leader",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-woman-indonesia-cardano-hub-indonesia-meetup-leader/156596",
-      "date": "2026-09-02T08:51:25.460Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano Woman Indonesia & Cardano Hub Indonesia — Meetup-ledare",
-      "summary_sv": "",
-      "_title_sha": "794e32e4055d",
       "_summary_sha": ""
     },
     {
