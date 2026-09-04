@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-03T23:58:53.682Z",
+  "fetched_at": "2026-09-04T04:20:59.673Z",
   "items": [
+    {
+      "id": "forum:156621",
+      "source": "Cardano Forum",
+      "title_en": "Heavier for You, Shared Accountability Missing in the Gray Zone",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/heavier-for-you-shared-accountability-missing-in-the-gray-zone/156621",
+      "date": "2026-09-04T00:32:37.829Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Tyngre för dig, delat ansvar saknas i gråzonen",
+      "summary_sv": "",
+      "_title_sha": "eedf3c36051d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156614",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning 2 september 2026: Intersect Board Elections 2026 | Portal för konstitutionella ändringar | Update för Stake Pool Operator Scripts | Daedalus 11.3.0 | Ambassador Stories – Ayomide Osemene",
       "summary_sv": "",
       "_title_sha": "3bd6657af111",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156597",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Ambassadors Impact Pot Cardano Grassroots Events August 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-ambassadors-impact-pot-cardano-grassroots-events-august-2026/156597",
-      "date": "2026-09-02T09:34:01.291Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Cardano Ambassadors Impact Pot Cardano Grassroots evenemang augusti 2026",
-      "summary_sv": "",
-      "_title_sha": "ad71e086ba7e",
       "_summary_sha": ""
     },
     {
