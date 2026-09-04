@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-09-04T09:31:26.717Z",
+  "fetched_at": "2026-09-04T14:15:59.229Z",
   "items": [
     {
       "id": "forum:156621",
       "source": "Cardano Forum",
-      "title_en": "Heavier for You, Shared Accountability Missing in the Gray Zone",
+      "title_en": "Shared Accountability Missing in the Gray Zone",
       "summary_en": "",
-      "url": "https://forum.cardano.org/t/heavier-for-you-shared-accountability-missing-in-the-gray-zone/156621",
+      "url": "https://forum.cardano.org/t/shared-accountability-missing-in-the-gray-zone/156621",
       "date": "2026-09-04T00:32:37.829Z",
       "score": 0,
-      "comments": 0,
-      "title_sv": "Tyngre för dig, delat ansvar saknas i gråzonen",
+      "comments": 1,
+      "title_sv": "Delat ansvar saknas i den gråa zonen",
       "summary_sv": "",
-      "_title_sha": "eedf3c36051d",
+      "_title_sha": "427d794cd079",
       "_summary_sha": ""
     },
     {
@@ -106,7 +106,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-september-02-2026-intersect-board-elections-2026-constitutional-amendment-portal-stake-pool-operator-scripts-update-daedalus-11-3-0-ambassador-stories-ayomide-osemene/156599",
       "date": "2026-09-02T14:32:11.825Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Sammanfattning 2 september 2026: Intersect Board Elections 2026 | Portal för konstitutionella ändringar | Update för Stake Pool Operator Scripts | Daedalus 11.3.0 | Ambassador Stories – Ayomide Osemene",
       "summary_sv": "",
