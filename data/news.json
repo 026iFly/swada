@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-05T08:59:36.502Z",
+  "fetched_at": "2026-09-05T12:38:16.399Z",
   "items": [
+    {
+      "id": "forum:156656",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING El “DeFi Mullet” y la unificación de la Web 2 y la Web 3 | alphagrowth 26 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-el-defi-mullet-y-la-unificacion-de-la-web-2-y-la-web-3-alphagrowth-26-jul-2026/156656",
+      "date": "2026-09-05T12:18:51.378Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "858f270edc78",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156653",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-opportunities-this-week-august-31-to-september-5-2026/156653",
       "date": "2026-09-04T22:01:19.317Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Cardano-möjligheter denna vecka | 31 augusti till 5 september 2026",
       "summary_sv": "",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-meetup-at-draper-u-in-san-mateo-sat-5-sep/156647",
       "date": "2026-09-04T17:24:29.161Z",
-      "score": 2,
-      "comments": 0,
+      "score": 3,
+      "comments": 1,
       "title_sv": "Cardano Meetup på Draper U i San Mateo - lör 5 sep",
       "summary_sv": "",
       "_title_sha": "ee0267254234",
@@ -50,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/shared-accountability-missing-in-the-gray-zone/156621",
       "date": "2026-09-04T00:32:37.829Z",
-      "score": 3,
-      "comments": 4,
+      "score": 4,
+      "comments": 5,
       "title_sv": "Delat ansvar saknas i den gråa zonen",
       "summary_sv": "",
       "_title_sha": "427d794cd079",
@@ -97,20 +111,6 @@
       "title_sv": "[Blockchain-säkerhet] Varför upprepas skadorna trots att alla gör sitt bästa – Vad är ett säkert ekosystem?",
       "summary_sv": "",
       "_title_sha": "4192948e6145",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156611",
-      "source": "Cardano Forum",
-      "title_en": "[블록체인 보안] 사각지대, 연결이 늘수록 책임은 흐려진다",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/156611",
-      "date": "2026-09-03T06:31:18.058Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[Blockchain-säkerhet] Blinda fläckar, ansvaret suddas ut ju fler kopplingar som görs.",
-      "summary_sv": "",
-      "_title_sha": "9d4fead95460",
       "_summary_sha": ""
     },
     {
