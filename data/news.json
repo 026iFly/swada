@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-04T21:24:18.999Z",
+  "fetched_at": "2026-09-04T23:59:37.694Z",
   "items": [
+    {
+      "id": "forum:156653",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Opportunities This Week | August 31 to September 5, 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-opportunities-this-week-august-31-to-september-5-2026/156653",
+      "date": "2026-09-04T22:01:19.317Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-möjligheter denna vecka | 31 augusti till 5 september 2026",
+      "summary_sv": "",
+      "_title_sha": "460cc93ed842",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156647",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "[Blockchain-säkerhet] Blinda fläckar, ansvaret suddas ut ju fler kopplingar som görs.",
       "summary_sv": "",
       "_title_sha": "9d4fead95460",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156608",
-      "source": "Cardano Forum",
-      "title_en": "[블록체인 보안] 성벽은 높아졌는데, 도둑은 왜 줄지 않았나",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/156608",
-      "date": "2026-09-03T06:12:27.687Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[Blockchain-säkerhet] Murarna har blivit högre, men varför har tjuvarna inte minskat?",
-      "summary_sv": "",
-      "_title_sha": "b78f384792ff",
       "_summary_sha": ""
     },
     {
