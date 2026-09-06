@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-06T16:55:25.486Z",
+  "fetched_at": "2026-09-06T19:03:59.958Z",
   "items": [
+    {
+      "id": "forum:156669",
+      "source": "Cardano Forum",
+      "title_en": "Find your DRep: answer 10 real governance votes, see which DReps voted like you",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/find-your-drep-answer-10-real-governance-votes-see-which-dreps-voted-like-you/156669",
+      "date": "2026-09-06T18:32:31.933Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Hitta din DRep: besvara 10 riktiga styrningsomröstningar, se vilka DReps som röstade som du",
+      "summary_sv": "",
+      "_title_sha": "70b266806dfc",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156668",
+      "source": "Cardano Forum",
+      "title_en": "# EXECUTIVE GOVERNANCE PROPOSAL",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/executive-governance-proposal/156668",
+      "date": "2026-09-06T17:39:01.931Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Exekutivt governance-förslag",
+      "summary_sv": "",
+      "_title_sha": "e77c4cd26db6",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156656",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Säkerhetsblind fläck",
       "summary_sv": "",
       "_title_sha": "bf0cf6ccfb51",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156613",
-      "source": "Cardano Forum",
-      "title_en": "The Walls Held. So Why Didn't the Losses Go Down?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-walls-held-so-why-didnt-the-losses-go-down/156613",
-      "date": "2026-09-03T07:11:18.139Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Murarna höll. Varför minskade inte förlusterna?",
-      "summary_sv": "",
-      "_title_sha": "208bb264adb7",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156612",
-      "source": "Cardano Forum",
-      "title_en": "[블록체인 보안] 왜, 각자 최선을 다했는데도 피해는 반복되는가 — 안전한 생태계란?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/156612",
-      "date": "2026-09-03T06:48:50.683Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[Blockchain-säkerhet] Varför upprepas skadorna trots att alla gör sitt bästa – Vad är ett säkert ekosystem?",
-      "summary_sv": "",
-      "_title_sha": "4192948e6145",
       "_summary_sha": ""
     },
     {
