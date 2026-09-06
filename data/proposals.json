@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T21:16:14.332Z",
+  "fetched_at": "2026-09-06T23:46:29.941Z",
   "items": [
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
@@ -37,27 +37,6 @@
       "summary_sv": "Cardano närmar sig viktiga beslut om governance-incitament utan en gemensam evidensbas för att avgöra vilka mekanismer som fungerar, vad de kostar, eller vem som bör hållas ansvarig för deras resultat. Projektet skiljer evidensbaserad validering från governance-legitimitet: kandidat-incitamentsmekanismer kommer först att utvärderas genom forskning, data, modellering och evidens, och sedan presenteras för governance för ett beslut om antagande.\n\nBetydande arbete finns redan inom Cardano kring governance-kompensation, deltagande, rationale-incitament, reward-distribution, voting-power-koncentration och design av governance-rewards. Governance Incentives Working Group har redan skapat ett kartläggningsdokument som identifierar 49 relevanta ansträngningar, förslag, forskningsrapporter, verktyg och relaterade initiativ inom detta område [1]. Detta inkluderar arbete som utvecklats genom CPS-0020 [2], samt CPS-0033 [3], CIP-0149 [4], Beyond MVG [6], formell forskning om belöningssystem [7], process-först DRep-kompensationsforskning [8], och Input Output Researchs Cardano Vision 2026-arbete [9]. Projektet kommer att beakta dessa befintliga idéer och metoder, undersöka deras antaganden, fördelar, nackdelar och potentiella oavsiktliga effekter, och kombinera dem med ytterligare forskning, styrningsdata, modellering, kontrollerade tester och input från communityn för att bygga ett forskningsbaserat samförstånd inom communityn kring m",
       "_title_sha": "5ec6c73bc88a",
       "_summary_sha": "dc549b1ec632"
-    },
-    {
-      "id": "gov:gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
-      "proposal_id": "gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
-      "type": "NewCommittee",
-      "proposed_epoch": 646,
-      "expiration_epoch": 653,
-      "title_en": "Update Constitutional Committee 2026",
-      "summary_en": "This governance action updates the four Constitutional Committee seats whose terms expire at the end of Epoch 653 by appointing the candidates elected through the 2026 Constitutional Committee election. The successful candidates will serve new terms ending at Epoch 799, in accordance with the current committeeMaxTermLength protocol parameter.",
-      "url": "https://gov.tools/governance_actions/gov_action1w2w64uhelz0cg2np7m37hal905tdd7jpzm3fcyc3g7qvkwgfppgqqfsggt5",
-      "block_time": "2026-07-31T17:34:42.000Z",
-      "deposit_ada": 100000,
-      "ifly_vote": {
-        "vote": "Yes",
-        "block_time": "2026-08-05T12:32:58.000Z",
-        "rationale_sv": "iFly (SWADA) röstar JA. Konstitutionsutskottet måste förnyas innan de fyra platserna som löper ut vid epok 653 upphör, annars riskerar utskottet att hamna under committeeMinSize och den konstitutionella granskningen stannar av. Valet följde konstitutionen (artikel III §3), var öppet för alla ada-innehavare, genomfördes on-chain via Ekklesia och granskades oberoende av DQuadrant. De fyra tillsatta ledamöterna är de fyra främsta enligt DRep-viktad röstning.\nInvändning: endast omkring 38 DReps (~2,3 miljarder ada) deltog i valet, vilket är en tunn legitimitetsgrund, och Asia Africa Cardano Coalition kom på femte plats — därmed förlorar APAC och Afrika direkt representation. Jag vill se både valdeltagande och regional balans åtgärdade före nästa omgång. Ett fungerande utskott är ändå bättre än ett som står stilla. Jag röstar JA."
-      },
-      "title_sv": "Uppdatering Konstitutionella kommittén 2026",
-      "summary_sv": "Denna governance action uppdaterar de fyra platserna i Constitutional Committee vars mandat löper ut i slutet av Epoch 653 genom att utse de kandidater som valts i 2026 Constitutional Committee election. De valda kandidaterna kommer att inneha nya mandat fram till Epoch 799, i enlighet med den nuvarande committeeMaxTermLength-protokollparametern.",
-      "_title_sha": "20f8f6ce433a",
-      "_summary_sha": "d4c2eca15945"
     }
   ]
 }
