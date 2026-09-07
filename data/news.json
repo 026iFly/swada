@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-07T10:15:04.727Z",
+  "fetched_at": "2026-09-07T16:28:20.044Z",
   "items": [
+    {
+      "id": "forum:156680",
+      "source": "Cardano Forum",
+      "title_en": "My Introduction",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/my-introduction/156680",
+      "date": "2026-09-07T15:17:22.962Z",
+      "score": 2,
+      "comments": 2,
+      "title_sv": "Min introduktion",
+      "summary_sv": "",
+      "_title_sha": "c5ae1b78ebea",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156676",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING F/Casarse/Matar: las RWA, las finanzas agenticas y el DeFi Mullet | alphagrowth 26 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-f-casarse-matar-las-rwa-las-finanzas-agenticas-y-el-defi-mullet-alphagrowth-26-jul-2026/156676",
+      "date": "2026-09-07T12:13:43.083Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SPANSK DUBBING F/Casarse/Matar: RWA, agentisk finans och DeFi Mullet | alphagrowth 26 juli 2026",
+      "summary_sv": "",
+      "_title_sha": "3c740d49c965",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156675",
       "source": "Cardano Forum",
@@ -22,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/meetup-recap-cardano-university-meetup-3-from-web2-to-web3-cardano-vietnam-x-hub-network-27-8-2026/156674",
       "date": "2026-09-07T09:35:59.876Z",
-      "score": 1,
+      "score": 2,
       "comments": 1,
       "title_sv": "Meetup-sammanfattning – Cardano University Meetup #3: Från Web2 till Web3 - Cardano Vietnam x Hub Network - 27.8.2026",
       "summary_sv": "",
@@ -38,7 +66,7 @@
       "date": "2026-09-07T09:26:52.862Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": "Cardano Global Event 2027: Tidigare och framtiden",
       "summary_sv": "",
       "_title_sha": "f7be9e6814f5",
       "_summary_sha": ""
@@ -64,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-global-events-2027-the-catch-up/156671",
       "date": "2026-09-07T08:39:13.245Z",
-      "score": 0,
+      "score": 2,
       "comments": 0,
       "title_sv": "",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "Hitta din DRep: besvara 10 riktiga styrningsomröstningar, se vilka DReps som röstade som du",
       "summary_sv": "",
       "_title_sha": "70b266806dfc",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156668",
-      "source": "Cardano Forum",
-      "title_en": "# EXECUTIVE GOVERNANCE PROPOSAL",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/executive-governance-proposal/156668",
-      "date": "2026-09-06T17:39:01.931Z",
-      "score": 1,
-      "comments": 2,
-      "title_sv": "Exekutivt governance-förslag",
-      "summary_sv": "",
-      "_title_sha": "e77c4cd26db6",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156656",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING El “DeFi Mullet” y la unificación de la Web 2 y la Web 3 | alphagrowth 26 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-el-defi-mullet-y-la-unificacion-de-la-web-2-y-la-web-3-alphagrowth-26-jul-2026/156656",
-      "date": "2026-09-05T12:18:51.378Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "SPANSKT DUBB ”DeFi Mullet” och unifieringen av Web 2 och Web 3 | alphagrowth 26 juli 2026",
-      "summary_sv": "",
-      "_title_sha": "858f270edc78",
       "_summary_sha": ""
     },
     {
