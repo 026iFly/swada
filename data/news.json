@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-07T16:28:20.044Z",
+  "fetched_at": "2026-09-07T20:29:52.629Z",
   "items": [
+    {
+      "id": "forum:156683",
+      "source": "Cardano Forum",
+      "title_en": "CARDANO MINDSET \"Poème-001\" ( french)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-mindset-poeme-001-french/156683",
+      "date": "2026-09-07T19:16:45.958Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "CARDANO MINDSET \"Dikt-001\" (franska)",
+      "summary_sv": "",
+      "_title_sha": "da5df0dbcf95",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156680",
       "source": "Cardano Forum",
@@ -92,25 +106,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-global-events-2027-the-catch-up/156671",
       "date": "2026-09-07T08:39:13.245Z",
-      "score": 2,
+      "score": 4,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": "Cardano Globala evenemang 2027: Upphämtningen",
       "summary_sv": "",
       "_title_sha": "5d5bdd204d9b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156669",
-      "source": "Cardano Forum",
-      "title_en": "Find your DRep: answer 10 real governance votes, see which DReps voted like you",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/find-your-drep-answer-10-real-governance-votes-see-which-dreps-voted-like-you/156669",
-      "date": "2026-09-06T18:32:31.933Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Hitta din DRep: besvara 10 riktiga styrningsomröstningar, se vilka DReps som röstade som du",
-      "summary_sv": "",
-      "_title_sha": "70b266806dfc",
       "_summary_sha": ""
     },
     {
