@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T04:24:24.231Z",
+  "fetched_at": "2026-09-08T09:33:14.027Z",
   "items": [
     {
       "id": "forum:156688",
@@ -22,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/understanding-the-dijkstra-era-a-simple-guide-to-cardano-s-next-protocol-upgrade/156685",
       "date": "2026-09-07T23:20:42.581Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Förstå Dijkstra Era: En enkel guide till Cardanos nästa protocol upgrade",
       "summary_sv": "",
       "_title_sha": "96edf61dec4f",
@@ -36,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-first-steps-a-beni-les-premieres-fondations-d-une-communaute-locale-avec-les-etudiants-de-l-ucbc/156684",
       "date": "2026-09-07T23:12:15.545Z",
-      "score": 0,
-      "comments": 0,
+      "score": 4,
+      "comments": 2,
       "title_sv": "Cardano First Steps i Beni: de första grunderna för en lokal gemenskap med studenter från UCBC",
       "summary_sv": "",
       "_title_sha": "43851f8efb17",
@@ -92,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/recap-cardano-meetup-at-the-lagos-state-university-nigeria/156675",
       "date": "2026-09-07T09:37:29.648Z",
-      "score": 1,
+      "score": 2,
       "comments": 1,
       "title_sv": "Sammanfattning: Cardano Meetup vid Lagos State University, Nigeria",
       "summary_sv": "",
