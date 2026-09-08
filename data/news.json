@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-07T23:26:42.108Z",
+  "fetched_at": "2026-09-08T04:24:24.231Z",
   "items": [
+    {
+      "id": "forum:156688",
+      "source": "Cardano Forum",
+      "title_en": "Blockchain Basics: How Distributed Ledgers Work and Why They Matter",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/blockchain-basics-how-distributed-ledgers-work-and-why-they-matter/156688",
+      "date": "2026-09-08T02:18:00.624Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Blockchain-grunder: Hur distribuerade ledgar fungerar och varför de är viktiga",
+      "summary_sv": "",
+      "_title_sha": "387aa5ee0548",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156685",
       "source": "Cardano Forum",
@@ -78,8 +92,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/recap-cardano-meetup-at-the-lagos-state-university-nigeria/156675",
       "date": "2026-09-07T09:37:29.648Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Sammanfattning: Cardano Meetup vid Lagos State University, Nigeria",
       "summary_sv": "",
       "_title_sha": "bfa46080183a",
@@ -97,20 +111,6 @@
       "title_sv": "Meetup-sammanfattning – Cardano University Meetup #3: Från Web2 till Web3 - Cardano Vietnam x Hub Network - 27.8.2026",
       "summary_sv": "",
       "_title_sha": "063863b0848d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156673",
-      "source": "Cardano Forum",
-      "title_en": "Cardanoグローバルイベント2027：これまでとこれから",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-2027/156673",
-      "date": "2026-09-07T09:26:52.862Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano Global Event 2027: Tidigare och framtiden",
-      "summary_sv": "",
-      "_title_sha": "f7be9e6814f5",
       "_summary_sha": ""
     },
     {
