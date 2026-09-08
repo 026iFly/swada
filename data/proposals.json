@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-09-08T14:25:15.872Z",
+  "fetched_at": "2026-09-08T18:33:13.828Z",
   "items": [
+    {
+      "id": "gov:gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
+      "proposal_id": "gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 654,
+      "expiration_epoch": 661,
+      "title_en": "Withdraw 11,787,063 ada for the OpenZeppelin Stack administered by Intersect",
+      "summary_en": "This treasury withdrawal proposal requests funding for the design, implementation, security audit, and ecosystem adoption of a comprehensive open-source development stack for Cardano, delivered over an initial 12 months in quarterly milestones. The proposal bundles three tightly coupled workstreams into a single integrated engagement, led by the Reference Implementations and built around them:\n\n* OpenZeppelin Reference Implementations for Cardano: three production-ready, end-to-end blueprints targeting strategic DeFi and institutional use cases: a Cardano Liquid Staking Protocol, a Self-Repaying Loans Protocol, and a Tokenized Money Market Fund.\n* OpenZeppelin Contracts Library for Cardano: a secure, audited, standardized contracts library tailored for Cardano's eUTXO model and Plutus environment, including Contracts Wizard integration, AI development tools, and documentation.\n* Security Retainer: dedicated security capacity covering line-by-line audits of the library and full-stack security reviews and penetration testing of every Reference Implementation.\n\nOpenZeppelin also commits to a Developer Enablement and Co-Marketing program, included at no additional cost, to drive ecosystem and institutional adoption of the libraries and Reference Implementations.\n\nThis proposal requests a total treasury withdrawal of 11,787,063 ada. The full budget breakdown and disbursement mechani",
+      "url": "https://gov.tools/governance_actions/gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
+      "block_time": "2026-09-08T16:27:04.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Uttag av 11 787 063 ADA för OpenZeppelin Stack som förvaltas av Intersect",
+      "summary_sv": "Detta treasury-utdragförslag begär finansiering för design, implementation, säkerhetsgranskning och ekosystemadoption av en omfattande öppen källkods‑utvecklingsstack för Cardano, levererad under ett initialt år i kvartalsvisa milstolpar. Förslaget samlar tre tätt sammankopplade arbetsströmmar i ett enda integrerat engagemang, lett av Reference Implementations och byggt kring dem:\n\n* OpenZeppelin Reference Implementations för Cardano: tre produktionsklara, end‑to‑end‑blåkopior som riktar sig mot strategiska DeFi‑ och institutionella användningsfall: ett Cardano Liquid Staking Protocol, ett Self‑Repaying Loans Protocol och ett Tokenized Money Market Fund.\n* OpenZeppelin Contracts Library för Cardano: ett säkert, granskat, standardiserat kontraktbibliotek anpassat för Cardanos eUTXO-modell och Plutus-miljö, inklusive Contracts Wizard-integration, AI-utvecklingsverktyg och dokumentation.\n* Security Retainer: dedikerad säkerhetskapacitet som täcker rad-för-rad-granskning av biblioteket samt full-stack säkerhetsgranskningar och penetrationstestning av varje Reference Implementation.\n\nOpenZeppelin åtar sig också ett Developer Enablement- och Co-Marketing-program, utan extra kostnad, för att driva ekosystem- och institutionell adoption av biblioteken och Reference Implementations.\n\nDetta förslag begär ett totalt treasury-uttag på 11 787 063 ada. Den fullständiga budgetuppdelningen och utbetalningsmekanismen.",
+      "_title_sha": "a0277689e1a9",
+      "_summary_sha": "9a1d2f7e2a5d"
+    },
     {
       "id": "gov:gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
       "proposal_id": "gov_action105mjyzm3spjppny2m776lwk5jnsuu07uva9tz0yg5u4nkf770rvsql5raht",
