@@ -27,11 +27,14 @@ jobs:
       - name: Run fetch + translate
         env:
           # Pelles processor (OpenAI-compatible) — the only translation lane.
-          # Slow calls and host downtime are handled in the script: per-run
-          # translation budget, consecutive-failure breaker, hourly catch-up.
+          # "fast" = gpt-oss-120b, fast variant. Deliberately not the -budget
+          # queue: this job runs under tight timeouts and must not get parked
+          # behind higher-priority work. Slow calls and host downtime are
+          # handled in the script: per-run translation budget, consecutive-
+          # failure breaker, hourly catch-up.
           TRANSLATE_API_KEY: ${{ secrets.TRANSLATE_API_KEY }}
           TRANSLATE_ENDPOINT: https://api.pellesprocessor.se/v1/chat/completions
-          TRANSLATE_MODEL: local-llm
+          TRANSLATE_MODEL: fast
         run: node scripts/fetch-content.mjs
 
       - name: Commit if data changed
