@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-10T00:06:22.817Z",
+  "fetched_at": "2026-09-10T04:33:59.211Z",
   "items": [
+    {
+      "id": "forum:156714",
+      "source": "Cardano Forum",
+      "title_en": "CIP-108 Amendment: Adding Project Manager / Responsible Party Fields",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cip-108-amendment-adding-project-manager-responsible-party-fields/156714",
+      "date": "2026-09-10T01:13:16.507Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "CIP‑108‑ändring: Lägg till fält för projektledare/ansvarig part",
+      "summary_sv": "",
+      "_title_sha": "155e94f3a09f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156709",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "CARDANO MINDSET \"Dikt-001\" (franska)",
       "summary_sv": "",
       "_title_sha": "da5df0dbcf95",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156680",
-      "source": "Cardano Forum",
-      "title_en": "My Introduction",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/my-introduction/156680",
-      "date": "2026-09-07T15:17:22.962Z",
-      "score": 5,
-      "comments": 6,
-      "title_sv": "Min introduktion",
-      "summary_sv": "",
-      "_title_sha": "c5ae1b78ebea",
       "_summary_sha": ""
     },
     {
