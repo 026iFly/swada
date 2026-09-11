@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-11T09:32:59.750Z",
+  "fetched_at": "2026-09-11T14:19:28.565Z",
   "items": [
+    {
+      "id": "forum:156751",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Agentes sin custodia y la «Célula Madre Financiera» | alphagrowth 26 Jul 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-agentes-sin-custodia-y-la-celula-madre-financiera-alphagrowth-26-jul-2026/156751",
+      "date": "2026-09-11T14:15:15.596Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ägare utan custodia och \"Finansiella Mätprogen\" | alphagrowth 26 Jul 2026",
+      "summary_sv": "",
+      "_title_sha": "d81c188ca38b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156737",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Där de blinda fläckarna faktiskt finns — Cardanos säkerhet genom verkliga blufffall, introduktion | säkerhet",
       "summary_sv": "",
       "_title_sha": "b2188f225ffa",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156730",
-      "source": "Cardano Forum",
-      "title_en": "각자의 몫, 그리고 함께 져야 할 책임 — 스캠 사례로 알아보는 보안, 마치며 | 보안",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/topic/156730",
-      "date": "2026-09-10T14:55:31.003Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Var och en har sin del, och det gemensamma ansvar vi måste bära — Säkerhet genom att studera scam‑fall, avslutning | Säkerhet",
-      "summary_sv": "",
-      "_title_sha": "5caedcdc3509",
       "_summary_sha": ""
     },
     {
