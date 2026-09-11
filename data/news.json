@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-11T14:19:28.565Z",
+  "fetched_at": "2026-09-11T18:23:42.341Z",
   "items": [
+    {
+      "id": "forum:156752",
+      "source": "Cardano Forum",
+      "title_en": "DR CONGO CARDANO COMMUNITY CALL #5 — Comment découvrir et participer à l’écosystème Cardano?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-5-comment-decouvrir-et-participer-a-l-ecosysteme-cardano/156752",
+      "date": "2026-09-11T16:19:30.336Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "DR CONGO CARDANO COMMUNITY CALL #5 — Hur hittar och deltar i Cardano-ekosystemet?",
+      "summary_sv": "",
+      "_title_sha": "2c7b45d952e3",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156751",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Plånboken är säker, så varför försvinner pengarna ändå — Blind Spot Report ① | Security",
       "summary_sv": "",
       "_title_sha": "371b54757b57",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156731",
-      "source": "Cardano Forum",
-      "title_en": "Where the Blind Spots Actually Are — Cardano Security Through Real Scam Cases, Introduction | Security",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/where-the-blind-spots-actually-are-cardano-security-through-real-scam-cases-introduction-security/156731",
-      "date": "2026-09-10T15:05:58.985Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Där de blinda fläckarna faktiskt finns — Cardanos säkerhet genom verkliga blufffall, introduktion | säkerhet",
-      "summary_sv": "",
-      "_title_sha": "b2188f225ffa",
       "_summary_sha": ""
     },
     {
