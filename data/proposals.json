@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-09-11T18:23:44.533Z",
+  "fetched_at": "2026-09-11T21:41:04.540Z",
   "items": [
+    {
+      "id": "gov:gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
+      "proposal_id": "gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
+      "type": "ParameterChange",
+      "proposed_epoch": 654,
+      "expiration_epoch": 661,
+      "title_en": "Reduce minPoolCost to 75 ada",
+      "summary_en": "This governance action proposes reducing `minPoolCost` from 170,000,000 Lovelace (170 ada) to 75,000,000 Lovelace (75 ada), a decrease of approximately 55.9%. No other protocol parameters are changed by this action.",
+      "url": "https://gov.tools/governance_actions/gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
+      "block_time": "2026-09-11T20:27:12.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Minska minPoolCost till 75 ADA",
+      "summary_sv": "Den här governance actionen föreslår att minska `minPoolCost` från 170,000,000 Lovelace (170 ada) till 75,000,000 Lovelace (75 ada), en minskning av cirka 55,9%. Ingen av de andra protokollparametrarna ändras av denna handling.",
+      "_title_sha": "97ca86b9a2ed",
+      "_summary_sha": "e10659839340"
+    },
     {
       "id": "gov:gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
       "proposal_id": "gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
