@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-12T19:11:44.962Z",
+  "fetched_at": "2026-09-12T22:11:38.514Z",
   "items": [
+    {
+      "id": "forum:156760",
+      "source": "Cardano Forum",
+      "title_en": "Introduction à la Blockchain Cardano pour les femmes de Goma ( GenderChain DRC × Coxygen Global )",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/introduction-a-la-blockchain-cardano-pour-les-femmes-de-goma-genderchain-drc-x-coxygen-global/156760",
+      "date": "2026-09-12T21:03:04.942Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Introduktion till Cardano-blockchain för kvinnor i Goma (GenderChain DRC × Coxygen Global)",
+      "summary_sv": "",
+      "_title_sha": "19dea3797dc3",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156759",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Weekly Opportunities #3 | September 12, 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-weekly-opportunities-3-september-12-2026/156759",
+      "date": "2026-09-12T20:50:58.054Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Veckans Cardano-möjligheter #3 | 12 september 2026",
+      "summary_sv": "",
+      "_title_sha": "ccc7f859957b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156755",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Fonderna kan spåras – Så här ser samarbetet ut som den sista porten fortfarande behöver – Blind Spot Report ⑤ | Säkerhet",
       "summary_sv": "",
       "_title_sha": "8b4d01aa4786",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156735",
-      "source": "Cardano Forum",
-      "title_en": "When the Official Account Is Compromised, Here's What to Check — Blind Spot Report ④ | Security",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/when-the-official-account-is-compromised-heres-what-to-check-blind-spot-report-security/156735",
-      "date": "2026-09-10T15:14:21.094Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "När det officiella kontot är komprometterat, så här kontrollerar du — Blind Spot Report ④ | Security",
-      "summary_sv": "",
-      "_title_sha": "7039b5284081",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156734",
-      "source": "Cardano Forum",
-      "title_en": "A Scam That Only Borrowed Cardano's Name — Blind Spot Report ③ | Security",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/a-scam-that-only-borrowed-cardanos-name-blind-spot-report-security/156734",
-      "date": "2026-09-10T15:11:50.199Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "En bluff som bara lånade Cardanos namn — Blind Spot Report ③ | Säkerhet",
-      "summary_sv": "",
-      "_title_sha": "0ea285b92d69",
       "_summary_sha": ""
     },
     {
