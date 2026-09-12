@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T21:40:54.555Z",
+  "fetched_at": "2026-09-12T00:10:12.199Z",
   "items": [
     {
       "id": "forum:156752",
@@ -112,6 +112,30 @@
       "summary_sv": "",
       "_title_sha": "371b54757b57",
       "_summary_sha": ""
+    },
+    {
+      "id": "adapulse:814beeae5d21",
+      "source": "AdaPulse",
+      "title_en": "BTCGrow and Danogo: Bringing Bitcoin into the Cardano DeFi Ecosystem",
+      "summary_en": "Learn how BTCGrow and Danogo bring Bitcoin to Cardano DeFi, enabling staking, yield generation, and full BTC redeemability on-chain. The post BTCGrow and Danogo: Bringing Bitcoin into the Cardano DeFi Ecosystem appeared first on ADAPULSE .",
+      "url": "https://adapulse.io/btcgrow-and-danogo-bringing-bitcoin-into-the-cardano-defi-ecosystem/",
+      "date": "2025-11-26T11:30:20.000Z",
+      "title_sv": "BTCGrow och Danogo: Införandet av Bitcoin i Cardano DeFi-ekosystemet",
+      "summary_sv": "Lär dig hur BTCGrow och Danogo bringar Bitcoin till Cardano DeFi, vilket möjliggör stake, rendementsgenerering och full BTC-utbetalbarhet på k Ketan. Artikeln BTCGrow och Danogo: Bringar Bitcoin in i Cardano DeFi-ekosystemet publicerades först på ADAPULSE.",
+      "_title_sha": "9f1b9d2cd54c",
+      "_summary_sha": "90da00c0f21b"
+    },
+    {
+      "id": "adapulse:4ad1c3c2b5ce",
+      "source": "AdaPulse",
+      "title_en": "Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2",
+      "summary_en": "Learn how Danogo enables leveraged trading on Cardano using Splash for execution, plus trade lifecycle, comparisons, and future outlook. The post Danogo Leveraged Trading: How It Works With Splash on Cardano — Part 2 appeared first on ADAPULSE .",
+      "url": "https://adapulse.io/danogo-leveraged-trading-how-it-works-with-splash-on-cardano-part-2/",
+      "date": "2025-11-23T15:09:00.000Z",
+      "title_sv": "Danogo Leveraged Trading: Hur det fungerar med Splash på Cardano — Del 2",
+      "summary_sv": "Lär dig hur Danogo möjliggör belänt handel på Cardano genom att använda Splash för exekvering, plus handelslivscykel, jämförelser och framtidsutsikter. Artikeln Danogo Belänt Handel: Hur Den Fungerar Med Splash på Cardano — Del 2 publicerades först på ADAPULSE.",
+      "_title_sha": "83671801fc56",
+      "_summary_sha": "379c7eef6403"
     }
   ]
 }
