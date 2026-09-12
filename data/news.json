@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-12T05:38:58.774Z",
+  "fetched_at": "2026-09-12T10:37:24.082Z",
   "items": [
+    {
+      "id": "forum:156755",
+      "source": "Cardano Forum",
+      "title_en": "RealFi - Το Stablecoin που σε πληρώνει",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/realfi-stablecoin/156755",
+      "date": "2026-09-12T09:07:17.751Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "RealFi - Det Stablecoin som betalar dig",
+      "summary_sv": "",
+      "_title_sha": "2e443a366408",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156754",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Developer Portal",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-developer-portal/156754",
+      "date": "2026-09-12T08:40:16.138Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano Utvecklarportalen",
+      "summary_sv": "",
+      "_title_sha": "808116cb05ef",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156752",
       "source": "Cardano Forum",
@@ -8,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-5-comment-decouvrir-et-participer-a-l-ecosysteme-cardano/156752",
       "date": "2026-09-11T16:19:30.336Z",
-      "score": 2,
+      "score": 3,
       "comments": 1,
       "title_sv": "DR CONGO CARDANO COMMUNITY CALL #5 — Hur hittar och deltar i Cardano-ekosystemet?",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "En bluff som bara lånade Cardanos namn — Blind Spot Report ③ | Säkerhet",
       "summary_sv": "",
       "_title_sha": "0ea285b92d69",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156733",
-      "source": "Cardano Forum",
-      "title_en": "Scams That Target Trust — And How to Recognize Them — Blind Spot Report ② | Security",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/scams-that-target-trust-and-how-to-recognize-them-blind-spot-report-security/156733",
-      "date": "2026-09-10T15:10:13.628Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Bedrägerier som utnyttjar förtroende — och hur man känner igen dem — Blind Spot Report ② | Security",
-      "summary_sv": "",
-      "_title_sha": "f76840d68820",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156732",
-      "source": "Cardano Forum",
-      "title_en": "The Wallet Is Secure, So Why Does the Money Still Disappear — Blind Spot Report ① | Security",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-wallet-is-secure-so-why-does-the-money-still-disappear-blind-spot-report-security/156732",
-      "date": "2026-09-10T15:08:29.855Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Plånboken är säker, så varför försvinner pengarna ändå — Blind Spot Report ① | Security",
-      "summary_sv": "",
-      "_title_sha": "371b54757b57",
       "_summary_sha": ""
     },
     {
