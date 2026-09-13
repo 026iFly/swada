@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-13T00:52:24.270Z",
+  "fetched_at": "2026-09-13T05:58:54.141Z",
   "items": [
+    {
+      "id": "forum:156761",
+      "source": "Cardano Forum",
+      "title_en": "Comprendre l’évolution de Cardano et commencer à participer à sa communauté",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/comprendre-l-evolution-de-cardano-et-commencer-a-participer-a-sa-communaute/156761",
+      "date": "2026-09-13T05:05:09.312Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Förstå utvecklingen av Cardano och börja delta i dess gemenskap",
+      "summary_sv": "",
+      "_title_sha": "0ebf983eae42",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156760",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Varje parts andel och det ansvar vi har tillsammans — Cardano-säkerhet genom verkliga bedrägerifall, avslutning | Säkerhet",
       "summary_sv": "",
       "_title_sha": "4343a42e2231",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156736",
-      "source": "Cardano Forum",
-      "title_en": "The Funds Can Be Traced — Here's the Cooperation the Last Gate Still Needs — Blind Spot Report ⑤ | Security",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-funds-can-be-traced-heres-the-cooperation-the-last-gate-still-needs-blind-spot-report-security/156736",
-      "date": "2026-09-10T15:16:18.331Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Fonderna kan spåras – Så här ser samarbetet ut som den sista porten fortfarande behöver – Blind Spot Report ⑤ | Säkerhet",
-      "summary_sv": "",
-      "_title_sha": "8b4d01aa4786",
       "_summary_sha": ""
     },
     {
