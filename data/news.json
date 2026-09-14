@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-09-14T06:06:29.772Z",
+  "fetched_at": "2026-09-14T12:37:40.880Z",
   "items": [
+    {
+      "id": "forum:156783",
+      "source": "Cardano Forum",
+      "title_en": "Ouroboros Peras weekly update : 11 September 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-11-september-2026/156783",
+      "date": "2026-09-14T10:34:21.279Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ouroboros Peras veckovis uppdatering: 11 september 2026",
+      "summary_sv": "",
+      "_title_sha": "b626a6007085",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156782",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #78: cardano-dev-skills (18 September)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-78-cardano-dev-skills-18-september/156782",
+      "date": "2026-09-14T10:20:47.881Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Utvecklarkontor #78: cardano-dev-skills (18 september)",
+      "summary_sv": "",
+      "_title_sha": "dbbd0f242a6a",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156781",
+      "source": "Cardano Forum",
+      "title_en": "How Should We Choose Intersect Board Representatives?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/how-should-we-choose-intersect-board-representatives/156781",
+      "date": "2026-09-14T07:06:15.640Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Hur ska vi välja Intersect Board-representanter?",
+      "summary_sv": "",
+      "_title_sha": "b3874f78756b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156776",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "RealFi - Det Stablecoin som betalar dig",
       "summary_sv": "",
       "_title_sha": "2e443a366408",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156754",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Developer Portal",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-developer-portal/156754",
-      "date": "2026-09-12T08:40:16.138Z",
-      "score": 3,
-      "comments": 1,
-      "title_sv": "Cardano Utvecklarportalen",
-      "summary_sv": "",
-      "_title_sha": "808116cb05ef",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156752",
-      "source": "Cardano Forum",
-      "title_en": "DR CONGO CARDANO COMMUNITY CALL #5 — Comment découvrir et participer à l’écosystème Cardano?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-5-comment-decouvrir-et-participer-a-l-ecosysteme-cardano/156752",
-      "date": "2026-09-11T16:19:30.336Z",
-      "score": 4,
-      "comments": 2,
-      "title_sv": "DR CONGO CARDANO COMMUNITY CALL #5 — Hur hittar och deltar i Cardano-ekosystemet?",
-      "summary_sv": "",
-      "_title_sha": "2c7b45d952e3",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156751",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Agentes sin custodia y la «Célula Madre Financiera» | alphagrowth 26 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-agentes-sin-custodia-y-la-celula-madre-financiera-alphagrowth-26-jul-2026/156751",
-      "date": "2026-09-11T14:15:15.596Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Ägare utan custodia och \"Finansiella Mätprogen\" | alphagrowth 26 Jul 2026",
-      "summary_sv": "",
-      "_title_sha": "d81c188ca38b",
       "_summary_sha": ""
     },
     {
