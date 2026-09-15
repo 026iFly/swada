@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T13:26:52.835Z",
+  "fetched_at": "2026-09-15T18:07:04.920Z",
   "items": [
     {
       "id": "forum:156800",
@@ -78,8 +78,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/expired-ssl-certificate-on-tempo-vote/156776",
       "date": "2026-09-14T01:37:22.715Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Utgått SSL-certifikat på tempo.vote",
       "summary_sv": "",
       "_title_sha": "8ac3574c6618",
