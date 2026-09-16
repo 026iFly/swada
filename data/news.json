@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-09-16T11:23:32.500Z",
+  "fetched_at": "2026-09-16T16:44:51.970Z",
   "items": [
+    {
+      "id": "forum:156831",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Clarity Act | CH 15 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-clarity-act-ch-15-sep-2026/156831",
+      "date": "2026-09-16T14:19:25.742Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Klarhetsact | KAP 15 Sep 2026",
+      "summary_sv": "",
+      "_title_sha": "b1b7bef8d54c",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156830",
+      "source": "Cardano Forum",
+      "title_en": "Digest September 16, 2026: TOKEN2049 Origins Hackathon | Constitutional Amendment Portal | Intersect Board Elections 2026 | SDG Blockchain Accelerator | Ambassador Stories: Baudouin Kakule Muvunga",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-september-16-2026-token2049-origins-hackathon-constitutional-amendment-portal-intersect-board-elections-2026-sdg-blockchain-accelerator-ambassador-stories-baudouin-kakule-muvunga/156830",
+      "date": "2026-09-16T13:51:11.690Z",
+      "score": 2,
+      "comments": 0,
+      "title_sv": "Digest 16 september 2026: TOKEN2049 Origins Hackathon | Constitutional Amendment Portal | Intersect Board Elections 2026 | SDG Blockchain Accelerator | Ambassador Stories: Baudouin Kakule Muvunga",
+      "summary_sv": "",
+      "_title_sha": "3bb1ec84f364",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156829",
+      "source": "Cardano Forum",
+      "title_en": "Ambassador Stories, Journal #51: Baudouin Kakule Muvunga",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ambassador-stories-journal-51-baudouin-kakule-muvunga/156829",
+      "date": "2026-09-16T12:35:31.043Z",
+      "score": 6,
+      "comments": 2,
+      "title_sv": "Ambassadörhistorier, Journal #51: Baudouin Kakule Muvunga",
+      "summary_sv": "",
+      "_title_sha": "fe73369ffdbb",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156818",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "Utvecklarkontor #78: cardano-dev-skills (18 september)",
       "summary_sv": "",
       "_title_sha": "dbbd0f242a6a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156781",
-      "source": "Cardano Forum",
-      "title_en": "How Should We Choose Intersect Board Representatives?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/how-should-we-choose-intersect-board-representatives/156781",
-      "date": "2026-09-14T07:06:15.640Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Hur ska vi välja Intersect Board-representanter?",
-      "summary_sv": "",
-      "_title_sha": "b3874f78756b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156776",
-      "source": "Cardano Forum",
-      "title_en": "Expired SSL certificate on tempo.vote",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/expired-ssl-certificate-on-tempo-vote/156776",
-      "date": "2026-09-14T01:37:22.715Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "Utgått SSL-certifikat på tempo.vote",
-      "summary_sv": "",
-      "_title_sha": "8ac3574c6618",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156761",
-      "source": "Cardano Forum",
-      "title_en": "Comprendre l’évolution de Cardano et commencer à participer à sa communauté",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/comprendre-l-evolution-de-cardano-et-commencer-a-participer-a-sa-communaute/156761",
-      "date": "2026-09-13T05:05:09.312Z",
-      "score": 6,
-      "comments": 3,
-      "title_sv": "Förstå utvecklingen av Cardano och börja delta i dess gemenskap",
-      "summary_sv": "",
-      "_title_sha": "0ebf983eae42",
       "_summary_sha": ""
     },
     {
