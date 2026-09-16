@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-16T16:44:51.970Z",
+  "fetched_at": "2026-09-16T20:01:00.833Z",
   "items": [
+    {
+      "id": "forum:156837",
+      "source": "Cardano Forum",
+      "title_en": "Public Ecosystem Input Call: Vertical-to-KPI Impact Framework for Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/public-ecosystem-input-call-vertical-to-kpi-impact-framework-for-cardano/156837",
+      "date": "2026-09-16T17:21:37.161Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Offentlig ekosysteminmatningsanrop: Vertikal-till-KPI-impactsystem för Cardano",
+      "summary_sv": "",
+      "_title_sha": "6897063b2336",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156831",
       "source": "Cardano Forum",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-september-16-2026-token2049-origins-hackathon-constitutional-amendment-portal-intersect-board-elections-2026-sdg-blockchain-accelerator-ambassador-stories-baudouin-kakule-muvunga/156830",
       "date": "2026-09-16T13:51:11.690Z",
-      "score": 2,
+      "score": 4,
       "comments": 0,
       "title_sv": "Digest 16 september 2026: TOKEN2049 Origins Hackathon | Constitutional Amendment Portal | Intersect Board Elections 2026 | SDG Blockchain Accelerator | Ambassador Stories: Baudouin Kakule Muvunga",
       "summary_sv": "",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ambassador-stories-journal-51-baudouin-kakule-muvunga/156829",
       "date": "2026-09-16T12:35:31.043Z",
-      "score": 6,
+      "score": 7,
       "comments": 2,
       "title_sv": "Ambassadörhistorier, Journal #51: Baudouin Kakule Muvunga",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Ouroboros Peras veckovis uppdatering: 11 september 2026",
       "summary_sv": "",
       "_title_sha": "b626a6007085",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156782",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #78: cardano-dev-skills (18 September)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-78-cardano-dev-skills-18-september/156782",
-      "date": "2026-09-14T10:20:47.881Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Utvecklarkontor #78: cardano-dev-skills (18 september)",
-      "summary_sv": "",
-      "_title_sha": "dbbd0f242a6a",
       "_summary_sha": ""
     },
     {
