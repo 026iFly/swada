@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-16T00:10:39.273Z",
+  "fetched_at": "2026-09-16T05:55:01.515Z",
   "items": [
+    {
+      "id": "forum:156818",
+      "source": "Cardano Forum",
+      "title_en": "Cardano解説漫画「ことりびより第50話~次なるウォレットを作ろう！ADAをお引越し」",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-50-ada/156818",
+      "date": "2026-09-16T03:53:29.113Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-klärande manga \"Kotoribiyori avsnitt 50 - Låt oss skapa nästa plånbok! Flytta över ADA\"",
+      "summary_sv": "",
+      "_title_sha": "20fa1bc15f8f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156800",
       "source": "Cardano Forum",
@@ -78,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/expired-ssl-certificate-on-tempo-vote/156776",
       "date": "2026-09-14T01:37:22.715Z",
-      "score": 1,
+      "score": 2,
       "comments": 1,
       "title_sv": "Utgått SSL-certifikat på tempo.vote",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Förstå utvecklingen av Cardano och börja delta i dess gemenskap",
       "summary_sv": "",
       "_title_sha": "0ebf983eae42",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156760",
-      "source": "Cardano Forum",
-      "title_en": "Introduction à la Blockchain Cardano pour les femmes de Goma ( GenderChain DRC × Coxygen Global )",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/introduction-a-la-blockchain-cardano-pour-les-femmes-de-goma-genderchain-drc-x-coxygen-global/156760",
-      "date": "2026-09-12T21:03:04.942Z",
-      "score": 2,
-      "comments": 3,
-      "title_sv": "Introduktion till Cardano-blockchain för kvinnor i Goma (GenderChain DRC × Coxygen Global)",
-      "summary_sv": "",
-      "_title_sha": "19dea3797dc3",
       "_summary_sha": ""
     },
     {
