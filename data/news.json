@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T18:08:44.320Z",
+  "fetched_at": "2026-09-17T22:05:04.126Z",
   "items": [
     {
       "id": "forum:156855",
@@ -8,7 +8,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/pakistan-s-new-pvara-framework-what-does-it-mean-for-cardano/156855",
       "date": "2026-09-17T16:58:59.465Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Pakistanens nya PVARA-ramverk: Vad betyder det för Cardano?",
       "summary_sv": "",
@@ -22,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-node-now-speaks-utxo-rpc-typed-streaming-chain-data-straight-from-the-node/156854",
       "date": "2026-09-17T16:22:09.060Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Cardano-node talar nu UTxO RPC: typerad, strömningsbaserad ködata direkt från noden",
       "summary_sv": "",
@@ -51,7 +51,7 @@
       "url": "https://forum.cardano.org/t/introducing-cardano-nigeria-a-community-hub-on-x/156846",
       "date": "2026-09-17T11:18:38.221Z",
       "score": 1,
-      "comments": 2,
+      "comments": 3,
       "title_sv": "Introducing Cardano Nigeria: Ett gemenskapscenter på X",
       "summary_sv": "",
       "_title_sha": "9218d47e0e96",
@@ -106,7 +106,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ambassador-stories-journal-51-baudouin-kakule-muvunga/156829",
       "date": "2026-09-16T12:35:31.043Z",
-      "score": 9,
+      "score": 10,
       "comments": 7,
       "title_sv": "Ambassadörhistorier, Journal #51: Baudouin Kakule Muvunga",
       "summary_sv": "",
