@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-09-17T07:33:36.947Z",
+  "fetched_at": "2026-09-17T13:22:39.035Z",
   "items": [
+    {
+      "id": "gov:gov_action17m7nv7839mw93hv889tqzj0umv9ckm780f0nq02fep78f50uedxqq6g5mt9",
+      "proposal_id": "gov_action17m7nv7839mw93hv889tqzj0umv9ckm780f0nq02fep78f50uedxqq6g5mt9",
+      "type": "InfoAction",
+      "proposed_epoch": 656,
+      "expiration_epoch": 663,
+      "title_en": "Should stakePoolTargetNum (k) be raised from 500 to 1000? (SPO poll)",
+      "summary_en": "This Info Action asks the Cardano community, and in particular Stake Pool Operators (SPOs), whether there is sufficient SPO support to proceed with a later Parameter Change Governance Action that would raise **`stakePoolTargetNum` (`k`)** from 500 to 1000. It follows the 2023 SPO poll but considers `stakePoolTargetNum` on its own.\n\nTo determine whether sufficient SPO support exists, votes shall be tallied according to the standard CIP-1694 voting semantics; this proposal introduces no alternative turnout-based formula. SPO voting power is stake-weighted. An explicit ABSTAIN vote is excluded from active voting stake, while registered stake that does not vote behaves like a NO vote. Sufficient support is established only if explicit SPO YES votes represent more than 50% of the applicable active SPO voting stake.\n\nThis majority-by-stake standard follows the existing Cardano governance model for actions requiring SPO approval. The Cardano Constitution requires more than 50% support by active block-production stake where SPO approval is required for security-critical parameter changes. DReps are invited to vote and submit rationales, but DRep votes are not included when determining whether this Info Action has established an SPO mandate.\n\nBecause this is an Info Action, the >50% standard is a declared interpretation of the poll result, not an on-chain ratification threshold for Info",
+      "url": "https://gov.tools/governance_actions/gov_action17m7nv7839mw93hv889tqzj0umv9ckm780f0nq02fep78f50uedxqq6g5mt9",
+      "block_time": "2026-09-17T12:18:25.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Skulle stakePoolTargetNum (k) höjas från 500 till 1000? (SPO omröstning)",
+      "summary_sv": "Den här Informationsåtgärden ber Cardano-communen, och särskilt Stake Pool Operators (SPOs), om det finns tillräckligt med SPO-stöd för att fortsätta med en senare Parameter Change Governance Action som skulle höja **`stakePoolTargetNum` (`k`)** från 500 till 1000. Detta följer 2023 SPO-omröstningen men behandlar `stakePoolTargetNum` separat.\n\nFör att avgöra om det finns tillräckligt med SPO-stöd, ska rösterna täljas enligt de standard CIP-1694-röstningssemantiken; denna förslag introducerar inget alternativt formel baserat på deltagande. SPO-röstkraft är vikad efter stake. En explicit ABSTAIN-röst utelämnas från aktiv röstande stake, medan registrerad stake som inte röstar beter sig som en NEJ-röst. Tillräcklig stöd endast upprättas om explikata SPO JA-röster representerar mer än 50% av den aktiva SPO röstande stake.\n\nDenna majoritetsstandard-baserad-på-stake följer det nuvarande Cardano governance modellen för åtgärder som kräver SPO godkännande. Cardano Constitutionen kräver mer än 50% stöd från aktiva block-produktion stake där SPO godkännande krävs för säkerhetskritiska parameterränder. DReps inbjuds att rösta och lämna motiveringer, men DRep-röster ingår inte vid bedömningen av om denna Info Action har etablerat ett SPO mandat.\n\nEftersom det här är en Info Action, är den >50%-standarden en deklarerad tolkning av omröstningsresultatet, inte en tröskel för on-chain godkännande av Info.",
+      "_title_sha": "894a778e4012",
+      "_summary_sha": "9fd1d7efcf17"
+    },
     {
       "id": "gov:gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
       "proposal_id": "gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",

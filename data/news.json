@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-17T07:33:30.013Z",
+  "fetched_at": "2026-09-17T13:22:16.113Z",
   "items": [
+    {
+      "id": "forum:156846",
+      "source": "Cardano Forum",
+      "title_en": "Introducing Cardano Nigeria: A community hub on X",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/introducing-cardano-nigeria-a-community-hub-on-x/156846",
+      "date": "2026-09-17T11:18:38.221Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Introducing Cardano Nigeria: Ett gemenskapscenter på X",
+      "summary_sv": "",
+      "_title_sha": "9218d47e0e96",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156837",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-ecosystem-input-call-vertical-to-kpi-impact-framework-for-cardano/156837",
       "date": "2026-09-16T17:21:37.161Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Offentlig ekosysteminmatningsanrop: Vertikal-till-KPI-impactsystem för Cardano",
       "summary_sv": "",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-september-16-2026-token2049-origins-hackathon-constitutional-amendment-portal-intersect-board-elections-2026-sdg-blockchain-accelerator-ambassador-stories-baudouin-kakule-muvunga/156830",
       "date": "2026-09-16T13:51:11.690Z",
-      "score": 4,
+      "score": 5,
       "comments": 1,
       "title_sv": "Digest 16 september 2026: TOKEN2049 Origins Hackathon | Constitutional Amendment Portal | Intersect Board Elections 2026 | SDG Blockchain Accelerator | Ambassador Stories: Baudouin Kakule Muvunga",
       "summary_sv": "",
@@ -51,7 +65,7 @@
       "url": "https://forum.cardano.org/t/ambassador-stories-journal-51-baudouin-kakule-muvunga/156829",
       "date": "2026-09-16T12:35:31.043Z",
       "score": 9,
-      "comments": 5,
+      "comments": 7,
       "title_sv": "Ambassadörhistorier, Journal #51: Baudouin Kakule Muvunga",
       "summary_sv": "",
       "_title_sha": "fe73369ffdbb",
@@ -97,20 +111,6 @@
       "title_sv": "🚨 [Urgent security notice] Guide för säker överföring av tillgångar i SecondFi (tidigare Yoroi) plånbok",
       "summary_sv": "",
       "_title_sha": "bdfffe390549",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156783",
-      "source": "Cardano Forum",
-      "title_en": "Ouroboros Peras weekly update : 11 September 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-11-september-2026/156783",
-      "date": "2026-09-14T10:34:21.279Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Ouroboros Peras veckovis uppdatering: 11 september 2026",
-      "summary_sv": "",
-      "_title_sha": "b626a6007085",
       "_summary_sha": ""
     },
     {
