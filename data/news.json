@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-09-18T18:19:48.960Z",
+  "fetched_at": "2026-09-18T21:35:47.970Z",
   "items": [
-    {
-      "id": "forum:156879",
-      "source": "Cardano Forum",
-      "title_en": "Can anyone help me trace and recover my $15,148 USDC withheld by http://Bets.io?*",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/can-anyone-help-me-trace-and-recover-my-15-148-usdc-withheld-by-http-bets-io/156879",
-      "date": "2026-09-18T15:56:59.398Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Kan någon hjälpa mig att spåra och återfå mina $15,148 USDC som hålls kvar av http://Bets.io?*",
-      "summary_sv": "",
-      "_title_sha": "354b56df7e5e",
-      "_summary_sha": ""
-    },
     {
       "id": "forum:156870",
       "source": "Cardano Forum",
@@ -111,6 +97,20 @@
       "title_sv": "Offentlig ekosysteminmatningsanrop: Vertikal-till-KPI-impactsystem för Cardano",
       "summary_sv": "",
       "_title_sha": "6897063b2336",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156831",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Clarity Act | CH 15 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-clarity-act-ch-15-sep-2026/156831",
+      "date": "2026-09-16T14:19:25.742Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Klarhetsförordningen | KAP 15 sep 2026",
+      "summary_sv": "",
+      "_title_sha": "b1b7bef8d54c",
       "_summary_sha": ""
     },
     {
