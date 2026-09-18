@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-18T11:04:32.212Z",
+  "fetched_at": "2026-09-18T14:56:06.747Z",
   "items": [
+    {
+      "id": "forum:156870",
+      "source": "Cardano Forum",
+      "title_en": "[RealFi 제1기 알파 앰배서더] 카르다노 기반 실물금융 RealFi 테스트넷 오픈 및 한국어 완벽 가이드 (Lace 연동 & 5,000P 챌린지)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/realfi-1-realfi-lace-5-000p/156870",
+      "date": "2026-09-18T14:13:47.370Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "[RealFi Första alfa-ambassadörgrupp] Cardano-baserad RealFi testnet öppnas samt fullständig guide på svenska (Lace-integration & 5,000P challenge)",
+      "summary_sv": "",
+      "_title_sha": "2c48178f5cef",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156861",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Klarhetsact | KAP 15 Sep 2026",
       "summary_sv": "",
       "_title_sha": "b1b7bef8d54c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156830",
-      "source": "Cardano Forum",
-      "title_en": "Digest September 16, 2026: TOKEN2049 Origins Hackathon | Constitutional Amendment Portal | Intersect Board Elections 2026 | SDG Blockchain Accelerator | Ambassador Stories: Baudouin Kakule Muvunga",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-september-16-2026-token2049-origins-hackathon-constitutional-amendment-portal-intersect-board-elections-2026-sdg-blockchain-accelerator-ambassador-stories-baudouin-kakule-muvunga/156830",
-      "date": "2026-09-16T13:51:11.690Z",
-      "score": 5,
-      "comments": 1,
-      "title_sv": "Digest 16 september 2026: TOKEN2049 Origins Hackathon | Constitutional Amendment Portal | Intersect Board Elections 2026 | SDG Blockchain Accelerator | Ambassador Stories: Baudouin Kakule Muvunga",
-      "summary_sv": "",
-      "_title_sha": "3bb1ec84f364",
       "_summary_sha": ""
     },
     {
