@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-18T05:49:08.708Z",
+  "fetched_at": "2026-09-18T11:04:32.212Z",
   "items": [
+    {
+      "id": "forum:156861",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Projects and PVARA: Exploring a Regulatory Path in Pakistan",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-projects-and-pvara-exploring-a-regulatory-path-in-pakistan/156861",
+      "date": "2026-09-18T10:12:54.107Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-projekt och PVARA: Utforskande av en regleringsväg i Pakistan",
+      "summary_sv": "",
+      "_title_sha": "4fd3151787d5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156855",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Digest 16 september 2026: TOKEN2049 Origins Hackathon | Constitutional Amendment Portal | Intersect Board Elections 2026 | SDG Blockchain Accelerator | Ambassador Stories: Baudouin Kakule Muvunga",
       "summary_sv": "",
       "_title_sha": "3bb1ec84f364",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156829",
-      "source": "Cardano Forum",
-      "title_en": "Ambassador Stories, Journal #51: Baudouin Kakule Muvunga",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ambassador-stories-journal-51-baudouin-kakule-muvunga/156829",
-      "date": "2026-09-16T12:35:31.043Z",
-      "score": 10,
-      "comments": 7,
-      "title_sv": "Ambassadörhistorier, Journal #51: Baudouin Kakule Muvunga",
-      "summary_sv": "",
-      "_title_sha": "fe73369ffdbb",
       "_summary_sha": ""
     },
     {
