@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-19T05:44:12.665Z",
+  "fetched_at": "2026-09-19T10:49:14.573Z",
   "items": [
+    {
+      "id": "forum:156890",
+      "source": "Cardano Forum",
+      "title_en": "Rapport de la séance 19/09/2026 Cardano First Steps in North-Kivu : apprendre à utiliser, comprendre et contribuer",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/rapport-de-la-seance-19-09-2026-cardano-first-steps-in-north-kivu-apprendre-a-utiliser-comprendre-et-contribuer/156890",
+      "date": "2026-09-19T08:15:23.564Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Rapport från sessionen 19/09/2026 Cardano Första steg i Nord-Kivu: lära sig använda, förstå och bidra",
+      "summary_sv": "",
+      "_title_sha": "7e5cce664976",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156870",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Offentlig ekosysteminmatningsanrop: Vertikal-till-KPI-impactsystem för Cardano",
       "summary_sv": "",
       "_title_sha": "6897063b2336",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156831",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Clarity Act | CH 15 Sep 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-clarity-act-ch-15-sep-2026/156831",
-      "date": "2026-09-16T14:19:25.742Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Klarhetsförordningen | KAP 15 sep 2026",
-      "summary_sv": "",
-      "_title_sha": "b1b7bef8d54c",
       "_summary_sha": ""
     },
     {
