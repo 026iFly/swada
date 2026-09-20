@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-20T11:14:39.619Z",
+  "fetched_at": "2026-09-20T15:57:56.472Z",
   "items": [
+    {
+      "id": "forum:156893",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Intro | CH AMA 18 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-intro-ch-ama-18-sep-2026/156893",
+      "date": "2026-09-20T12:21:45.672Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":intro | CH AMA 18 sep 2026",
+      "summary_sv": "",
+      "_title_sha": "4baa6da245a6",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156890",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Introducing Cardano Nigeria: Ett gemenskapscenter på X",
       "summary_sv": "",
       "_title_sha": "9218d47e0e96",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156837",
-      "source": "Cardano Forum",
-      "title_en": "Public Ecosystem Input Call: Vertical-to-KPI Impact Framework for Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/public-ecosystem-input-call-vertical-to-kpi-impact-framework-for-cardano/156837",
-      "date": "2026-09-16T17:21:37.161Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Offentlig ekosysteminmatningsanrop: Vertikal-till-KPI-impactsystem för Cardano",
-      "summary_sv": "",
-      "_title_sha": "6897063b2336",
       "_summary_sha": ""
     },
     {
