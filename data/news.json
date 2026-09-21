@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-21T06:10:47.428Z",
+  "fetched_at": "2026-09-21T13:57:16.792Z",
   "items": [
+    {
+      "id": "forum:156909",
+      "source": "Cardano Forum",
+      "title_en": "Ouroboros Peras weekly update: 18 September 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-18-september-2026/156909",
+      "date": "2026-09-21T12:14:44.603Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ouroboros Peras veckovis uppdatering: 18 september 2026",
+      "summary_sv": "",
+      "_title_sha": "06280081472e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156901",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano-node talar nu UTxO RPC: typerad, strömningsbaserad ködata direkt från noden",
       "summary_sv": "",
       "_title_sha": "23f1d7841dbd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156852",
-      "source": "Cardano Forum",
-      "title_en": "[공식 발표] 카르다노 사랑방 HOPE2 풀, 글로벌 RealFi 공식 참여 SPO 등재 & 위임자 특별 리워드 안내! 🌐",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/hope2-realfi-spo/156852",
-      "date": "2026-09-17T15:12:03.362Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[Officiell meddelande] Cardano love channel HOPE2 pool, global RealFi officiell deltagande SPO registrering & stakare speciella belöningar! 🌐",
-      "summary_sv": "",
-      "_title_sha": "ab0f5e181d3a",
       "_summary_sha": ""
     },
     {
