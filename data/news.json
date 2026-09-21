@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-21T13:57:16.792Z",
+  "fetched_at": "2026-09-21T19:19:10.481Z",
   "items": [
+    {
+      "id": "forum:156913",
+      "source": "Cardano Forum",
+      "title_en": "Governance",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance/156913",
+      "date": "2026-09-21T18:58:10.199Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Governance",
+      "summary_sv": "",
+      "_title_sha": "86f8a694159b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156909",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-18-september-2026/156909",
       "date": "2026-09-21T12:14:44.603Z",
-      "score": 0,
+      "score": 2,
       "comments": 0,
       "title_sv": "Ouroboros Peras veckovis uppdatering: 18 september 2026",
       "summary_sv": "",
@@ -50,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/rapport-de-la-seance-19-09-2026-cardano-first-steps-in-north-kivu-apprendre-a-utiliser-comprendre-et-contribuer/156890",
       "date": "2026-09-19T08:15:23.564Z",
-      "score": 3,
-      "comments": 2,
+      "score": 4,
+      "comments": 3,
       "title_sv": "Rapport från sessionen 19/09/2026 Cardano Första steg i Nord-Kivu: lära sig använda, förstå och bidra",
       "summary_sv": "",
       "_title_sha": "7e5cce664976",
@@ -97,20 +111,6 @@
       "title_sv": "Pakistanens nya PVARA-ramverk: Vad betyder det för Cardano?",
       "summary_sv": "",
       "_title_sha": "05a0ecbe2b44",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156854",
-      "source": "Cardano Forum",
-      "title_en": "Cardano-node now speaks UTxO RPC: typed, streaming chain data straight from the node",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-node-now-speaks-utxo-rpc-typed-streaming-chain-data-straight-from-the-node/156854",
-      "date": "2026-09-17T16:22:09.060Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Cardano-node talar nu UTxO RPC: typerad, strömningsbaserad ködata direkt från noden",
-      "summary_sv": "",
-      "_title_sha": "23f1d7841dbd",
       "_summary_sha": ""
     },
     {
