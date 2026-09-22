@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-22T04:42:48.467Z",
+  "fetched_at": "2026-09-22T09:51:40.271Z",
   "items": [
+    {
+      "id": "forum:156932",
+      "source": "Cardano Forum",
+      "title_en": "Governance Hour #10 - Deep Dive Into OpenZeppelin Stack Treasury Withdrawal Proposal (15 September)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-hour-10-deep-dive-into-openzeppelin-stack-treasury-withdrawal-proposal-15-september/156932",
+      "date": "2026-09-22T09:50:23.040Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Governance Hour #10 - Djupdykning i OpenZeppelin Stack Treasury Withdrawal Proposal (15 september)",
+      "summary_sv": "",
+      "_title_sha": "79f2f57ceb93",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156931",
+      "source": "Cardano Forum",
+      "title_en": "CARDANO MINDSET — Poème 002 🇫🇷",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-mindset-poeme-002/156931",
+      "date": "2026-09-22T09:20:14.183Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "CARDANO MINDSET — Poème 002 🇫🇷\n\nDetta är ju redan på svenska, men om du menade att det skulle vara på svenska: \n\nCARDANO MINDSET — Dikt 002 🇫🇷",
+      "summary_sv": "",
+      "_title_sha": "810fdab082a5",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156913",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "[RealFi Första alfa-ambassadörgrupp] Cardano-baserad RealFi testnet öppnas samt fullständig guide på svenska (Lace-integration & 5,000P challenge)",
       "summary_sv": "",
       "_title_sha": "2c48178f5cef",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156861",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Projects and PVARA: Exploring a Regulatory Path in Pakistan",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-projects-and-pvara-exploring-a-regulatory-path-in-pakistan/156861",
-      "date": "2026-09-18T10:12:54.107Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano-projekt och PVARA: Utforskande av en regleringsväg i Pakistan",
-      "summary_sv": "",
-      "_title_sha": "4fd3151787d5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156855",
-      "source": "Cardano Forum",
-      "title_en": "Pakistan’s New PVARA Framework: What Does It Mean for Cardano?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/pakistan-s-new-pvara-framework-what-does-it-mean-for-cardano/156855",
-      "date": "2026-09-17T16:58:59.465Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Pakistanens nya PVARA-ramverk: Vad betyder det för Cardano?",
-      "summary_sv": "",
-      "_title_sha": "05a0ecbe2b44",
       "_summary_sha": ""
     },
     {
