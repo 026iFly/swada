@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T14:42:15.621Z",
+  "fetched_at": "2026-09-22T18:46:32.985Z",
   "items": [
     {
       "id": "forum:156936",
@@ -8,7 +8,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/developers-office-hours-79-uplc-link-don-t-trust-verify-25-september/156936",
       "date": "2026-09-22T14:20:45.476Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Utvecklar kontorstider #79: uplc.link: Verifiera, men tillit inte (25 september)",
       "summary_sv": "",
@@ -23,7 +23,7 @@
       "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-understanding-cardano-governance-drep-delegation/156935",
       "date": "2026-09-22T11:40:03.769Z",
       "score": 1,
-      "comments": 1,
+      "comments": 2,
       "title_sv": "Låt inte ditt ADA sova: Förstå Cardano governance och DRep delegation",
       "summary_sv": "",
       "_title_sha": "235f41d94132",
@@ -79,7 +79,7 @@
       "url": "https://forum.cardano.org/t/cardano-mindset-poeme-002/156931",
       "date": "2026-09-22T09:20:14.183Z",
       "score": 0,
-      "comments": 0,
+      "comments": 3,
       "title_sv": "CARDANO MINDSET — Poème 002 🇫🇷\n\nDetta är ju redan på svenska, men om du menade att det skulle vara på svenska: \n\nCARDANO MINDSET — Dikt 002 🇫🇷",
       "summary_sv": "",
       "_title_sha": "810fdab082a5",
