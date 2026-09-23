@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-22T21:59:43.728Z",
+  "fetched_at": "2026-09-23T00:21:09.075Z",
   "items": [
+    {
+      "id": "forum:156939",
+      "source": "Cardano Forum",
+      "title_en": "[RealFi 메인넷 런칭 카운트다운 밋업 @ KBW 2026 강남 초대]",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/realfi-kbw-2026/156939",
+      "date": "2026-09-22T23:46:21.048Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "[RealFi mainnet lanseringscountdown möte @ KBW 2026 Gangnam inbjudan]",
+      "summary_sv": "",
+      "_title_sha": "ffd7be7b05a4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156936",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Governance",
       "summary_sv": "",
       "_title_sha": "86f8a694159b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156909",
-      "source": "Cardano Forum",
-      "title_en": "Ouroboros Peras weekly update: 18 September 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-18-september-2026/156909",
-      "date": "2026-09-21T12:14:44.603Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Ouroboros Peras veckovis uppdatering: 18 september 2026",
-      "summary_sv": "",
-      "_title_sha": "06280081472e",
       "_summary_sha": ""
     },
     {
