@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-23T20:12:54.644Z",
+  "fetched_at": "2026-09-23T23:36:22.671Z",
   "items": [
+    {
+      "id": "forum:156974",
+      "source": "Cardano Forum",
+      "title_en": "Could the Cardano community build an AI model that generates demand for ADA?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/could-the-cardano-community-build-an-ai-model-that-generates-demand-for-ada/156974",
+      "date": "2026-09-23T21:04:51.693Z",
+      "score": 0,
+      "comments": 3,
+      "title_sv": "Kan Cardano-communen bygga en AI-modell som genererar efterfrågan efter ADA?",
+      "summary_sv": "",
+      "_title_sha": "384e4d6722d0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156972",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Låt inte ditt ADA sova: Förstå Cardano governance och DRep delegation",
       "summary_sv": "",
       "_title_sha": "235f41d94132",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156934",
-      "source": "Cardano Forum",
-      "title_en": "Coxy Wallet takes Cardano to Multichain Universe",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/coxy-wallet-takes-cardano-to-multichain-universe/156934",
-      "date": "2026-09-22T10:20:57.846Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Coxy Wallet tar Cardano till Multichain Universe",
-      "summary_sv": "",
-      "_title_sha": "d92dc79e487a",
       "_summary_sha": ""
     },
     {
