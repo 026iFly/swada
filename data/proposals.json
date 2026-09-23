@@ -1,4 +1,53 @@
 {
-  "fetched_at": "2026-09-23T16:47:29.845Z",
-  "items": []
+  "fetched_at": "2026-09-23T20:13:45.041Z",
+  "items": [
+    {
+      "id": "gov:gov_action17m7nv7839mw93hv889tqzj0umv9ckm780f0nq02fep78f50uedxqq6g5mt9",
+      "proposal_id": "gov_action17m7nv7839mw93hv889tqzj0umv9ckm780f0nq02fep78f50uedxqq6g5mt9",
+      "type": "InfoAction",
+      "proposed_epoch": 656,
+      "expiration_epoch": 663,
+      "title_en": "Should stakePoolTargetNum (k) be raised from 500 to 1000? (SPO poll)",
+      "summary_en": "This Info Action asks the Cardano community, and in particular Stake Pool Operators (SPOs), whether there is sufficient SPO support to proceed with a later Parameter Change Governance Action that would raise **`stakePoolTargetNum` (`k`)** from 500 to 1000. It follows the 2023 SPO poll but considers `stakePoolTargetNum` on its own.\n\nTo determine whether sufficient SPO support exists, votes shall be tallied according to the standard CIP-1694 voting semantics; this proposal introduces no alternative turnout-based formula. SPO voting power is stake-weighted. An explicit ABSTAIN vote is excluded from active voting stake, while registered stake that does not vote behaves like a NO vote. Sufficient support is established only if explicit SPO YES votes represent more than 50% of the applicable active SPO voting stake.\n\nThis majority-by-stake standard follows the existing Cardano governance model for actions requiring SPO approval. The Cardano Constitution requires more than 50% support by active block-production stake where SPO approval is required for security-critical parameter changes. DReps are invited to vote and submit rationales, but DRep votes are not included when determining whether this Info Action has established an SPO mandate.\n\nBecause this is an Info Action, the >50% standard is a declared interpretation of the poll result, not an on-chain ratification threshold for Info",
+      "url": "https://gov.tools/governance_actions/gov_action17m7nv7839mw93hv889tqzj0umv9ckm780f0nq02fep78f50uedxqq6g5mt9",
+      "block_time": "2026-09-17T12:18:25.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Skulle stakePoolTargetNum (k) höjas från 500 till 1000? (SPO omröstning)",
+      "summary_sv": "Den här Informationsåtgärden frågar Cardano-samfundet, särskilt Stake Pool Operators (SPOs), om det finns tillräckligt med SPO-stöd för att fortsätta med en senare Parameter Change Governance Action som skulle höja **`stakePoolTargetNum` (`k`)** från 500 till 1000. Det följer den 2023 års SPO-enheten men betraktar `stakePoolTargetNum` på egen hand.\n\nFör att fastställa om det finns tillräckligt med SPO-stöd, kommer rösterna att räknas enligt de vanliga CIP-1694 röstningssemantiken; denna förslag introducerar inget alternativt formel baserat på deltagande. SPO-rösträtt är vikad efter staking. En explicit ABSTAIN-röst exkluderas från aktiv röstning, medan registrerad staking som inte röstar beter sig som en NEJ-röst. Till足tande stöd etableras endast om explicita SPO JA-röster representerar mer än 50% av den aktiva SPO-röstningsstaken.\n\nDenna majoritetsstandard-baserad-på-stake följer det nuvarande Cardano-governance-modellen för åtgärder som kräver SPO-approv. Cardano-nationen kräver mer än 50% stöd från aktiva blockproduktionstilldelade stake där SPO-approv krävs för säkerhetskritiska parameterröster. DReps inbjuds att rösta och lämna rationella motiveringsanvisningar, men DRep-rösterna ingår inte vid uttalandet av om denna Info Action har etablerat ett SPO mandat.\n\nEftersom det här är en Info Action, är den >50%-standarden en deklarerad tolkning av omröstningsresultatet, inte en tröskel för on-chain godkännande för Info.",
+      "_title_sha": "894a778e4012",
+      "_summary_sha": "9fd1d7efcf17"
+    },
+    {
+      "id": "gov:gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
+      "proposal_id": "gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
+      "type": "ParameterChange",
+      "proposed_epoch": 654,
+      "expiration_epoch": 661,
+      "title_en": "Reduce minPoolCost to 75 ada",
+      "summary_en": "This governance action proposes reducing `minPoolCost` from 170,000,000 Lovelace (170 ada) to 75,000,000 Lovelace (75 ada), a decrease of approximately 55.9%. No other protocol parameters are changed by this action.",
+      "url": "https://gov.tools/governance_actions/gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
+      "block_time": "2026-09-11T20:27:12.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Minska minPoolCost till 75 ada",
+      "summary_sv": "Den här governance actionen föreslår att minska `minPoolCost` från 170 000 000 Lovelace (170 ada) till 75 000 000 Lovelace (75 ada), vilket motsvarar en minskning av ungefär 55,9%. Ingen av de andra protokollparametrarna ändras av denna åtgärd.",
+      "_title_sha": "97ca86b9a2ed",
+      "_summary_sha": "e10659839340"
+    },
+    {
+      "id": "gov:gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
+      "proposal_id": "gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 654,
+      "expiration_epoch": 661,
+      "title_en": "Withdraw 11,787,063 ada for the OpenZeppelin Stack administered by Intersect",
+      "summary_en": "This treasury withdrawal proposal requests funding for the design, implementation, security audit, and ecosystem adoption of a comprehensive open-source development stack for Cardano, delivered over an initial 12 months in quarterly milestones. The proposal bundles three tightly coupled workstreams into a single integrated engagement, led by the Reference Implementations and built around them:\n\n* OpenZeppelin Reference Implementations for Cardano: three production-ready, end-to-end blueprints targeting strategic DeFi and institutional use cases: a Cardano Liquid Staking Protocol, a Self-Repaying Loans Protocol, and a Tokenized Money Market Fund.\n* OpenZeppelin Contracts Library for Cardano: a secure, audited, standardized contracts library tailored for Cardano's eUTXO model and Plutus environment, including Contracts Wizard integration, AI development tools, and documentation.\n* Security Retainer: dedicated security capacity covering line-by-line audits of the library and full-stack security reviews and penetration testing of every Reference Implementation.\n\nOpenZeppelin also commits to a Developer Enablement and Co-Marketing program, included at no additional cost, to drive ecosystem and institutional adoption of the libraries and Reference Implementations.\n\nThis proposal requests a total treasury withdrawal of 11,787,063 ada. The full budget breakdown and disbursement mechani",
+      "url": "https://gov.tools/governance_actions/gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
+      "block_time": "2026-09-08T16:27:04.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "Utdra 11,787,063 ada för OpenZeppelin Stack som administreras av Intersect",
+      "summary_sv": "Detta förslag om pengarsättning från trasuret begär finansiering för design, implementering, säkerhetsgranskning och ekosystemetts användning av en omfattande open-source utvecklingsstack för Cardano, levererad över ett initiativt 12 månaders period i kvartalsvisa milstolpar. Förslaget sammanfogar tre tätt kopplade arbetsströmmar till en ensam integrerad insats, ledes av Reference Implementations och byggs runt dem:\n\n* OpenZeppelin Reference Implementations for Cardano: tre produktionsklara, slutpunkt-till-slutpunkt blueprintar med fokus på strategiska DeFi och institutionella användningsfall: en Cardano Liquid Staking Protocol, en Self-Repaying Loans Protocol och en Tokenized Money Market Fund.\n* OpenZeppelin Contracts Library for Cardano: en säker, granskad, standardiserad kontraktbibliotek anpassat för Cardanos eUTXO-modell och Plutus-miljö, inklusive integrering av Contracts Wizard, utvecklingsverktyg för AI och dokumentation.\n* Security Retainer: dedikerad säkerhetskraft som täcker granskning rad för rad av biblioteket samt fullstacksäkerhetsgranskningar och intrusions tester för varje Reference Implementation.\n\nOpenZeppelin åtar sig också ett Developer Enablement och Co-Marketing program, ingett utan extra kostnad, för att främja ekosystemets och institutionella adopttion av biblioteken och Reference Implementations.\n\nDetta förslag begär ett totalt drag ur treasury på 11,787,063 ada. Den fullständiga budgetplaneringen och utbetalningsmekanismen",
+      "_title_sha": "a0277689e1a9",
+      "_summary_sha": "9a1d2f7e2a5d"
+    }
+  ]
 }

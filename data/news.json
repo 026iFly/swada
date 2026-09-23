@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-09-23T16:47:18.718Z",
+  "fetched_at": "2026-09-23T20:12:54.644Z",
   "items": [
+    {
+      "id": "forum:156972",
+      "source": "Cardano Forum",
+      "title_en": "Cardano à 9 ans : quand un symbole devient une invitation à construire",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-a-9-ans-quand-un-symbole-devient-une-invitation-a-construire/156972",
+      "date": "2026-09-23T19:29:33.604Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano å 9 : när ett symbol blir en inbjudan att bygga",
+      "summary_sv": "",
+      "_title_sha": "7a691ec91ef0",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156969",
+      "source": "Cardano Forum",
+      "title_en": "Nine Years Later: How Much of Cardano’s Original Vision Is Real?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/nine-years-later-how-much-of-cardano-s-original-vision-is-real/156969",
+      "date": "2026-09-23T18:57:30.954Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Nio år senare: Hur mycket av Cardanos ursprungliga vision har blivit verklighet?",
+      "summary_sv": "",
+      "_title_sha": "078bc1a0cf27",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:156967",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING ¿Seguís colaborando con Ben Goertzel en algún proyecto o investigación de IA? | CH AMA 18 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-seguis-colaborando-con-ben-goertzel-en-algun-proyecto-o-investigacion-de-ia-ch-ama-18-sep-2026/156967",
+      "date": "2026-09-23T16:47:53.872Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":s: SVAR I SVENSKA Fortsätter du att samarbeta med Ben Goertzel i något projekt eller forskning inom AI? | CH AMA 18 Sep 2026",
+      "summary_sv": "",
+      "_title_sha": "1ff778111e38",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156958",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "Coxy Wallet tar Cardano till Multichain Universe",
       "summary_sv": "",
       "_title_sha": "d92dc79e487a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156933",
-      "source": "Cardano Forum",
-      "title_en": "Governance Hour #11 - Governance Hour #11: Parameter Change to Reduce minPoolCost to 75 ada (23 September)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-hour-11-governance-hour-11-parameter-change-to-reduce-minpoolcost-to-75-ada-23-september/156933",
-      "date": "2026-09-22T09:56:34.657Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Governance Hour #11: Parametrad ändring för att minska minPoolCost till 75 ada (23 september)",
-      "summary_sv": "",
-      "_title_sha": "6bdf1413436c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156932",
-      "source": "Cardano Forum",
-      "title_en": "Governance Hour #10 - Deep Dive Into OpenZeppelin Stack Treasury Withdrawal Proposal (15 September)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-hour-10-deep-dive-into-openzeppelin-stack-treasury-withdrawal-proposal-15-september/156932",
-      "date": "2026-09-22T09:50:23.040Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Governance Hour #10 - Djupdykning i OpenZeppelin Stack Treasury Withdrawal Proposal (15 september)",
-      "summary_sv": "",
-      "_title_sha": "79f2f57ceb93",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156931",
-      "source": "Cardano Forum",
-      "title_en": "CARDANO MINDSET — Poème 002 🇫🇷",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-mindset-poeme-002/156931",
-      "date": "2026-09-22T09:20:14.183Z",
-      "score": 8,
-      "comments": 6,
-      "title_sv": "CARDANO MINDSET — Poème 002 🇫🇷\n\nDetta är ju redan på svenska, men om du menade att det skulle vara på svenska: \n\nCARDANO MINDSET — Dikt 002 🇫🇷",
-      "summary_sv": "",
-      "_title_sha": "810fdab082a5",
       "_summary_sha": ""
     },
     {
