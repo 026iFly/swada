@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-24T14:55:59.760Z",
+  "fetched_at": "2026-09-24T19:02:00.671Z",
   "items": [
+    {
+      "id": "forum:156992",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING ¿Qué le diría el Charles de hoy al Charles de hace cinco años? | CH AMA 18 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-que-le-diria-el-charles-de-hoy-al-charles-de-hace-cinco-anos-ch-ama-18-sep-2026/156992",
+      "date": "2026-09-24T15:53:57.841Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":s: SVAR | CH AMA 18 sep 2026",
+      "summary_sv": "",
+      "_title_sha": "c79316f8b2f0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:156974",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/could-the-cardano-community-build-an-ai-model-that-generates-demand-for-ada/156974",
       "date": "2026-09-23T21:04:51.693Z",
-      "score": 1,
-      "comments": 4,
+      "score": 3,
+      "comments": 5,
       "title_sv": "Kan Cardano-communen bygga en AI-modell som genererar efterfrågan efter ADA?",
       "summary_sv": "",
       "_title_sha": "384e4d6722d0",
@@ -97,20 +111,6 @@
       "title_sv": "Utvecklar kontorstider #79: uplc.link: Verifiera, men tillit inte (25 september)",
       "summary_sv": "",
       "_title_sha": "0df9473fbfa2",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156935",
-      "source": "Cardano Forum",
-      "title_en": "Don’t Let Your ADA Sleep: Understanding Cardano Governance & DRep Delegation",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-understanding-cardano-governance-drep-delegation/156935",
-      "date": "2026-09-22T11:40:03.769Z",
-      "score": 4,
-      "comments": 4,
-      "title_sv": "Låt inte ditt ADA sova: Förstå Cardano governance och DRep delegation",
-      "summary_sv": "",
-      "_title_sha": "235f41d94132",
       "_summary_sha": ""
     },
     {
