@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-24T09:53:59.743Z",
+  "fetched_at": "2026-09-24T14:55:59.760Z",
   "items": [
     {
       "id": "forum:156974",
@@ -8,8 +8,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/could-the-cardano-community-build-an-ai-model-that-generates-demand-for-ada/156974",
       "date": "2026-09-23T21:04:51.693Z",
-      "score": 0,
-      "comments": 2,
+      "score": 1,
+      "comments": 4,
       "title_sv": "Kan Cardano-communen bygga en AI-modell som genererar efterfrågan efter ADA?",
       "summary_sv": "",
       "_title_sha": "384e4d6722d0",
@@ -106,7 +106,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/don-t-let-your-ada-sleep-understanding-cardano-governance-drep-delegation/156935",
       "date": "2026-09-22T11:40:03.769Z",
-      "score": 3,
+      "score": 4,
       "comments": 4,
       "title_sv": "Låt inte ditt ADA sova: Förstå Cardano governance och DRep delegation",
       "summary_sv": "",
