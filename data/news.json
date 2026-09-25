@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-25T18:29:37.404Z",
+  "fetched_at": "2026-09-25T22:13:14.389Z",
   "items": [
+    {
+      "id": "forum:157020",
+      "source": "Cardano Forum",
+      "title_en": "Today FC Barcelona launched Barça Fan Lab. At Andamio, we're proud to have built it with them, on Cardano, with support from Project Catalyst",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/today-fc-barcelona-launched-barca-fan-lab-at-andamio-were-proud-to-have-built-it-with-them-on-cardano-with-support-from-project-catalyst/157020",
+      "date": "2026-09-25T19:43:56.510Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Idag lanserade FC Barcelona Barça Fan Lab. Vid Andamio är vi stolta över att ha byggt det tillsammans med dem, på Cardano, med stöd från Project Catalyst.",
+      "summary_sv": "",
+      "_title_sha": "65c2edbe0de1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157018",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Väljer en Cardano-plånbok: vad bör nybörjare kontrollera?",
       "summary_sv": "",
       "_title_sha": "82239c969741",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156939",
-      "source": "Cardano Forum",
-      "title_en": "[RealFi 메인넷 런칭 카운트다운 밋업 @ KBW 2026 강남 초대]",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/realfi-kbw-2026/156939",
-      "date": "2026-09-22T23:46:21.048Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "[RealFi mainnet lanseringscountdown möte @ KBW 2026 Gangnam inbjudan]",
-      "summary_sv": "",
-      "_title_sha": "ffd7be7b05a4",
       "_summary_sha": ""
     },
     {
