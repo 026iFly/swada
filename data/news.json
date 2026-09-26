@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-26T01:27:16.620Z",
+  "fetched_at": "2026-09-26T07:32:26.282Z",
   "items": [
+    {
+      "id": "forum:157031",
+      "source": "Cardano Forum",
+      "title_en": "Proposal: Establishing the Global Decentralization & Governance Awards (\"The Crypto Nobel Prize\") Hosted by Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/proposal-establishing-the-global-decentralization-governance-awards-the-crypto-nobel-prize-hosted-by-cardano/157031",
+      "date": "2026-09-26T02:58:25.169Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Förslag: Etablera Global Decentralization & Governance Awards (\"The Crypto Nobel Prize\") Anordnat av Cardano",
+      "summary_sv": "",
+      "_title_sha": "9d479b0b9b4c",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157020",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/today-fc-barcelona-launched-barca-fan-lab-at-andamio-were-proud-to-have-built-it-with-them-on-cardano-with-support-from-project-catalyst/157020",
       "date": "2026-09-25T19:43:56.510Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Idag lanserade FC Barcelona Barça Fan Lab. Vid Andamio är vi stolta över att ha byggt det tillsammans med dem, på Cardano, med stöd från Project Catalyst.",
       "summary_sv": "",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-september-2026-ambassador-call-recap-amaru-rust-node-45b-enablement-9th-anniversary/157018",
       "date": "2026-09-25T16:53:04.000Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "(Offentlig) September 2026 Ambassador Sammanfattning: Amaru Rust Node, 45b Enablement & 9:e Jubileum",
       "summary_sv": "",
@@ -78,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/nine-years-later-how-much-of-cardano-s-original-vision-is-real/156969",
       "date": "2026-09-23T18:57:30.954Z",
-      "score": 3,
+      "score": 4,
       "comments": 0,
       "title_sv": "Nio år senare: Hur mycket av Cardanos ursprungliga vision har blivit verklighet?",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": ":s: SVAR I SVENSKA Fortsätter du att samarbeta med Ben Goertzel i något projekt eller forskning inom AI? | CH AMA 18 Sep 2026",
       "summary_sv": "",
       "_title_sha": "1ff778111e38",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156958",
-      "source": "Cardano Forum",
-      "title_en": "Choosing a Cardano wallet: what should beginners check?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/choosing-a-cardano-wallet-what-should-beginners-check/156958",
-      "date": "2026-09-23T13:11:30.516Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Väljer en Cardano-plånbok: vad bör nybörjare kontrollera?",
-      "summary_sv": "",
-      "_title_sha": "82239c969741",
       "_summary_sha": ""
     },
     {
