@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-28T15:19:06.877Z",
+  "fetched_at": "2026-09-28T21:51:13.272Z",
   "items": [
+    {
+      "id": "forum:157062",
+      "source": "Cardano Forum",
+      "title_en": "🇫🇷 Cardano Hebdo #001 — L’essentiel de l’écosystème | 28 septembre 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-hebdo-001-l-essentiel-de-l-ecosysteme-28-septembre-2026/157062",
+      "date": "2026-09-28T15:51:14.919Z",
+      "score": 1,
+      "comments": 2,
+      "title_sv": "🇸🇪 Cardano Vecka #001 — Det viktigaste i ekosystemet | 28 september 2026",
+      "summary_sv": "",
+      "_title_sha": "ac32def30d56",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157061",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "(Offentlig) September 2026 Ambassador Sammanfattning: Amaru Rust Node, 45b Enablement & 9:e Jubileum",
       "summary_sv": "",
       "_title_sha": "d9141ea366ae",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:156992",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING ¿Qué le diría el Charles de hoy al Charles de hace cinco años? | CH AMA 18 Sep 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-que-le-diria-el-charles-de-hoy-al-charles-de-hace-cinco-anos-ch-ama-18-sep-2026/156992",
-      "date": "2026-09-24T15:53:57.841Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":s: SVAR | CH AMA 18 sep 2026",
-      "summary_sv": "",
-      "_title_sha": "c79316f8b2f0",
       "_summary_sha": ""
     },
     {
