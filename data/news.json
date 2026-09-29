@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T21:51:13.272Z",
+  "fetched_at": "2026-09-29T01:48:13.764Z",
   "items": [
     {
       "id": "forum:157062",
@@ -8,8 +8,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-hebdo-001-l-essentiel-de-l-ecosysteme-28-septembre-2026/157062",
       "date": "2026-09-28T15:51:14.919Z",
-      "score": 1,
-      "comments": 2,
+      "score": 3,
+      "comments": 4,
       "title_sv": "🇸🇪 Cardano Vecka #001 — Det viktigaste i ekosystemet | 28 september 2026",
       "summary_sv": "",
       "_title_sha": "ac32def30d56",
@@ -36,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/get-your-free-drep-short-drep-link-username/157060",
       "date": "2026-09-28T11:03:19.634Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Få ditt gratis drep kort drep.link/användarnamn",
       "summary_sv": "",
@@ -50,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/developers-office-hours-80-hydra-technical-workshop-02-october/157057",
       "date": "2026-09-28T10:38:16.967Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Utvecklarofficegalleri #80: Hydra-teknisk workshop (02 oktober)",
       "summary_sv": "",
