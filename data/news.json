@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-29T15:41:29.084Z",
+  "fetched_at": "2026-09-29T20:40:49.936Z",
   "items": [
+    {
+      "id": "forum:157083",
+      "source": "Cardano Forum",
+      "title_en": "How do I transfer midnight from yoroi",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/how-do-i-transfer-midnight-from-yoroi/157083",
+      "date": "2026-09-29T16:14:58.037Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Hur gör jag för att överföra midnight från yoroi",
+      "summary_sv": "",
+      "_title_sha": "a8ccfe5e727f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157079",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Utvecklarofficegalleri #80: Hydra-teknisk workshop (02 oktober)",
       "summary_sv": "",
       "_title_sha": "4503e464780c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157037",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING ¿Hay algo de verdad en que agentes de OpenAI rebeldes se estén autorreplicando? | CH AMA 18 Sep 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-hay-algo-de-verdad-en-que-agentes-de-openai-rebeldes-se-esten-autorreplicando-ch-ama-18-sep-2026/157037",
-      "date": "2026-09-26T14:31:48.125Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": ":s: SVAR :es: SPANISH DUBBING ¿Hay algo de verdad en que agentes de OpenAI rebeldes se estén autorreplicando? | CH AMA 18 Sep 2026\n\n:s: SVAR Är det något sanning i att rebella OpenAI-agenter autoreplikerar sig? | CH AMA 18 Sep 2026",
-      "summary_sv": "",
-      "_title_sha": "3b8722136ba0",
       "_summary_sha": ""
     },
     {
