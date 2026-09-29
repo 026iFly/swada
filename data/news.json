@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-29T01:48:13.764Z",
+  "fetched_at": "2026-09-29T08:20:35.824Z",
   "items": [
+    {
+      "id": "forum:157068",
+      "source": "Cardano Forum",
+      "title_en": "大家好，我是 Leo —— 堅定耕耘 Cardano 與 Web3 的長期建設者",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/leo-cardano-web3/157068",
+      "date": "2026-09-29T05:56:48.909Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Hej, jag är Leo — en långtidsbyggar som arbetar med Cardano och Web3.",
+      "summary_sv": "",
+      "_title_sha": "b4ddbb631c16",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157062",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Idag lanserade FC Barcelona Barça Fan Lab. Vid Andamio är vi stolta över att ha byggt det tillsammans med dem, på Cardano, med stöd från Project Catalyst.",
       "summary_sv": "",
       "_title_sha": "65c2edbe0de1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157018",
-      "source": "Cardano Forum",
-      "title_en": "(Public) September 2026 Ambassador Call Recap: Amaru Rust Node, 45b Enablement & 9th Anniversary",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/public-september-2026-ambassador-call-recap-amaru-rust-node-45b-enablement-9th-anniversary/157018",
-      "date": "2026-09-25T16:53:04.000Z",
-      "score": 7,
-      "comments": 2,
-      "title_sv": "(Offentlig) September 2026 Ambassador Sammanfattning: Amaru Rust Node, 45b Enablement & 9:e Jubileum",
-      "summary_sv": "",
-      "_title_sha": "d9141ea366ae",
       "_summary_sha": ""
     },
     {
