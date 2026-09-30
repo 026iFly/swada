@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-30T19:07:47.105Z",
+  "fetched_at": "2026-09-30T23:40:57.752Z",
   "items": [
+    {
+      "id": "forum:157115",
+      "source": "Cardano Forum",
+      "title_en": "Ecossistema Cardano Q1/2026 [Relatório Porto Cripto]",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ecossistema-cardano-q1-2026-relatorio-porto-cripto/157115",
+      "date": "2026-09-30T21:03:09.047Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-ökosystemet Q1/2026 [Porto Cripto-rapport]",
+      "summary_sv": "",
+      "_title_sha": "1b870666d928",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157114",
+      "source": "Cardano Forum",
+      "title_en": "Ecossistema Cardano Q3/2026 [Relatório Porto Cripto]",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ecossistema-cardano-q3-2026-relatorio-porto-cripto/157114",
+      "date": "2026-09-30T20:23:52.179Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Cardano-ökosystemet Q3/2026 [Porto Cripto-rapport]",
+      "summary_sv": "",
+      "_title_sha": "31753d67396d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157111",
       "source": "Cardano Forum",
@@ -8,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ecossistema-cardano-q2-2026-relatorio-porto-cripto/157111",
       "date": "2026-09-30T18:27:55.679Z",
-      "score": 0,
-      "comments": 0,
+      "score": 2,
+      "comments": 1,
       "title_sv": "Cardano-ekosystemet Q2/2026 [Porto Cripto-rapport]",
       "summary_sv": "",
       "_title_sha": "7ceab528d8ce",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano-communikanrop #5 för DR-Kongo",
       "summary_sv": "",
       "_title_sha": "1d04de0bdbb6",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157093",
-      "source": "Cardano Forum",
-      "title_en": "Cardano 제네시스 블록 9주년 회고",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-9/157093",
-      "date": "2026-09-30T04:57:53.520Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Tillbaka till Cardano-genesisblocket 9 år sen",
-      "summary_sv": "",
-      "_title_sha": "aba19b0a4719",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157092",
-      "source": "Cardano Forum",
-      "title_en": "Cardano的2026年第三季度最新进展",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-2026/157092",
-      "date": "2026-09-30T04:37:50.671Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano:s senaste framsteg för det tredje kvartalet 2026",
-      "summary_sv": "",
-      "_title_sha": "3ea13a2f1ef0",
       "_summary_sha": ""
     },
     {
