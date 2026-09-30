@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-09-30T06:36:33.867Z",
+  "fetched_at": "2026-09-30T13:35:33.884Z",
   "items": [
+    {
+      "id": "forum:157105",
+      "source": "Cardano Forum",
+      "title_en": "Résumé du 30 septembre : 9 ans de Cardano | Jetons programmables CIP-113 fusionnés dans le référentiel CIP | Mise à jour du nœud Cardano | TOKEN2049 Singapour,",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/resume-du-30-septembre-9-ans-de-cardano-jetons-programmables-cip-113-fusionnes-dans-le-referentiel-cip-mise-a-jour-du-noeud-cardano-token2049-singapour/157105",
+      "date": "2026-09-30T12:42:51.921Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Sammanfattning 30 september: 9 år med Cardano | CIP-113 för programmable tokens slås samman i CIP-referensen | Uppdatering av Cardano-noden | TOKEN2049 Singapore",
+      "summary_sv": "",
+      "_title_sha": "cd1dc6d347cb",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157100",
+      "source": "Cardano Forum",
+      "title_en": "Digest September 30: 9 Years of Cardano | CIP-113 Programmable Tokens Merged Into The CIP Repo | Cardano Node Update | TOKEN2049 Singapore | Developer Spotlight | Ecosystem & Governance Updates",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-september-30-9-years-of-cardano-cip-113-programmable-tokens-merged-into-the-cip-repo-cardano-node-update-token2049-singapore-developer-spotlight-ecosystem-governance-updates/157100",
+      "date": "2026-09-30T12:11:06.656Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Digest 30 september: 9 år av Cardano | CIP-113 Programmable Tokens slås samman med CIP-lagringsplatsen | Uppdatering av Cardano-nod | TOKEN2049 Singapore | Utvecklarfokus | Ekosystem- och governanceuppdateringar",
+      "summary_sv": "",
+      "_title_sha": "62c6186a27a6",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157095",
+      "source": "Cardano Forum",
+      "title_en": "DR Congo Cardano Community call #5",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-5/157095",
+      "date": "2026-09-30T06:50:52.418Z",
+      "score": 2,
+      "comments": 2,
+      "title_sv": "Cardano-communikanrop #5 för DR-Kongo",
+      "summary_sv": "",
+      "_title_sha": "1d04de0bdbb6",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157093",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "De 12 valda förslagen i Catalyst 12 djupgående analys",
       "summary_sv": "",
       "_title_sha": "d44c05fc50dd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157085",
-      "source": "Cardano Forum",
-      "title_en": "DR Congo Cardano Community Call #5 — Recap",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-5-recap/157085",
-      "date": "2026-09-29T21:37:27.742Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "DR Congo Cardano Communikation Sammöte #5 — Repetition",
-      "summary_sv": "",
-      "_title_sha": "0a94292c9c27",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157083",
-      "source": "Cardano Forum",
-      "title_en": "How do I transfer midnight from yoroi",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/how-do-i-transfer-midnight-from-yoroi/157083",
-      "date": "2026-09-29T16:14:58.037Z",
-      "score": 0,
-      "comments": 1,
-      "title_sv": "Hur gör jag för att överföra midnight från yoroi",
-      "summary_sv": "",
-      "_title_sha": "a8ccfe5e727f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157079",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Cómo convertir la \"Cadena Fantasma\" en un Gigante del TVL | alphagrowth 26 Jul 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-como-convertir-la-cadena-fantasma-en-un-gigante-del-tvl-alphagrowth-26-jul-2026/157079",
-      "date": "2026-09-29T13:51:45.586Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":s: SVAR PÅ SVENSKA Hur omvandla \"The Phantom Chain\" till en TVL-gigant | alphagrowth 26 jul 2026",
-      "summary_sv": "",
-      "_title_sha": "cf4e175a5b0c",
       "_summary_sha": ""
     },
     {
