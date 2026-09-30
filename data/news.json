@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-29T20:40:49.936Z",
+  "fetched_at": "2026-09-30T00:19:50.176Z",
   "items": [
+    {
+      "id": "forum:157085",
+      "source": "Cardano Forum",
+      "title_en": "DR Congo Cardano Community Call #5 — Recap",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-5-recap/157085",
+      "date": "2026-09-29T21:37:27.742Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "DR Congo Cardano Communikation Sammöte #5 — Repetition",
+      "summary_sv": "",
+      "_title_sha": "0a94292c9c27",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157083",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Få ditt gratis drep kort drep.link/användarnamn",
       "summary_sv": "",
       "_title_sha": "ad8265b9ba70",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157057",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #80: Hydra Technical Workshop (02 October)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-80-hydra-technical-workshop-02-october/157057",
-      "date": "2026-09-28T10:38:16.967Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Utvecklarofficegalleri #80: Hydra-teknisk workshop (02 oktober)",
-      "summary_sv": "",
-      "_title_sha": "4503e464780c",
       "_summary_sha": ""
     },
     {
