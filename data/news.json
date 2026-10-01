@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-09-30T23:40:57.752Z",
+  "fetched_at": "2026-10-01T05:39:53.715Z",
   "items": [
+    {
+      "id": "forum:157117",
+      "source": "Cardano Forum",
+      "title_en": "Cardano k값 조정 제안 이면의 탈중앙화 논쟁",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-k/157117",
+      "date": "2026-10-01T03:37:12.302Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Kontroversen kring decentralisering i DRep-anropet",
+      "summary_sv": "",
+      "_title_sha": "d6a5c529f799",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157115",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ecossistema-cardano-q1-2026-relatorio-porto-cripto/157115",
       "date": "2026-09-30T21:03:09.047Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Cardano-ökosystemet Q1/2026 [Porto Cripto-rapport]",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Digest 30 september: 9 år av Cardano | CIP-113 Programmable Tokens slås samman med CIP-lagringsplatsen | Uppdatering av Cardano-nod | TOKEN2049 Singapore | Utvecklarfokus | Ekosystem- och governanceuppdateringar",
       "summary_sv": "",
       "_title_sha": "62c6186a27a6",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157095",
-      "source": "Cardano Forum",
-      "title_en": "DR Congo Cardano Community call #5",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-5/157095",
-      "date": "2026-09-30T06:50:52.418Z",
-      "score": 4,
-      "comments": 3,
-      "title_sv": "Cardano-communikanrop #5 för DR-Kongo",
-      "summary_sv": "",
-      "_title_sha": "1d04de0bdbb6",
       "_summary_sha": ""
     },
     {
