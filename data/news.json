@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-01T18:48:18.761Z",
+  "fetched_at": "2026-10-01T23:05:17.107Z",
   "items": [
+    {
+      "id": "forum:157133",
+      "source": "Cardano Forum",
+      "title_en": "Vote Coin Protocol — open paper-ballot audit design anchored on Cardano (review welcome)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/vote-coin-protocol-open-paper-ballot-audit-design-anchored-on-cardano-review-welcome/157133",
+      "date": "2026-10-01T19:13:39.566Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Vote Coin Protocol — öppen pappersröntecknik baserad på Cardano (recension välkomnades)",
+      "summary_sv": "",
+      "_title_sha": "4d3d7aadcfee",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157128",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano-ekosystemet Q2/2026 [Porto Cripto-rapport]",
       "summary_sv": "",
       "_title_sha": "7ceab528d8ce",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157109",
-      "source": "Cardano Forum",
-      "title_en": "Why is ADA price so weak?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/why-is-ada-price-so-weak/157109",
-      "date": "2026-09-30T16:34:24.068Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Varför är priset på ADA så svagt?",
-      "summary_sv": "",
-      "_title_sha": "91610bc116e8",
       "_summary_sha": ""
     },
     {
