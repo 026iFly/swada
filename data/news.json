@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-02T09:38:24.026Z",
+  "fetched_at": "2026-10-02T16:13:28.180Z",
   "items": [
+    {
+      "id": "forum:157141",
+      "source": "Cardano Forum",
+      "title_en": "카르다노 2026년 9월 소식 요약",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-9/157141",
+      "date": "2026-10-02T14:16:28.832Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Kardano nyheter sammanfattning september 2026",
+      "summary_sv": "",
+      "_title_sha": "524440df27f9",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157138",
+      "source": "Cardano Forum",
+      "title_en": "Special Developers Office Hours #81: Build, Pay, Automate with x402 (06 October)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/special-developers-office-hours-81-build-pay-automate-with-x402-06-october/157138",
+      "date": "2026-10-02T11:04:27.385Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Specialutgåva av Utvecklarhelgen #81: Bygg, Betala, Automatisera med x402 (06 oktober)",
+      "summary_sv": "",
+      "_title_sha": "44150a6e270e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157133",
       "source": "Cardano Forum",
@@ -22,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/intersect-board-kavinda-kariyapperuma/157128",
       "date": "2026-10-01T13:31:16.869Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Intersect Board: Kavinda Kariyapperuma",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano-ökosystemet Q1/2026 [Porto Cripto-rapport]",
       "summary_sv": "",
       "_title_sha": "1b870666d928",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157114",
-      "source": "Cardano Forum",
-      "title_en": "Ecossistema Cardano Q3/2026 [Relatório Porto Cripto]",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ecossistema-cardano-q3-2026-relatorio-porto-cripto/157114",
-      "date": "2026-09-30T20:23:52.179Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Cardano-ökosystemet Q3/2026 [Porto Cripto-rapport]",
-      "summary_sv": "",
-      "_title_sha": "31753d67396d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157111",
-      "source": "Cardano Forum",
-      "title_en": "Ecossistema Cardano Q2/2026 [Relatório Porto Cripto]",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ecossistema-cardano-q2-2026-relatorio-porto-cripto/157111",
-      "date": "2026-09-30T18:27:55.679Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "Cardano-ekosystemet Q2/2026 [Porto Cripto-rapport]",
-      "summary_sv": "",
-      "_title_sha": "7ceab528d8ce",
       "_summary_sha": ""
     },
     {
