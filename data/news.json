@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-03T06:24:29.829Z",
+  "fetched_at": "2026-10-03T12:26:57.994Z",
   "items": [
+    {
+      "id": "forum:157149",
+      "source": "Cardano Forum",
+      "title_en": "03/10/2026 Comprendre la Blockchain, découvrir le Web3 et faire ses premiers pas dans Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/03-10-2026-comprendre-la-blockchain-decouvrir-le-web3-et-faire-ses-premiers-pas-dans-cardano/157149",
+      "date": "2026-10-03T09:28:15.322Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "03/10/2026 Förstå blockchain, upptäcka Web3 och ta första stegen i Cardano",
+      "summary_sv": "",
+      "_title_sha": "7e0a441ccf07",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157141",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Kontroversen kring decentralisering i DRep-anropet",
       "summary_sv": "",
       "_title_sha": "d6a5c529f799",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157115",
-      "source": "Cardano Forum",
-      "title_en": "Ecossistema Cardano Q1/2026 [Relatório Porto Cripto]",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ecossistema-cardano-q1-2026-relatorio-porto-cripto/157115",
-      "date": "2026-09-30T21:03:09.047Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Cardano-ökosystemet Q1/2026 [Porto Cripto-rapport]",
-      "summary_sv": "",
-      "_title_sha": "1b870666d928",
       "_summary_sha": ""
     },
     {
