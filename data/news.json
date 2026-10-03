@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-03T12:26:57.994Z",
+  "fetched_at": "2026-10-03T17:11:37.751Z",
   "items": [
+    {
+      "id": "forum:157158",
+      "source": "Cardano Forum",
+      "title_en": "SDG Blockchain Accelerator: Peluang Indonesia di Cohort Berikutnya",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/sdg-blockchain-accelerator-peluang-indonesia-di-cohort-berikutnya/157158",
+      "date": "2026-10-03T17:01:59.819Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "SDG Blockchain Accelerator: Chansen för Indonésien i Nästa Kurs",
+      "summary_sv": "",
+      "_title_sha": "7b09d8e544ce",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157149",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano Digest på svenska — 30 september 2026 | Cardano år 9, CIP-113, Node 11.1.3 och TOKEN2049 Singapore",
       "summary_sv": "",
       "_title_sha": "ee9bb4caa9e0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157117",
-      "source": "Cardano Forum",
-      "title_en": "Cardano k값 조정 제안 이면의 탈중앙화 논쟁",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-k/157117",
-      "date": "2026-10-01T03:37:12.302Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Kontroversen kring decentralisering i DRep-anropet",
-      "summary_sv": "",
-      "_title_sha": "d6a5c529f799",
       "_summary_sha": ""
     },
     {
