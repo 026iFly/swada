@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T15:53:29.735Z",
+  "fetched_at": "2026-10-05T22:32:32.049Z",
   "items": [
     {
       "id": "forum:157210",
@@ -36,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/how-ouroboros-actually-works-a-fully-sourced-explainer-on-cardanos-proof-of-stake/157206",
       "date": "2026-10-05T13:32:17.411Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Hur Ouroboros verkligen fungerar: en fullt källanoted förklaring av Cardanos Proof of Stake",
       "summary_sv": "",
@@ -51,7 +51,7 @@
       "url": "https://forum.cardano.org/t/midnight-how-to-get-missed-airdrop-from-2025/157200",
       "date": "2026-10-05T11:11:33.794Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Middag - hur man får missat airdrop från 2025",
       "summary_sv": "",
       "_title_sha": "931dc9ed02d7",
