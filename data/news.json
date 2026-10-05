@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-05T00:47:22.182Z",
+  "fetched_at": "2026-10-05T06:53:27.180Z",
   "items": [
+    {
+      "id": "forum:157184",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Discurso de Charles en las Naciones Unidas | CH 2 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-discurso-de-charles-en-las-naciones-unidas-ch-2-oct-2026/157184",
+      "date": "2026-10-05T01:06:44.119Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": ":endubbing: SPANSKA UNDERTEXT Charles tal vid Förenta Nationernas möte | CH 2 Okt 2026",
+      "summary_sv": "",
+      "_title_sha": "200ce0736564",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157162",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Kardano nyheter sammanfattning september 2026",
       "summary_sv": "",
       "_title_sha": "524440df27f9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157138",
-      "source": "Cardano Forum",
-      "title_en": "Special Developers Office Hours #81: Build, Pay, Automate with x402 (06 October)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/special-developers-office-hours-81-build-pay-automate-with-x402-06-october/157138",
-      "date": "2026-10-02T11:04:27.385Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Specialutgåva av Utvecklarhelgen #81: Bygg, Betala, Automatisera med x402 (06 oktober)",
-      "summary_sv": "",
-      "_title_sha": "44150a6e270e",
       "_summary_sha": ""
     },
     {
