@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-06T02:53:43.567Z",
+  "fetched_at": "2026-10-06T10:06:02.423Z",
   "items": [
+    {
+      "id": "forum:157218",
+      "source": "Cardano Forum",
+      "title_en": "Ouroboros Peras weekly update: 3rd October 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-3rd-october-2026/157218",
+      "date": "2026-10-06T09:12:27.293Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ouroboros Peras veckovisa uppdatering: 3 oktober 2026",
+      "summary_sv": "",
+      "_title_sha": "d0668b172a30",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157210",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Veckans möjligheter för Cardano #5-3 oktober 2026",
       "summary_sv": "",
       "_title_sha": "9fa03eaca473",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157160",
-      "source": "Cardano Forum",
-      "title_en": "Surabaya Web3 Connect 2026: Sudut Pandang Berbeda tentang Web3 dan AI",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/surabaya-web3-connect-2026-sudut-pandang-berbeda-tentang-web3-dan-ai/157160",
-      "date": "2026-10-03T17:51:59.186Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Surabaya Web3 Connect 2026: Ett Annat Perspektiv på Web3 och AI",
-      "summary_sv": "",
-      "_title_sha": "37c054700a71",
       "_summary_sha": ""
     },
     {
