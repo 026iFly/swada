@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-07T01:26:03.786Z",
+  "fetched_at": "2026-10-07T08:32:56.488Z",
   "items": [
+    {
+      "id": "forum:157233",
+      "source": "Cardano Forum",
+      "title_en": "ADA Labo, Stake pool ( ALAB ) を最強プランにしました！",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ada-labo-stake-pool-alab/157233",
+      "date": "2026-10-07T06:56:40.542Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "ADA Labo, Stake pool (ALAB) har optimiserats till det mest effektiva planet!",
+      "summary_sv": "",
+      "_title_sha": "5a7ce6d1e4e4",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157232",
+      "source": "Cardano Forum",
+      "title_en": "Where Can I Buy Cardano (ADA) in the USA",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/where-can-i-buy-cardano-ada-in-the-usa/157232",
+      "date": "2026-10-07T05:33:54.319Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Var Kan Man Köpa Cardano (ADA) i USA",
+      "summary_sv": "",
+      "_title_sha": "4f87b68c5be1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157219",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Middag - hur man får missat airdrop från 2025",
       "summary_sv": "",
       "_title_sha": "931dc9ed02d7",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157184",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Discurso de Charles en las Naciones Unidas | CH 2 Oct 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-discurso-de-charles-en-las-naciones-unidas-ch-2-oct-2026/157184",
-      "date": "2026-10-05T01:06:44.119Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": ":endubbing: SPANSKA UNDERTEXT Charles tal vid Förenta Nationernas möte | CH 2 Okt 2026",
-      "summary_sv": "",
-      "_title_sha": "200ce0736564",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157162",
-      "source": "Cardano Forum",
-      "title_en": "Meetup Recap: Cardano Hub Indonesia x Cardano Woman Indonesia",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/meetup-recap-cardano-hub-indonesia-x-cardano-woman-indonesia/157162",
-      "date": "2026-10-03T20:04:47.629Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Meetup-översikt: Cardano Hub Indonesia x Cardano Woman Indonesia",
-      "summary_sv": "",
-      "_title_sha": "09802e03ecbb",
       "_summary_sha": ""
     },
     {
