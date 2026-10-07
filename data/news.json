@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-07T08:32:56.488Z",
+  "fetched_at": "2026-10-07T16:20:55.543Z",
   "items": [
+    {
+      "id": "forum:157235",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING ¿Swap - Stake USDrf y sUSDrf EN Lace? | RealFi 6 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-swap-stake-usdrf-y-susdrf-en-lace-realfi-6-oct-2026/157235",
+      "date": "2026-10-07T12:58:59.954Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":swe: SVARSKRIFT ÄR DU Byt - Stake USDrf och sUSDrf I Lace? | RealFi 6 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "6195f5bd4937",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157233",
       "source": "Cardano Forum",
@@ -23,7 +37,7 @@
       "url": "https://forum.cardano.org/t/where-can-i-buy-cardano-ada-in-the-usa/157232",
       "date": "2026-10-07T05:33:54.319Z",
       "score": 0,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Var Kan Man Köpa Cardano (ADA) i USA",
       "summary_sv": "",
       "_title_sha": "4f87b68c5be1",
@@ -97,20 +111,6 @@
       "title_sv": "Hur Ouroboros verkligen fungerar: en fullt källanoted förklaring av Cardanos Proof of Stake",
       "summary_sv": "",
       "_title_sha": "ca0f1af9a3f5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157200",
-      "source": "Cardano Forum",
-      "title_en": "Midnight - how to get missed airdrop from 2025",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/midnight-how-to-get-missed-airdrop-from-2025/157200",
-      "date": "2026-10-05T11:11:33.794Z",
-      "score": 0,
-      "comments": 1,
-      "title_sv": "Middag - hur man får missat airdrop från 2025",
-      "summary_sv": "",
-      "_title_sha": "931dc9ed02d7",
       "_summary_sha": ""
     },
     {
