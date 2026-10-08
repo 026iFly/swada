@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-08T08:49:42.768Z",
+  "fetched_at": "2026-10-08T16:23:01.275Z",
   "items": [
+    {
+      "id": "forum:157267",
+      "source": "Cardano Forum",
+      "title_en": "2027 Treasury withdrawals",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2027-treasury-withdrawals/157267",
+      "date": "2026-10-08T12:52:14.126Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "2027 Treasury-uttag",
+      "summary_sv": "",
+      "_title_sha": "f295c049aa9c",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157235",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "# 🇫🇷 Cardano Vecka #002 — Det viktigaste i ekosystemet | 5 oktober 2026",
       "summary_sv": "",
       "_title_sha": "85dfe939a9df",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157206",
-      "source": "Cardano Forum",
-      "title_en": "How Ouroboros actually works: a fully sourced explainer on Cardano's Proof of Stake",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/how-ouroboros-actually-works-a-fully-sourced-explainer-on-cardanos-proof-of-stake/157206",
-      "date": "2026-10-05T13:32:17.411Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Hur Ouroboros verkligen fungerar: en fullt källanoted förklaring av Cardanos Proof of Stake",
-      "summary_sv": "",
-      "_title_sha": "ca0f1af9a3f5",
       "_summary_sha": ""
     },
     {
