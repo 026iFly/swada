@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-09T16:06:12.548Z",
+  "fetched_at": "2026-10-09T20:49:59.057Z",
   "items": [
+    {
+      "id": "forum:157287",
+      "source": "Cardano Forum",
+      "title_en": "Official Launch & Progress Update: Cardano Blockchain Certified Associate (CBCA) Study Cohort in Nalerigu, Ghana 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/official-launch-progress-update-cardano-blockchain-certified-associate-cbca-study-cohort-in-nalerigu-ghana-2026/157287",
+      "date": "2026-10-09T16:15:28.692Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Officiell Start och Framstegsrapport: Cardano Blockchain Certified Associate (CBCA) Studiegrupp i Nalerigu, Ghana 2026",
+      "summary_sv": "",
+      "_title_sha": "45d2814e52f9",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157282",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-9-october-2026/157282",
       "date": "2026-10-09T13:15:21.090Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Ouroboros Peras veckoplan: 9 oktober 2026",
       "summary_sv": "",
@@ -23,7 +37,7 @@
       "url": "https://forum.cardano.org/t/2027-treasury-withdrawals/157267",
       "date": "2026-10-08T12:52:14.126Z",
       "score": 4,
-      "comments": 2,
+      "comments": 3,
       "title_sv": "2027 Treasury-uttag",
       "summary_sv": "",
       "_title_sha": "f295c049aa9c",
@@ -97,20 +111,6 @@
       "title_sv": "Ouroboros Peras veckovisa uppdatering: 3 oktober 2026",
       "summary_sv": "",
       "_title_sha": "d0668b172a30",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157210",
-      "source": "Cardano Forum",
-      "title_en": "Why is ADA still weak despite the growing tokenization and CBDC narrative?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/why-is-ada-still-weak-despite-the-growing-tokenization-and-cbdc-narrative/157210",
-      "date": "2026-10-05T15:39:15.628Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Varför är ADA fortfarande svag trots att tokeniseringen och CBDC-narrativet växer?",
-      "summary_sv": "",
-      "_title_sha": "282d5f809389",
       "_summary_sha": ""
     },
     {
