@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-09T08:53:19.932Z",
+  "fetched_at": "2026-10-09T16:06:12.548Z",
   "items": [
+    {
+      "id": "forum:157282",
+      "source": "Cardano Forum",
+      "title_en": "Ouroboros Peras weekly update: 9 October 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-9-october-2026/157282",
+      "date": "2026-10-09T13:15:21.090Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Ouroboros Peras veckoplan: 9 oktober 2026",
+      "summary_sv": "",
+      "_title_sha": "851eefe4f190",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157267",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/2027-treasury-withdrawals/157267",
       "date": "2026-10-08T12:52:14.126Z",
-      "score": 2,
-      "comments": 0,
+      "score": 4,
+      "comments": 2,
       "title_sv": "2027 Treasury-uttag",
       "summary_sv": "",
       "_title_sha": "f295c049aa9c",
@@ -97,20 +111,6 @@
       "title_sv": "Varför är ADA fortfarande svag trots att tokeniseringen och CBDC-narrativet växer?",
       "summary_sv": "",
       "_title_sha": "282d5f809389",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157208",
-      "source": "Cardano Forum",
-      "title_en": "# 🇫🇷 Cardano Hebdo #002 — L’essentiel de l’écosystème | 5 octobre 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-hebdo-002-l-essentiel-de-l-ecosysteme-5-octobre-2026/157208",
-      "date": "2026-10-05T15:35:11.757Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "# 🇫🇷 Cardano Vecka #002 — Det viktigaste i ekosystemet | 5 oktober 2026",
-      "summary_sv": "",
-      "_title_sha": "85dfe939a9df",
       "_summary_sha": ""
     },
     {
