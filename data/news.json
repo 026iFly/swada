@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-10T18:28:20.124Z",
+  "fetched_at": "2026-10-10T22:25:48.048Z",
   "items": [
+    {
+      "id": "forum:157305",
+      "source": "Cardano Forum",
+      "title_en": "Secondfi Timeline worries!",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/secondfi-timeline-worries/157305",
+      "date": "2026-10-10T21:09:54.582Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Andrafi-tidslinje bekymrar!",
+      "summary_sv": "",
+      "_title_sha": "d2b66f5c3c29",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157294",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/10-octobre-2026-apprendre-a-utiliser-participer-et-contribuer-avec-impact/157294",
       "date": "2026-10-10T08:38:58.536Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "10 Oktober 2026: Lär dig använda, delta i och bidra med påverkan",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "ADA Labo, Stake pool (ALAB) har optimiserats till det mest effektiva planet!",
       "summary_sv": "",
       "_title_sha": "5a7ce6d1e4e4",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157219",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #82: Meet Blaster (09 October)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-82-meet-blaster-09-october/157219",
-      "date": "2026-10-06T11:32:33.065Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Utvecklarofficehour #82: Möt Blaster (09 oktober)",
-      "summary_sv": "",
-      "_title_sha": "88dcae4280b1",
       "_summary_sha": ""
     },
     {
