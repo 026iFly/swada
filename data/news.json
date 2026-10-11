@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-10-11T08:41:01.495Z",
+  "fetched_at": "2026-10-11T15:34:26.826Z",
   "items": [
-    {
-      "id": "forum:157305",
-      "source": "Cardano Forum",
-      "title_en": "Secondfi Timeline worries!",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi-timeline-worries/157305",
-      "date": "2026-10-10T21:09:54.582Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Andrafi-tidslinje bekymrar!",
-      "summary_sv": "",
-      "_title_sha": "d2b66f5c3c29",
-      "_summary_sha": ""
-    },
     {
       "id": "forum:157294",
       "source": "Cardano Forum",
@@ -37,7 +23,7 @@
       "url": "https://forum.cardano.org/t/official-launch-progress-update-cardano-blockchain-certified-associate-cbca-study-cohort-in-nalerigu-ghana-2026/157287",
       "date": "2026-10-09T16:15:28.692Z",
       "score": 2,
-      "comments": 3,
+      "comments": 4,
       "title_sv": "Officiell Start och Framstegsrapport: Cardano Blockchain Certified Associate (CBCA) Studiegrupp i Nalerigu, Ghana 2026",
       "summary_sv": "",
       "_title_sha": "45d2814e52f9",
@@ -64,8 +50,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/2027-treasury-withdrawals/157267",
       "date": "2026-10-08T12:52:14.126Z",
-      "score": 7,
-      "comments": 3,
+      "score": 8,
+      "comments": 4,
       "title_sv": "2027 Treasury-uttag",
       "summary_sv": "",
       "_title_sha": "f295c049aa9c",
@@ -111,6 +97,20 @@
       "title_sv": "ADA Labo, Stake pool (ALAB) har optimiserats till det mest effektiva planet!",
       "summary_sv": "",
       "_title_sha": "5a7ce6d1e4e4",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157219",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #82: Meet Blaster (09 October)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-82-meet-blaster-09-october/157219",
+      "date": "2026-10-06T11:32:33.065Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Utvecklar kontorslekstund #82: Möt Blaster (09 oktober)",
+      "summary_sv": "",
+      "_title_sha": "88dcae4280b1",
       "_summary_sha": ""
     },
     {
