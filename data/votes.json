@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T20:11:14.967Z",
+  "fetched_at": "2026-10-12T00:27:04.316Z",
   "items": [
     {
       "id": "gov:gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
@@ -12,7 +12,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
       "block_time": "2026-09-08T16:27:04.000Z",
       "deposit_ada": 100000,
-      "status": "active",
+      "status": "expired",
       "ifly_vote": {
         "vote": "No",
         "block_time": "2026-09-30T08:30:21.000Z",
@@ -34,7 +34,7 @@
       "url": "https://gov.tools/governance_actions/gov_action1whncs25w727rj5tml7lmv48gnaf9mm66sdjds8s3l306et7xmkdsqzqd7s2",
       "block_time": "2026-09-11T20:27:12.000Z",
       "deposit_ada": 100000,
-      "status": "active",
+      "status": "expired",
       "ifly_vote": {
         "vote": "Yes",
         "block_time": "2026-09-30T08:27:40.000Z",
