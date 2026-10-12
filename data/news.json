@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-12T00:27:01.690Z",
+  "fetched_at": "2026-10-12T07:16:01.856Z",
   "items": [
+    {
+      "id": "forum:157320",
+      "source": "Cardano Forum",
+      "title_en": "AI 에이전트 시대: 카르다노 x402 해커톤 우승이 의미하는 것",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ai-x402/157320",
+      "date": "2026-10-12T05:31:44.788Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "AI-agen-tiden: vad betyder seger i Cardano x402 hackathon?",
+      "summary_sv": "",
+      "_title_sha": "9229c6882530",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157315",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":swe: SVARSKRIFT ÄR DU Byt - Stake USDrf och sUSDrf I Lace? | RealFi 6 okt 2026",
       "summary_sv": "",
       "_title_sha": "6195f5bd4937",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157233",
-      "source": "Cardano Forum",
-      "title_en": "ADA Labo, Stake pool ( ALAB ) を最強プランにしました！",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ada-labo-stake-pool-alab/157233",
-      "date": "2026-10-07T06:56:40.542Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "ADA Labo, Stake pool (ALAB) har optimiserats till det mest effektiva planet!",
-      "summary_sv": "",
-      "_title_sha": "5a7ce6d1e4e4",
       "_summary_sha": ""
     },
     {
