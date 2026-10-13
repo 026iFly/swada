@@ -1,20 +1,6 @@
 {
-  "fetched_at": "2026-10-13T00:32:33.588Z",
+  "fetched_at": "2026-10-13T07:38:13.665Z",
   "items": [
-    {
-      "id": "forum:157331",
-      "source": "Cardano Forum",
-      "title_en": "Midnight Keeps Failing To Redeem",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/midnight-keeps-failing-to-redeem/157331",
-      "date": "2026-10-12T21:29:52.933Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Midnight Misslyckas Att Rädda",
-      "summary_sv": "",
-      "_title_sha": "0d43d88676ff",
-      "_summary_sha": ""
-    },
     {
       "id": "forum:157330",
       "source": "Cardano Forum",
@@ -22,8 +8,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/les-tokens-programmables-sur-cardano-et-si-un-token-pouvait-faire-respecter-ses-propres-regles/157330",
       "date": "2026-10-12T21:29:10.711Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 2,
       "title_sv": "Programmable tokens på Cardano: vad om en token kunde göra respekt för sina egna regler?",
       "summary_sv": "",
       "_title_sha": "153a7619cf48",
@@ -111,6 +97,20 @@
       "title_sv": "10 Oktober 2026: Lär dig använda, delta i och bidra med påverkan",
       "summary_sv": "",
       "_title_sha": "83842cf7a9a5",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157287",
+      "source": "Cardano Forum",
+      "title_en": "Official Launch & Progress Update: Cardano Blockchain Certified Associate (CBCA) Study Cohort in Nalerigu, Ghana 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/official-launch-progress-update-cardano-blockchain-certified-associate-cbca-study-cohort-in-nalerigu-ghana-2026/157287",
+      "date": "2026-10-09T16:15:28.692Z",
+      "score": 5,
+      "comments": 4,
+      "title_sv": "Officiell Start och Framstegsrapport: Cardano Blockchain Certified Associate (CBCA) Studiegrupp i Nalerigu, Ghana 2026",
+      "summary_sv": "",
+      "_title_sha": "45d2814e52f9",
       "_summary_sha": ""
     },
     {
