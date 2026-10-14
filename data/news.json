@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-14T18:29:57.612Z",
+  "fetched_at": "2026-10-14T22:12:59.646Z",
   "items": [
+    {
+      "id": "forum:157379",
+      "source": "Cardano Forum",
+      "title_en": "Online RPG run by an AI game master: open-ended investigation and adventure in and around a Roman town on the edge of the unstable empire, in the year of our lord 420",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/online-rpg-run-by-an-ai-game-master-open-ended-investigation-and-adventure-in-and-around-a-roman-town-on-the-edge-of-the-unstable-empire-in-the-year-of-our-lord-420/157379",
+      "date": "2026-10-14T20:36:37.513Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Online RPG led av en AI-spellemaster: öppen undersökning och äventyr i och kring ett romerskt stad i periferin av det osjuka imperiet, år 420 ekr.",
+      "summary_sv": "",
+      "_title_sha": "7847f639f393",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157377",
+      "source": "Cardano Forum",
+      "title_en": "Programmable Tokens on Cardano (CIP-0113): a plain-language explainer with sources",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/programmable-tokens-on-cardano-cip-0113-a-plain-language-explainer-with-sources/157377",
+      "date": "2026-10-14T18:32:10.597Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Programmable Tokens på Cardano (CIP-0113): en förklaring på enkla ord med källor",
+      "summary_sv": "",
+      "_title_sha": "495ef947709d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157372",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Utvecklarkontorstädet #83: Inuti Nexus: API:n som drivs GeroWallet (16 oktober)",
       "summary_sv": "",
       "_title_sha": "8a0eebe107ac",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157345",
-      "source": "Cardano Forum",
-      "title_en": "Cardano, les tokens programmables et l’avenir de l’Afrique : pourquoi la RDC pourrait devenir un terrain d’innovation majeur",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-les-tokens-programmables-et-l-avenir-de-l-afrique-pourquoi-la-rdc-pourrait-devenir-un-terrain-d-innovation-majeur/157345",
-      "date": "2026-10-13T08:49:00.657Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano, programmable tokens och Afrikas framtid: varför DRC kan bli ett viktigt innovationsområde",
-      "summary_sv": "",
-      "_title_sha": "ac50327b0791",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157330",
-      "source": "Cardano Forum",
-      "title_en": "Les tokens programmables sur Cardano : et si un token pouvait faire respecter ses propres règles?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/les-tokens-programmables-sur-cardano-et-si-un-token-pouvait-faire-respecter-ses-propres-regles/157330",
-      "date": "2026-10-12T21:29:10.711Z",
-      "score": 3,
-      "comments": 2,
-      "title_sv": "Programmable tokens på Cardano: vad om en token kunde göra respekt för sina egna regler?",
-      "summary_sv": "",
-      "_title_sha": "153a7619cf48",
       "_summary_sha": ""
     },
     {
