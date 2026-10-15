@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T18:12:06.712Z",
+  "fetched_at": "2026-10-15T22:08:59.475Z",
   "items": [
     {
       "id": "forum:157392",
@@ -36,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/introducing-cardano-foundation-research-exchange/157388",
       "date": "2026-10-15T13:28:02.702Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Introducerar Cardano Foundation Research Exchange",
       "summary_sv": "",
@@ -93,7 +93,7 @@
       "url": "https://forum.cardano.org/t/programmable-tokens-on-cardano-cip-0113-a-plain-language-explainer-with-sources/157377",
       "date": "2026-10-14T18:32:10.597Z",
       "score": 1,
-      "comments": 1,
+      "comments": 2,
       "title_sv": "Programmable Tokens på Cardano (CIP-0113): en förklaring på enkla ord med källor",
       "summary_sv": "",
       "_title_sha": "495ef947709d",
@@ -106,8 +106,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/resume-du-14-octobre-token2049-singapour-les-jetons-programmables-sont-disponibles-sur-le-reseau-principal-cardano-brille-au-hackathon-origins-de-token2049-histoires-d-ambassadeurs-avec-ian-mccullough-et-plus-encore/157372",
       "date": "2026-10-14T11:30:24.384Z",
-      "score": 5,
-      "comments": 3,
+      "score": 6,
+      "comments": 5,
       "title_sv": "Kortfattning från 14 oktober: TOKEN2049 Singapore | Programmable tokens är tillgängliga på mainnet | Cardano framträdde vid hackathon Origins på TOKEN2049 | Ambassadörernas historier, med Ian McCullough och mer",
       "summary_sv": "",
       "_title_sha": "c3b35840f007",
