@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-14T22:12:59.646Z",
+  "fetched_at": "2026-10-15T01:23:40.424Z",
   "items": [
+    {
+      "id": "forum:157382",
+      "source": "Cardano Forum",
+      "title_en": "AI Agents, Wallets and Cardano: Exploring Open Wallet Standard (OWS)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ai-agents-wallets-and-cardano-exploring-open-wallet-standard-ows/157382",
+      "date": "2026-10-14T23:18:40.565Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "AI-agenter, plånböcker och Cardano: Utforska Open Wallet Standard (OWS)",
+      "summary_sv": "",
+      "_title_sha": "3e8fe97de71e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157379",
       "source": "Cardano Forum",
@@ -78,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ambassador-stories-journal-52-ian-mccullough/157365",
       "date": "2026-10-14T08:24:40.306Z",
-      "score": 3,
+      "score": 4,
       "comments": 2,
       "title_sv": "Ambassadörhistorier, Journal #52 Ian McCullough",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Charles, hur delegationer egentligen görs till dig? De flesta av oss är förvirrade.",
       "summary_sv": "",
       "_title_sha": "1e486c3f532a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157349",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #83: Inside Nexus: The API Powering GeroWallet (16 October)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-83-inside-nexus-the-api-powering-gerowallet-16-october/157349",
-      "date": "2026-10-13T10:35:01.003Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Utvecklarkontorstädet #83: Inuti Nexus: API:n som drivs GeroWallet (16 oktober)",
-      "summary_sv": "",
-      "_title_sha": "8a0eebe107ac",
       "_summary_sha": ""
     },
     {
