@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T07:18:52.198Z",
+  "fetched_at": "2026-10-15T13:19:40.153Z",
   "items": [
     {
       "id": "forum:157385",
@@ -8,8 +8,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-mindset-poeme-003-mon-wallet-ma-responsabilite/157385",
       "date": "2026-10-15T04:19:34.985Z",
-      "score": 0,
-      "comments": 0,
+      "score": 4,
+      "comments": 2,
       "title_sv": "CARDANO MINDSET — Poème 003 : Min plånbok, mitt ansvar",
       "summary_sv": "",
       "_title_sha": "0672a6f55f84",
@@ -22,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/ai-agents-wallets-and-cardano-exploring-open-wallet-standard-ows/157382",
       "date": "2026-10-14T23:18:40.565Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "AI-agenter, plånböcker och Cardano: Utforska Open Wallet Standard (OWS)",
       "summary_sv": "",
@@ -64,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/resume-du-14-octobre-token2049-singapour-les-jetons-programmables-sont-disponibles-sur-le-reseau-principal-cardano-brille-au-hackathon-origins-de-token2049-histoires-d-ambassadeurs-avec-ian-mccullough-et-plus-encore/157372",
       "date": "2026-10-14T11:30:24.384Z",
-      "score": 4,
-      "comments": 2,
+      "score": 5,
+      "comments": 3,
       "title_sv": "Kortfattning från 14 oktober: TOKEN2049 Singapore | Programmable tokens är tillgängliga på mainnet | Cardano framträdde vid hackathon Origins på TOKEN2049 | Ambassadörernas historier, med Ian McCullough och mer",
       "summary_sv": "",
       "_title_sha": "c3b35840f007",
