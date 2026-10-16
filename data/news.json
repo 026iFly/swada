@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-15T22:08:59.475Z",
+  "fetched_at": "2026-10-16T01:11:47.212Z",
   "items": [
+    {
+      "id": "forum:157402",
+      "source": "Cardano Forum",
+      "title_en": "Introducing the Agora Knowledge Base | A Reference Hub for Cardano Governance",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/introducing-the-agora-knowledge-base-a-reference-hub-for-cardano-governance/157402",
+      "date": "2026-10-15T23:57:44.827Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Introducing the Agora Knowledge Base | En Referenscenter för Cardano Governance",
+      "summary_sv": "",
+      "_title_sha": "370dd0362613",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157392",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Programmable Tokens på Cardano (CIP-0113): en förklaring på enkla ord med källor",
       "summary_sv": "",
       "_title_sha": "495ef947709d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157372",
-      "source": "Cardano Forum",
-      "title_en": "Résumé du 14 octobre : TOKEN2049 Singapour | Les jetons programmables sont disponibles sur le réseau principal | Cardano brille au hackathon Origins de TOKEN2049 | Histoires d’ambassadeurs, avec Ian McCullough, et plus encore",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/resume-du-14-octobre-token2049-singapour-les-jetons-programmables-sont-disponibles-sur-le-reseau-principal-cardano-brille-au-hackathon-origins-de-token2049-histoires-d-ambassadeurs-avec-ian-mccullough-et-plus-encore/157372",
-      "date": "2026-10-14T11:30:24.384Z",
-      "score": 6,
-      "comments": 5,
-      "title_sv": "Kortfattning från 14 oktober: TOKEN2049 Singapore | Programmable tokens är tillgängliga på mainnet | Cardano framträdde vid hackathon Origins på TOKEN2049 | Ambassadörernas historier, med Ian McCullough och mer",
-      "summary_sv": "",
-      "_title_sha": "c3b35840f007",
       "_summary_sha": ""
     },
     {
