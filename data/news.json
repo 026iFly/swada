@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-16T17:19:50.985Z",
+  "fetched_at": "2026-10-16T20:57:37.856Z",
   "items": [
+    {
+      "id": "forum:157410",
+      "source": "Cardano Forum",
+      "title_en": "Introduzindo Agora Knowledge Base | Um Hub de referência para a governança da Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/introduzindo-agora-knowledge-base-um-hub-de-referencia-para-a-governanca-da-cardano/157410",
+      "date": "2026-10-16T17:28:38.641Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Introducing Agora Knowledge Base | En Hub för Cardano-governance",
+      "summary_sv": "",
+      "_title_sha": "e3ab970261e9",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157406",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-rfp-research-on-cardanos-utxocostperbyte-parameter/157406",
       "date": "2026-10-16T12:04:30.210Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Offentlig betygelseförfrågan: Forskning om Cardanos utxoCostPerByte-parameter",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "AI-agenter, plånböcker och Cardano: Utforska Open Wallet Standard (OWS)",
       "summary_sv": "",
       "_title_sha": "3e8fe97de71e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157379",
-      "source": "Cardano Forum",
-      "title_en": "Online RPG run by an AI game master: open-ended investigation and adventure in and around a Roman town on the edge of the unstable empire, in the year of our lord 420",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/online-rpg-run-by-an-ai-game-master-open-ended-investigation-and-adventure-in-and-around-a-roman-town-on-the-edge-of-the-unstable-empire-in-the-year-of-our-lord-420/157379",
-      "date": "2026-10-14T20:36:37.513Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Online RPG led av en AI-spellemaster: öppen undersökning och äventyr i och kring ett romerskt stad i periferin av det osjuka imperiet, år 420 ekr.",
-      "summary_sv": "",
-      "_title_sha": "7847f639f393",
       "_summary_sha": ""
     },
     {
