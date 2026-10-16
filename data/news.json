@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T01:11:47.212Z",
+  "fetched_at": "2026-10-16T07:02:33.752Z",
   "items": [
     {
       "id": "forum:157402",
@@ -36,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/leios-dojo-watch-leios-at-work-on-the-musashi-dojo-test-net/157390",
       "date": "2026-10-15T13:40:11.625Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Leios Dojo: Se Leios i verket på testnätet Musashi Dojo",
       "summary_sv": "",
@@ -64,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-mindset-poeme-003-mon-wallet-ma-responsabilite/157385",
       "date": "2026-10-15T04:19:34.985Z",
-      "score": 4,
-      "comments": 2,
+      "score": 6,
+      "comments": 3,
       "title_sv": "CARDANO MINDSET — Poème 003 : Min plånbok, mitt ansvar",
       "summary_sv": "",
       "_title_sha": "0672a6f55f84",
@@ -106,8 +106,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/programmable-tokens-on-cardano-cip-0113-a-plain-language-explainer-with-sources/157377",
       "date": "2026-10-14T18:32:10.597Z",
-      "score": 1,
-      "comments": 2,
+      "score": 2,
+      "comments": 3,
       "title_sv": "Programmable Tokens på Cardano (CIP-0113): en förklaring på enkla ord med källor",
       "summary_sv": "",
       "_title_sha": "495ef947709d",
