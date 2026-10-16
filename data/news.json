@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-16T07:02:33.752Z",
+  "fetched_at": "2026-10-16T12:17:27.632Z",
   "items": [
+    {
+      "id": "forum:157406",
+      "source": "Cardano Forum",
+      "title_en": "Public RFP: Research on Cardano's utxoCostPerByte Parameter",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/public-rfp-research-on-cardanos-utxocostperbyte-parameter/157406",
+      "date": "2026-10-16T12:04:30.210Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Offentlig betygelseförfrågan: Forskning om Cardanos utxoCostPerByte-parameter",
+      "summary_sv": "",
+      "_title_sha": "b9ff986198f8",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157402",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/introducing-the-agora-knowledge-base-a-reference-hub-for-cardano-governance/157402",
       "date": "2026-10-15T23:57:44.827Z",
-      "score": 0,
-      "comments": 0,
+      "score": 2,
+      "comments": 3,
       "title_sv": "Introducing the Agora Knowledge Base | En Referenscenter för Cardano Governance",
       "summary_sv": "",
       "_title_sha": "370dd0362613",
@@ -97,20 +111,6 @@
       "title_sv": "Online RPG led av en AI-spellemaster: öppen undersökning och äventyr i och kring ett romerskt stad i periferin av det osjuka imperiet, år 420 ekr.",
       "summary_sv": "",
       "_title_sha": "7847f639f393",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157377",
-      "source": "Cardano Forum",
-      "title_en": "Programmable Tokens on Cardano (CIP-0113): a plain-language explainer with sources",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/programmable-tokens-on-cardano-cip-0113-a-plain-language-explainer-with-sources/157377",
-      "date": "2026-10-14T18:32:10.597Z",
-      "score": 2,
-      "comments": 3,
-      "title_sv": "Programmable Tokens på Cardano (CIP-0113): en förklaring på enkla ord med källor",
-      "summary_sv": "",
-      "_title_sha": "495ef947709d",
       "_summary_sha": ""
     },
     {
