@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T12:17:27.632Z",
+  "fetched_at": "2026-10-16T17:19:50.985Z",
   "items": [
     {
       "id": "forum:157406",
@@ -8,7 +8,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-rfp-research-on-cardanos-utxocostperbyte-parameter/157406",
       "date": "2026-10-16T12:04:30.210Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Offentlig betygelseförfrågan: Forskning om Cardanos utxoCostPerByte-parameter",
       "summary_sv": "",
