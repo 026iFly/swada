@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-17T17:01:36.258Z",
+  "fetched_at": "2026-10-17T19:15:00.338Z",
   "items": [
+    {
+      "id": "forum:157438",
+      "source": "Cardano Forum",
+      "title_en": "Agora Knowledge Base | Artigos e Pesquisas sobre a Governança da Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/agora-knowledge-base-artigos-e-pesquisas-sobre-a-governanca-da-cardano/157438",
+      "date": "2026-10-17T18:36:55.693Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Agora Kunskapsbas | Artiklar och Forskningar om Cardanos Governance",
+      "summary_sv": "",
+      "_title_sha": "8988d80078c8",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157437",
+      "source": "Cardano Forum",
+      "title_en": "Agora Knowledge Base | Cardano Governance Articles & Research",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/agora-knowledge-base-cardano-governance-articles-research/157437",
+      "date": "2026-10-17T18:31:15.543Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Agora Kunskapsbas | Artiklar och Forskning om Cardano Governance",
+      "summary_sv": "",
+      "_title_sha": "065a12e10f0a",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157431",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Mastercard & Cardano: Vad De Inte Berättar För Dig",
       "summary_sv": "",
       "_title_sha": "bd8596f25ee8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157422",
-      "source": "Cardano Forum",
-      "title_en": "4 Weeks at Draper University Changed How I Think About Building on Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/4-weeks-at-draper-university-changed-how-i-think-about-building-on-cardano/157422",
-      "date": "2026-10-17T00:23:33.872Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "4 Veckor vid Draper Universityändrade hur jag tänker om att bygga på Cardano",
-      "summary_sv": "",
-      "_title_sha": "55a482c0a70f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157420",
-      "source": "Cardano Forum",
-      "title_en": "I Pitched My Cardano Startup to VC Tim Draper | Here’s How It Went",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/i-pitched-my-cardano-startup-to-vc-tim-draper-here-s-how-it-went/157420",
-      "date": "2026-10-17T00:23:17.006Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Jag pitchade min Cardano-startup till VC Tim Draper | Här är hur det gick",
-      "summary_sv": "",
-      "_title_sha": "84a3ae0e9de7",
       "_summary_sha": ""
     },
     {
