@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-17T09:12:11.464Z",
+  "fetched_at": "2026-10-17T13:38:17.479Z",
   "items": [
+    {
+      "id": "forum:157431",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING ¿Por qué Cardano? con John O'Connor, CEO | RealFi 8 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-por-que-cardano-con-john-oconnor-ceo-realfi-8-sep-2026/157431",
+      "date": "2026-10-17T13:32:01.615Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":s: SVAR PÅ SWEDISH DUBBING WHY CARDANO? MED JOHN O'CONNOR, CEO | REALFI 8 SEP 2026",
+      "summary_sv": "",
+      "_title_sha": "1d0e4ac3e8f3",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157430",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Community Digest — 14 Oktoba 2026 | Toleo la Kiswahili 🌍",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-community-digest-14-oktoba-2026-toleo-la-kiswahili/157430",
+      "date": "2026-10-17T12:34:05.818Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano Communiteramelding — 14 Oktober 2026 | Toleo la Kiswahili 🌍",
+      "summary_sv": "",
+      "_title_sha": "4563bc9377c0",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157428",
       "source": "Cardano Forum",
@@ -8,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/chatterpay-brings-ada-payments-directly-into-whatsapp/157428",
       "date": "2026-10-17T01:48:38.845Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "ChatterPay Bring ADA-Betalningar Direkt in till WhatsApp",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "Jag pitchade min Cardano-startup till VC Tim Draper | Här är hur det gick",
       "summary_sv": "",
       "_title_sha": "84a3ae0e9de7",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157418",
-      "source": "Cardano Forum",
-      "title_en": "SecondFi Wallet Migration Tool is LIVE! How to Move Your Funds Securely",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi-wallet-migration-tool-is-live-how-to-move-your-funds-securely/157418",
-      "date": "2026-10-17T00:23:00.165Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SecondFi-plånboksöverföringsverktyg är NU KEDJA! Hur du säkert överför dina medel",
-      "summary_sv": "",
-      "_title_sha": "30276300a67e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157416",
-      "source": "Cardano Forum",
-      "title_en": "Australia's Travel Rule Changes Crypto Forever",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/australias-travel-rule-changes-crypto-forever/157416",
-      "date": "2026-10-17T00:22:43.950Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Australiens resaregeländring förändrar krypto för alltid",
-      "summary_sv": "",
-      "_title_sha": "59f340fd904f",
       "_summary_sha": ""
     },
     {
