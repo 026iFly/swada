@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-18T23:00:28.051Z",
+  "fetched_at": "2026-10-19T01:05:43.402Z",
   "items": [
+    {
+      "id": "forum:157448",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Weekly: Opportunities & Participation #6 | October 19, 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-weekly-opportunities-participation-6-october-19-2026/157448",
+      "date": "2026-10-19T00:07:46.397Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Cardano Vecka: Chanser & Deltagande #6 | 19 oktober 2026",
+      "summary_sv": "",
+      "_title_sha": "471eda17249c",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157438",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Tim Draper frågade om min Cardano-startup, och sedan hände detta",
       "summary_sv": "",
       "_title_sha": "a6e6691173ea",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157424",
-      "source": "Cardano Forum",
-      "title_en": "Mastercard & Cardano: What They Aren't Telling You",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/mastercard-cardano-what-they-arent-telling-you/157424",
-      "date": "2026-10-17T00:23:49.704Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Mastercard & Cardano: Vad De Inte Berättar För Dig",
-      "summary_sv": "",
-      "_title_sha": "bd8596f25ee8",
       "_summary_sha": ""
     },
     {
