@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-19T19:14:55.468Z",
+  "fetched_at": "2026-10-19T23:33:06.679Z",
   "items": [
+    {
+      "id": "forum:157479",
+      "source": "Cardano Forum",
+      "title_en": "Beyond treasury votes: How to verify Cardano’s public funding?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/beyond-treasury-votes-how-to-verify-cardano-s-public-funding/157479",
+      "date": "2026-10-19T22:54:59.146Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Beyond treasury votes: Hur verifierar man Cardanos offentliga finansiering? \n\nVerifiering av Cardanos offentliga finansiering går inte bara ut på att rösta i treasuryn, utan involverar också att granska och godkänna governance actions och att se till att fonder från den treasury används effektivt enligt det demokratiska beslutet av ADA-härdatagarna.",
+      "summary_sv": "",
+      "_title_sha": "586153d075ae",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157466",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-hebdo-004-l-essentiel-de-l-ecosysteme-19-octobre-2026/157466",
       "date": "2026-10-19T16:50:49.240Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "🇸🇪 Cardano Vecka #004 : Det viktigaste i ekosystemet | 19 oktober 2026",
       "summary_sv": "",
       "_title_sha": "92e33ae807b5",
@@ -97,20 +111,6 @@
       "title_sv": ":s: SVAR PÅ SWEDISH DUBBING WHY CARDANO? MED JOHN O'CONNOR, CEO | REALFI 8 SEP 2026",
       "summary_sv": "",
       "_title_sha": "1d0e4ac3e8f3",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157430",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Community Digest — 14 Oktoba 2026 | Toleo la Kiswahili 🌍",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-community-digest-14-oktoba-2026-toleo-la-kiswahili/157430",
-      "date": "2026-10-17T12:34:05.818Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Cardano Communiteramelding — 14 Oktober 2026 | Toleo la Kiswahili 🌍",
-      "summary_sv": "",
-      "_title_sha": "4563bc9377c0",
       "_summary_sha": ""
     },
     {
