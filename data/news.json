@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T04:38:40.522Z",
+  "fetched_at": "2026-10-20T09:57:22.450Z",
   "items": [
     {
       "id": "forum:157479",
@@ -8,8 +8,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/beyond-treasury-votes-how-to-verify-cardano-s-public-funding/157479",
       "date": "2026-10-19T22:54:59.146Z",
-      "score": 0,
-      "comments": 0,
+      "score": 2,
+      "comments": 1,
       "title_sv": "Beyond treasury votes: Hur verifierar man Cardanos offentliga finansiering? \n\nVerifiering av Cardanos offentliga finansiering går inte bara ut på att rösta i treasuryn, utan involverar också att granska och godkänna governance actions och att se till att fonder från den treasury används effektivt enligt det demokratiska beslutet av ADA-härdatagarna.",
       "summary_sv": "",
       "_title_sha": "586153d075ae",
