@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T04:31:52.286Z",
+  "fetched_at": "2026-10-21T10:01:08.511Z",
   "items": [
     {
       "id": "forum:157499",
@@ -27,6 +27,20 @@
       "title_sv": "Senaste Nyheter om Cardano och Midnight",
       "summary_sv": "",
       "_title_sha": "6af15d0a1db0",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157494",
+      "source": "Cardano Forum",
+      "title_en": "Free ADA supply tracker: how much new ADA comes out",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/free-ada-supply-tracker-how-much-new-ada-comes-out/157494",
+      "date": "2026-10-20T13:45:19.108Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Gratis ADA-försäljningsförslagspåradare: hur mycket ny ADA som utgår",
+      "summary_sv": "",
+      "_title_sha": "a1aa90a22774",
       "_summary_sha": ""
     },
     {
@@ -97,20 +111,6 @@
       "title_sv": "Cardano Vecka: Chanser & Deltagande #6 | 19 oktober 2026",
       "summary_sv": "",
       "_title_sha": "471eda17249c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157438",
-      "source": "Cardano Forum",
-      "title_en": "Agora Knowledge Base | Artigos e Pesquisas sobre a Governança da Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/agora-knowledge-base-artigos-e-pesquisas-sobre-a-governanca-da-cardano/157438",
-      "date": "2026-10-17T18:36:55.693Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Agora Kunskapsbas | Artiklar och Forskningar om Cardanos Governance",
-      "summary_sv": "",
-      "_title_sha": "8988d80078c8",
       "_summary_sha": ""
     },
     {
