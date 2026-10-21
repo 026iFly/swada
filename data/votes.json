@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T19:16:07.120Z",
+  "fetched_at": "2026-10-21T23:11:41.152Z",
   "items": [
     {
       "id": "gov:gov_action1gxxltxr02p28a398p8c6t08xhpg82wkkv9xgwvuxkly48lhgf20sqlkl2l8",
@@ -56,7 +56,7 @@
       "url": "https://gov.tools/governance_actions/gov_action17m7nv7839mw93hv889tqzj0umv9ckm780f0nq02fep78f50uedxqq6g5mt9",
       "block_time": "2026-09-17T12:18:25.000Z",
       "deposit_ada": 100000,
-      "status": "active",
+      "status": "expired",
       "ifly_vote": {
         "vote": "Yes",
         "block_time": "2026-09-30T08:26:17.000Z",
