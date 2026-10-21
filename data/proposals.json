@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-10-21T10:01:09.658Z",
+  "fetched_at": "2026-10-21T15:05:28.046Z",
   "items": [
+    {
+      "id": "gov:gov_action1wfy3vzxurfgq6wrpxg2qdx3t6wm7ng8xwr26h47kxa8xhd20cr5qqz0wzfc",
+      "proposal_id": "gov_action1wfy3vzxurfgq6wrpxg2qdx3t6wm7ng8xwr26h47kxa8xhd20cr5qqz0wzfc",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 662,
+      "expiration_epoch": 669,
+      "title_en": "TreasuryWithdrawals proposal",
+      "summary_en": "",
+      "url": "https://gov.tools/governance_actions/gov_action1wfy3vzxurfgq6wrpxg2qdx3t6wm7ng8xwr26h47kxa8xhd20cr5qqz0wzfc",
+      "block_time": "2026-10-21T11:49:27.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "TreasuryWithdrawals förslag",
+      "summary_sv": "",
+      "_title_sha": "e881a7cf9210",
+      "_summary_sha": ""
+    },
     {
       "id": "gov:gov_action1znt2fr0chyye50nj0cdld2dvdjg3xsdfvq0fr37n43uehlvfkqdsqjnuq3n",
       "proposal_id": "gov_action1znt2fr0chyye50nj0cdld2dvdjg3xsdfvq0fr37n43uehlvfkqdsqjnuq3n",
