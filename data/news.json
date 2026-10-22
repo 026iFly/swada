@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-22T10:02:13.125Z",
+  "fetched_at": "2026-10-22T15:06:22.886Z",
   "items": [
+    {
+      "id": "forum:157519",
+      "source": "Cardano Forum",
+      "title_en": "Governance Hour #12 | Cardano Strategic Copper Reserve | ₳22M RWA Tokenization (27 October)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-hour-12-cardano-strategic-copper-reserve-22m-rwa-tokenization-27-october/157519",
+      "date": "2026-10-22T11:09:43.935Z",
+      "score": 2,
+      "comments": 1,
+      "title_sv": "Governance Hour #12 | Cardano Strategic Copper Reserve | ₳22M RWA Tokenization (27 oktober)",
+      "summary_sv": "",
+      "_title_sha": "f6a34e0bcabd",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157499",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Peras Veckans Uppdatering | 16 Oktober 2026",
       "summary_sv": "",
       "_title_sha": "3e67f2aeac19",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157448",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Weekly: Opportunities & Participation #6 | October 19, 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-weekly-opportunities-participation-6-october-19-2026/157448",
-      "date": "2026-10-19T00:07:46.397Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Cardano Vecka: Chanser & Deltagande #6 | 19 oktober 2026",
-      "summary_sv": "",
-      "_title_sha": "471eda17249c",
       "_summary_sha": ""
     },
     {
