@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-23T09:56:30.176Z",
+  "fetched_at": "2026-10-23T14:56:07.687Z",
   "items": [
+    {
+      "id": "forum:157538",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING ¿Qué pasó con el partido único y forzar un cambio en la gobernanza? | CH AMA 18 Sep 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-que-paso-con-el-partido-unico-y-forzar-un-cambio-en-la-gobernanza-ch-ama-18-sep-2026/157538",
+      "date": "2026-10-23T12:43:19.994Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":s: SVAR PÅ SVENSKA Vad hände med den enskilda rösten och tvingandet av en förändring i governance? | CH AMA 18 Sep 2026",
+      "summary_sv": "",
+      "_title_sha": "4a668fd934e8",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157529",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Senaste Nyheter om Cardano och Midnight",
       "summary_sv": "",
       "_title_sha": "6af15d0a1db0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157494",
-      "source": "Cardano Forum",
-      "title_en": "Free ADA supply tracker: how much new ADA comes out",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/free-ada-supply-tracker-how-much-new-ada-comes-out/157494",
-      "date": "2026-10-20T13:45:19.108Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Gratis ADA-försäljningsförslagspåradare: hur mycket ny ADA som utgår",
-      "summary_sv": "",
-      "_title_sha": "a1aa90a22774",
       "_summary_sha": ""
     },
     {
