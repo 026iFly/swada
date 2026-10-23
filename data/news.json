@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-10-23T04:35:34.677Z",
+  "fetched_at": "2026-10-23T09:56:30.176Z",
   "items": [
+    {
+      "id": "forum:157529",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Academy Go to College: Peta Kolaborasi Universitas dan Peluangnya bagi Indonesia",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-academy-go-to-college-peta-kolaborasi-universitas-dan-peluangnya-bagi-indonesia/157529",
+      "date": "2026-10-23T08:08:08.627Z",
+      "score": 2,
+      "comments": 0,
+      "title_sv": "Cardano Academy Gå till Universitet: Peta Kolaborasi Universitet och Chansen för Indonesia",
+      "summary_sv": "",
+      "_title_sha": "6641d8e2673d",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157526",
+      "source": "Cardano Forum",
+      "title_en": "Governance data shows rising participation but concentrated power",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-data-shows-rising-participation-but-concentrated-power/157526",
+      "date": "2026-10-23T04:46:03.541Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Governancedata visar ökande deltagande men koncentrerad makt",
+      "summary_sv": "",
+      "_title_sha": "571505305d8c",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157525",
+      "source": "Cardano Forum",
+      "title_en": "Https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503/2",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/https-forum-cardano-org-t-recap-cardano-indonesian-townhall-2026-7-156503-2/157525",
+      "date": "2026-10-23T04:37:12.505Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503/2\n\nSammanfattning Cardano Indonesian Townhall 2026-7",
+      "summary_sv": "",
+      "_title_sha": "95821771433b",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157524",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "Gratis ADA-försäljningsförslagspåradare: hur mycket ny ADA som utgår",
       "summary_sv": "",
       "_title_sha": "a1aa90a22774",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157479",
-      "source": "Cardano Forum",
-      "title_en": "Beyond treasury votes: How to verify Cardano’s public funding?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/beyond-treasury-votes-how-to-verify-cardano-s-public-funding/157479",
-      "date": "2026-10-19T22:54:59.146Z",
-      "score": 7,
-      "comments": 3,
-      "title_sv": "Beyond treasury votes: Hur verifierar man Cardanos offentliga finansiering? \n\nVerifiering av Cardanos offentliga finansiering går inte bara ut på att rösta i treasuryn, utan involverar också att granska och godkänna governance actions och att se till att fonder från den treasury används effektivt enligt det demokratiska beslutet av ADA-härdatagarna.",
-      "summary_sv": "",
-      "_title_sha": "586153d075ae",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157466",
-      "source": "Cardano Forum",
-      "title_en": "🇫🇷 Cardano Hebdo #004 : L’essentiel de l’écosystème | 19 octobre 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-hebdo-004-l-essentiel-de-l-ecosysteme-19-octobre-2026/157466",
-      "date": "2026-10-19T16:50:49.240Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "🇸🇪 Cardano Vecka #004 : Det viktigaste i ekosystemet | 19 oktober 2026",
-      "summary_sv": "",
-      "_title_sha": "92e33ae807b5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157465",
-      "source": "Cardano Forum",
-      "title_en": "The C Research Framework for a chain",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-c-research-framework-for-a-chain/157465",
-      "date": "2026-10-19T15:53:11.045Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "C Research Framework för en chain",
-      "summary_sv": "",
-      "_title_sha": "5d496128727e",
       "_summary_sha": ""
     },
     {
