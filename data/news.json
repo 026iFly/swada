@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-22T23:14:58.877Z",
+  "fetched_at": "2026-10-23T04:35:34.677Z",
   "items": [
+    {
+      "id": "forum:157524",
+      "source": "Cardano Forum",
+      "title_en": "AI 에이전트 결제 시대 도래에 Cardadno는 어떻게 준비하고 있나",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ai-cardadno/157524",
+      "date": "2026-10-23T04:30:14.540Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Hur förbereder sig Cardano för ankomsten av AI-agentbetalningar?",
+      "summary_sv": "",
+      "_title_sha": "7c9001e77da9",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157519",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "C Research Framework för en chain",
       "summary_sv": "",
       "_title_sha": "5d496128727e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157464",
-      "source": "Cardano Forum",
-      "title_en": "Peras Weekly Update | 16 October 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/peras-weekly-update-16-october-2026/157464",
-      "date": "2026-10-19T13:58:28.818Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Peras Veckans Uppdatering | 16 Oktober 2026",
-      "summary_sv": "",
-      "_title_sha": "3e67f2aeac19",
       "_summary_sha": ""
     },
     {
