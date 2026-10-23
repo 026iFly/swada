@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-23T19:05:19.667Z",
+  "fetched_at": "2026-10-23T22:03:46.323Z",
   "items": [
+    {
+      "id": "forum:157549",
+      "source": "Cardano Forum",
+      "title_en": "My wallet was just drained by to this address",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/my-wallet-was-just-drained-by-to-this-address/157549",
+      "date": "2026-10-23T19:40:24.811Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Min plånbok togs tom till den här adressen",
+      "summary_sv": "",
+      "_title_sha": "96506107255f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157538",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Utvecklar Kontorspass #84: Möt Mesmo (23 oktober)",
       "summary_sv": "",
       "_title_sha": "9b50ed3aa674",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157498",
-      "source": "Cardano Forum",
-      "title_en": "Τα τελευταία Νέα για Cardano και Midnight",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-midnight/157498",
-      "date": "2026-10-20T14:14:29.444Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Senaste Nyheter om Cardano och Midnight",
-      "summary_sv": "",
-      "_title_sha": "6af15d0a1db0",
       "_summary_sha": ""
     },
     {
