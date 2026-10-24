@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-24T10:48:42.234Z",
+  "fetched_at": "2026-10-24T14:26:18.196Z",
   "items": [
+    {
+      "id": "forum:157551",
+      "source": "Cardano Forum",
+      "title_en": "Charles Hoskinson, Pionero Blockchain: Cripto acabará con la IA | DER AKTIONÄR TV 16 Sep 2026 (PARTE 2 DE 2)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/charles-hoskinson-pionero-blockchain-cripto-acabara-con-la-ia-der-aktionar-tv-16-sep-2026-parte-2-de-2/157551",
+      "date": "2026-10-24T13:02:05.070Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Charles Hoskinson, Blockchain-Pionjär: Krypto kommer att avsluta AI | DER AKTIONÄR TV 16 Sep 2026 (DEL 2 AV 2)",
+      "summary_sv": "",
+      "_title_sha": "83414b124180",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157549",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Governance Hour #12 | Cardano Strategic Copper Reserve | ₳22M RWA Tokenization (27 oktober)",
       "summary_sv": "",
       "_title_sha": "f6a34e0bcabd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157499",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #84: Meet Mesmo (23 October)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-84-meet-mesmo-23-october/157499",
-      "date": "2026-10-20T14:36:24.549Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Utvecklar Kontorspass #84: Möt Mesmo (23 oktober)",
-      "summary_sv": "",
-      "_title_sha": "9b50ed3aa674",
       "_summary_sha": ""
     },
     {
