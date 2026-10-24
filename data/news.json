@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-24T14:26:18.196Z",
+  "fetched_at": "2026-10-24T18:03:05.381Z",
   "items": [
+    {
+      "id": "forum:157552",
+      "source": "Cardano Forum",
+      "title_en": "Charles Hoskinson, Pionero Blockchain: Cripto acabará con la IA | DER AKTIONÄR TV 16 Sep 2026 (PARTE 1 DE 2)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/charles-hoskinson-pionero-blockchain-cripto-acabara-con-la-ia-der-aktionar-tv-16-sep-2026-parte-1-de-2/157552",
+      "date": "2026-10-24T15:44:39.100Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Charles Hoskinson, Blockchain-Pionjär: Krypto kommer att avsluta AI | DER AKTIONÄR TV 16 Sep 2026 (DEL 1 AV 2)",
+      "summary_sv": "",
+      "_title_sha": "dd84f828e0a7",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157551",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Hur förbereder sig Cardano för ankomsten av AI-agentbetalningar?",
       "summary_sv": "",
       "_title_sha": "7c9001e77da9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157519",
-      "source": "Cardano Forum",
-      "title_en": "Governance Hour #12 | Cardano Strategic Copper Reserve | ₳22M RWA Tokenization (27 October)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-hour-12-cardano-strategic-copper-reserve-22m-rwa-tokenization-27-october/157519",
-      "date": "2026-10-22T11:09:43.935Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "Governance Hour #12 | Cardano Strategic Copper Reserve | ₳22M RWA Tokenization (27 oktober)",
-      "summary_sv": "",
-      "_title_sha": "f6a34e0bcabd",
       "_summary_sha": ""
     },
     {
