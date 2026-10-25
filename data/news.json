@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-25T11:14:13.143Z",
+  "fetched_at": "2026-10-25T16:03:07.661Z",
   "items": [
+    {
+      "id": "forum:157557",
+      "source": "Cardano Forum",
+      "title_en": "안녕하세요, 크립토리치 스테이크 풀 [CRICH]입니다 (고정 170 ADA · 마진 0%)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/crich-170-ada-0/157557",
+      "date": "2026-10-25T13:55:23.734Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "2189b271cacf",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157556",
+      "source": "Cardano Forum",
+      "title_en": "Introducing CryptoRich Stake Pool [CRICH]",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/introducing-cryptorich-stake-pool-crich/157556",
+      "date": "2026-10-25T13:45:03.034Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "f8899d09f70d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157555",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Cardano Academy Gå till Universitet: Peta Kolaborasi Universitet och Chansen för Indonesia",
       "summary_sv": "",
       "_title_sha": "6641d8e2673d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157526",
-      "source": "Cardano Forum",
-      "title_en": "Governance data shows rising participation but concentrated power",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-data-shows-rising-participation-but-concentrated-power/157526",
-      "date": "2026-10-23T04:46:03.541Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Governancedata visar ökande deltagande men koncentrerad makt",
-      "summary_sv": "",
-      "_title_sha": "571505305d8c",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157525",
-      "source": "Cardano Forum",
-      "title_en": "Https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503/2",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/https-forum-cardano-org-t-recap-cardano-indonesian-townhall-2026-7-156503-2/157525",
-      "date": "2026-10-23T04:37:12.505Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503/2\n\nSammanfattning Cardano Indonesian Townhall 2026-7",
-      "summary_sv": "",
-      "_title_sha": "95821771433b",
       "_summary_sha": ""
     },
     {
