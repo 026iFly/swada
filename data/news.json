@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-25T01:04:32.026Z",
+  "fetched_at": "2026-10-25T05:59:40.446Z",
   "items": [
+    {
+      "id": "forum:157555",
+      "source": "Cardano Forum",
+      "title_en": "De la découverte à la pratique : Cardano First Steps accompagne les francophones vers une participation concrète à l’écosystème Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/de-la-decouverte-a-la-pratique-cardano-first-steps-accompagne-les-francophones-vers-une-participation-concrete-a-l-ecosysteme-cardano/157555",
+      "date": "2026-10-25T04:05:49.249Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Från upptäckt till praktik: Cardano First Steps guidar fransktalande användare mot en konkret deltagande i Cardano-ökosystemet.",
+      "summary_sv": "",
+      "_title_sha": "c62037f4a960",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157552",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "https://forum.cardano.org/t/recap-cardano-indonesian-townhall-2026-7/156503/2\n\nSammanfattning Cardano Indonesian Townhall 2026-7",
       "summary_sv": "",
       "_title_sha": "95821771433b",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157524",
-      "source": "Cardano Forum",
-      "title_en": "AI 에이전트 결제 시대 도래에 Cardadno는 어떻게 준비하고 있나",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ai-cardadno/157524",
-      "date": "2026-10-23T04:30:14.540Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Hur förbereder sig Cardano för ankomsten av AI-agentbetalningar?",
-      "summary_sv": "",
-      "_title_sha": "7c9001e77da9",
       "_summary_sha": ""
     },
     {
