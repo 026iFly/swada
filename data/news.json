@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-26T06:00:41.769Z",
+  "fetched_at": "2026-10-26T12:48:04.677Z",
   "items": [
+    {
+      "id": "forum:157565",
+      "source": "Cardano Forum",
+      "title_en": "10月21日见面会",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/10-21/157565",
+      "date": "2026-10-26T08:15:56.582Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "21 oktober möte",
+      "summary_sv": "",
+      "_title_sha": "c3b3416eb62a",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157564",
+      "source": "Cardano Forum",
+      "title_en": "Gouvernance Cardano : comment participer cette semaine, du 26 au 30 octobre 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/gouvernance-cardano-comment-participer-cette-semaine-du-26-au-30-octobre-2026/157564",
+      "date": "2026-10-26T07:01:06.551Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-governance: hur du kan delta den här veckan, 26-30 oktober 2026",
+      "summary_sv": "",
+      "_title_sha": "b651a677dffe",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157561",
       "source": "Cardano Forum",
@@ -36,8 +64,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/introducing-cryptorich-stake-pool-crich/157556",
       "date": "2026-10-25T13:45:03.034Z",
-      "score": 1,
-      "comments": 2,
+      "score": 3,
+      "comments": 4,
       "title_sv": "Introducerar CryptoRich Stake Pool [CRICH]",
       "summary_sv": "",
       "_title_sha": "f8899d09f70d",
@@ -83,34 +111,6 @@
       "title_sv": "Charles Hoskinson, Blockchain-Pionjär: Krypto kommer att avsluta AI | DER AKTIONÄR TV 16 Sep 2026 (DEL 2 AV 2)",
       "summary_sv": "",
       "_title_sha": "83414b124180",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157549",
-      "source": "Cardano Forum",
-      "title_en": "My wallet was just drained by to this address",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/my-wallet-was-just-drained-by-to-this-address/157549",
-      "date": "2026-10-23T19:40:24.811Z",
-      "score": 0,
-      "comments": 2,
-      "title_sv": "Min plånbok togs tom till den här adressen",
-      "summary_sv": "",
-      "_title_sha": "96506107255f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157538",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING ¿Qué pasó con el partido único y forzar un cambio en la gobernanza? | CH AMA 18 Sep 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-que-paso-con-el-partido-unico-y-forzar-un-cambio-en-la-gobernanza-ch-ama-18-sep-2026/157538",
-      "date": "2026-10-23T12:43:19.994Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":s: SVAR PÅ SVENSKA Vad hände med den enskilda rösten och tvingandet av en förändring i governance? | CH AMA 18 Sep 2026",
-      "summary_sv": "",
-      "_title_sha": "4a668fd934e8",
       "_summary_sha": ""
     },
     {
