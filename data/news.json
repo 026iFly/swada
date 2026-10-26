@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T21:39:58.218Z",
+  "fetched_at": "2026-10-26T00:08:51.897Z",
   "items": [
     {
       "id": "forum:157557",
@@ -22,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/introducing-cryptorich-stake-pool-crich/157556",
       "date": "2026-10-25T13:45:03.034Z",
-      "score": 0,
-      "comments": 1,
+      "score": 1,
+      "comments": 2,
       "title_sv": "Introducerar CryptoRich Stake Pool [CRICH]",
       "summary_sv": "",
       "_title_sha": "f8899d09f70d",
