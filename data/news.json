@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-26T12:48:04.677Z",
+  "fetched_at": "2026-10-26T19:10:31.723Z",
   "items": [
+    {
+      "id": "forum:157571",
+      "source": "Cardano Forum",
+      "title_en": "Ouroboros Peras weekly update: 23 October 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-23-october-2026/157571",
+      "date": "2026-10-26T13:49:12.909Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ouroboros Peras veckouppdatering: 23 oktober 2026",
+      "summary_sv": "",
+      "_title_sha": "61280e36eed1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157565",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Charles Hoskinson, Blockchain-Pionjär: Krypto kommer att avsluta AI | DER AKTIONÄR TV 16 Sep 2026 (DEL 1 AV 2)",
       "summary_sv": "",
       "_title_sha": "dd84f828e0a7",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157551",
-      "source": "Cardano Forum",
-      "title_en": "Charles Hoskinson, Pionero Blockchain: Cripto acabará con la IA | DER AKTIONÄR TV 16 Sep 2026 (PARTE 2 DE 2)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/charles-hoskinson-pionero-blockchain-cripto-acabara-con-la-ia-der-aktionar-tv-16-sep-2026-parte-2-de-2/157551",
-      "date": "2026-10-24T13:02:05.070Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Charles Hoskinson, Blockchain-Pionjär: Krypto kommer att avsluta AI | DER AKTIONÄR TV 16 Sep 2026 (DEL 2 AV 2)",
-      "summary_sv": "",
-      "_title_sha": "83414b124180",
       "_summary_sha": ""
     },
     {
