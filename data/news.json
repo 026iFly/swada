@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-26T00:08:51.897Z",
+  "fetched_at": "2026-10-26T06:00:41.769Z",
   "items": [
+    {
+      "id": "forum:157561",
+      "source": "Cardano Forum",
+      "title_en": "카르다노, 인도 농지 10만 건 등록: 5am.earth 사례 분석",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/10-5am-earth/157561",
+      "date": "2026-10-26T00:44:31.012Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano, registrerar 100 000 indiska jordar: analys av 5am.earth-case",
+      "summary_sv": "",
+      "_title_sha": "92bef4071165",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157557",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":s: SVAR PÅ SVENSKA Vad hände med den enskilda rösten och tvingandet av en förändring i governance? | CH AMA 18 Sep 2026",
       "summary_sv": "",
       "_title_sha": "4a668fd934e8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157529",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Academy Go to College: Peta Kolaborasi Universitas dan Peluangnya bagi Indonesia",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-academy-go-to-college-peta-kolaborasi-universitas-dan-peluangnya-bagi-indonesia/157529",
-      "date": "2026-10-23T08:08:08.627Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "Cardano Academy Gå till Universitet: Peta Kolaborasi Universitet och Chansen för Indonesia",
-      "summary_sv": "",
-      "_title_sha": "6641d8e2673d",
       "_summary_sha": ""
     },
     {
