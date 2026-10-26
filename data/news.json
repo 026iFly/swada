@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-26T19:10:31.723Z",
+  "fetched_at": "2026-10-26T23:45:34.779Z",
   "items": [
+    {
+      "id": "forum:157584",
+      "source": "Cardano Forum",
+      "title_en": "The End is Near: Cardano",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/the-end-is-near-cardano/157584",
+      "date": "2026-10-26T19:46:47.566Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Slutet är nära: Cardano",
+      "summary_sv": "",
+      "_title_sha": "c186197940d8",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157571",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Från upptäckt till praktik: Cardano First Steps guidar fransktalande användare mot en konkret deltagande i Cardano-ökosystemet.",
       "summary_sv": "",
       "_title_sha": "c62037f4a960",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157552",
-      "source": "Cardano Forum",
-      "title_en": "Charles Hoskinson, Pionero Blockchain: Cripto acabará con la IA | DER AKTIONÄR TV 16 Sep 2026 (PARTE 1 DE 2)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/charles-hoskinson-pionero-blockchain-cripto-acabara-con-la-ia-der-aktionar-tv-16-sep-2026-parte-1-de-2/157552",
-      "date": "2026-10-24T15:44:39.100Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Charles Hoskinson, Blockchain-Pionjär: Krypto kommer att avsluta AI | DER AKTIONÄR TV 16 Sep 2026 (DEL 1 AV 2)",
-      "summary_sv": "",
-      "_title_sha": "dd84f828e0a7",
       "_summary_sha": ""
     },
     {
