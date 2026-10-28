@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-28T01:11:26.840Z",
+  "fetched_at": "2026-10-28T08:18:07.034Z",
   "items": [
+    {
+      "id": "forum:157597",
+      "source": "Cardano Forum",
+      "title_en": "Fake “support” scams: what have you seen lately?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/fake-support-scams-what-have-you-seen-lately/157597",
+      "date": "2026-10-28T03:10:13.859Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Fake “support”-bedrägerier: vad har du sett på senare tid?",
+      "summary_sv": "",
+      "_title_sha": "1c186e01af4d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157596",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Reportage från Token2049",
       "summary_sv": "",
       "_title_sha": "f0478ce614e7",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157584",
-      "source": "Cardano Forum",
-      "title_en": "The End is Near: Cardano",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/the-end-is-near-cardano/157584",
-      "date": "2026-10-26T19:46:47.566Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Slutet är nära: Cardano",
-      "summary_sv": "",
-      "_title_sha": "c186197940d8",
       "_summary_sha": ""
     },
     {
