@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-28T15:55:56.965Z",
+  "fetched_at": "2026-10-28T20:57:41.874Z",
   "items": [
+    {
+      "id": "forum:157614",
+      "source": "Cardano Forum",
+      "title_en": "Digest du 28 octobre : Enquête auprès des développeurs Cardano | Leios et testnet Dijkstra, et plus encore",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-du-28-octobre-enquete-aupres-des-developpeurs-cardano-leios-et-testnet-dijkstra-et-plus-encore/157614",
+      "date": "2026-10-28T20:35:30.672Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Sammanfattning 28 oktober: Utvecklarkommentarer om Cardano | Leios och testnet Dijkstra, och mer",
+      "summary_sv": "",
+      "_title_sha": "ceda14b3a24d",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157613",
+      "source": "Cardano Forum",
+      "title_en": "DR Congo Cardano Community Call #6 — Recap. ",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-6-recap/157613",
+      "date": "2026-10-28T16:12:19.324Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "DR Congo Cardano Community Call #6 — Sammanfattning.",
+      "summary_sv": "",
+      "_title_sha": "52b643090b48",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157612",
       "source": "Cardano Forum",
@@ -8,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-october-28-cardano-developer-survey-leios-and-dijkstra-testnet-five-new-iog-research-papers-cip-updates-100-000-farms-registered-on-cardano-intersect-returns-unspent-treasury-funds-and-more/157612",
       "date": "2026-10-28T15:33:35.879Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Sammanfattning 28 oktober: Cardano Developer Survey | Leios och Dijkstra Testnet | Fem nya IOG-forskningspapper | CIP-uppdateringar | 100 000 gårdar registrerade på Cardano | Intersect återbetalar outnyttjade medel från treasuryn, och mer",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "Utvecklares kontorstid #85: Uppdateringar av CIP-0113 (30 oktober)",
       "summary_sv": "",
       "_title_sha": "a4ab15cf6de0",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157589",
-      "source": "Cardano Forum",
-      "title_en": "SecondFi 자산 회수 도구 공식 출시",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi/157589",
-      "date": "2026-10-27T03:44:13.632Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SecondFi asset recovery tool officially launched",
-      "summary_sv": "",
-      "_title_sha": "dd1364f9fe91",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157588",
-      "source": "Cardano Forum",
-      "title_en": "Cardano 프로그래머블 토큰의 이해",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano/157588",
-      "date": "2026-10-27T03:24:21.328Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Förståelse av Cardanos programmerbara tokens",
-      "summary_sv": "",
-      "_title_sha": "5c62fe3bb3dd",
       "_summary_sha": ""
     },
     {
