@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-10-28T08:18:09.563Z",
+  "fetched_at": "2026-10-28T15:55:59.604Z",
   "items": [
+    {
+      "id": "gov:gov_action1wpjynage9uu4rg7rev2g2g2u0spvj5g3fe6lqq286m3dl5tdv47sqhysy4u",
+      "proposal_id": "gov_action1wpjynage9uu4rg7rev2g2g2u0spvj5g3fe6lqq286m3dl5tdv47sqhysy4u",
+      "type": "InfoAction",
+      "proposed_epoch": 664,
+      "expiration_epoch": 671,
+      "title_en": "InfoAction proposal",
+      "summary_en": "",
+      "url": "https://gov.tools/governance_actions/gov_action1wpjynage9uu4rg7rev2g2g2u0spvj5g3fe6lqq286m3dl5tdv47sqhysy4u",
+      "block_time": "2026-10-28T10:27:09.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "InfoAction-förslag",
+      "summary_sv": "",
+      "_title_sha": "02ddf83a1589",
+      "_summary_sha": ""
+    },
     {
       "id": "gov:gov_action1wfy3vzxurfgq6wrpxg2qdx3t6wm7ng8xwr26h47kxa8xhd20cr5qqz0wzfc",
       "proposal_id": "gov_action1wfy3vzxurfgq6wrpxg2qdx3t6wm7ng8xwr26h47kxa8xhd20cr5qqz0wzfc",

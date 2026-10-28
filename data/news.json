@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-28T08:18:07.034Z",
+  "fetched_at": "2026-10-28T15:55:56.965Z",
   "items": [
+    {
+      "id": "forum:157612",
+      "source": "Cardano Forum",
+      "title_en": "Digest October 28: Cardano Developer Survey | Leios and Dijkstra Testnet | Five New IOG Research Papers | CIP Updates | 100,000 Farms Registered on Cardano | Intersect Returns Unspent Treasury Funds, and more",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-october-28-cardano-developer-survey-leios-and-dijkstra-testnet-five-new-iog-research-papers-cip-updates-100-000-farms-registered-on-cardano-intersect-returns-unspent-treasury-funds-and-more/157612",
+      "date": "2026-10-28T15:33:35.879Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Sammanfattning 28 oktober: Cardano Developer Survey | Leios och Dijkstra Testnet | Fem nya IOG-forskningspapper | CIP-uppdateringar | 100 000 gårdar registrerade på Cardano | Intersect återbetalar outnyttjade medel från treasuryn, och mer",
+      "summary_sv": "",
+      "_title_sha": "7d87e6617f5f",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157606",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Bitcoin a 250k? Riesgo Cuántico, Midnight, IA con Charles Hoskinson | Anna Tutova 23 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-bitcoin-a-250k-riesgo-cuantico-midnight-ia-con-charles-hoskinson-anna-tutova-23-oct-2026/157606",
+      "date": "2026-10-28T12:49:00.723Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Bitcoin till 250k? Kvantrisk, Midnight, AI med Charles Hoskinson | Anna Tutova 23 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "e229dc4236bf",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157597",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Förståelse av Cardanos programmerbara tokens",
       "summary_sv": "",
       "_title_sha": "5c62fe3bb3dd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157587",
-      "source": "Cardano Forum",
-      "title_en": "Cardano 재단의 Veridian은 왜 홀로서기를 택했는가",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-veridian/157587",
-      "date": "2026-10-27T02:59:27.581Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Varför valde Veridian från Cardano Foundation att gå ensam väg?",
-      "summary_sv": "",
-      "_title_sha": "c469b3c91678",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157586",
-      "source": "Cardano Forum",
-      "title_en": "Token2049 참관기",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/token2049/157586",
-      "date": "2026-10-27T02:21:38.781Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Reportage från Token2049",
-      "summary_sv": "",
-      "_title_sha": "f0478ce614e7",
       "_summary_sha": ""
     },
     {
