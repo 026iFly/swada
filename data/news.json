@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-27T21:13:17.840Z",
+  "fetched_at": "2026-10-28T01:11:26.840Z",
   "items": [
+    {
+      "id": "forum:157596",
+      "source": "Cardano Forum",
+      "title_en": "Emerge Society Live: Daily Entrepreneurship Classes Start Nov 2 (Free, Catalyst-Funded)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/emerge-society-live-daily-entrepreneurship-classes-start-nov-2-free-catalyst-funded/157596",
+      "date": "2026-10-27T23:53:21.647Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Emerge Society Live: Dagliga entreprenörsutbildningar startar den 2 november (gratis, finansierad av Catalyst)",
+      "summary_sv": "",
+      "_title_sha": "c0bd155f5fcc",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157591",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Slutet är nära: Cardano",
       "summary_sv": "",
       "_title_sha": "c186197940d8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157571",
-      "source": "Cardano Forum",
-      "title_en": "Ouroboros Peras weekly update: 23 October 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ouroboros-peras-weekly-update-23-october-2026/157571",
-      "date": "2026-10-26T13:49:12.909Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Ouroboros Peras veckouppdatering: 23 oktober 2026",
-      "summary_sv": "",
-      "_title_sha": "61280e36eed1",
       "_summary_sha": ""
     },
     {
