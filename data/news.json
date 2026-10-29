@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T14:08:05.348Z",
+  "fetched_at": "2026-10-29T20:12:13.973Z",
   "items": [
     {
       "id": "forum:157631",
@@ -41,6 +41,20 @@
       "title_sv": "DRep Monthly Call: Oktober-återblick",
       "summary_sv": "",
       "_title_sha": "d5ca2dd94da2",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157616",
+      "source": "Cardano Forum",
+      "title_en": "Ratify Weekly #2: EMURGO/Yoroi votes, Copper's CF No, and how Abstain moves the yes share",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ratify-weekly-2-emurgo-yoroi-votes-coppers-cf-no-and-how-abstain-moves-the-yes-share/157616",
+      "date": "2026-10-29T09:38:35.152Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Ratify Weekly #2: EMURGO/Yoroi-röstning, Copper's CF Nej, och hur 'Avstå' påverkar Ja-andelen",
+      "summary_sv": "",
+      "_title_sha": "5f21a165d48e",
       "_summary_sha": ""
     },
     {
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSK DUBBNING Bitcoin till 250k? Kvantrisk, Midnight, AI med Charles Hoskinson | Anna Tutova 23 okt 2026",
       "summary_sv": "",
       "_title_sha": "e229dc4236bf",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157597",
-      "source": "Cardano Forum",
-      "title_en": "Fake “support” scams: what have you seen lately?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/fake-support-scams-what-have-you-seen-lately/157597",
-      "date": "2026-10-28T03:10:13.859Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Fake “support”-bedrägerier: vad har du sett på senare tid?",
-      "summary_sv": "",
-      "_title_sha": "1c186e01af4d",
       "_summary_sha": ""
     },
     {
