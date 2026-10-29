@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-10-28T20:57:41.874Z",
+  "fetched_at": "2026-10-29T00:47:32.281Z",
   "items": [
     {
       "id": "forum:157614",
       "source": "Cardano Forum",
-      "title_en": "Digest du 28 octobre : Enquête auprès des développeurs Cardano | Leios et testnet Dijkstra, et plus encore",
+      "title_en": "Digest du 28 octobre 2026 : Enquête auprès des développeurs Cardano | Leios et testnet Dijkstra, et plus encore",
       "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-du-28-octobre-enquete-aupres-des-developpeurs-cardano-leios-et-testnet-dijkstra-et-plus-encore/157614",
+      "url": "https://forum.cardano.org/t/digest-du-28-octobre-2026-enquete-aupres-des-developpeurs-cardano-leios-et-testnet-dijkstra-et-plus-encore/157614",
       "date": "2026-10-28T20:35:30.672Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "Sammanfattning 28 oktober: Utvecklarkommentarer om Cardano | Leios och testnet Dijkstra, och mer",
+      "title_sv": "Sammanfattning 28 oktober 2026: Utvecklarundersökning för Cardano | Leios och Dijkstra-testnätet, samt mer",
       "summary_sv": "",
-      "_title_sha": "ceda14b3a24d",
+      "_title_sha": "072ee27f4dab",
       "_summary_sha": ""
     },
     {
@@ -36,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-october-28-cardano-developer-survey-leios-and-dijkstra-testnet-five-new-iog-research-papers-cip-updates-100-000-farms-registered-on-cardano-intersect-returns-unspent-treasury-funds-and-more/157612",
       "date": "2026-10-28T15:33:35.879Z",
-      "score": 1,
-      "comments": 0,
+      "score": 3,
+      "comments": 2,
       "title_sv": "Sammanfattning 28 oktober: Cardano Developer Survey | Leios och Dijkstra Testnet | Fem nya IOG-forskningspapper | CIP-uppdateringar | 100 000 gårdar registrerade på Cardano | Intersect återbetalar outnyttjade medel från treasuryn, och mer",
       "summary_sv": "",
       "_title_sha": "7d87e6617f5f",
