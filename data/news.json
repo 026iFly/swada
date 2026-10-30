@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-30T14:00:20.062Z",
+  "fetched_at": "2026-10-30T19:11:54.453Z",
   "items": [
+    {
+      "id": "forum:157639",
+      "source": "Cardano Forum",
+      "title_en": "From the great builders of TrustLevel: ZK voting on Cardano is available. Open source, live on Mainnet and on the Preprod testnet",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/from-the-great-builders-of-trustlevel-zk-voting-on-cardano-is-available-open-source-live-on-mainnet-and-on-the-preprod-testnet/157639",
+      "date": "2026-10-30T14:02:48.757Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Från de duktiga utvecklarna bakom TrustLevel: ZK-röstning på Cardano är nu tillgänglig. Öppen källkod, live på Mainnet och Preprod-testnätet.",
+      "summary_sv": "",
+      "_title_sha": "07aa90a5ec10",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157638",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning 28 oktober 2026: Utvecklarundersökning för Cardano | Leios och Dijkstra-testnätet, samt mer",
       "summary_sv": "",
       "_title_sha": "072ee27f4dab",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157613",
-      "source": "Cardano Forum",
-      "title_en": "DR Congo Cardano Community Call #6 — Recap. ",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-6-recap/157613",
-      "date": "2026-10-28T16:12:19.324Z",
-      "score": 0,
-      "comments": 1,
-      "title_sv": "DR Congo Cardano Community Call #6 — Sammanfattning.",
-      "summary_sv": "",
-      "_title_sha": "52b643090b48",
       "_summary_sha": ""
     },
     {
