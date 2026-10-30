@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-10-30T06:59:36.234Z",
+  "fetched_at": "2026-10-30T14:00:20.062Z",
   "items": [
+    {
+      "id": "forum:157638",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING RealFi: Utilización del Hub RealFi de Liqwid. | RealFi 28 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-realfi-utilizacion-del-hub-realfi-de-liqwid-realfi-28-oct-2026/157638",
+      "date": "2026-10-30T12:54:12.306Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING RealFi: Användning av Liqwids RealFi Hub. | RealFi 28 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "6079909b504a",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157637",
+      "source": "Cardano Forum",
+      "title_en": "Governance Hour #13 | Deep Dive Into PFMS: Bringing Government Scale Adoption to Cardano by Trivolve Tech (05 November)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/governance-hour-13-deep-dive-into-pfms-bringing-government-scale-adoption-to-cardano-by-trivolve-tech-05-november/157637",
+      "date": "2026-10-30T11:44:17.615Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Governance Hour #13 | Djupdykning i PFMS: Att ta med regeringsnivå adoption till Cardano med Trivolve Tech (05 november)",
+      "summary_sv": "",
+      "_title_sha": "f43137f6d1d1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157631",
       "source": "Cardano Forum",
@@ -22,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/proposed-cardano-ecosystem-budget-process-cebp-for-2027-discussion/157630",
       "date": "2026-10-29T12:03:32.679Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "Förslag till budgetprocess för Cardano-ekosystemet (CEBP) för 2027 – diskussion",
       "summary_sv": "",
@@ -36,7 +64,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/drep-monthly-call-october-recap/157621",
       "date": "2026-10-29T11:03:48.386Z",
-      "score": 1,
+      "score": 2,
       "comments": 0,
       "title_sv": "DRep Monthly Call: Oktober-återblick",
       "summary_sv": "",
@@ -83,34 +111,6 @@
       "title_sv": "DR Congo Cardano Community Call #6 — Sammanfattning.",
       "summary_sv": "",
       "_title_sha": "52b643090b48",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157612",
-      "source": "Cardano Forum",
-      "title_en": "Digest October 28: Cardano Developer Survey | Leios and Dijkstra Testnet | Five New IOG Research Papers | CIP Updates | 100,000 Farms Registered on Cardano | Intersect Returns Unspent Treasury Funds, and more",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-october-28-cardano-developer-survey-leios-and-dijkstra-testnet-five-new-iog-research-papers-cip-updates-100-000-farms-registered-on-cardano-intersect-returns-unspent-treasury-funds-and-more/157612",
-      "date": "2026-10-28T15:33:35.879Z",
-      "score": 5,
-      "comments": 2,
-      "title_sv": "Sammanfattning 28 oktober: Cardano Developer Survey | Leios och Dijkstra Testnet | Fem nya IOG-forskningspapper | CIP-uppdateringar | 100 000 gårdar registrerade på Cardano | Intersect återbetalar outnyttjade medel från treasuryn, och mer",
-      "summary_sv": "",
-      "_title_sha": "7d87e6617f5f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157606",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Bitcoin a 250k? Riesgo Cuántico, Midnight, IA con Charles Hoskinson | Anna Tutova 23 Oct 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-bitcoin-a-250k-riesgo-cuantico-midnight-ia-con-charles-hoskinson-anna-tutova-23-oct-2026/157606",
-      "date": "2026-10-28T12:49:00.723Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Bitcoin till 250k? Kvantrisk, Midnight, AI med Charles Hoskinson | Anna Tutova 23 okt 2026",
-      "summary_sv": "",
-      "_title_sha": "e229dc4236bf",
       "_summary_sha": ""
     },
     {
