@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-10-31T12:11:49.323Z",
+  "fetched_at": "2026-10-31T17:38:39.969Z",
   "items": [
+    {
+      "id": "forum:157646",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING RealFi: Una mirada al Looping | RealFi 28 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-realfi-una-mirada-al-looping-realfi-28-oct-2026/157646",
+      "date": "2026-10-31T14:04:13.247Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING RealFi: En titt på Looping | RealFi 28 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "d8e19b795175",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157639",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Ratify Weekly #2: EMURGO/Yoroi-röstning, Copper's CF Nej, och hur 'Avstå' påverkar Ja-andelen",
       "summary_sv": "",
       "_title_sha": "5f21a165d48e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157614",
-      "source": "Cardano Forum",
-      "title_en": "Digest du 28 octobre 2026 : Enquête auprès des développeurs Cardano | Leios et testnet Dijkstra, et plus encore",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-du-28-octobre-2026-enquete-aupres-des-developpeurs-cardano-leios-et-testnet-dijkstra-et-plus-encore/157614",
-      "date": "2026-10-28T20:35:30.672Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Sammanfattning 28 oktober 2026: Utvecklarundersökning för Cardano | Leios och Dijkstra-testnätet, samt mer",
-      "summary_sv": "",
-      "_title_sha": "072ee27f4dab",
       "_summary_sha": ""
     },
     {
