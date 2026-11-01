@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-01T14:58:25.771Z",
+  "fetched_at": "2026-11-01T19:31:40.494Z",
   "items": [
+    {
+      "id": "forum:157652",
+      "source": "Cardano Forum",
+      "title_en": ":vietnam: Meetup Recap – Cardano University Meetup #6: From Idea to Scale on Cardano - Cardano Vietnam x Hub Netwwork - 27.10.2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/meetup-recap-cardano-university-meetup-6-from-idea-to-scale-on-cardano-cardano-vietnam-x-hub-netwwork-27-10-2026/157652",
+      "date": "2026-11-01T15:00:55.451Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": ":vietnam: Sammanfattning av meetup – Cardano University Meetup #6: Från idé till skalning på Cardano – Cardano Vietnam x Hub Network – 27.10.2026",
+      "summary_sv": "",
+      "_title_sha": "f542970188be",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157651",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Governance Hour #13 | Djupdykning i PFMS: Att ta med regeringsnivå adoption till Cardano med Trivolve Tech (05 november)",
       "summary_sv": "",
       "_title_sha": "f43137f6d1d1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157631",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING RealFi: Cómo hacer Staking a través de Lace | RealFi 28 Oct 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-realfi-como-hacer-staking-a-traves-de-lace-realfi-28-oct-2026/157631",
-      "date": "2026-10-29T13:32:09.371Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING RealFi: Hur man gör staking via Lace | RealFi 28 okt 2026",
-      "summary_sv": "",
-      "_title_sha": "cfe4a05621ac",
       "_summary_sha": ""
     },
     {
