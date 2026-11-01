@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-01T19:31:40.494Z",
+  "fetched_at": "2026-11-01T23:30:01.575Z",
   "items": [
+    {
+      "id": "forum:157653",
+      "source": "Cardano Forum",
+      "title_en": "Beyond Crypto: 5 Industries Where Cardano Could Make a Real Difference in Africa",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/beyond-crypto-5-industries-where-cardano-could-make-a-real-difference-in-africa/157653",
+      "date": "2026-11-01T19:42:21.388Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Bortom krypto: 5 branscher där Cardano kan göra en verklig skillnad i Afrika",
+      "summary_sv": "",
+      "_title_sha": "c6d7d2725343",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157652",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSK DUBBNING RealFi: Användning av Liqwids RealFi Hub. | RealFi 28 okt 2026",
       "summary_sv": "",
       "_title_sha": "6079909b504a",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157637",
-      "source": "Cardano Forum",
-      "title_en": "Governance Hour #13 | Deep Dive Into PFMS: Bringing Government Scale Adoption to Cardano by Trivolve Tech (05 November)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/governance-hour-13-deep-dive-into-pfms-bringing-government-scale-adoption-to-cardano-by-trivolve-tech-05-november/157637",
-      "date": "2026-10-30T11:44:17.615Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Governance Hour #13 | Djupdykning i PFMS: Att ta med regeringsnivå adoption till Cardano med Trivolve Tech (05 november)",
-      "summary_sv": "",
-      "_title_sha": "f43137f6d1d1",
       "_summary_sha": ""
     },
     {
