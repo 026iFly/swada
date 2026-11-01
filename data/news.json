@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-01T07:24:37.876Z",
+  "fetched_at": "2026-11-01T14:58:25.771Z",
   "items": [
+    {
+      "id": "forum:157651",
+      "source": "Cardano Forum",
+      "title_en": ":vietnam: Meetup Recap – Cardano University Meetup #5 - Cardano Vietnam x Hub Network - 21.9.2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/meetup-recap-cardano-university-meetup-5-cardano-vietnam-x-hub-network-21-9-2026/157651",
+      "date": "2026-11-01T14:25:06.630Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":vietnam: Recap av meetupeventet – Cardano University Meetup #5 - Cardano Vietnam x Hub Network - 21.9.2026",
+      "summary_sv": "",
+      "_title_sha": "1ffeeb26e701",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157650",
+      "source": "Cardano Forum",
+      "title_en": ":vietnam: Meetup Recap – Cardano University Meetup #4: Transitioning Startup Products to Web3 in the Era of AI & Blockchain - Cardano Vietnam x Hub Network - 6.9.2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/meetup-recap-cardano-university-meetup-4-transitioning-startup-products-to-web3-in-the-era-of-ai-blockchain-cardano-vietnam-x-hub-network-6-9-2026/157650",
+      "date": "2026-11-01T13:51:33.300Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":vietnam: Sammanfattning av mötet – Cardano University Meetup #4: Övergång från startupprodukter till Web3 i tidsåldern av AI och blockchain - Cardano Vietnam x Hub Network - 6.9.2026",
+      "summary_sv": "",
+      "_title_sha": "308a41f1f4d4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157648",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": ":es: SPANSK DUBBNING RealFi: Hur man gör staking via Lace | RealFi 28 okt 2026",
       "summary_sv": "",
       "_title_sha": "cfe4a05621ac",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157630",
-      "source": "Cardano Forum",
-      "title_en": "Proposed Cardano Ecosystem Budget Process (CEBP) for 2027 discussion",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/proposed-cardano-ecosystem-budget-process-cebp-for-2027-discussion/157630",
-      "date": "2026-10-29T12:03:32.679Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "Förslag till budgetprocess för Cardano-ekosystemet (CEBP) för 2027 – diskussion",
-      "summary_sv": "",
-      "_title_sha": "7ea68653aea2",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157621",
-      "source": "Cardano Forum",
-      "title_en": "DRep Monthly Call: October recap",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/drep-monthly-call-october-recap/157621",
-      "date": "2026-10-29T11:03:48.386Z",
-      "score": 2,
-      "comments": 0,
-      "title_sv": "DRep Monthly Call: Oktober-återblick",
-      "summary_sv": "",
-      "_title_sha": "d5ca2dd94da2",
       "_summary_sha": ""
     },
     {
