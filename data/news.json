@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-02T23:25:28.792Z",
+  "fetched_at": "2026-11-03T06:33:16.264Z",
   "items": [
+    {
+      "id": "forum:157680",
+      "source": "Cardano Forum",
+      "title_en": "Super Cardano, a token terminal and explorer on its own node (feedback welcome)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/super-cardano-a-token-terminal-and-explorer-on-its-own-node-feedback-welcome/157680",
+      "date": "2026-11-03T06:16:28.482Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Super Cardano, en token-terminal och utforskare på en egen nod (feedback välkomnas)",
+      "summary_sv": "",
+      "_title_sha": "5227ded6c6e5",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157678",
+      "source": "Cardano Forum",
+      "title_en": "How ZK voting on Cardano works: what the contracts guarantee, and where it stops",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/how-zk-voting-on-cardano-works-what-the-contracts-guarantee-and-where-it-stops/157678",
+      "date": "2026-11-03T02:46:03.418Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Hur ZK-röstning på Cardano fungerar: vad kontrakterna garanterar och var de slutar",
+      "summary_sv": "",
+      "_title_sha": "eadac27b5c4f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157669",
       "source": "Cardano Forum",
@@ -8,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-october-2026-record-ambassador-contributions-the-cardano-prime-defi-program-and-cardano-bounties/157669",
       "date": "2026-11-02T12:17:26.565Z",
-      "score": 2,
+      "score": 3,
       "comments": 1,
       "title_sv": "(Public) Oktober 2026: Rekordhöga bidrag från ambassadörer, Cardano PRIME DeFi-programmet och Cardano Bounties",
       "summary_sv": "",
@@ -37,7 +65,7 @@
       "url": "https://forum.cardano.org/t/cardano-weekly-opportunities-participation-7-november-2-2026/157658",
       "date": "2026-11-02T08:23:31.424Z",
       "score": 3,
-      "comments": 2,
+      "comments": 1,
       "title_sv": "Cardano Weekly: Möjligheter och deltagande #7 | 2 november 2026",
       "summary_sv": "",
       "_title_sha": "73d9906c24fc",
@@ -83,34 +111,6 @@
       "title_sv": "Bortom krypto: 5 branscher där Cardano kan göra en verklig skillnad i Afrika",
       "summary_sv": "",
       "_title_sha": "c6d7d2725343",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157652",
-      "source": "Cardano Forum",
-      "title_en": ":vietnam: Meetup Recap – Cardano University Meetup #6: From Idea to Scale on Cardano - Cardano Vietnam x Hub Netwwork - 27.10.2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/meetup-recap-cardano-university-meetup-6-from-idea-to-scale-on-cardano-cardano-vietnam-x-hub-netwwork-27-10-2026/157652",
-      "date": "2026-11-01T15:00:55.451Z",
-      "score": 0,
-      "comments": 1,
-      "title_sv": ":vietnam: Sammanfattning av meetup – Cardano University Meetup #6: Från idé till skalning på Cardano – Cardano Vietnam x Hub Network – 27.10.2026",
-      "summary_sv": "",
-      "_title_sha": "f542970188be",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157651",
-      "source": "Cardano Forum",
-      "title_en": ":vietnam: Meetup Recap – Cardano University Meetup #5 - Cardano Vietnam x Hub Network - 21.9.2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/meetup-recap-cardano-university-meetup-5-cardano-vietnam-x-hub-network-21-9-2026/157651",
-      "date": "2026-11-01T14:25:06.630Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":vietnam: Recap av meetupeventet – Cardano University Meetup #5 - Cardano Vietnam x Hub Network - 21.9.2026",
-      "summary_sv": "",
-      "_title_sha": "1ffeeb26e701",
       "_summary_sha": ""
     },
     {
