@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-04T08:59:35.003Z",
+  "fetched_at": "2026-11-04T17:05:42.795Z",
   "items": [
+    {
+      "id": "forum:157729",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Global Events 2027: A Proposal for the Ecosystem",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-global-events-2027-a-proposal-for-the-ecosystem/157729",
+      "date": "2026-11-04T15:24:40.871Z",
+      "score": 4,
+      "comments": 1,
+      "title_sv": "Cardano Global Events 2027: Ett förslag för ekosystemet",
+      "summary_sv": "",
+      "_title_sha": "0d27842fb014",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157727",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Andamio y FC Barcelona| Andamio 30 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-andamio-y-fc-barcelona-andamio-30-oct-2026/157727",
+      "date": "2026-11-04T13:23:38.578Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Andamio y FC Barcelona| Andamio 30 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "c95fd149c2f2",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157696",
       "source": "Cardano Forum",
@@ -78,39 +106,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-hebdo-005-dijkstra-se-prepare-la-gouvernance-se-transforme-cardano-poursuit-son-evolution-les-grandes-actualites-de-lecosysteme-cardano-26-octobre-1er-novembre-2026/157667",
       "date": "2026-11-02T11:51:03.278Z",
-      "score": 5,
+      "score": 7,
       "comments": 4,
       "title_sv": "# CARDANO HEBDO #005 ## Dijkstra förbereder sig, governance förändras: Cardano fortsätter sin utveckling De stora nyheterna i Cardano-ekosystemet | 26 oktober – 1 november 2026",
       "summary_sv": "",
       "_title_sha": "65c4047e8d03",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157658",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Weekly: Opportunities & Participation #7 | November 2, 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-weekly-opportunities-participation-7-november-2-2026/157658",
-      "date": "2026-11-02T08:23:31.424Z",
-      "score": 3,
-      "comments": 2,
-      "title_sv": "Cardano Weekly: Möjligheter och deltagande #7 | 2 november 2026",
-      "summary_sv": "",
-      "_title_sha": "73d9906c24fc",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157657",
-      "source": "Cardano Forum",
-      "title_en": "Last thaw midnight!",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/last-thaw-midnight/157657",
-      "date": "2026-11-02T05:30:14.476Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Sista tiningen midnatt!",
-      "summary_sv": "",
-      "_title_sha": "837f7003ba52",
       "_summary_sha": ""
     },
     {
