@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-04T17:05:42.795Z",
+  "fetched_at": "2026-11-04T22:35:01.178Z",
   "items": [
+    {
+      "id": "forum:157738",
+      "source": "Cardano Forum",
+      "title_en": "You found your place in Cardano. Where would you send someone to find theirs?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/you-found-your-place-in-cardano-where-would-you-send-someone-to-find-theirs/157738",
+      "date": "2026-11-04T19:36:35.188Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Du har hittat din plats i Cardano. Vart skulle du skicka någon för att hitta sin?",
+      "summary_sv": "",
+      "_title_sha": "b52d4aa5851d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157729",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-global-events-2027-a-proposal-for-the-ecosystem/157729",
       "date": "2026-11-04T15:24:40.871Z",
-      "score": 4,
-      "comments": 1,
+      "score": 5,
+      "comments": 3,
       "title_sv": "Cardano Global Events 2027: Ett förslag för ekosystemet",
       "summary_sv": "",
       "_title_sha": "0d27842fb014",
@@ -97,20 +111,6 @@
       "title_sv": "(Public) Oktober 2026: Rekordhöga bidrag från ambassadörer, Cardano PRIME DeFi-programmet och Cardano Bounties",
       "summary_sv": "",
       "_title_sha": "cdad535b889d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157667",
-      "source": "Cardano Forum",
-      "title_en": "# CARDANO HEBDO #005 ## Dijkstra se prépare, la gouvernance se transforme : Cardano poursuit son évolution Les grandes actualités de l'écosystème Cardano | 26 octobre – 1er novembre 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-hebdo-005-dijkstra-se-prepare-la-gouvernance-se-transforme-cardano-poursuit-son-evolution-les-grandes-actualites-de-lecosysteme-cardano-26-octobre-1er-novembre-2026/157667",
-      "date": "2026-11-02T11:51:03.278Z",
-      "score": 7,
-      "comments": 4,
-      "title_sv": "# CARDANO HEBDO #005 ## Dijkstra förbereder sig, governance förändras: Cardano fortsätter sin utveckling De stora nyheterna i Cardano-ekosystemet | 26 oktober – 1 november 2026",
-      "summary_sv": "",
-      "_title_sha": "65c4047e8d03",
       "_summary_sha": ""
     },
     {
