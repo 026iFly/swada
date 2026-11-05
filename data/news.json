@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-05T12:10:19.762Z",
+  "fetched_at": "2026-11-05T20:35:56.449Z",
   "items": [
+    {
+      "id": "forum:157778",
+      "source": "Cardano Forum",
+      "title_en": "From Indonesia to the World: 10 Cardano Educational Books Completed in 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/from-indonesia-to-the-world-10-cardano-educational-books-completed-in-2026/157778",
+      "date": "2026-11-05T16:19:45.912Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Från Indonesien till världen: 10 Cardano-utbildningsböcker klara 2026",
+      "summary_sv": "",
+      "_title_sha": "ba606e9ee077",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157768",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/help-us-break-genwealth-a-public-testnet-for-crypto-inheritance-and-recovery-on-cardano/157768",
       "date": "2026-11-05T11:05:54.845Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Hjälp oss att testa GenWealth: ett offentligt testnät för kryptoarv och återhämtning på Cardano",
       "summary_sv": "",
       "_title_sha": "6d9d13e5dbb4",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/pay-per-call-apis-for-ai-agents-settled-on-cardano-x402-early-looking-for-feedback/157758",
       "date": "2026-11-05T07:18:17.268Z",
-      "score": 0,
-      "comments": 1,
+      "score": 3,
+      "comments": 2,
       "title_sv": "Pay-per-call-API:er för AI-agenter, avstämda på Cardano (x402). Tidigt skede, söker feedback",
       "summary_sv": "",
       "_title_sha": "639347c7eeda",
@@ -97,20 +111,6 @@
       "title_sv": "Developers Office Hours #86: Inuti BlockSign (6 november)",
       "summary_sv": "",
       "_title_sha": "27d4841a4ad2",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157680",
-      "source": "Cardano Forum",
-      "title_en": "Super Cardano, a token terminal and explorer on its own node (feedback welcome)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/super-cardano-a-token-terminal-and-explorer-on-its-own-node-feedback-welcome/157680",
-      "date": "2026-11-03T06:16:28.482Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Super Cardano, en token-terminal och utforskare på en egen nod (feedback välkomnas)",
-      "summary_sv": "",
-      "_title_sha": "5227ded6c6e5",
       "_summary_sha": ""
     },
     {
