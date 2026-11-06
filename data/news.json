@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-05T20:35:56.449Z",
+  "fetched_at": "2026-11-06T01:28:59.206Z",
   "items": [
+    {
+      "id": "forum:157798",
+      "source": "Cardano Forum",
+      "title_en": "카르다노 2026년 10월 소식 요약",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/2026-10/157798",
+      "date": "2026-11-06T01:13:44.935Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Sammanfattning av Cardano-nyheter från oktober 2026",
+      "summary_sv": "",
+      "_title_sha": "859fb3f43beb",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:157791",
+      "source": "Cardano Forum",
+      "title_en": "Stellaris Build",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/stellaris-build/157791",
+      "date": "2026-11-05T20:48:49.421Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Stellaris Build",
+      "summary_sv": "",
+      "_title_sha": "e7d1ca90b7a7",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157778",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": ":es: SPANSK DUBBNING Andamio y FC Barcelona| Andamio 30 okt 2026",
       "summary_sv": "",
       "_title_sha": "c95fd149c2f2",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157696",
-      "source": "Cardano Forum",
-      "title_en": "How Can Developers Build Scalable Decentralized Applications on Cardano?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/how-can-developers-build-scalable-decentralized-applications-on-cardano/157696",
-      "date": "2026-11-03T12:23:29.078Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Hur kan utvecklare bygga skalbara decentraliserade applikationer på Cardano?",
-      "summary_sv": "",
-      "_title_sha": "bf33bd82f137",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157688",
-      "source": "Cardano Forum",
-      "title_en": "Developers Office Hours #86: Inside BlockSign (06 November)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/developers-office-hours-86-inside-blocksign-06-november/157688",
-      "date": "2026-11-03T09:55:22.896Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Developers Office Hours #86: Inuti BlockSign (6 november)",
-      "summary_sv": "",
-      "_title_sha": "27d4841a4ad2",
       "_summary_sha": ""
     },
     {
