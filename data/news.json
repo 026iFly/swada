@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-07T09:55:34.346Z",
+  "fetched_at": "2026-11-07T16:18:56.103Z",
   "items": [
+    {
+      "id": "forum:157840",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Algunas Reflexiones en el Cumpleaños | CH 6 Nov 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-algunas-reflexiones-en-el-cumpleanos-ch-6-nov-2026/157840",
+      "date": "2026-11-07T14:41:08.608Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Några reflektioner till födelsedagen | CH 6 nov 2026",
+      "summary_sv": "",
+      "_title_sha": "eaa918724404",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157839",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Midnights Nightmode ger privat DeFi över flera blockkedjor",
       "summary_sv": "",
       "_title_sha": "18c3ca6ceaf7",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157826",
-      "source": "Cardano Forum",
-      "title_en": "SecondFi Recovery: 100M ADA Returned After the Yoroi Hack",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/secondfi-recovery-100m-ada-returned-after-the-yoroi-hack/157826",
-      "date": "2026-11-07T05:51:02.125Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "SecondFi Recovery: 100M ADA returnerade efter Yorori-hacket",
-      "summary_sv": "",
-      "_title_sha": "2dee785bba63",
       "_summary_sha": ""
     },
     {
