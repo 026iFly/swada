@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-07T20:48:18.940Z",
+  "fetched_at": "2026-11-08T00:25:57.687Z",
   "items": [
+    {
+      "id": "forum:157846",
+      "source": "Cardano Forum",
+      "title_en": "Yoroi wallet transfers",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/yoroi-wallet-transfers/157846",
+      "date": "2026-11-07T21:50:35.796Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Yoroi-plånböckers överföringar",
+      "summary_sv": "",
+      "_title_sha": "43a2f71cddc4",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157840",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardanos MiCA-push, digitala tillgångstatus och 22M ADA-röstning",
       "summary_sv": "",
       "_title_sha": "43fa7e1a8886",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157828",
-      "source": "Cardano Forum",
-      "title_en": "Midnight’s Nightmode Brings Private DeFi Across Chains",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/midnight-s-nightmode-brings-private-defi-across-chains/157828",
-      "date": "2026-11-07T05:51:19.021Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Midnights Nightmode ger privat DeFi över flera blockkedjor",
-      "summary_sv": "",
-      "_title_sha": "18c3ca6ceaf7",
       "_summary_sha": ""
     },
     {
