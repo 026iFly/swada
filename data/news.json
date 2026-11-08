@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-08T07:11:40.494Z",
+  "fetched_at": "2026-11-08T15:00:57.982Z",
   "items": [
+    {
+      "id": "forum:157859",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING ¿Qué hace la actualización de velocidad Leios que Solana no puede hacer? | D. Gokhshtein 22 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-que-hace-la-actualizacion-de-velocidad-leios-que-solana-no-puede-hacer-d-gokhshtein-22-oct-2026/157859",
+      "date": "2026-11-08T12:34:36.647Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Vad kan Leios-hastighetsuppdateringen som Solana inte kan göra? | D. Gokhshtein 22 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "3ea1ede1cb2a",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157846",
       "source": "Cardano Forum",
@@ -8,8 +22,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/yoroi-wallet-transfers/157846",
       "date": "2026-11-07T21:50:35.796Z",
-      "score": 0,
-      "comments": 0,
+      "score": 1,
+      "comments": 1,
       "title_sv": "Yoroi-plånböckers överföringar",
       "summary_sv": "",
       "_title_sha": "43a2f71cddc4",
@@ -97,20 +111,6 @@
       "title_sv": "Kan Bitcoin rädda Cardano DeFi? FluidTokens’ Bifrost förklarat",
       "summary_sv": "",
       "_title_sha": "d7c2604b61b1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157830",
-      "source": "Cardano Forum",
-      "title_en": "Cardano’s MiCA Push, Digital Commodity Status and 22M ADA Vote",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-s-mica-push-digital-commodity-status-and-22m-ada-vote/157830",
-      "date": "2026-11-07T05:51:35.980Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardanos MiCA-push, digitala tillgångstatus och 22M ADA-röstning",
-      "summary_sv": "",
-      "_title_sha": "43fa7e1a8886",
       "_summary_sha": ""
     },
     {
