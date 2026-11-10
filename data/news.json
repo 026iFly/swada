@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-10T00:09:32.131Z",
+  "fetched_at": "2026-11-10T08:18:09.526Z",
   "items": [
+    {
+      "id": "forum:157910",
+      "source": "Cardano Forum",
+      "title_en": "Hoskinson on founder responsibility: “My job was to build it [Cardano] and decentralize it” (Surprise AMA, Nov 7)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/hoskinson-on-founder-responsibility-my-job-was-to-build-it-cardano-and-decentralize-it-surprise-ama-nov-7/157910",
+      "date": "2026-11-10T06:30:13.602Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Hoskinson om grundarens ansvar: “Min uppgift var att bygga [Cardano] och decentralisera det” (Surprise AMA, 7 nov)",
+      "summary_sv": "",
+      "_title_sha": "c6c9798762c7",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:157896",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/peras-weekly-update-6-november-2026/157896",
       "date": "2026-11-09T16:37:32.004Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Peras veckouppdatering: 6 november 2026",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "SAMMANFATTNING AV MÖTET 07/11/2026: Förstå röstningsdelegeringen på Cardano och upptäck rollen för delegerade representanter (DReps)",
       "summary_sv": "",
       "_title_sha": "15ddec215560",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:157838",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Leios & Midnight Mainnet: What’s Moving Now",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-leios-midnight-mainnet-what-s-moving-now/157838",
-      "date": "2026-11-07T05:52:40.695Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano Leios & Midnight Mainnet: Vad som händer just nu",
-      "summary_sv": "",
-      "_title_sha": "646a6e34d2e3",
       "_summary_sha": ""
     },
     {
