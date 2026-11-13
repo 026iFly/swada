@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-13T07:48:23.148Z",
+  "fetched_at": "2026-11-13T16:08:53.950Z",
   "items": [
+    {
+      "id": "forum:158134",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Adam Back dá crédito a Charles Hoskinson por las decisiones tomadas | D. Gokhshtein 22 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-adam-back-da-credito-a-charles-hoskinson-por-las-decisiones-tomadas-d-gokhshtein-22-oct-2026/158134",
+      "date": "2026-11-13T12:35:54.133Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Adam Back ger Charles Hoskinson äran för de fattade besluten | D. Gokhshtein 22 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "f3cddba6dd9d",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158131",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Learning and Research in Goma/DR Congo",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-learning-and-research-in-goma-dr-congo/158131",
+      "date": "2026-11-13T10:22:54.960Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano-lärande och forskning i Goma/Demokratiska republiken Kongo",
+      "summary_sv": "",
+      "_title_sha": "0e9d30b23e32",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158084",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Sammanfattning 11 november: UniHack 2026 | Linear Leios och Ouroboros Peras | Cardanos förslag om händelser 2027 | Nya CIP-uppdateringar | Petrobras på Cardano | DijkstraNet-uppgradering, och mer",
       "summary_sv": "",
       "_title_sha": "e85f120c4e39",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158023",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Charles Hoskinson sobre Midnight City, DeFi y Agentes en Token 2049 | Cardano Community 22 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-charles-hoskinson-sobre-midnight-city-defi-y-agentes-en-token-2049-cardano-community-22-nov-2026/158023",
-      "date": "2026-11-11T14:09:47.039Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Charles Hoskinson om Midnight City, DeFi och Token Agents på Token 2049 | Cardano Community 22 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "6a16a3f06142",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158009",
-      "source": "Cardano Forum",
-      "title_en": "Compte rendu analytique du débat x space cardano en afrique francophone : des promesses à l’impact réel",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/compte-rendu-analytique-du-debat-x-space-cardano-en-afrique-francophone-des-promesses-a-l-impact-reel/158009",
-      "date": "2026-11-11T08:26:02.988Z",
-      "score": 5,
-      "comments": 4,
-      "title_sv": "Analytisk sammanfattning av x Space Cardano-debatten i det fransktalande Afrika: från löften till verklig påverkan",
-      "summary_sv": "",
-      "_title_sha": "3cdf5d840e3e",
       "_summary_sha": ""
     },
     {
