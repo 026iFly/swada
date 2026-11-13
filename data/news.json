@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-13T16:08:53.950Z",
+  "fetched_at": "2026-11-13T22:30:39.491Z",
   "items": [
+    {
+      "id": "forum:158152",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Global Events: How Much Travel and Accommodation Support Actually Reached Participating Projects?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-global-events-how-much-travel-and-accommodation-support-actually-reached-participating-projects/158152",
+      "date": "2026-11-13T18:11:20.995Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano Global Events: Hur mycket rese- och boendestöd nådde faktiskt de deltagande projekten?",
+      "summary_sv": "",
+      "_title_sha": "3f3449666b87",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158134",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "DR Congo Cardano Community Call #7",
       "summary_sv": "",
       "_title_sha": "1a63e987f39e",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158024",
-      "source": "Cardano Forum",
-      "title_en": "Digest November 11: UniHack 2026 | Linear Leios and Ouroboros Peras | Cardano's 2027 Events Proposal | New CIP Updates | Petrobras on Cardano | DijkstraNet Upgrade, and more",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-november-11-unihack-2026-linear-leios-and-ouroboros-peras-cardanos-2027-events-proposal-new-cip-updates-petrobras-on-cardano-dijkstranet-upgrade-and-more/158024",
-      "date": "2026-11-11T14:21:08.412Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Sammanfattning 11 november: UniHack 2026 | Linear Leios och Ouroboros Peras | Cardanos förslag om händelser 2027 | Nya CIP-uppdateringar | Petrobras på Cardano | DijkstraNet-uppgradering, och mer",
-      "summary_sv": "",
-      "_title_sha": "e85f120c4e39",
       "_summary_sha": ""
     },
     {
