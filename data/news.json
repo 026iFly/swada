@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-14T10:10:21.548Z",
+  "fetched_at": "2026-11-14T16:58:31.751Z",
   "items": [
+    {
+      "id": "forum:158183",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Decís que no sos responsable de la adopción de Cardano, si no sos vos, ¿quién lo es? | D. Gokhshtein 22 Oct 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-decis-que-no-sos-responsable-de-la-adopcion-de-cardano-si-no-sos-vos-quien-lo-es-d-gokhshtein-22-oct-2026/158183",
+      "date": "2026-11-14T12:44:33.038Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Du säger att du inte är ansvarig för antagandet av Cardano, om det inte är du, vem är det då? | D. Gokhshtein 22 okt 2026",
+      "summary_sv": "",
+      "_title_sha": "f1dcaefbf6c9",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158152",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Trustless ADA ↔ shielded ZEC atomic swaps: öppen källkodsforskning, söker någon som kan ta över projektet",
       "summary_sv": "",
       "_title_sha": "95cfb0d8f7c8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158025",
-      "source": "Cardano Forum",
-      "title_en": "DR Congo Cardano Community Call #7",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-7/158025",
-      "date": "2026-11-11T14:30:17.346Z",
-      "score": 2,
-      "comments": 2,
-      "title_sv": "DR Congo Cardano Community Call #7",
-      "summary_sv": "",
-      "_title_sha": "1a63e987f39e",
       "_summary_sha": ""
     },
     {
