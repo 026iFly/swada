@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-14T16:58:31.751Z",
+  "fetched_at": "2026-11-14T21:21:26.648Z",
   "items": [
+    {
+      "id": "forum:158200",
+      "source": "Cardano Forum",
+      "title_en": "RAPPORT DE LA SESSION HEBDOMADAIRE: Comprendre Cardano, son organisation et son système de gouvernance : qui décide au sein de Cardano?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/rapport-de-la-session-hebdomadaire-comprendre-cardano-son-organisation-et-son-systeme-de-gouvernance-qui-decide-au-sein-de-cardano/158200",
+      "date": "2026-11-14T20:02:05.036Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "RAPPORT FRÅN VECKOSESSIONEN: Förstå Cardano, dess organisation och styrsystem: vem bestämmer inom Cardano?",
+      "summary_sv": "",
+      "_title_sha": "abd01d861fdd",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158192",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Terminando Cardano | CH 13 Nov 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-terminando-cardano-ch-13-nov-2026/158192",
+      "date": "2026-11-14T18:31:53.211Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Avslutar Cardano | CH 13 nov 2026",
+      "summary_sv": "",
+      "_title_sha": "69c668eb576f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158183",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Sammanfattning 11 november: UniHack 2026 | Linear Leios och Ouroboros Peras | Förslag om Cardano Global Events 2027 | Nya uppdateringar av CIP och mer",
       "summary_sv": "",
       "_title_sha": "858bbdbfd59d",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158073",
-      "source": "Cardano Forum",
-      "title_en": "Ratify Weekly #3: all three live treasury asks need No votes to switch",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ratify-weekly-3-all-three-live-treasury-asks-need-no-votes-to-switch/158073",
-      "date": "2026-11-12T10:36:29.263Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Ratify Weekly #3: Alla tre aktiva treasury-frågor behöver nej-röster för att ändras",
-      "summary_sv": "",
-      "_title_sha": "677d59abf416",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158054",
-      "source": "Cardano Forum",
-      "title_en": "Trustless ADA ↔ shielded ZEC atomic swaps: open-source research, looking for someone to pick it up",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/trustless-ada-shielded-zec-atomic-swaps-open-source-research-looking-for-someone-to-pick-it-up/158054",
-      "date": "2026-11-12T02:30:48.022Z",
-      "score": 1,
-      "comments": 0,
-      "title_sv": "Trustless ADA ↔ shielded ZEC atomic swaps: öppen källkodsforskning, söker någon som kan ta över projektet",
-      "summary_sv": "",
-      "_title_sha": "95cfb0d8f7c8",
       "_summary_sha": ""
     },
     {
