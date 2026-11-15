@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-15T16:58:26.269Z",
+  "fetched_at": "2026-11-15T21:40:19.869Z",
   "items": [
+    {
+      "id": "forum:158269",
+      "source": "Cardano Forum",
+      "title_en": "Nightlane: tamper-proof trucking carrier checks on Cardano (live on preprod)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/nightlane-tamper-proof-trucking-carrier-checks-on-cardano-live-on-preprod/158269",
+      "date": "2026-11-15T20:59:15.195Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Nightlane: fuskssäker lastbilsfraktleverantör testas på Cardano (live på preprod)",
+      "summary_sv": "",
+      "_title_sha": "a817ebbe9bbe",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158200",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning för den 11 november: UniHack 2026 | Linear Leios och Ouroboros Peras | Cardano-händelseförslag för 2027 | Nyheter om CIP | Petrobras på Cardano | Förbättringar av DijkstraNet, och mycket mer",
       "summary_sv": "",
       "_title_sha": "8d6031b2fca1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158076",
-      "source": "Cardano Forum",
-      "title_en": "Digest du 11 novembre : UniHack 2026 | Linear Leios et Ouroboros Peras | Proposition Cardano Global Events 2027 | Nouvelles mises à jour des CIP et plus encore",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/digest-du-11-novembre-unihack-2026-linear-leios-et-ouroboros-peras-proposition-cardano-global-events-2027-nouvelles-mises-a-jour-des-cip-et-plus-encore/158076",
-      "date": "2026-11-12T11:13:25.345Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Sammanfattning 11 november: UniHack 2026 | Linear Leios och Ouroboros Peras | Förslag om Cardano Global Events 2027 | Nya uppdateringar av CIP och mer",
-      "summary_sv": "",
-      "_title_sha": "858bbdbfd59d",
       "_summary_sha": ""
     },
     {
