@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-11-16T09:27:44.672Z",
+  "fetched_at": "2026-11-16T20:19:08.433Z",
   "items": [
+    {
+      "id": "gov:gov_action1ddqf0puqav2lg3uxx2dnnj287hlnw93yvnkyj37ul764myfe4hrsq7exfux",
+      "proposal_id": "gov_action1ddqf0puqav2lg3uxx2dnnj287hlnw93yvnkyj37ul764myfe4hrsq7exfux",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 668,
+      "expiration_epoch": 675,
+      "title_en": "TreasuryWithdrawals proposal",
+      "summary_en": "",
+      "url": "https://gov.tools/governance_actions/gov_action1ddqf0puqav2lg3uxx2dnnj287hlnw93yvnkyj37ul764myfe4hrsq7exfux",
+      "block_time": "2026-11-16T15:48:56.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "TreasuryWithdrawals-förslag",
+      "summary_sv": "",
+      "_title_sha": "e881a7cf9210",
+      "_summary_sha": ""
+    },
+    {
+      "id": "gov:gov_action18q2lm853dj8aavxlme2ksc85vq9amxqlzxnkkzlmdvcwm7d9a9rsq0uj9yz",
+      "proposal_id": "gov_action18q2lm853dj8aavxlme2ksc85vq9amxqlzxnkkzlmdvcwm7d9a9rsq0uj9yz",
+      "type": "TreasuryWithdrawals",
+      "proposed_epoch": 668,
+      "expiration_epoch": 675,
+      "title_en": "TreasuryWithdrawals proposal",
+      "summary_en": "",
+      "url": "https://gov.tools/governance_actions/gov_action18q2lm853dj8aavxlme2ksc85vq9amxqlzxnkkzlmdvcwm7d9a9rsq0uj9yz",
+      "block_time": "2026-11-16T15:15:16.000Z",
+      "deposit_ada": 100000,
+      "title_sv": "TreasuryWithdrawals-förslag",
+      "summary_sv": "",
+      "_title_sha": "e881a7cf9210",
+      "_summary_sha": ""
+    },
     {
       "id": "gov:gov_action1wpjynage9uu4rg7rev2g2g2u0spvj5g3fe6lqq286m3dl5tdv47sqhysy4u",
       "proposal_id": "gov_action1wpjynage9uu4rg7rev2g2g2u0spvj5g3fe6lqq286m3dl5tdv47sqhysy4u",
