@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T21:40:21.343Z",
+  "fetched_at": "2026-11-16T01:52:39.130Z",
   "items": [
     {
       "id": "gov:gov_action1wpjynage9uu4rg7rev2g2g2u0spvj5g3fe6lqq286m3dl5tdv47sqhysy4u",
@@ -48,22 +48,6 @@
       "summary_sv": "AURORA kommer att ge Cardano-byggare delad infrastruktur för att hitta, jämföra och verifiera individuella kredittillfällen över kompatibla lånimplementationer. Idag måste varje applikation bygga mycket av denna infrastruktur separat, vilket ökar integrationskostnaderna och fragmenterar marknadsinformationen.\n\nAURORA tillhandahåller den delade marknadsappen. Treasury-finansiering kommer att leverera Metadata Standard, Verification Framework, AURORA Discovery Engine, öppna API:er, filter och frågetillägg, Capital Provider Profile Standard, utvecklarverktyg och referensimplementering. Tillsammans låter dessa komponenter oberoende krediterexempel exponera standardiserad marknadsinformation, bli upptäckta genom gemensamma gränssnitt och utvärderas enligt olika program- och kapitalleverantörskrav.\n\nInfrastrukturen fungerar runt kompatibla låneimplementeringar medan lånets ursprung, lånelogik och avveckling lämnas till underliggande system. Detta möjligför olika protokoll och program att dela gemensamt marknadsinfrastruktur utan att det krävs en enda låneprotokoll, verifieringssystem eller affärsmodell.\n\nTreasury-begäran är 940 000 ADA för cirka fem månaders leverans över fyra miljosteg. Fairway ansvarar för leveransen, med tekniska bidrag från Sundial och arkitektonisk rådgivning från Fallen Icarus. Treasury",
       "_title_sha": "651564ae7980",
       "_summary_sha": "b183309244a4"
-    },
-    {
-      "id": "gov:gov_action1dmwlfuwm45r0x2d2d96r2kwyjv9hk6ylzmq8xpsay2xecesn6xwqqdlv55z",
-      "proposal_id": "gov_action1dmwlfuwm45r0x2d2d96r2kwyjv9hk6ylzmq8xpsay2xecesn6xwqqdlv55z",
-      "type": "TreasuryWithdrawals",
-      "proposed_epoch": 661,
-      "expiration_epoch": 668,
-      "title_en": "Cardano Strategic Copper Reserve | ₳22M RWA Tokenization",
-      "summary_en": "Tokenization of real-world assets (RWAs) offers Cardano an opportunity to connect blockchain infrastructure with the physical economy. The Cardano Strategic Copper Reserve requests a one-time ₳22,000,000 Treasury Withdrawal to Toto Finance Inc., U.S.-based recipient and accountable administrator, to acquire independently verified COMEX Grade 1 copper cathodes in a COMEX-approved U.S. warehouse and tokenize the metal as CuTT. One CuTT economically represents one verified pound of eligible physical copper; the Treasury-financed active token representation will be held on Cardano under documented reserve protections. The initiative aims to deliver auditable physical backing, transparent reserve and token-supply reporting, cross-chain tokenization infrastructure, and a practical Cardano RWA reference model. The program targets an 18–24-month hold, followed by controlled copper liquidation and return of 100% of realized net physical-sale proceeds plus unused or unearned budgets to Cardano Treasury by month 36. Of the ₳22M, ₳14,724,409 (66.93%) is allocated to copper; ₳2,640,000 (12%) to milestone-accepted Toto Finance technology/project management; ₳3,533,859 to external operations/assurance; ₳441,732 to execution; and ₳660,000 to independent administration. A qualified independent oversight provider is to be appointed; a U.S. PwC member firm is preferred but not engaged. Toto Finan",
-      "url": "https://gov.tools/governance_actions/gov_action1dmwlfuwm45r0x2d2d96r2kwyjv9hk6ylzmq8xpsay2xecesn6xwqqdlv55z",
-      "block_time": "2026-10-15T01:01:09.000Z",
-      "deposit_ada": 100000,
-      "title_sv": "Cardano Strategisk Kupersreserve | ₳22M RWA Tokenization",
-      "summary_sv": "Tokenisering av verkliga tillgångar (RWAs) ger Cardano en möjlighet att koppla blockkedjan till den fysiska ekonomin. Cardano Strategic Copper Reserve begär en enstaka ₳22 000 000-tilldragning från skatteväsendet till Toto Finance Inc., USA-baserad mottagare och ansvarig administratör, för att acquira oberoende verifierade COMEX Grad 1 kopparkatoder i ett COMEX-godkänt amerikanskt lager och tokenisera metallen som CuTT. En CuTT representerar ekonomiskt en verifierad pund av giltig fysisk koppar; den skatteväsendets finansierade aktiva tokenrepresentationen kommer att hållas på Cardano under dokumenterade reservskydd. Initiativets mål är att leverera granskbar fysisk bakgrund, öppen reserv och token-försörjningsrapportering, korskedjan tokeniseringinfrastruktur samt ett praktiskt Cardano RWA referensmodell. Programmet syftar till en 18–24 månaders hållning, följt av kontrollerad kopparlikvidation och återbetaling av 100% av den realiserade nettosäljningen av fysiskt godkänt plus oanvända eller ej tjänstgjorda budgetar till Cardano Treasury innan månad 36. Av de ₳22M, är ₳14,724,409 (66,93%) tilldelade till koppar; ₳2,640,000 (12%) till milestone-accepterad Toto Finance teknologi/projektledning; ₳3,533,859 till externa operationer/kontroll; ₳441,732 till exekvering; och ₳660,000 till oberoende administration. En kvalificerad oberoende revisionsleverantör ska anställas; en amerikansk PwC-firmas medlemsfirma föredras men är inte engagerad. Toto Finan",
-      "_title_sha": "94dc620c8523",
-      "_summary_sha": "205671a0f8da"
     }
   ]
 }
