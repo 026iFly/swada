@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-17T03:42:10.513Z",
+  "fetched_at": "2026-11-17T13:07:43.991Z",
   "items": [
+    {
+      "id": "forum:158354",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING ¿Qué es lo próximo importante para Cardano en términos de nuevos proyectos? | CH AMA 7 Nov 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-que-es-lo-proximo-importante-para-cardano-en-terminos-de-nuevos-proyectos-ch-ama-7-nov-2026/158354",
+      "date": "2026-11-17T12:18:35.128Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Vad är det viktigaste nästa steg för Cardano när det gäller nya projekt? | CH AMA 7 nov 2026",
+      "summary_sv": "",
+      "_title_sha": "e73349c15648",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158349",
+      "source": "Cardano Forum",
+      "title_en": "디익스트라(Dijkstra) 시대 준비 상황: 테스트넷에서 메인넷으로",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dijkstra/158349",
+      "date": "2026-11-17T09:33:37.412Z",
+      "score": 0,
+      "comments": 2,
+      "title_sv": "Förberedelser inför Dijkstra-eran: Från testnet till mainnet",
+      "summary_sv": "",
+      "_title_sha": "cc1f062a5f0e",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158320",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "Nightlane: fuskssäker lastbilsfraktleverantör testas på Cardano (live på preprod)",
       "summary_sv": "",
       "_title_sha": "a817ebbe9bbe",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158200",
-      "source": "Cardano Forum",
-      "title_en": "RAPPORT DE LA SESSION HEBDOMADAIRE: Comprendre Cardano, son organisation et son système de gouvernance : qui décide au sein de Cardano?",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/rapport-de-la-session-hebdomadaire-comprendre-cardano-son-organisation-et-son-systeme-de-gouvernance-qui-decide-au-sein-de-cardano/158200",
-      "date": "2026-11-14T20:02:05.036Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "RAPPORT FRÅN VECKOSESSIONEN: Förstå Cardano, dess organisation och styrsystem: vem bestämmer inom Cardano?",
-      "summary_sv": "",
-      "_title_sha": "abd01d861fdd",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158192",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Terminando Cardano | CH 13 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-terminando-cardano-ch-13-nov-2026/158192",
-      "date": "2026-11-14T18:31:53.211Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Avslutar Cardano | CH 13 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "69c668eb576f",
       "_summary_sha": ""
     },
     {
