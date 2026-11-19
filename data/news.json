@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T21:49:30.572Z",
+  "fetched_at": "2026-11-19T03:12:56.769Z",
   "items": [
     {
       "id": "forum:158415",
@@ -9,7 +9,7 @@
       "url": "https://forum.cardano.org/t/how-do-cardano-transactions-actually-work-three-examples-using-eutxo/158415",
       "date": "2026-11-18T15:37:29.405Z",
       "score": 1,
-      "comments": 0,
+      "comments": 1,
       "title_sv": "Hur fungerar Cardano-transaktioner egentligen? Tre exempel med eUTxO",
       "summary_sv": "",
       "_title_sha": "0a2db894a1a2",
@@ -22,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/input-for-potential-minmargin-settings/158414",
       "date": "2026-11-18T14:19:05.432Z",
-      "score": 3,
+      "score": 5,
       "comments": 1,
       "title_sv": "Input för potentiella minMargin-inställningar",
       "summary_sv": "",
