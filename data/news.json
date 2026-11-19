@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-19T03:12:56.769Z",
+  "fetched_at": "2026-11-19T12:51:55.152Z",
   "items": [
+    {
+      "id": "forum:158431",
+      "source": "Cardano Forum",
+      "title_en": "Ratify Weekly #4: PFMS and AURORA close Friday, and neither reaches 67% on uncast stake alone",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/ratify-weekly-4-pfms-and-aurora-close-friday-and-neither-reaches-67-on-uncast-stake-alone/158431",
+      "date": "2026-11-19T10:30:53.002Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "",
+      "summary_sv": "",
+      "_title_sha": "68470a9d13a1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158415",
       "source": "Cardano Forum",
@@ -22,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/input-for-potential-minmargin-settings/158414",
       "date": "2026-11-18T14:19:05.432Z",
-      "score": 5,
+      "score": 8,
       "comments": 1,
       "title_sv": "Input för potentiella minMargin-inställningar",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Håller du dina ADA separerade från dina andra kryptovalutor?",
       "summary_sv": "",
       "_title_sha": "dde818de0736",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158319",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Intro  | CH AMA 7 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-intro-ch-ama-7-nov-2026/158319",
-      "date": "2026-11-16T12:28:39.491Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Intro | CH AMA 7 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "f21258001bc2",
       "_summary_sha": ""
     },
     {
