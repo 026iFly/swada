@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-21T01:25:00.557Z",
+  "fetched_at": "2026-11-21T09:37:29.778Z",
   "items": [
+    {
+      "id": "forum:158477",
+      "source": "Cardano Forum",
+      "title_en": "Which Cardano wallets are open source? A short list (please add to it)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/which-cardano-wallets-are-open-source-a-short-list-please-add-to-it/158477",
+      "date": "2026-11-21T06:43:11.726Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Vilka Cardano-plånböcker är open source? En kort lista (vänligen lägg till fler)",
+      "summary_sv": "",
+      "_title_sha": "dacecf82f419",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158467",
       "source": "Cardano Forum",
@@ -10,7 +24,7 @@
       "date": "2026-11-20T12:27:01.427Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": ":es: SPANSK DUBBNING Vänligen Charles, gör något med priset på ADA, jag ber dig. | CH AMA 7 nov 2026",
       "summary_sv": "",
       "_title_sha": "a54530fa3376",
       "_summary_sha": ""
@@ -24,7 +38,7 @@
       "date": "2026-11-20T12:25:02.651Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": ":es: SPANSK DUBBNING Är det möjligt att Midnight slår Cardano vad gäller marknadsvärde? | CH AMA 7 nov 2026",
       "summary_sv": "",
       "_title_sha": "a1cf7a87cf51",
       "_summary_sha": ""
@@ -38,7 +52,7 @@
       "date": "2026-11-20T08:07:06.062Z",
       "score": 1,
       "comments": 1,
-      "title_sv": "",
+      "title_sv": "Från källkod till script hash: Verifiera ett Cardano-escrow-contract med UPLC Link",
       "summary_sv": "",
       "_title_sha": "82adbb14d288",
       "_summary_sha": ""
@@ -52,7 +66,7 @@
       "date": "2026-11-20T05:54:10.242Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": "Cardano-utredande manga \"Kotoribiyori avsnitt 51 – Vad är CIP-113?\"",
       "summary_sv": "",
       "_title_sha": "a7e32bfe8ad5",
       "_summary_sha": ""
@@ -66,7 +80,7 @@
       "date": "2026-11-19T10:30:53.002Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "",
+      "title_sv": "Ratify Weekly #4: PFMS och AURORA stänger fredag, och ingen av dem når 67 % på basis av oavgivna stake alone",
       "summary_sv": "",
       "_title_sha": "68470a9d13a1",
       "_summary_sha": ""
@@ -97,20 +111,6 @@
       "title_sv": "Input för potentiella minMargin-inställningar",
       "summary_sv": "",
       "_title_sha": "a290343bff41",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158404",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING El 15 de Diciembre y Cierre del Año | CH 16 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-el-15-de-diciembre-y-cierre-del-ano-ch-16-nov-2026/158404",
-      "date": "2026-11-18T12:50:56.516Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Årsskiftet och årsskiftet | CH 16 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "1a316f61c771",
       "_summary_sha": ""
     },
     {
