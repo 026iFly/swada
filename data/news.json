@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-21T23:03:32.181Z",
+  "fetched_at": "2026-11-22T03:00:51.289Z",
   "items": [
+    {
+      "id": "forum:158487",
+      "source": "Cardano Forum",
+      "title_en": "Récapitulatif 21/11/2026: Comprendre les SPO et la création des récompenses ADA",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/recapitulatif-21-11-2026-comprendre-les-spo-et-la-creation-des-recompenses-ada/158487",
+      "date": "2026-11-21T23:55:38.704Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Sammanfattning 21/11/2026: Förstå SPO och skapandet av ADA-belöningar",
+      "summary_sv": "",
+      "_title_sha": "e4bd5ec3da8f",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158480",
       "source": "Cardano Forum",
@@ -22,8 +36,8 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/which-cardano-wallets-are-open-source-a-short-list-please-add-to-it/158477",
       "date": "2026-11-21T06:43:11.726Z",
-      "score": 3,
-      "comments": 3,
+      "score": 4,
+      "comments": 4,
       "title_sv": "Vilka Cardano-plånböcker är open source? En kort lista (vänligen lägg till fler)",
       "summary_sv": "",
       "_title_sha": "dacecf82f419",
@@ -97,20 +111,6 @@
       "title_sv": "Ratify Weekly #4: PFMS och AURORA stänger fredag, och ingen av dem når 67 % på basis av oavgivna stake alone",
       "summary_sv": "",
       "_title_sha": "68470a9d13a1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158415",
-      "source": "Cardano Forum",
-      "title_en": "How do Cardano transactions actually work? Three examples using eUTxO",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/how-do-cardano-transactions-actually-work-three-examples-using-eutxo/158415",
-      "date": "2026-11-18T15:37:29.405Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Hur fungerar Cardano-transaktioner egentligen? Tre exempel med eUTxO",
-      "summary_sv": "",
-      "_title_sha": "0a2db894a1a2",
       "_summary_sha": ""
     },
     {
