@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-22T11:05:24.877Z",
+  "fetched_at": "2026-11-22T18:27:31.125Z",
   "items": [
+    {
+      "id": "forum:158492",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Charles, contanos por qué nadie quiere utilizar tus contratos inteligentes | CH AMA 7 Nov 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-charles-contanos-por-que-nadie-quiere-utilizar-tus-contratos-inteligentes-ch-ama-7-nov-2026/158492",
+      "date": "2026-11-22T12:23:11.632Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Charles, berätta varför ingen vill använda dina smarta contracts | CH AMA 7 nov 2026",
+      "summary_sv": "",
+      "_title_sha": "02b138a7f786",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158487",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Cardano-utredande manga \"Kotoribiyori avsnitt 51 – Vad är CIP-113?\"",
       "summary_sv": "",
       "_title_sha": "a7e32bfe8ad5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158431",
-      "source": "Cardano Forum",
-      "title_en": "Ratify Weekly #4: PFMS and AURORA close Friday, and neither reaches 67% on uncast stake alone",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ratify-weekly-4-pfms-and-aurora-close-friday-and-neither-reaches-67-on-uncast-stake-alone/158431",
-      "date": "2026-11-19T10:30:53.002Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Ratify Weekly #4: PFMS och AURORA stänger fredag, och ingen av dem når 67 % på basis av oavgivna stake alone",
-      "summary_sv": "",
-      "_title_sha": "68470a9d13a1",
       "_summary_sha": ""
     },
     {
