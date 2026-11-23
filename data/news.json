@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-11-23T08:54:22.180Z",
+  "fetched_at": "2026-11-23T21:13:09.818Z",
   "items": [
+    {
+      "id": "forum:158501",
+      "source": "Cardano Forum",
+      "title_en": "What are NFTs really good for? Beyond digital art",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/what-are-nfts-really-good-for-beyond-digital-art/158501",
+      "date": "2026-11-23T14:50:56.831Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "Vad är NFTs verkligen bra för? Utöver digital konst",
+      "summary_sv": "",
+      "_title_sha": "82c169d19fc1",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158499",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING CF ve a Midnight como una cadena separada  | CH AMA 7 Nov 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-cf-ve-a-midnight-como-una-cadena-separada-ch-ama-7-nov-2026/158499",
+      "date": "2026-11-23T12:28:41.274Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING CF ser Midnight som en separat kedja | CH AMA 7 nov 2026",
+      "summary_sv": "",
+      "_title_sha": "430e1522aaa5",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158497",
+      "source": "Cardano Forum",
+      "title_en": "# CARDANO HEBDO #008 🇫🇷 ## communautés, gouvernance et initiatives : construire cardano ensemble, au-delà de la technologie",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-hebdo-008-communautes-gouvernance-et-initiatives-construire-cardano-ensemble-au-dela-de-la-technologie/158497",
+      "date": "2026-11-23T08:55:37.073Z",
+      "score": 3,
+      "comments": 3,
+      "title_sv": "# CARDANO HEBDO #008 🇫🇷 ## communities, governance and initiatives: building Cardano together, beyond technology",
+      "summary_sv": "",
+      "_title_sha": "31578c10f8c8",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158496",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": "Vilka Cardano-plånböcker är open source? En kort lista (vänligen lägg till fler)",
       "summary_sv": "",
       "_title_sha": "dacecf82f419",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158467",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Por favor Charles, hacé algo con el precio de Ada, te lo ruego. | CH AMA 7 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-por-favor-charles-hace-algo-con-el-precio-de-ada-te-lo-ruego-ch-ama-7-nov-2026/158467",
-      "date": "2026-11-20T12:27:01.427Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Vänligen Charles, gör något med priset på ADA, jag ber dig. | CH AMA 7 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "a54530fa3376",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158466",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING ¿Es posible que Midnight supere a Cardano en términos de capitalización de mercado? | CH AMA 7 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-es-posible-que-midnight-supere-a-cardano-en-terminos-de-capitalizacion-de-mercado-ch-ama-7-nov-2026/158466",
-      "date": "2026-11-20T12:25:02.651Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Är det möjligt att Midnight slår Cardano vad gäller marknadsvärde? | CH AMA 7 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "a1cf7a87cf51",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158460",
-      "source": "Cardano Forum",
-      "title_en": "From source code to script hash: Verifying a Cardano escrow contract with UPLC Link",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/from-source-code-to-script-hash-verifying-a-cardano-escrow-contract-with-uplc-link/158460",
-      "date": "2026-11-20T08:07:06.062Z",
-      "score": 2,
-      "comments": 2,
-      "title_sv": "Från källkod till script hash: Verifiera ett Cardano-escrow-contract med UPLC Link",
-      "summary_sv": "",
-      "_title_sha": "82adbb14d288",
       "_summary_sha": ""
     },
     {
