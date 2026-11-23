@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-23T00:11:56.604Z",
+  "fetched_at": "2026-11-23T08:54:22.180Z",
   "items": [
+    {
+      "id": "forum:158496",
+      "source": "Cardano Forum",
+      "title_en": "Cardano Governance: Ways to get involved this week (Nov 23–29, 2026)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/cardano-governance-ways-to-get-involved-this-week-nov-23-29-2026/158496",
+      "date": "2026-11-23T08:40:05.237Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Cardano Governance: Så här engagerar du dig denna vecka (23–29 november 2026)",
+      "summary_sv": "",
+      "_title_sha": "90eca2d945b7",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158492",
       "source": "Cardano Forum",
@@ -36,7 +50,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/public-november-2026-stablecoins-with-allunity-enterprise-enablement-and-cardano-adoption/158480",
       "date": "2026-11-21T13:47:17.068Z",
-      "score": 2,
+      "score": 3,
       "comments": 0,
       "title_sv": "(Public) November 2026: Stablecoins med AllUnity, Enterprise Enablement och Cardano Adoption",
       "summary_sv": "",
@@ -92,25 +106,11 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/from-source-code-to-script-hash-verifying-a-cardano-escrow-contract-with-uplc-link/158460",
       "date": "2026-11-20T08:07:06.062Z",
-      "score": 1,
-      "comments": 1,
+      "score": 2,
+      "comments": 2,
       "title_sv": "Från källkod till script hash: Verifiera ett Cardano-escrow-contract med UPLC Link",
       "summary_sv": "",
       "_title_sha": "82adbb14d288",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158455",
-      "source": "Cardano Forum",
-      "title_en": "Cardano解説漫画「ことりびより第51話~CIP-113って何だ？~」",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-51-cip-113/158455",
-      "date": "2026-11-20T05:54:10.242Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano-utredande manga \"Kotoribiyori avsnitt 51 – Vad är CIP-113?\"",
-      "summary_sv": "",
-      "_title_sha": "a7e32bfe8ad5",
       "_summary_sha": ""
     },
     {
