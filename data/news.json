@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-11-24T05:55:00.792Z",
+  "fetched_at": "2026-11-24T17:30:00.930Z",
   "items": [
+    {
+      "id": "forum:158517",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Tomar al Toro por las Astas | CH  23 Nov 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-tomar-al-toro-por-las-astas-ch-23-nov-2026/158517",
+      "date": "2026-11-24T16:31:47.995Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBING Att ta tjuren vid hornen | CH 23 nov 2026",
+      "summary_sv": "",
+      "_title_sha": "05e479d60f90",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158506",
+      "source": "Cardano Forum",
+      "title_en": ":es: SPANISH DUBBING Decís que sólo sos el Fundador y no tenés responsabilidad | CH AMA 7 Nov 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/spanish-dubbing-decis-que-solo-sos-el-fundador-y-no-tenes-responsabilidad-ch-ama-7-nov-2026/158506",
+      "date": "2026-11-24T12:02:52.145Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": ":es: SPANSK DUBBNING Du säger att du bara är grundaren och inte har något ansvar | CH AMA 7 nov 2026",
+      "summary_sv": "",
+      "_title_sha": "25f7fbbf08be",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158505",
+      "source": "Cardano Forum",
+      "title_en": "Developers Office Hours #89: anyqr: Bringing USDCx to Real-World Payments (27 November)",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/developers-office-hours-89-anyqr-bringing-usdcx-to-real-world-payments-27-november/158505",
+      "date": "2026-11-24T10:01:43.852Z",
+      "score": 1,
+      "comments": 0,
+      "title_sv": "Developers Office Hours #89: anyqr: Bringer USDCx till realvärdesbetalningar (27 november)",
+      "summary_sv": "",
+      "_title_sha": "d9c86ec3d5e9",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158501",
       "source": "Cardano Forum",
@@ -69,48 +111,6 @@
       "title_sv": ":es: SPANSK DUBBNING Charles, berätta varför ingen vill använda dina smarta contracts | CH AMA 7 nov 2026",
       "summary_sv": "",
       "_title_sha": "02b138a7f786",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158487",
-      "source": "Cardano Forum",
-      "title_en": "Récapitulatif 21/11/2026: Comprendre les SPO et la création des récompenses ADA",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/recapitulatif-21-11-2026-comprendre-les-spo-et-la-creation-des-recompenses-ada/158487",
-      "date": "2026-11-21T23:55:38.704Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Sammanfattning 21/11/2026: Förstå SPO och skapandet av ADA-belöningar",
-      "summary_sv": "",
-      "_title_sha": "e4bd5ec3da8f",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158480",
-      "source": "Cardano Forum",
-      "title_en": "(Public) November 2026: Stablecoins with AllUnity, Enterprise Enablement and Cardano Adoption",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/public-november-2026-stablecoins-with-allunity-enterprise-enablement-and-cardano-adoption/158480",
-      "date": "2026-11-21T13:47:17.068Z",
-      "score": 3,
-      "comments": 0,
-      "title_sv": "(Public) November 2026: Stablecoins med AllUnity, Enterprise Enablement och Cardano Adoption",
-      "summary_sv": "",
-      "_title_sha": "3ba6a075d6f1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158477",
-      "source": "Cardano Forum",
-      "title_en": "Which Cardano wallets are open source? A short list (please add to it)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/which-cardano-wallets-are-open-source-a-short-list-please-add-to-it/158477",
-      "date": "2026-11-21T06:43:11.726Z",
-      "score": 5,
-      "comments": 4,
-      "title_sv": "Vilka Cardano-plånböcker är open source? En kort lista (vänligen lägg till fler)",
-      "summary_sv": "",
-      "_title_sha": "dacecf82f419",
       "_summary_sha": ""
     },
     {
