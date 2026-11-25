@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-25T12:37:00.084Z",
+  "fetched_at": "2026-11-25T22:24:49.259Z",
   "items": [
+    {
+      "id": "forum:158531",
+      "source": "Cardano Forum",
+      "title_en": "Digest du 25 novembre : Cinq nœuds sur le mainnet | Brale et les stablecoins personnalisés | SPO Table Talk sur minMargin | Enquêtes développeurs et SPO | Mises à jour des CIP, et plus encore",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/digest-du-25-novembre-cinq-noeuds-sur-le-mainnet-brale-et-les-stablecoins-personnalises-spo-table-talk-sur-minmargin-enquetes-developpeurs-et-spo-mises-a-jour-des-cip-et-plus-encore/158531",
+      "date": "2026-11-25T21:27:37.842Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Sammanfattning 25 november: Fem noder på mainnet | Brale och anpassade stablecoins | SPO Table Talk om minMargin | Utvecklar- och SPO-undersökningar | Uppdateringar av CIP, och mer",
+      "summary_sv": "",
+      "_title_sha": "a559b6fd50bf",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158527",
+      "source": "Cardano Forum",
+      "title_en": "Peras Weekly Update : 20 November 2026",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/peras-weekly-update-20-november-2026/158527",
+      "date": "2026-11-25T12:59:06.742Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Peras veckouppdatering: 20 november 2026",
+      "summary_sv": "",
+      "_title_sha": "115bc5a5a136",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158526",
       "source": "Cardano Forum",
@@ -8,7 +36,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/digest-november-25-five-nodes-on-mainnet-brale-brings-custom-stablecoin-issuance-spo-table-talk-on-minmargin-developer-spo-surveys-new-cip-updates-and-more/158526",
       "date": "2026-11-25T12:01:58.625Z",
-      "score": 0,
+      "score": 1,
       "comments": 0,
       "title_sv": "Sammanfattning 25 november: Fem noder på Mainnet | Brale introducerar anpassad stablecoin-utfärdande | SPO Table Talk om minMargin | Utvecklare- och SPO-undersökningar | Nya CIP-uppdateringar och mer",
       "summary_sv": "",
@@ -23,7 +51,7 @@
       "url": "https://forum.cardano.org/t/utxo-explained-in-37-seconds-how-a-simple-ada-payment-works/158522",
       "date": "2026-11-25T05:30:56.132Z",
       "score": 1,
-      "comments": 1,
+      "comments": 2,
       "title_sv": "UTXO förklarat på 37 sekunder: hur en enkel ADA-betalning fungerar",
       "summary_sv": "",
       "_title_sha": "442c80eb0aa4",
@@ -83,34 +111,6 @@
       "title_sv": "Developers Office Hours #89: anyqr: Bringer USDCx till realvärdesbetalningar (27 november)",
       "summary_sv": "",
       "_title_sha": "d9c86ec3d5e9",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158501",
-      "source": "Cardano Forum",
-      "title_en": "What are NFTs really good for? Beyond digital art",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/what-are-nfts-really-good-for-beyond-digital-art/158501",
-      "date": "2026-11-23T14:50:56.831Z",
-      "score": 2,
-      "comments": 1,
-      "title_sv": "Vad är NFTs verkligen bra för? Utöver digital konst",
-      "summary_sv": "",
-      "_title_sha": "82c169d19fc1",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158499",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING CF ve a Midnight como una cadena separada  | CH AMA 7 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-cf-ve-a-midnight-como-una-cadena-separada-ch-ama-7-nov-2026/158499",
-      "date": "2026-11-23T12:28:41.274Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING CF ser Midnight som en separat kedja | CH AMA 7 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "430e1522aaa5",
       "_summary_sha": ""
     },
     {
