@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-24T17:30:00.930Z",
+  "fetched_at": "2026-11-25T02:16:19.340Z",
   "items": [
+    {
+      "id": "forum:158520",
+      "source": "Cardano Forum",
+      "title_en": "Water flosser recommendations for daily home use?",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/water-flosser-recommendations-for-daily-home-use/158520",
+      "date": "2026-11-24T23:05:03.699Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "Rekommendationer för vattenstråle-tandrengöring för dagligt hemmabruk?",
+      "summary_sv": "",
+      "_title_sha": "56257ed3ba40",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158519",
+      "source": "Cardano Forum",
+      "title_en": "DR Congo Cardano Community Call #7-Recap",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-7-recap/158519",
+      "date": "2026-11-24T21:32:49.572Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "DR Congo Cardano Community Call #7-Återblick",
+      "summary_sv": "",
+      "_title_sha": "8961f64a8ec1",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158517",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "# CARDANO HEBDO #008 🇫🇷 ## communities, governance and initiatives: building Cardano together, beyond technology",
       "summary_sv": "",
       "_title_sha": "31578c10f8c8",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158496",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Governance: Ways to get involved this week (Nov 23–29, 2026)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-governance-ways-to-get-involved-this-week-nov-23-29-2026/158496",
-      "date": "2026-11-23T08:40:05.237Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Cardano Governance: Så här engagerar du dig denna vecka (23–29 november 2026)",
-      "summary_sv": "",
-      "_title_sha": "90eca2d945b7",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158492",
-      "source": "Cardano Forum",
-      "title_en": ":es: SPANISH DUBBING Charles, contanos por qué nadie quiere utilizar tus contratos inteligentes | CH AMA 7 Nov 2026",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/spanish-dubbing-charles-contanos-por-que-nadie-quiere-utilizar-tus-contratos-inteligentes-ch-ama-7-nov-2026/158492",
-      "date": "2026-11-22T12:23:11.632Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": ":es: SPANSK DUBBNING Charles, berätta varför ingen vill använda dina smarta contracts | CH AMA 7 nov 2026",
-      "summary_sv": "",
-      "_title_sha": "02b138a7f786",
       "_summary_sha": ""
     },
     {
