@@ -1,18 +1,32 @@
 {
-  "fetched_at": "2026-11-25T02:16:19.340Z",
+  "fetched_at": "2026-11-25T12:37:00.084Z",
   "items": [
     {
-      "id": "forum:158520",
+      "id": "forum:158526",
       "source": "Cardano Forum",
-      "title_en": "Water flosser recommendations for daily home use?",
+      "title_en": "Digest November 25: Five Nodes on Mainnet | Brale Brings Custom Stablecoin Issuance | SPO Table Talk on minMargin | Developer & SPO Surveys | New CIP Updates, and more",
       "summary_en": "",
-      "url": "https://forum.cardano.org/t/water-flosser-recommendations-for-daily-home-use/158520",
-      "date": "2026-11-24T23:05:03.699Z",
+      "url": "https://forum.cardano.org/t/digest-november-25-five-nodes-on-mainnet-brale-brings-custom-stablecoin-issuance-spo-table-talk-on-minmargin-developer-spo-surveys-new-cip-updates-and-more/158526",
+      "date": "2026-11-25T12:01:58.625Z",
       "score": 0,
       "comments": 0,
-      "title_sv": "Rekommendationer för vattenstråle-tandrengöring för dagligt hemmabruk?",
+      "title_sv": "Sammanfattning 25 november: Fem noder på Mainnet | Brale introducerar anpassad stablecoin-utfärdande | SPO Table Talk om minMargin | Utvecklare- och SPO-undersökningar | Nya CIP-uppdateringar och mer",
       "summary_sv": "",
-      "_title_sha": "56257ed3ba40",
+      "_title_sha": "81dee5cb9787",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158522",
+      "source": "Cardano Forum",
+      "title_en": "UTXO explained in 37 seconds: how a simple ADA payment works",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/utxo-explained-in-37-seconds-how-a-simple-ada-payment-works/158522",
+      "date": "2026-11-25T05:30:56.132Z",
+      "score": 1,
+      "comments": 1,
+      "title_sv": "UTXO förklarat på 37 sekunder: hur en enkel ADA-betalning fungerar",
+      "summary_sv": "",
+      "_title_sha": "442c80eb0aa4",
       "_summary_sha": ""
     },
     {
@@ -78,7 +92,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/what-are-nfts-really-good-for-beyond-digital-art/158501",
       "date": "2026-11-23T14:50:56.831Z",
-      "score": 1,
+      "score": 2,
       "comments": 1,
       "title_sv": "Vad är NFTs verkligen bra för? Utöver digital konst",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": ":es: SPANSK DUBBNING CF ser Midnight som en separat kedja | CH AMA 7 nov 2026",
       "summary_sv": "",
       "_title_sha": "430e1522aaa5",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158497",
-      "source": "Cardano Forum",
-      "title_en": "# CARDANO HEBDO #008 🇫🇷 ## communautés, gouvernance et initiatives : construire cardano ensemble, au-delà de la technologie",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-hebdo-008-communautes-gouvernance-et-initiatives-construire-cardano-ensemble-au-dela-de-la-technologie/158497",
-      "date": "2026-11-23T08:55:37.073Z",
-      "score": 3,
-      "comments": 3,
-      "title_sv": "# CARDANO HEBDO #008 🇫🇷 ## communities, governance and initiatives: building Cardano together, beyond technology",
-      "summary_sv": "",
-      "_title_sha": "31578c10f8c8",
       "_summary_sha": ""
     },
     {

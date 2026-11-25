@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T02:16:28.949Z",
+  "fetched_at": "2026-11-25T12:37:09.742Z",
   "summary": {
     "pool_id_bech32": "pool1t9ckjy949dk97prfs6any8xdjyq9du6prnplx06n4fcn5jgukhc",
     "active_stake": "126403684088",
@@ -181,10 +181,10 @@
       "delegator_cnt": 7,
       "margin": 0.01,
       "fixed_cost": "170000000",
-      "pool_fees": null,
-      "deleg_rewards": null,
-      "member_rewards": null,
-      "epoch_ros": 0
+      "pool_fees": "171159688",
+      "deleg_rewards": "114809145",
+      "member_rewards": "40784460",
+      "epoch_ros": 6.867973414
     }
   ]
 }
