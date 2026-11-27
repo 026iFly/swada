@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-26T23:44:13.730Z",
+  "fetched_at": "2026-11-27T08:08:58.769Z",
   "items": [
+    {
+      "id": "forum:158545",
+      "source": "Cardano Forum",
+      "title_en": "DR Congo Cardano Community Call #7 Done!",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/dr-congo-cardano-community-call-7-done/158545",
+      "date": "2026-11-27T07:25:27.488Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "DR Congo Cardano Community Call #7 genomförd!",
+      "summary_sv": "",
+      "_title_sha": "9b75a916cbff",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158539",
       "source": "Cardano Forum",
@@ -8,7 +22,7 @@
       "summary_en": "",
       "url": "https://forum.cardano.org/t/cardano-foundation-faq-november-2026/158539",
       "date": "2026-11-26T12:04:56.775Z",
-      "score": 13,
+      "score": 14,
       "comments": 1,
       "title_sv": "Cardano Foundation FAQ (november 2026)",
       "summary_sv": "",
@@ -97,20 +111,6 @@
       "title_sv": "Sammanfattning 25 november: Fem noder på Mainnet | Brale introducerar anpassad stablecoin-utfärdande | SPO Table Talk om minMargin | Utvecklare- och SPO-undersökningar | Nya CIP-uppdateringar och mer",
       "summary_sv": "",
       "_title_sha": "81dee5cb9787",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158522",
-      "source": "Cardano Forum",
-      "title_en": "UTXO explained in 37 seconds: how a simple ADA payment works",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/utxo-explained-in-37-seconds-how-a-simple-ada-payment-works/158522",
-      "date": "2026-11-25T05:30:56.132Z",
-      "score": 1,
-      "comments": 2,
-      "title_sv": "UTXO förklarat på 37 sekunder: hur en enkel ADA-betalning fungerar",
-      "summary_sv": "",
-      "_title_sha": "442c80eb0aa4",
       "_summary_sha": ""
     },
     {
