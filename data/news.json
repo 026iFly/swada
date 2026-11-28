@@ -1,6 +1,20 @@
 {
-  "fetched_at": "2026-11-27T18:50:50.034Z",
+  "fetched_at": "2026-11-28T01:53:04.314Z",
   "items": [
+    {
+      "id": "forum:158560",
+      "source": "Cardano Forum",
+      "title_en": "FAQ de la Fondation Cardano (novembre 2026) – Traduction française",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/faq-de-la-fondation-cardano-novembre-2026-traduction-francaise/158560",
+      "date": "2026-11-27T19:24:09.401Z",
+      "score": 0,
+      "comments": 0,
+      "title_sv": "FAQ för Cardano-stiftelsen (november 2026) – fransk översättning",
+      "summary_sv": "",
+      "_title_sha": "5b9c0209f76d",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158557",
       "source": "Cardano Forum",
@@ -97,20 +111,6 @@
       "title_sv": "Ratify Weekly #5: Cardano Global Events 2027 behöver nu nej-röster för att aktiveras",
       "summary_sv": "",
       "_title_sha": "41a6abe715aa",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158537",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Mindset — 005 La blockchain : une mémoire partagée , Quand les traces deviennent mémoire, et la mémoire, confiance",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-mindset-005-la-blockchain-une-memoire-partagee-quand-les-traces-deviennent-memoire-et-la-memoire-confiance/158537",
-      "date": "2026-11-26T09:35:28.495Z",
-      "score": 1,
-      "comments": 1,
-      "title_sv": "Cardano Mindset — 005 La blockchain: en delad minne, när spår blir minne, och minne blir tillit",
-      "summary_sv": "",
-      "_title_sha": "224712f846f8",
       "_summary_sha": ""
     },
     {
