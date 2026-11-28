@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-28T01:53:04.314Z",
+  "fetched_at": "2026-11-28T10:12:30.958Z",
   "items": [
+    {
+      "id": "forum:158566",
+      "source": "Cardano Forum",
+      "title_en": "IO가 차근차근 만들어 가는 것들: 수수료, 독립, 그리고 레이오스",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/io/158566",
+      "date": "2026-11-28T08:25:46.601Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Det som IO gradvis bygger upp: avgifter, oberoende och Rayo",
+      "summary_sv": "",
+      "_title_sha": "861e6240cbf5",
+      "_summary_sha": ""
+    },
+    {
+      "id": "forum:158565",
+      "source": "Cardano Forum",
+      "title_en": "Midnight staking",
+      "summary_en": "",
+      "url": "https://forum.cardano.org/t/midnight-staking/158565",
+      "date": "2026-11-28T08:17:17.626Z",
+      "score": 0,
+      "comments": 1,
+      "title_sv": "Midnight-staking",
+      "summary_sv": "",
+      "_title_sha": "e29f78588f70",
+      "_summary_sha": ""
+    },
     {
       "id": "forum:158560",
       "source": "Cardano Forum",
@@ -83,34 +111,6 @@
       "title_sv": "DR Congo Cardano Community Call #7 genomförd!",
       "summary_sv": "",
       "_title_sha": "9b75a916cbff",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158539",
-      "source": "Cardano Forum",
-      "title_en": "Cardano Foundation FAQ (November 2026)",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/cardano-foundation-faq-november-2026/158539",
-      "date": "2026-11-26T12:04:56.775Z",
-      "score": 15,
-      "comments": 1,
-      "title_sv": "Cardano Foundation FAQ (november 2026)",
-      "summary_sv": "",
-      "_title_sha": "fb76fedeed06",
-      "_summary_sha": ""
-    },
-    {
-      "id": "forum:158538",
-      "source": "Cardano Forum",
-      "title_en": "Ratify Weekly #5: Cardano Global Events 2027 now needs No votes to switch",
-      "summary_en": "",
-      "url": "https://forum.cardano.org/t/ratify-weekly-5-cardano-global-events-2027-now-needs-no-votes-to-switch/158538",
-      "date": "2026-11-26T10:33:00.681Z",
-      "score": 0,
-      "comments": 0,
-      "title_sv": "Ratify Weekly #5: Cardano Global Events 2027 behöver nu nej-röster för att aktiveras",
-      "summary_sv": "",
-      "_title_sha": "41a6abe715aa",
       "_summary_sha": ""
     },
     {
